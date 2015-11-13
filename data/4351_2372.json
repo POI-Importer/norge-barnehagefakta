@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-956",
+            "id": "node/-954",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -14,7 +14,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2012-08-01",
-                "id": "node/-956"
+                "id": "node/-954"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +26,13 @@
         },
         {
             "type": "Feature",
-            "id": "node/-955",
+            "id": "node/-953",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "153",
+                "contact:email": "ekornrud@laringsverkstedet.no",
+                "contact:phone": "41539675",
+                "contact:website": "http://www.laringsverkstedet.no/ekornrud",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Ekornrud",
@@ -37,7 +40,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2008-08-01",
-                "id": "node/-955"
+                "id": "node/-953"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-943",
+            "id": "node/-941",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -61,7 +64,7 @@
                 "operator": "Hoppensprett AS",
                 "operator:type": "private",
                 "start_date": "2003-07-01",
-                "id": "node/-943"
+                "id": "node/-941"
             },
             "geometry": {
                 "type": "Point",

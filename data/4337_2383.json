@@ -3,31 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1484",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "133",
-                "contact:phone": "95852300",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Munkebekken Idrettsbarnehage AS",
-                "no-barnehage:nsrid": "1022340",
-                "operator": "Munkebekken Idrettsbarnehage AS",
-                "operator:type": "private",
-                "start_date": "2013-01-09",
-                "id": "node/-1484"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6282,
-                    59.90741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-633",
+            "id": "node/-629",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -41,7 +17,7 @@
                 "operator": "Tøffe barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-10-01",
-                "id": "node/-633"
+                "id": "node/-629"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-616",
+            "id": "node/-612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -67,7 +43,7 @@
                 "operator": "Strand barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-616"
+                "id": "node/-612"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +55,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-615",
+            "id": "node/-611",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "163",
@@ -90,7 +66,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2009-01-01",
-                "id": "node/-615"
+                "id": "node/-611"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-608",
+            "id": "node/-604",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -114,7 +90,7 @@
                 "operator": "Stiftelsen Stabekktunet barnehage",
                 "operator:type": "private",
                 "start_date": "1995-02-22",
-                "id": "node/-608"
+                "id": "node/-604"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-605",
+            "id": "node/-601",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -137,7 +113,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-605"
+                "id": "node/-601"
             },
             "geometry": {
                 "type": "Point",
@@ -149,7 +125,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-602",
+            "id": "node/-598",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -160,7 +136,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-602"
+                "id": "node/-598"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-554",
+            "id": "node/-550",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -183,7 +159,7 @@
                 "operator": "Lysaker Idrettsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2010-08-23",
-                "id": "node/-554"
+                "id": "node/-550"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +171,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-534",
+            "id": "node/-530",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -206,7 +182,7 @@
                 "operator": "Jar Idrettsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2013-01-16",
-                "id": "node/-534"
+                "id": "node/-530"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +194,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-529",
+            "id": "node/-525",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "117",
@@ -229,7 +205,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2008-01-01",
-                "id": "node/-529"
+                "id": "node/-525"
             },
             "geometry": {
                 "type": "Point",
@@ -241,7 +217,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-460",
+            "id": "node/-474",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Child Planet, Atlantis barnehage AS",
+                "no-barnehage:nsrid": "1026201",
+                "operator": "Child Planet, Atlantis barnehage AS",
+                "operator:type": "private",
+                "start_date": "2015-07-01",
+                "id": "node/-474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63238,
+                    59.89723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-455",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -254,7 +250,7 @@
                 "operator": "Barnehagen Vier Sa",
                 "operator:type": "private",
                 "start_date": "2003-09-02",
-                "id": "node/-460"
+                "id": "node/-455"
             },
             "geometry": {
                 "type": "Point",

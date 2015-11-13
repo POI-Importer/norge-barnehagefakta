@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3441",
+            "id": "node/-3075",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -14,7 +14,7 @@
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
                 "start_date": "2014-08-01",
-                "id": "node/-3441"
+                "id": "node/-3075"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3429",
+            "id": "node/-3063",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -40,7 +40,7 @@
                 "operator": "Røyrvik Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2007-07-13",
-                "id": "node/-3429"
+                "id": "node/-3063"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3401",
+            "id": "node/-3049",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kreativ barnehage Hove",
+                "no-barnehage:nsrid": "1026202",
+                "operator": "Kreativ barnehage AS",
+                "operator:type": "private",
+                "start_date": "2014-08-01",
+                "id": "node/-3049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72363,
+                    58.81111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
@@ -66,7 +86,7 @@
                 "operator": "Espira Vagletjørn AS",
                 "operator:type": "private",
                 "start_date": "2006-05-09",
-                "id": "node/-3401"
+                "id": "node/-3034"
             },
             "geometry": {
                 "type": "Point",
