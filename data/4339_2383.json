@@ -3,7 +3,56 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1260",
+            "id": "node/-1704",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjuvholmen barnehage",
+                "no-barnehage:nsrid": "1021551",
+                "operator": "Norlandia Barnehagene Ii AS",
+                "operator:type": "private",
+                "start_date": "2010-09-14",
+                "id": "node/-1704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72065,
+                    59.9049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1486",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:email": "musehuset@gmail.com",
+                "contact:phone": "95429742",
+                "contact:website": "http://www.musehuset.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Musehuset barnehage",
+                "no-barnehage:nsrid": "1020427",
+                "operator": "Musehuset Norsk Folkemuseums barnehage",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-1486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68644,
+                    59.90757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1257",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -14,7 +63,7 @@
                 "operator": "Hakkespetten barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-06-18",
-                "id": "node/-1260"
+                "id": "node/-1257"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1110",
+            "id": "node/-1107",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -40,7 +89,7 @@
                 "operator": "Else Hjort Barnehagestiftelse Bygdøylund barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-1110"
+                "id": "node/-1107"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1074",
+            "id": "node/-1071",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -63,7 +112,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1074"
+                "id": "node/-1071"
             },
             "geometry": {
                 "type": "Point",

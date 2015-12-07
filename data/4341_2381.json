@@ -3,7 +3,404 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1393",
+            "id": "node/-1791",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsenhagen barnehage",
+                "no-barnehage:nsrid": "1014710",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1992-01-01",
+                "id": "node/-1791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7718,
+                    59.9381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1777",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:email": "post@borgbarn.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Økernly barnehage",
+                "no-barnehage:nsrid": "1022059",
+                "operator": "Økernly Barnehagedrift AS",
+                "operator:type": "private",
+                "start_date": "2011-10-31",
+                "id": "node/-1777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8075,
+                    59.93351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1714",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "119",
+                "contact:phone": "22 22 05 50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torshovhagen AS",
+                "no-barnehage:nsrid": "1022148",
+                "operator": "Torshovhagen AS",
+                "operator:type": "private",
+                "start_date": "2005-05-01",
+                "id": "node/-1714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77044,
+                    59.93312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1713",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "109",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torshovgata barnehage",
+                "no-barnehage:nsrid": "1017836",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2007-03-28",
+                "id": "node/-1713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7704,
+                    59.9331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1710",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Tonsenjordet barnehage",
+                "no-barnehage:nsrid": "1017318",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1971-12-29",
+                "id": "node/-1710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8063,
+                    59.943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1698",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "137",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Thor Olsens barnehage 2",
+                "no-barnehage:nsrid": "1015089",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2012-06-01",
+                "id": "node/-1698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7727,
+                    59.9399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1697",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:phone": "22153201",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Thor Olsens barnehage 1",
+                "no-barnehage:nsrid": "1015519",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1970-12-30",
+                "id": "node/-1697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7698,
+                    59.9398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1592",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "110",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sinsen Fus barnehage AS",
+                "no-barnehage:nsrid": "1022018",
+                "operator": "Sinsen Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2010-12-31",
+                "id": "node/-1592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78993,
+                    59.93888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1591",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "134",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sinsen barnehage",
+                "no-barnehage:nsrid": "1017311",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1971-12-29",
+                "id": "node/-1591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7843,
+                    59.9357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1583",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sanatoriet barnehage",
+                "no-barnehage:nsrid": "1016961",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2005-08-01",
+                "id": "node/-1583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7931,
+                    59.9494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1552",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Refstad barnehage",
+                "no-barnehage:nsrid": "1013855",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-02",
+                "id": "node/-1552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8001,
+                    59.936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1549",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ragnas Hage",
+                "no-barnehage:nsrid": "1013409",
+                "operator": "Stiftelsen Ragna Ringdals Dagsenter",
+                "operator:type": "private",
+                "start_date": "2007-08-01",
+                "id": "node/-1549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7769,
+                    59.9396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1511",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordre Åsen Kanvas-Barnehage",
+                "no-barnehage:nsrid": "1016794",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "start_date": "1982-01-01",
+                "id": "node/-1511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7841,
+                    59.9409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1508",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:email": "dl.sandakerveien@bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordpolen Fus barnehage AS Avd Sandakerveien",
+                "no-barnehage:nsrid": "1021655",
+                "operator": "Nordpolen Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2007-05-02",
+                "id": "node/-1508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77037,
+                    59.94279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1507",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "dl.idun@bhg.no",
+                "contact:website": "http://www.idun.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordpolen Fus barnehage AS Avd Idun",
+                "no-barnehage:nsrid": "1022149",
+                "operator": "Nordpolen Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2011-01-01",
+                "id": "node/-1507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76841,
+                    59.94149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1431",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Grefsen Terrasse",
+                "no-barnehage:nsrid": "1014225",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2010-11-01",
+                "id": "node/-1431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7959,
+                    59.9538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1430",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Bjerke Panorama",
+                "no-barnehage:nsrid": "1013556",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2013-05-01",
+                "id": "node/-1430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.808,
+                    59.9414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1390",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -15,7 +412,7 @@
                 "operator": "Lillohagen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-09-02",
-                "id": "node/-1393"
+                "id": "node/-1390"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +424,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1390",
+            "id": "node/-1387",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -38,7 +435,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1390"
+                "id": "node/-1387"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +447,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1228",
+            "id": "node/-1225",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -61,7 +458,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2009-01-01",
-                "id": "node/-1228"
+                "id": "node/-1225"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +470,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1227",
+            "id": "node/-1224",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -85,7 +482,7 @@
                 "operator": "Grefsenlyst Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-08-20",
-                "id": "node/-1227"
+                "id": "node/-1224"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +494,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1226",
+            "id": "node/-1223",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -108,7 +505,7 @@
                 "operator": "Grefsen Sokn",
                 "operator:type": "private",
                 "start_date": "1978-02-21",
-                "id": "node/-1226"
+                "id": "node/-1223"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +517,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1172",
+            "id": "node/-1169",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "100",
@@ -134,7 +531,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2007-06-01",
-                "id": "node/-1172"
+                "id": "node/-1169"
             },
             "geometry": {
                 "type": "Point",
@@ -146,7 +543,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1165",
+            "id": "node/-1162",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -160,7 +557,7 @@
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2013-02-01",
-                "id": "node/-1165"
+                "id": "node/-1162"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +569,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1162",
+            "id": "node/-1159",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Espira Grefsen Stasjon barnehage",
@@ -180,7 +577,7 @@
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2015-07-01",
-                "id": "node/-1162"
+                "id": "node/-1159"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +589,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1138",
+            "id": "node/-1135",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -203,7 +600,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1138"
+                "id": "node/-1135"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +612,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1137",
+            "id": "node/-1134",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -226,7 +623,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-1137"
+                "id": "node/-1134"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +635,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1084",
+            "id": "node/-1081",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -252,7 +649,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1989-09-01",
-                "id": "node/-1084"
+                "id": "node/-1081"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +661,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1065",
+            "id": "node/-1062",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -275,7 +672,7 @@
                 "operator": "Theas AS",
                 "operator:type": "private",
                 "start_date": "1999-01-01",
-                "id": "node/-1065"
+                "id": "node/-1062"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +684,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1050",
+            "id": "node/-1047",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -298,7 +695,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1050"
+                "id": "node/-1047"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +707,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1037",
+            "id": "node/-1034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -321,7 +718,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1037"
+                "id": "node/-1034"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +730,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1030",
+            "id": "node/-1027",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -347,7 +744,7 @@
                 "operator": "100meterskogen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-05-11",
-                "id": "node/-1030"
+                "id": "node/-1027"
             },
             "geometry": {
                 "type": "Point",

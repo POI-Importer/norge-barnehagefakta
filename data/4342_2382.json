@@ -3,7 +3,137 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1405",
+            "id": "node/-1694",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:email": "teisenparken.bhg@bal.oslo.kommune.no",
+                "contact:phone": "22 65 64 14",
+                "contact:website": "http://www.bydel-alna.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Teisenparken barnehage",
+                "no-barnehage:nsrid": "1018297",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2007-11-01",
+                "id": "node/-1694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8155,
+                    59.9168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1693",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:email": "teisenvest.bhg@bal.oslo.kommune.no",
+                "contact:phone": "22 65 78 74",
+                "contact:website": "http://www.bydel-alna.oslo.kommune.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Teisen Vest barnehage",
+                "no-barnehage:nsrid": "1025394",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1982-01-01",
+                "id": "node/-1693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8121,
+                    59.9151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1692",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:email": "teisegard.bhg@bal.oslo.kommune.no",
+                "contact:phone": "22 65 01 66",
+                "contact:website": "http://www.bydel-alna.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Teisen Gård barnehage",
+                "no-barnehage:nsrid": "1016800",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1982-01-01",
+                "id": "node/-1692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8166,
+                    59.9145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1688",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:email": "sorhellinga.bhg.@bal.oslo.kommune.no",
+                "contact:phone": "22 26 45 35",
+                "contact:website": "http://www.bydel-alna.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørhellinga barnehage",
+                "no-barnehage:nsrid": "1017317",
+                "operator": "Norlandia Barnehagene Ii AS",
+                "operator:type": "private",
+                "start_date": "1971-12-29",
+                "id": "node/-1688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8333,
+                    59.912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1616",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:email": "smalvollskogen.bhg@bal.oslo.kommune.no",
+                "contact:phone": "22 26 70 94",
+                "contact:website": "http://www.bydel-alna.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smalvollskogen barnehage",
+                "no-barnehage:nsrid": "1017315",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1971-12-29",
+                "id": "node/-1616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8442,
+                    59.9184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1402",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -17,7 +147,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1405"
+                "id": "node/-1402"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +159,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1335",
+            "id": "node/-1332",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -43,7 +173,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1335"
+                "id": "node/-1332"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +185,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1279",
+            "id": "node/-1276",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -66,7 +196,7 @@
                 "operator": "Haugerudhagan barnehage AS",
                 "operator:type": "private",
                 "start_date": "1993-11-01",
-                "id": "node/-1279"
+                "id": "node/-1276"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +208,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1277",
+            "id": "node/-1274",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -92,7 +222,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1277"
+                "id": "node/-1274"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +234,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1191",
+            "id": "node/-1188",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -116,7 +246,7 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "1979-01-01",
-                "id": "node/-1191"
+                "id": "node/-1188"
             },
             "geometry": {
                 "type": "Point",

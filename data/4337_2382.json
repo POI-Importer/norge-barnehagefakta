@@ -3,7 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1389",
+            "id": "node/-1779",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "oraker@barnehage.no",
+                "contact:phone": "22 73 21 79",
+                "contact:website": "http://oraker.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øraker barnehage AS",
+                "no-barnehage:nsrid": "1019871",
+                "operator": "Øraker barnehage AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-1779"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63043,
+                    59.92148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1386",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -14,7 +40,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1389"
+                "id": "node/-1386"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1366",
+            "id": "node/-1363",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -37,7 +63,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2008-04-01",
-                "id": "node/-1366"
+                "id": "node/-1363"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1173",
+            "id": "node/-1170",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "post@fabulinus.no",
@@ -60,7 +86,7 @@
                 "operator": "Fabulinus AS",
                 "operator:type": "private",
                 "start_date": "2016-01-01",
-                "id": "node/-1173"
+                "id": "node/-1170"
             },
             "geometry": {
                 "type": "Point",

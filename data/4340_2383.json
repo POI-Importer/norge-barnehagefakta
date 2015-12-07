@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1033",
+            "id": "node/-1687",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørenga barnehage",
+                "no-barnehage:nsrid": "1015157",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "start_date": "2012-09-01",
+                "id": "node/-1687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7589,
+                    59.9049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1030",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -15,7 +38,7 @@
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-1033"
+                "id": "node/-1030"
             },
             "geometry": {
                 "type": "Point",

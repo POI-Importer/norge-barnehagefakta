@@ -3,7 +3,123 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1120",
+            "id": "node/-1614",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Slime Gård barnehage",
+                "no-barnehage:nsrid": "1015622",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1996-01-01",
+                "id": "node/-1614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8376,
+                    59.8316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1543",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prinsdalsbråten barnehage",
+                "no-barnehage:nsrid": "1013835",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-02",
+                "id": "node/-1543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8117,
+                    59.8285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1542",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:phone": "22 40 58 40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Preståsen Kanvas-Barnehage",
+                "no-barnehage:nsrid": "1015482",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "start_date": "1990-09-01",
+                "id": "node/-1542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8396,
+                    59.8229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1522",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nyjordet barnehage",
+                "no-barnehage:nsrid": "1013834",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-02",
+                "id": "node/-1522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8394,
+                    59.8297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1432",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Hauketo",
+                "no-barnehage:nsrid": "1013830",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-1432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.812,
+                    59.8413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1117",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -15,7 +131,7 @@
                 "operator": "Christiania Barnehave Bjørndal Sa",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-1120"
+                "id": "node/-1117"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +143,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1093",
+            "id": "node/-1090",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -40,7 +156,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-03-01",
-                "id": "node/-1093"
+                "id": "node/-1090"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +168,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1092",
+            "id": "node/-1089",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -63,7 +179,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1092"
+                "id": "node/-1089"
             },
             "geometry": {
                 "type": "Point",

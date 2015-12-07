@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1306",
+            "id": "node/-1683",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:phone": "22491724",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svenstuen Barnehave",
+                "no-barnehage:nsrid": "1019704",
+                "operator": "Stiftelsen Svenstuen Barnehave",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-1683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6877,
+                    59.95709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1460",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Midtstuen Kanvas-Barnehage",
+                "no-barnehage:nsrid": "1013914",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-1460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6789,
+                    59.9617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1303",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -15,7 +62,7 @@
                 "operator": "Humlen Montessori barnehage AS",
                 "operator:type": "private",
                 "start_date": "1998-02-27",
-                "id": "node/-1306"
+                "id": "node/-1303"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +74,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1159",
+            "id": "node/-1156",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -38,7 +85,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1159"
+                "id": "node/-1156"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1117",
+            "id": "node/-1114",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -61,7 +108,7 @@
                 "operator": "Stiftelsen Casa Dei Bambini",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1117"
+                "id": "node/-1114"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1096",
+            "id": "node/-1093",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -85,7 +132,7 @@
                 "operator": "Stiftelsen Blåbærskogen barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1096"
+                "id": "node/-1093"
             },
             "geometry": {
                 "type": "Point",
