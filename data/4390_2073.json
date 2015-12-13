@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5566",
+            "id": "node/-5567",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -15,7 +15,32 @@
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5566"
+                "id": "node/-5567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9461,
+                    66.065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5565",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "beate.tommervik@leirfjord.kommune.no",
+                "contact:phone": "75074165",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leland barnehage",
+                "no-barnehage:nsrid": "1012532",
+                "operator": "Leirfjord kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5565"
             },
             "geometry": {
                 "type": "Point",
@@ -30,31 +55,6 @@
             "id": "node/-5564",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "beate.tommervik@leirfjord.kommune.no",
-                "contact:phone": "75074165",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Leland barnehage",
-                "no-barnehage:nsrid": "1012532",
-                "operator": "Leirfjord kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5564"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9461,
-                    66.065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5563",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "36",
                 "contact:email": "kari.sorra@leirfjord.kommune.no",
                 "contact:phone": "75 07 41 70",
@@ -65,7 +65,7 @@
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
                 "start_date": "2011-08-01",
-                "id": "node/-5563"
+                "id": "node/-5564"
             },
             "geometry": {
                 "type": "Point",

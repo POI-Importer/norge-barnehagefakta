@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-38",
+            "id": "node/-39",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -15,13 +15,33 @@
                 "operator": "Halden kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-38"
+                "id": "node/-39"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.4443,
                     59.1246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-10",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Espira Oreid barnehage",
+                "no-barnehage:nsrid": "1026302",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "start_date": "2015-12-01",
+                "id": "node/-10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.42908,
+                    59.11146
                 ]
             }
         }

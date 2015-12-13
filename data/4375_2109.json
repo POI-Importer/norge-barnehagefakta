@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5536",
+            "id": "node/-5537",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -11,6 +11,29 @@
                 "min_age": "1",
                 "name": "Vik barnehage",
                 "no-barnehage:nsrid": "1013652",
+                "operator": "Sømna kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2878,
+                    65.405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5536",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sund barnehage",
+                "no-barnehage:nsrid": "1013653",
                 "operator": "Sømna kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
@@ -29,29 +52,6 @@
             "id": "node/-5535",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sund barnehage",
-                "no-barnehage:nsrid": "1013653",
-                "operator": "Sømna kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5535"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.2878,
-                    65.405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5534",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "42",
                 "max_age": "5",
                 "min_age": "1",
@@ -60,7 +60,7 @@
                 "operator": "Sømna kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5534"
+                "id": "node/-5535"
             },
             "geometry": {
                 "type": "Point",
