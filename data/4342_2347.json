@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2140",
+            "id": "node/-2142",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -14,7 +14,7 @@
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-2140"
+                "id": "node/-2142"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2138",
+            "id": "node/-2140",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -38,7 +38,30 @@
                 "operator": "Steinerbarnehagen",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2138"
+                "id": "node/-2140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81325,
+                    60.67467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2137",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lena Fus barnehage AS",
+                "no-barnehage:nsrid": "1022366",
+                "operator": "Lena Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2013-04-04",
+                "id": "node/-2137"
             },
             "geometry": {
                 "type": "Point",
@@ -53,29 +76,6 @@
             "id": "node/-2135",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "79",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lena Fus barnehage AS",
-                "no-barnehage:nsrid": "1022366",
-                "operator": "Lena Fus barnehage AS",
-                "operator:type": "private",
-                "start_date": "2013-04-04",
-                "id": "node/-2135"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.81325,
-                    60.67467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2133",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "70",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +84,7 @@
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-2133"
+                "id": "node/-2135"
             },
             "geometry": {
                 "type": "Point",

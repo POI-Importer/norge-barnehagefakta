@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-989",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "107",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Vifo Neskollen barnehage Tellusveien",
-                "no-barnehage:nsrid": "1013101",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "start_date": "2004-08-09",
-                "id": "node/-989"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.3431,
-                    60.1244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-988",
+            "id": "node/-985",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -40,7 +17,7 @@
                 "operator": "Udnes Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "1978-12-01",
-                "id": "node/-988"
+                "id": "node/-985"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +29,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-984",
+            "id": "node/-981",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "107",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Neskollen Tellusveien barnehage",
+                "no-barnehage:nsrid": "1013101",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "start_date": "2004-08-09",
+                "id": "node/-981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3431,
+                    60.1244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-980",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "127",
@@ -63,7 +63,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2004-07-26",
-                "id": "node/-984"
+                "id": "node/-980"
             },
             "geometry": {
                 "type": "Point",

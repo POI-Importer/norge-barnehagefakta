@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3094",
+            "id": "node/-3098",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:email": "post@frolandmusikkbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mjølhusmoen Barnehagedrift Froland Musikkbarnehage",
+                "no-barnehage:nsrid": "1022035",
+                "operator": "Mjølhusmoen Barnehagedrift AS",
+                "operator:type": "private",
+                "start_date": "2010-02-25",
+                "id": "node/-3098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.642127,
+                    58.50686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3097",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -16,7 +40,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3094"
+                "id": "node/-3097"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3093",
+            "id": "node/-3096",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -39,7 +63,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "2013-08-01",
-                "id": "node/-3093"
+                "id": "node/-3096"
             },
             "geometry": {
                 "type": "Point",
@@ -54,29 +78,6 @@
             "id": "node/-3092",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "59",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Froland Musikkbarnehage",
-                "no-barnehage:nsrid": "1022035",
-                "operator": "Mjølhusmoen Barnehagedrift AS",
-                "operator:type": "private",
-                "start_date": "2010-02-25",
-                "id": "node/-3092"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.642127,
-                    58.50686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3088",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "55",
                 "max_age": "5",
                 "min_age": "1",
@@ -85,7 +86,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-3088"
+                "id": "node/-3092"
             },
             "geometry": {
                 "type": "Point",

@@ -3,33 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3055",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Soria Moria barnehage i AS Avdeling Gartha",
-                "no-barnehage:nsrid": "1015065",
-                "operator": "Soria Moria barnehage i AS",
-                "operator:type": "private",
-                "start_date": "2011-12-28",
-                "id": "node/-3055"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.87302,
-                    58.4963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3054",
+            "id": "node/-3058",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:website": "http://www.soriamoriabarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Soria Moria barnehage i AS Avdeling Eydehavn",
@@ -37,7 +15,7 @@
                 "operator": "Soria Moria barnehage i AS",
                 "operator:type": "private",
                 "start_date": "2011-07-01",
-                "id": "node/-3054"
+                "id": "node/-3058"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3026",
+            "id": "node/-3030",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -60,7 +38,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3026"
+                "id": "node/-3030"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3022",
+            "id": "node/-3026",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -83,7 +61,7 @@
                 "operator": "Grandehagen barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-08-01",
-                "id": "node/-3022"
+                "id": "node/-3026"
             },
             "geometry": {
                 "type": "Point",

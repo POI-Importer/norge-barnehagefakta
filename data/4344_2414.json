@@ -28,113 +28,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-179",
+            "id": "node/-180",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
-                "contact:phone": "069341066",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Smertulia barnehage",
-                "no-barnehage:nsrid": "1012712",
+                "name": "St Hans Fjellet barnehage",
+                "no-barnehage:nsrid": "1026341",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-179"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9375,
-                    59.2023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-174",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:phone": "91846411",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rs Team AS",
-                "no-barnehage:nsrid": "1021591",
-                "operator": "Rs Team AS",
-                "operator:type": "private",
-                "start_date": "2007-02-12",
-                "id": "node/-174"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.90657,
-                    59.21978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-149",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "93",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kråkeby barnehage",
-                "no-barnehage:nsrid": "1016214",
-                "operator": "Samvirkebarnehagene Sa",
-                "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-149"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9287,
-                    59.2112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-136",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "71",
-                "contact:phone": "069327599",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gressvik barnehage",
-                "no-barnehage:nsrid": "1012714",
-                "operator": "Fredrikstad kommune",
-                "operator:type": "public",
-                "start_date": "1978-06-07",
-                "id": "node/-136"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9073,
-                    59.2177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-131",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "33",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Domkirken Menighetspleies barnehage",
-                "no-barnehage:nsrid": "1019626",
-                "operator": "Domkirken Menighetspleies barnehage",
-                "operator:type": "private",
-                "start_date": "1980-01-01",
-                "id": "node/-131"
+                "start_date": "2016-01-01",
+                "id": "node/-180"
             },
             "geometry": {
                 "type": "Point",
@@ -146,7 +48,125 @@
         },
         {
             "type": "Feature",
-            "id": "node/-128",
+            "id": "node/-178",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:phone": "069341066",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smertulia barnehage",
+                "no-barnehage:nsrid": "1012712",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "start_date": "1976-01-01",
+                "id": "node/-178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9375,
+                    59.2023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-173",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:phone": "91846411",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rs Team AS",
+                "no-barnehage:nsrid": "1021591",
+                "operator": "Rs Team AS",
+                "operator:type": "private",
+                "start_date": "2007-02-12",
+                "id": "node/-173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90657,
+                    59.21978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-148",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "93",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kråkeby barnehage",
+                "no-barnehage:nsrid": "1016214",
+                "operator": "Samvirkebarnehagene Sa",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9287,
+                    59.2112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-135",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:phone": "069327599",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gressvik barnehage",
+                "no-barnehage:nsrid": "1012714",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "start_date": "1978-06-07",
+                "id": "node/-135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9073,
+                    59.2177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-130",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Domkirken Menighetspleies barnehage",
+                "no-barnehage:nsrid": "1019626",
+                "operator": "Domkirken Menighetspleies barnehage",
+                "operator:type": "private",
+                "start_date": "1980-01-01",
+                "id": "node/-130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93586,
+                    59.21611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-127",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:phone": "69 31 48 66",
@@ -155,7 +175,7 @@
                 "operator": "Stiftelsen Blå Kors Fredrikstad",
                 "operator:type": "private",
                 "start_date": "2007-01-01",
-                "id": "node/-128"
+                "id": "node/-127"
             },
             "geometry": {
                 "type": "Point",

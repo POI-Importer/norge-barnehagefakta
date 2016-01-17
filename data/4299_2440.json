@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3087",
+            "id": "node/-3091",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -17,7 +17,7 @@
                 "operator": "Tvedestrand kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-3087"
+                "id": "node/-3091"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3085",
+            "id": "node/-3089",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -43,7 +43,7 @@
                 "operator": "Tvedestrand kommune",
                 "operator:type": "public",
                 "start_date": "1996-01-01",
-                "id": "node/-3085"
+                "id": "node/-3089"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +55,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3077",
+            "id": "node/-3084",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kolbjørnsdatter Holding AS",
+                "no-barnehage:nsrid": "1026316",
+                "operator": "Kolbjørnsdatter Holding AS",
+                "operator:type": "private",
+                "start_date": "2014-05-22",
+                "id": "node/-3084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.951828,
+                    58.62677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3080",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -66,7 +86,7 @@
                 "operator": "Blåbærskogen Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-08-01",
-                "id": "node/-3077"
+                "id": "node/-3080"
             },
             "geometry": {
                 "type": "Point",

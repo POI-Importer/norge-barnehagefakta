@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3586",
+            "id": "node/-3593",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -14,13 +14,33 @@
                 "operator": "Kyvikdalen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-08-19",
-                "id": "node/-3586"
+                "id": "node/-3593"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.261937,
                     59.42139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3585",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Flåklypa Fus barnehage AS",
+                "no-barnehage:nsrid": "1026359",
+                "operator": "Flåklypa Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2015-12-01",
+                "id": "node/-3585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.272364,
+                    59.4102
                 ]
             }
         }

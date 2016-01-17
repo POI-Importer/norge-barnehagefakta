@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1890",
+            "id": "node/-1892",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -16,7 +16,7 @@
                 "operator": "Løten kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-1890"
+                "id": "node/-1892"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1883",
+            "id": "node/-1885",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Brovold Barnehave Kari Strandvik",
+                "no-barnehage:nsrid": "1026333",
+                "operator": "Brovold Barnehave Kari Strandvik",
+                "operator:type": "private",
+                "start_date": "2014-01-01",
+                "id": "node/-1885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.31116,
+                    60.79655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1884",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -40,7 +60,7 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "1995-08-15",
-                "id": "node/-1883"
+                "id": "node/-1884"
             },
             "geometry": {
                 "type": "Point",

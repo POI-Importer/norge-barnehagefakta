@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1695",
+            "id": "node/-1696",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -17,7 +17,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2007-11-01",
-                "id": "node/-1695"
+                "id": "node/-1696"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1694",
+            "id": "node/-1695",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -43,7 +43,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1694"
+                "id": "node/-1695"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +55,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1693",
+            "id": "node/-1694",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -69,7 +69,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1693"
+                "id": "node/-1694"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +81,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1689",
+            "id": "node/-1690",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -95,7 +95,7 @@
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
                 "start_date": "1971-12-29",
-                "id": "node/-1689"
+                "id": "node/-1690"
             },
             "geometry": {
                 "type": "Point",
@@ -107,7 +107,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1617",
+            "id": "node/-1618",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -121,7 +121,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1617"
+                "id": "node/-1618"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +159,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1333",
+            "id": "node/-1334",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -173,7 +173,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1333"
+                "id": "node/-1334"
             },
             "geometry": {
                 "type": "Point",
@@ -185,7 +185,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1277",
+            "id": "node/-1278",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -196,13 +196,33 @@
                 "operator": "Haugerudhagan barnehage AS",
                 "operator:type": "private",
                 "start_date": "1993-11-01",
-                "id": "node/-1277"
+                "id": "node/-1278"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.84908,
                     59.9187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1277",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Haugerud Smart Språktilbud",
+                "no-barnehage:nsrid": "1026312",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2015-12-01",
+                "id": "node/-1277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85219,
+                    59.92253
                 ]
             }
         },
@@ -234,7 +254,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1189",
+            "id": "node/-1188",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -246,13 +266,33 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "1979-01-01",
-                "id": "node/-1189"
+                "id": "node/-1188"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.815,
                     59.9174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1036",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Alna Åpen barnehage - Tveita",
+                "no-barnehage:nsrid": "1026314",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2015-12-01",
+                "id": "node/-1036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8369,
+                    59.91306
                 ]
             }
         }

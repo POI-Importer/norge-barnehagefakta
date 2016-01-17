@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2823",
+            "id": "node/-2827",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -15,7 +15,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1996-04-01",
-                "id": "node/-2823"
+                "id": "node/-2827"
             },
             "geometry": {
                 "type": "Point",
@@ -27,42 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2806",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "50",
-                "contact:phone": "35 55 50 86",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Liane barnehage Sa",
-                "no-barnehage:nsrid": "1020014",
-                "operator": "Liane barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1991-04-01",
-                "id": "node/-2806"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.676746,
-                    59.15338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2796",
+            "id": "node/-2823",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Elverhøy Studentbarnehage",
+                "name": "Studentsamskipnaden i Buskerud Elverhøy Studentbanehage",
                 "no-barnehage:nsrid": "1015492",
-                "operator": "Studentsamskipnaden i Telemark",
+                "operator": "Studentsamskipnaden i Sørøst-Norge",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-2796"
+                "id": "node/-2823"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +50,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2793",
+            "id": "node/-2809",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:phone": "35 55 50 86",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liane barnehage Sa",
+                "no-barnehage:nsrid": "1020014",
+                "operator": "Liane barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1991-04-01",
+                "id": "node/-2809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.676746,
+                    59.15338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2797",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "100",
@@ -85,7 +85,7 @@
                 "operator": "Den Gode Barnehagen AS",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-2793"
+                "id": "node/-2797"
             },
             "geometry": {
                 "type": "Point",

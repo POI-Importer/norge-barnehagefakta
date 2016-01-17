@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4172",
+            "id": "node/-4169",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:phone": "56 55 85 90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tolomarka barnehage",
+                "no-barnehage:nsrid": "1025323",
+                "operator": "Kvam kommune",
+                "operator:type": "public",
+                "start_date": "1992-08-01",
+                "id": "node/-4169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.16499,
+                    60.371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4163",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "107",
@@ -15,7 +39,7 @@
                 "operator": "Kvam kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4172"
+                "id": "node/-4163"
             },
             "geometry": {
                 "type": "Point",
