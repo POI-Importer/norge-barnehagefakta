@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-710",
+            "id": "node/-714",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -15,6 +15,29 @@
                 "operator": "Epletunet barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-11-01",
+                "id": "node/-714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46804,
+                    59.92684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-710",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagegården AS",
+                "no-barnehage:nsrid": "1021790",
+                "operator": "Barnehagegården AS",
+                "operator:type": "private",
+                "start_date": "2008-02-25",
                 "id": "node/-710"
             },
             "geometry": {
@@ -27,30 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-706",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "35",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnehagegården AS",
-                "no-barnehage:nsrid": "1021790",
-                "operator": "Barnehagegården AS",
-                "operator:type": "private",
-                "start_date": "2008-02-25",
-                "id": "node/-706"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.46804,
-                    59.92684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-705",
+            "id": "node/-709",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -63,7 +63,7 @@
                 "operator": "Aurskog-Høland kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-705"
+                "id": "node/-709"
             },
             "geometry": {
                 "type": "Point",

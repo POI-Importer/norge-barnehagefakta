@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3064",
+            "id": "node/-3068",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -14,7 +14,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-01",
-                "id": "node/-3064"
+                "id": "node/-3068"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3063",
+            "id": "node/-3067",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -37,7 +37,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2010-01-01",
-                "id": "node/-3063"
+                "id": "node/-3067"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3061",
+            "id": "node/-3065",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -63,7 +63,7 @@
                 "operator": "St. Franciskus barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-3061"
+                "id": "node/-3065"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3060",
+            "id": "node/-3064",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -88,7 +88,7 @@
                 "operator": "Springkleiv barnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-02-20",
-                "id": "node/-3060"
+                "id": "node/-3064"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3055",
+            "id": "node/-3059",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -113,7 +113,7 @@
                 "operator": "Soria Moria barnehage Arendal AS",
                 "operator:type": "private",
                 "start_date": "2007-02-09",
-                "id": "node/-3055"
+                "id": "node/-3059"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +125,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3039",
+            "id": "node/-3043",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -137,7 +137,7 @@
                 "operator": "Matilda AS",
                 "operator:type": "private",
                 "start_date": "2009-08-01",
-                "id": "node/-3039"
+                "id": "node/-3043"
             },
             "geometry": {
                 "type": "Point",
@@ -149,7 +149,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3036",
+            "id": "node/-3040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -161,7 +161,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2006-03-01",
-                "id": "node/-3036"
+                "id": "node/-3040"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +173,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3033",
+            "id": "node/-3037",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -185,7 +185,7 @@
                 "operator": "Langsæ Kulturbarnehage Helge Kolflaath",
                 "operator:type": "private",
                 "start_date": "2000-07-01",
-                "id": "node/-3033"
+                "id": "node/-3037"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +197,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3031",
+            "id": "node/-3035",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Kirkens Bymisjon Avd Kastellveien Åpen barnehage",
@@ -205,7 +205,7 @@
                 "operator": "Stiftelsen Kirkens Bymisjon i Kristiansand",
                 "operator:type": "private",
                 "start_date": "2014-02-17",
-                "id": "node/-3031"
+                "id": "node/-3035"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +217,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3025",
+            "id": "node/-3029",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -231,7 +231,31 @@
                 "operator": "Espira Myraskogen AS",
                 "operator:type": "private",
                 "start_date": "2008-01-18",
-                "id": "node/-3025"
+                "id": "node/-3029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.772449,
+                    58.46176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3024",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:phone": "37033284",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dalen barnehage",
+                "no-barnehage:nsrid": "1019908",
+                "operator": "Dalen barnehage",
+                "operator:type": "private",
+                "start_date": "1990-08-01",
+                "id": "node/-3024"
             },
             "geometry": {
                 "type": "Point",
@@ -246,30 +270,6 @@
             "id": "node/-3020",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
-                "contact:phone": "37033284",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Dalen barnehage",
-                "no-barnehage:nsrid": "1019908",
-                "operator": "Dalen barnehage",
-                "operator:type": "private",
-                "start_date": "1990-08-01",
-                "id": "node/-3020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.772449,
-                    58.46176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3016",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "18",
                 "max_age": "5",
                 "min_age": "1",
@@ -278,7 +278,7 @@
                 "operator": "Bjønnes barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-07-29",
-                "id": "node/-3016"
+                "id": "node/-3020"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +290,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3013",
+            "id": "node/-3017",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -302,7 +302,7 @@
                 "operator": "Askeladden barnehage Åge Pettersen",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-3013"
+                "id": "node/-3017"
             },
             "geometry": {
                 "type": "Point",
