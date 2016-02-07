@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3282",
+            "id": "node/-3278",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -15,33 +15,7 @@
                 "operator": "Its Solbarnehager AS",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-3282"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.701414,
-                    58.09603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3280",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "94",
-                "contact:email": "post@espira.no",
-                "contact:phone": "52 84 50 20",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Vanse barnehage",
-                "no-barnehage:nsrid": "1021245",
-                "operator": "Espira Vanse AS",
-                "operator:type": "private",
-                "start_date": "2005-06-02",
-                "id": "node/-3280"
+                "id": "node/-3278"
             },
             "geometry": {
                 "type": "Point",
@@ -56,6 +30,32 @@
             "id": "node/-3276",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "94",
+                "contact:email": "post@espira.no",
+                "contact:phone": "52 84 50 20",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Vanse barnehage",
+                "no-barnehage:nsrid": "1021245",
+                "operator": "Espira Vanse AS",
+                "operator:type": "private",
+                "start_date": "2005-06-02",
+                "id": "node/-3276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.701414,
+                    58.09603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3272",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "27",
                 "max_age": "5",
                 "min_age": "1",
@@ -64,7 +64,7 @@
                 "operator": "Varbak Arcen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-07-18",
-                "id": "node/-3276"
+                "id": "node/-3272"
             },
             "geometry": {
                 "type": "Point",

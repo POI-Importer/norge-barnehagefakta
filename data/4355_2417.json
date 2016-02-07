@@ -3,6 +3,30 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-1",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:phone": "69 18 51 20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Alfheim barnehage AS",
+                "no-barnehage:nsrid": "1020476",
+                "operator": "Alfheim barnehage AS",
+                "operator:type": "private",
+                "start_date": "1976-01-01",
+                "id": "node/-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.38333,
+                    59.13597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-42",
             "properties": {
                 "amenity": "kindergarten",
@@ -193,30 +217,6 @@
                 "coordinates": [
                     11.39223,
                     59.14785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:phone": "69 18 51 20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Alfheim barnehage AS",
-                "no-barnehage:nsrid": "1020476",
-                "operator": "Alfheim barnehage AS",
-                "operator:type": "private",
-                "start_date": "1976-01-01",
-                "id": "node/-1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.38333,
-                    59.13597
                 ]
             }
         }

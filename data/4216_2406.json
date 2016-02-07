@@ -3,7 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3592",
+            "id": "node/-3800",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "127",
+                "contact:email": "post@espira.no",
+                "contact:phone": "52 84 50 20",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Karmsund barnehage",
+                "no-barnehage:nsrid": "1021835",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "start_date": "2008-06-04",
+                "id": "node/-3800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.317167,
+                    59.38575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3588",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -16,7 +42,7 @@
                 "operator": "As Haugaland Industri",
                 "operator:type": "private",
                 "start_date": "2003-08-04",
-                "id": "node/-3592"
+                "id": "node/-3588"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3585",
+            "id": "node/-3581",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -42,7 +68,7 @@
                 "operator": "Espira Bjørgene AS",
                 "operator:type": "private",
                 "start_date": "2005-07-26",
-                "id": "node/-3585"
+                "id": "node/-3581"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +80,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3582",
+            "id": "node/-3578",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -68,7 +94,7 @@
                 "operator": "Amanda barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2002-03-12",
-                "id": "node/-3582"
+                "id": "node/-3578"
             },
             "geometry": {
                 "type": "Point",

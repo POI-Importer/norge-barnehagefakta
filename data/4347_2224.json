@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5209",
+            "id": "node/-5199",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
-                "contact:email": "VikvarvetogOverbygdabarnehage@selbu.kommune.no",
+                "contact:email": "overbygda.barnehage.postmottak@selbu.kommune.no",
                 "contact:phone": "73818366",
                 "max_age": "5",
                 "min_age": "1",
@@ -16,7 +16,7 @@
                 "operator": "Selbu kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-5209"
+                "id": "node/-5199"
             },
             "geometry": {
                 "type": "Point",
@@ -28,9 +28,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5207",
+            "id": "node/-5197",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "kvellohaugen.barnehage.postmottak@selbu.kommune.no",
+                "contact:phone": "96504080",
+                "contact:website": "http://www.selbu.kommune.no/enheter/oppvekst/kvellohaugenbarnehage/Sider/default.aspx",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kvellohaugen barnehage",
@@ -38,7 +41,7 @@
                 "operator": "Selbu kommune",
                 "operator:type": "public",
                 "start_date": "2015-08-01",
-                "id": "node/-5207"
+                "id": "node/-5197"
             },
             "geometry": {
                 "type": "Point",
