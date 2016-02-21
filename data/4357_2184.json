@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5230",
+            "id": "node/-5238",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -16,13 +16,61 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-5230"
+                "id": "node/-5238"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.4738,
                     63.9956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5234",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjefte barnehage AS",
+                "no-barnehage:nsrid": "1021213",
+                "operator": "Skjefte barnehage AS",
+                "operator:type": "private",
+                "start_date": "2005-04-11",
+                "id": "node/-5234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51205,
+                    64.0126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5233",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:email": "sannan.barnehage@steinkjer.kommune.no",
+                "contact:phone": "90 89 61 04",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sannan barnehage",
+                "no-barnehage:nsrid": "1017109",
+                "operator": "Steinkjer kommune",
+                "operator:type": "public",
+                "start_date": "2006-02-01",
+                "id": "node/-5233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503,
+                    64.011
                 ]
             }
         },
@@ -37,7 +85,7 @@
                 "min_age": "1",
                 "name": "Nord Studentsamskipnad Avd Studentbarnehagen Steinkjer",
                 "no-barnehage:nsrid": "1015994",
-                "operator": "Studentsamskipnaden i Nord-Trøndelag",
+                "operator": "Studentsamskipnaden i Nordland",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
                 "id": "node/-5227"
@@ -52,55 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5225",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "37",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skjefte barnehage AS",
-                "no-barnehage:nsrid": "1021213",
-                "operator": "Skjefte barnehage AS",
-                "operator:type": "private",
-                "start_date": "2005-04-11",
-                "id": "node/-5225"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.51205,
-                    64.0126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5224",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "56",
-                "contact:email": "sannan.barnehage@steinkjer.kommune.no",
-                "contact:phone": "90 89 61 04",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sannan barnehage",
-                "no-barnehage:nsrid": "1017109",
-                "operator": "Steinkjer kommune",
-                "operator:type": "public",
-                "start_date": "2006-02-01",
-                "id": "node/-5224"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.503,
-                    64.011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5207",
+            "id": "node/-5215",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -114,7 +114,7 @@
                 "operator": "Figga barnehage",
                 "operator:type": "private",
                 "start_date": "1995-01-19",
-                "id": "node/-5207"
+                "id": "node/-5215"
             },
             "geometry": {
                 "type": "Point",

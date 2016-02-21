@@ -3,32 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5975",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "contact:email": "Solhov.barnehage@lyngen.kommune.no",
-                "contact:phone": "40 02 86 12",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kavringen barnehage",
-                "no-barnehage:nsrid": "1025343",
-                "operator": "Lyngen kommune",
-                "operator:type": "public",
-                "start_date": "1991-01-01",
-                "id": "node/-5975"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.1991,
-                    69.5763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5972",
+            "id": "node/-5985",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -41,13 +16,38 @@
                 "operator": "Lyngen kommune",
                 "operator:type": "public",
                 "start_date": "1965-12-31",
-                "id": "node/-5972"
+                "id": "node/-5985"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     20.2125,
                     69.5722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5984",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "Solhov.barnehage@lyngen.kommune.no",
+                "contact:phone": "40 02 86 12",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kavringen barnehage",
+                "no-barnehage:nsrid": "1025343",
+                "operator": "Lyngen kommune",
+                "operator:type": "public",
+                "start_date": "1991-01-01",
+                "id": "node/-5984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1991,
+                    69.5763
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5713",
+            "id": "node/-5723",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -16,7 +16,7 @@
                 "operator": "Vågan kommune",
                 "operator:type": "public",
                 "start_date": "1965-12-31",
-                "id": "node/-5713"
+                "id": "node/-5723"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +28,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5712",
+            "id": "node/-5722",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "65",
-                "contact:phone": "76 07 85 51",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Solheim barnehage AS",
-                "no-barnehage:nsrid": "1020493",
-                "operator": "Solheim barnehage AS",
+                "name": "Solheim Barnehagedrift AS",
+                "no-barnehage:nsrid": "1026446",
+                "operator": "Solheim Barnehagedrift AS",
                 "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-5712"
+                "start_date": "2016-01-21",
+                "id": "node/-5722"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +48,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5702",
+            "id": "node/-5721",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:phone": "76 07 85 51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solheim barnehage AS",
+                "no-barnehage:nsrid": "1020493",
+                "operator": "Solheim barnehage AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-5721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55652,
+                    68.23911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5711",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -64,7 +84,7 @@
                 "operator": "Lofoten Industri AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5702"
+                "id": "node/-5711"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5696",
+            "id": "node/-5705",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -89,7 +109,7 @@
                 "operator": "Barnehagen Gunhilds Minne AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5696"
+                "id": "node/-5705"
             },
             "geometry": {
                 "type": "Point",
