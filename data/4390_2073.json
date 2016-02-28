@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5550",
+            "id": "node/-5548",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -12,31 +12,6 @@
                 "min_age": "1",
                 "name": "Ulvang Oppvekstsenter Avd barnehage",
                 "no-barnehage:nsrid": "1013658",
-                "operator": "Leirfjord kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5550"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9461,
-                    66.065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5548",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "beate.tommervik@leirfjord.kommune.no",
-                "contact:phone": "75074165",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Leland barnehage",
-                "no-barnehage:nsrid": "1012532",
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
@@ -52,7 +27,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5547",
+            "id": "node/-5546",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "beate.tommervik@leirfjord.kommune.no",
+                "contact:phone": "75074165",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leland barnehage",
+                "no-barnehage:nsrid": "1012532",
+                "operator": "Leirfjord kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9461,
+                    66.065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5545",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -65,7 +65,7 @@
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
                 "start_date": "2011-08-01",
-                "id": "node/-5547"
+                "id": "node/-5545"
             },
             "geometry": {
                 "type": "Point",
