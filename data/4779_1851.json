@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6093",
+            "id": "node/-6020",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "65",
+                "contact:email": "blb@svk.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skytterhusfjellet barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
                 "start_date": "2013-08-19",
-                "id": "node/-6093"
+                "id": "node/-6020"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6088",
+            "id": "node/-6015",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "14",
+                "contact:email": "post@prestefjellet-barnehage.no",
                 "contact:phone": "78992385",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +40,7 @@
                 "operator": "Prestefjellet barnehage AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-6088"
+                "id": "node/-6015"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6085",
+            "id": "node/-6012",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "ynpe@svk.no",
                 "contact:phone": "78991612",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +65,7 @@
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-6085"
+                "id": "node/-6012"
             },
             "geometry": {
                 "type": "Point",

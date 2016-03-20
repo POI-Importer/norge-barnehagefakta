@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2068",
+            "id": "node/-2040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "8",
-                "max_age": "2",
+                "contact:email": "bodil.engen@gjovik.kommune.no",
+                "max_age": "5",
                 "min_age": "1",
                 "name": "Øverby barnehage",
                 "no-barnehage:nsrid": "1013565",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
                 "start_date": "2013-06-01",
-                "id": "node/-2068"
+                "id": "node/-2040"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2060",
+            "id": "node/-2032",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "17",
+                "contact:email": "post@solaasstua.no",
                 "contact:phone": "61170420",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +40,7 @@
                 "operator": "Vardal Sanitetsforening",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2060"
+                "id": "node/-2032"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2057",
+            "id": "node/-2029",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "76",
+                "capacity": "77",
+                "contact:email": "monsbhg@online.no",
                 "contact:phone": "61 13 09 80",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +65,7 @@
                 "operator": "Monssveen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2003-03-25",
-                "id": "node/-2057"
+                "id": "node/-2029"
             },
             "geometry": {
                 "type": "Point",
@@ -74,10 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2053",
+            "id": "node/-2025",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
+                "contact:email": "sidsel.martinsen@gjovik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lissomskogen barnehage",
@@ -85,7 +89,7 @@
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
                 "start_date": "2006-08-01",
-                "id": "node/-2053"
+                "id": "node/-2025"
             },
             "geometry": {
                 "type": "Point",
@@ -97,11 +101,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2043",
+            "id": "node/-2015",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "11",
-                "contact:email": "livdorthea@hotmail.com",
+                "capacity": "15",
+                "contact:email": "l-fystro@frisurf.no",
                 "contact:phone": "61 17 68 75",
                 "max_age": "5",
                 "min_age": "1",
@@ -110,7 +114,7 @@
                 "operator": "Liv Dorthea Skaaren-Fystro",
                 "operator:type": "private",
                 "start_date": "2006-08-15",
-                "id": "node/-2043"
+                "id": "node/-2015"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4052",
+            "id": "node/-4006",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "84",
+                "capacity": "70",
+                "contact:email": "anette@smaafolkbarnehage.no",
                 "contact:phone": "53 75 51 10",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Småfolk barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-04-19",
-                "id": "node/-4052"
+                "id": "node/-4006"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4049",
+            "id": "node/-4003",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "96",
+                "capacity": "93",
+                "contact:email": "gerd.toril.lindevik@etne.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Enge barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Etne kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4049"
+                "id": "node/-4003"
             },
             "geometry": {
                 "type": "Point",

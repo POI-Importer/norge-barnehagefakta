@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3544",
+            "id": "node/-3506",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -17,7 +17,7 @@
                 "operator": "Udland Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-01-27",
-                "id": "node/-3544"
+                "id": "node/-3506"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3539",
+            "id": "node/-3501",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "62",
+                "contact:email": "modgunn.sandvik@haugesund.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solandsbakken barnehage",
@@ -40,7 +41,7 @@
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3539"
+                "id": "node/-3501"
             },
             "geometry": {
                 "type": "Point",
@@ -52,10 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3520",
+            "id": "node/-3481",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
+                "contact:email": "grutle-b@online.no",
                 "contact:phone": "52 73 50 33",
                 "contact:website": "http://www.grutle.barnehageside.no",
                 "max_age": "5",
@@ -65,7 +67,7 @@
                 "operator": "Grutle barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-3520"
+                "id": "node/-3481"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +79,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3514",
+            "id": "node/-3475",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
+                "contact:email": "margaret.haraldseid@haugesund.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bleikemyr barnehage",
@@ -88,7 +91,7 @@
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3514"
+                "id": "node/-3475"
             },
             "geometry": {
                 "type": "Point",

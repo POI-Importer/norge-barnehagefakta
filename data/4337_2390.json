@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-419",
+            "id": "node/-415",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "heidi@carpediemstiftelsen.no",
                 "name": "Åpen barnehage Fagerstrand",
                 "no-barnehage:nsrid": "1017008",
                 "operator": "Nesodden Frivilligsentral",
                 "operator:type": "private",
                 "start_date": "2005-10-10",
-                "id": "node/-419"
+                "id": "node/-415"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-396",
+            "id": "node/-393",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "86",
+                "capacity": "87",
+                "contact:email": "siri.lindseth@nesodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fagerstrand barnehage",
@@ -34,7 +36,7 @@
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-396"
+                "id": "node/-393"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-395",
+            "id": "node/-392",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "65",
                 "contact:email": "dl.fagerskog@bhg.no",
                 "contact:phone": "66 96 25 55",
                 "contact:website": "http://www.fagerskog.bhg.no",
@@ -60,7 +62,7 @@
                 "operator": "Fager Skog Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-09-15",
-                "id": "node/-395"
+                "id": "node/-392"
             },
             "geometry": {
                 "type": "Point",

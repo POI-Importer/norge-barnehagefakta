@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-193",
+            "id": "node/-191",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "61",
+                "contact:email": "linda@veelstoppen.no",
                 "contact:phone": "69 34 98 34",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Veelstoppen Private barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-05-02",
-                "id": "node/-193"
+                "id": "node/-191"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-183",
+            "id": "node/-181",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "82",
+                "contact:email": "lenb@fredrikstad.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Torsnes barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
                 "start_date": "2002-01-01",
-                "id": "node/-183"
+                "id": "node/-181"
             },
             "geometry": {
                 "type": "Point",

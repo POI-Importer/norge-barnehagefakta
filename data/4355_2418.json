@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-24",
+            "id": "node/-23",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "45",
+                "contact:email": "menighetsplbarnehage@halden.net",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Menighetspleiens barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Menighetspleiens barnehage",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-24"
+                "id": "node/-23"
             },
             "geometry": {
                 "type": "Point",
@@ -26,15 +27,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-23",
+            "id": "node/-22",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "karin.oraug@halden.kommune.no",
                 "name": "Maurtua Åpen barnehage",
                 "no-barnehage:nsrid": "1017647",
                 "operator": "Halden kommune",
                 "operator:type": "public",
                 "start_date": "2006-12-01",
-                "id": "node/-23"
+                "id": "node/-22"
             },
             "geometry": {
                 "type": "Point",
@@ -46,11 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-13",
+            "id": "node/-12",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
-                "contact:email": "harekas@barnehage.no",
+                "capacity": "53",
+                "contact:email": "tone@harekas.no",
                 "contact:phone": "69 19 35 11",
                 "max_age": "5",
                 "min_age": "1",
@@ -59,7 +61,7 @@
                 "operator": "Harekas barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-12-05",
-                "id": "node/-13"
+                "id": "node/-12"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +76,8 @@
             "id": "node/-11",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "26",
+                "contact:email": "festbarn@halden.net",
                 "contact:phone": "69181815",
                 "max_age": "5",
                 "min_age": "1",

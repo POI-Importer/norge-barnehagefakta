@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-743",
+            "id": "node/-742",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "torunn.raths@sorum.kommune.no",
                 "name": "Åpen barnehage",
                 "no-barnehage:nsrid": "1025539",
                 "operator": "Sørum kommune",
                 "operator:type": "public",
                 "start_date": "2014-08-01",
-                "id": "node/-743"
+                "id": "node/-742"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-741",
+            "id": "node/-740",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "108",
+                "capacity": "107",
+                "contact:email": "sorumsand.bhg@norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sørumsand barnehage",
@@ -34,7 +36,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2006-02-08",
-                "id": "node/-741"
+                "id": "node/-740"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-737",
+            "id": "node/-736",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "47",
+                "contact:email": "toril.sissel.bjorkli@sorum.kommune.no",
                 "contact:phone": "63 82 63 81",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +61,7 @@
                 "operator": "Sørum kommune",
                 "operator:type": "public",
                 "start_date": "1990-09-01",
-                "id": "node/-737"
+                "id": "node/-736"
             },
             "geometry": {
                 "type": "Point",
@@ -70,10 +73,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-732",
+            "id": "node/-731",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "123",
+                "capacity": "121",
+                "contact:email": "gry.heidi.torp@sorum.kommune.no",
                 "contact:phone": "63 86 90 70",
                 "max_age": "5",
                 "min_age": "1",
@@ -82,7 +86,7 @@
                 "operator": "Sørum kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-732"
+                "id": "node/-731"
             },
             "geometry": {
                 "type": "Point",

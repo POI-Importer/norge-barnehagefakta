@@ -3,16 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5846",
+            "id": "node/-5780",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "anna.helene.larsen@tromso.kommune.no",
+                "contact:email": "britt.margareth.simonsen@tromso.kommune.no",
                 "name": "Åpen barnehage Stakkevollan",
                 "no-barnehage:nsrid": "1014135",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "2010-09-01",
-                "id": "node/-5846"
+                "id": "node/-5780"
             },
             "geometry": {
                 "type": "Point",
@@ -24,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5840",
+            "id": "node/-5774",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "26",
+                "contact:email": "ashild.johannesen@tromso.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Varden barnehage",
@@ -35,7 +36,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1997-09-01",
-                "id": "node/-5840"
+                "id": "node/-5774"
             },
             "geometry": {
                 "type": "Point",
@@ -47,10 +48,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5839",
+            "id": "node/-5773",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "10",
+                "capacity": "14",
                 "contact:email": "post@ubh.no",
                 "contact:phone": "77 67 29 03",
                 "contact:website": "http://utsikten.tromso.barnehage.no",
@@ -61,7 +62,7 @@
                 "operator": "Utsikten barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5839"
+                "id": "node/-5773"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +74,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5820",
+            "id": "node/-5755",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "53",
+                "contact:email": "jorunn.seljevoll@tromso.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stakkevollan barnehage",
@@ -84,7 +86,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5820"
+                "id": "node/-5755"
             },
             "geometry": {
                 "type": "Point",
@@ -96,10 +98,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5815",
+            "id": "node/-5750",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "54",
                 "contact:email": "soldagen@barnehage.no",
                 "contact:phone": "77 61 11 40",
                 "contact:website": "http://www.soldagen.barnehage.no",
@@ -110,38 +112,13 @@
                 "operator": "Soldagen barnehage AS",
                 "operator:type": "private",
                 "start_date": "1991-04-18",
-                "id": "node/-5815"
+                "id": "node/-5750"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     19.0064,
                     69.69774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5758",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "9",
-                "contact:phone": "77 67 29 03",
-                "contact:website": "http://www.blaabaerlia.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Blåbærlia barnehage",
-                "no-barnehage:nsrid": "1019663",
-                "operator": "Blåbærlia barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1988-04-01",
-                "id": "node/-5758"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.99673,
-                    69.69324
                 ]
             }
         }

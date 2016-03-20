@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4087",
+            "id": "node/-4043",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -16,7 +16,7 @@
                 "operator": "Vikahaugen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-02-12",
-                "id": "node/-4087"
+                "id": "node/-4043"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4085",
+            "id": "node/-4041",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "53",
+                "contact:email": "sigfrid.halleraker@stord.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trodlahaugen barnehage",
@@ -39,7 +40,7 @@
                 "operator": "Stord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4085"
+                "id": "node/-4041"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4077",
+            "id": "node/-4033",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "97",
@@ -63,7 +64,7 @@
                 "operator": "Olderdalen Fus Kulturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-12-01",
-                "id": "node/-4077"
+                "id": "node/-4033"
             },
             "geometry": {
                 "type": "Point",
@@ -75,10 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4072",
+            "id": "node/-4027",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "ingvill.larsen@hero.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heiane barnehage",
@@ -86,7 +88,7 @@
                 "operator": "Hero Norge AS",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-4072"
+                "id": "node/-4027"
             },
             "geometry": {
                 "type": "Point",

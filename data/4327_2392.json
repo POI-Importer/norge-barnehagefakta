@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2286",
+            "id": "node/-2256",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "45",
+                "capacity": "33",
+                "contact:email": "tony@teknabarna.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tekna Barnehagen Rådyrtråkket",
@@ -14,7 +15,7 @@
                 "operator": "Stiftelsen Tekna Barnehager Drammen",
                 "operator:type": "private",
                 "start_date": "2003-04-26",
-                "id": "node/-2286"
+                "id": "node/-2256"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2258",
+            "id": "node/-2227",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "91",
-                "contact:email": "jordbrekkskogen.bhg@drmk.no",
+                "capacity": "85",
+                "contact:email": "peter.moberg@drmk.no",
                 "contact:phone": "32 04 58 41",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +40,7 @@
                 "operator": "Drammen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2258"
+                "id": "node/-2227"
             },
             "geometry": {
                 "type": "Point",

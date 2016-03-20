@@ -3,16 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3348",
+            "id": "node/-3309",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "heidi.sinnes@sandnes.kirken.no",
                 "contact:phone": "51 68 82 36",
                 "name": "Knøttene Åpen barnehage",
                 "no-barnehage:nsrid": "1015878",
                 "operator": "Sandnes Kirkelige Fellesråd",
                 "operator:type": "private",
                 "start_date": "2000-01-01",
-                "id": "node/-3348"
+                "id": "node/-3309"
             },
             "geometry": {
                 "type": "Point",
@@ -24,10 +25,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3342",
+            "id": "node/-3303",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
+                "contact:email": "astrid.svebestad@sandnes.kommune.no",
                 "contact:phone": "51 68 88 75",
                 "max_age": "5",
                 "min_age": "1",
@@ -36,7 +38,7 @@
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3342"
+                "id": "node/-3303"
             },
             "geometry": {
                 "type": "Point",

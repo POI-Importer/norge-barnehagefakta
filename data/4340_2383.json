@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1688",
+            "id": "node/-1668",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "58",
+                "contact:email": "sorenga.barnehage@norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sørenga barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2012-09-01",
-                "id": "node/-1688"
+                "id": "node/-1668"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,35 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1029",
+            "id": "node/-1422",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "42",
+                "contact:email": "Tr@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Sørengkaia AS",
+                "no-barnehage:nsrid": "1025509",
+                "operator": "Læringsverkstedet Sørengkaia AS",
+                "operator:type": "private",
+                "start_date": "2014-10-09",
+                "id": "node/-1422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75823,
+                    59.90456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1023",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:email": "siri.dybvig@akerbryggebarnehage.no",
                 "contact:phone": "22 83 80 28",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +64,7 @@
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-1029"
+                "id": "node/-1023"
             },
             "geometry": {
                 "type": "Point",

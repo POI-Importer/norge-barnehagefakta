@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-608",
+            "id": "node/-600",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "53",
+                "contact:email": "kristin.gjedebo.haug@dnvgl.com",
                 "contact:phone": "95464562",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Stiftelsen Det Norske Veritas barnehage",
                 "operator:type": "private",
                 "start_date": "1977-01-01",
-                "id": "node/-608"
+                "id": "node/-600"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-604",
+            "id": "node/-596",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
+                "contact:email": "hanne.zimmer@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stabekk barnehage Avdeling Stabekk",
@@ -38,7 +40,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-604"
+                "id": "node/-596"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-586",
+            "id": "node/-578",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "marholck@online.no",
                 "contact:phone": "67533645",
                 "max_age": "5",
                 "min_age": "3",
@@ -62,7 +65,7 @@
                 "operator": "Ramstad barnehage Vibeke Sauer",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-586"
+                "id": "node/-578"
             },
             "geometry": {
                 "type": "Point",
@@ -74,10 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-584",
+            "id": "node/-576",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "75",
+                "contact:email": "mari.olving@baerum.komunne.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Plahtejordet barnehage",
@@ -85,7 +89,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-584"
+                "id": "node/-576"
             },
             "geometry": {
                 "type": "Point",
@@ -97,10 +101,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-582",
+            "id": "node/-574",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "74",
+                "capacity": "72",
                 "contact:email": "post@oddenskogen.no",
                 "contact:phone": "67 56 72 49",
                 "contact:website": "http://www.oddenskogen.barnehage.no",
@@ -111,7 +115,7 @@
                 "operator": "Oddenskogen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1996-09-30",
-                "id": "node/-582"
+                "id": "node/-574"
             },
             "geometry": {
                 "type": "Point",
@@ -123,10 +127,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-538",
+            "id": "node/-530",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "25",
+                "capacity": "26",
+                "contact:email": "ma-aspe@online.no",
                 "contact:phone": "67536263",
                 "max_age": "5",
                 "min_age": "1",
@@ -135,7 +140,7 @@
                 "operator": "Kløverenga Kvinne- og Familielag",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-538"
+                "id": "node/-530"
             },
             "geometry": {
                 "type": "Point",
@@ -147,10 +152,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-530",
+            "id": "node/-522",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "125",
+                "capacity": "155",
+                "contact:email": "elisabeth.christensen@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Høvik barnehage Hovedhus",
@@ -158,7 +164,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-530"
+                "id": "node/-522"
             },
             "geometry": {
                 "type": "Point",
@@ -170,10 +176,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-498",
+            "id": "node/-491",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
+                "contact:email": "glassverket.bhg@norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Glassverket barnehage",
@@ -181,7 +188,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2003-08-25",
-                "id": "node/-498"
+                "id": "node/-491"
             },
             "geometry": {
                 "type": "Point",
@@ -193,30 +200,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-489",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Fjordveien barnehage",
-                "no-barnehage:nsrid": "1026021",
-                "operator": "Ulna AS",
-                "operator:type": "private",
-                "start_date": "2015-07-01",
-                "id": "node/-489"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.57666,
-                    59.89768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-482",
+            "id": "node/-476",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "rita.myrmo@ekebergparken.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ekebergparken barnehage",
@@ -224,7 +212,7 @@
                 "operator": "Gjønnes Kvinne- og Familielag",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-482"
+                "id": "node/-476"
             },
             "geometry": {
                 "type": "Point",
@@ -236,10 +224,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-454",
+            "id": "node/-450",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
+                "contact:email": "favoritzack@hotmail.com",
                 "contact:phone": "67531809",
                 "max_age": "5",
                 "min_age": "1",
@@ -248,7 +237,7 @@
                 "operator": "Barnas Hus AS",
                 "operator:type": "private",
                 "start_date": "1994-08-01",
-                "id": "node/-454"
+                "id": "node/-450"
             },
             "geometry": {
                 "type": "Point",

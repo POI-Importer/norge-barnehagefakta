@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-107",
+            "id": "node/-106",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "112",
+                "capacity": "111",
+                "contact:email": "skogro@skogro.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skogro barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Skogro barnehage AS",
                 "operator:type": "private",
                 "start_date": "2013-09-01",
-                "id": "node/-107"
+                "id": "node/-106"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-81",
+            "id": "node/-80",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
-                "contact:email": "fakturamottak@borgbarn.no",
+                "contact:email": "petter@barnehagenett.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Borgen barnehage",
@@ -38,7 +39,7 @@
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-81"
+                "id": "node/-80"
             },
             "geometry": {
                 "type": "Point",

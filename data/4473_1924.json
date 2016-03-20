@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5895",
+            "id": "node/-5826",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "18",
+                "contact:email": "markomanak@barnehage.no",
                 "contact:phone": "77 08 74 04",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Vardobaiki AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5895"
+                "id": "node/-5826"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5892",
+            "id": "node/-5823",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
-                "contact:email": "post@skanland.kommune.no",
+                "contact:email": "astrid.pia.stensaker@skanland.kommune.no",
                 "contact:phone": "77 08 51 05",
                 "max_age": "5",
                 "min_age": "1",
@@ -40,7 +41,7 @@
                 "operator": "Skånland kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5892"
+                "id": "node/-5823"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1704",
+            "id": "node/-1684",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "elisabeth.hellarvik@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tjernveien barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1998-01-20",
-                "id": "node/-1704"
+                "id": "node/-1684"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +27,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1703",
+            "id": "node/-1683",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
+                "contact:email": "kristin.tsikalakis@bgr.oslo.kommune.no",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Tiurleiken barnehage",
                 "no-barnehage:nsrid": "1017324",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-30",
-                "id": "node/-1703"
+                "id": "node/-1683"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1657",
+            "id": "node/-1638",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -63,7 +65,7 @@
                 "operator": "Stiftelsen Lillomarka barnehage",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-1657"
+                "id": "node/-1638"
             },
             "geometry": {
                 "type": "Point",
@@ -75,11 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1603",
+            "id": "node/-1585",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
-                "contact:email": "skogkanten.bhg@c2i.net",
+                "contact:email": "skogkanten.barnehage@gmail.com",
                 "contact:phone": "23 62 50 82",
                 "max_age": "5",
                 "min_age": "3",
@@ -88,7 +90,7 @@
                 "operator": "Skogkanten barnehage AS",
                 "operator:type": "private",
                 "start_date": "2000-09-08",
-                "id": "node/-1603"
+                "id": "node/-1585"
             },
             "geometry": {
                 "type": "Point",
@@ -100,10 +102,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1563",
+            "id": "node/-1546",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
+                "contact:email": "kristin.tsikalakis@bgr.oslo.kommune.no",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Romsås Senter barnehage",
@@ -111,7 +114,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1563"
+                "id": "node/-1546"
             },
             "geometry": {
                 "type": "Point",
@@ -123,10 +126,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1554",
+            "id": "node/-1537",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "89",
+                "capacity": "86",
+                "contact:email": "anne.elin.johannessen@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ravnkollen barnehage",
@@ -134,7 +138,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1554"
+                "id": "node/-1537"
             },
             "geometry": {
                 "type": "Point",
@@ -146,18 +150,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1553",
+            "id": "node/-1536",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
+                "capacity": "22",
+                "contact:email": "ivar.hjelvik@bgr.oslo.kommune.no",
+                "max_age": "2",
                 "min_age": "1",
                 "name": "Rasmusbakken barnehage",
                 "no-barnehage:nsrid": "1017444",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1553"
+                "id": "node/-1536"
             },
             "geometry": {
                 "type": "Point",
@@ -169,33 +174,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1304",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Humlebakken barnehage",
-                "no-barnehage:nsrid": "1017428",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "start_date": "1979-01-01",
-                "id": "node/-1304"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.8966,
-                    59.9702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1302",
+            "id": "node/-1292",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "lotte.hermanrud@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Huken Naturbarnehage",
@@ -203,7 +186,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1999-06-01",
-                "id": "node/-1302"
+                "id": "node/-1292"
             },
             "geometry": {
                 "type": "Point",
@@ -215,10 +198,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1230",
+            "id": "node/-1218",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
+                "contact:email": "nina.hegge@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grorud barnehage",
@@ -226,7 +210,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2010-10-01",
-                "id": "node/-1230"
+                "id": "node/-1218"
             },
             "geometry": {
                 "type": "Point",
@@ -238,18 +222,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1228",
+            "id": "node/-1216",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "18",
+                "contact:email": "may.helbostad@bgr.oslo.kommune.no",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Grei Korttidsbarnehage",
                 "no-barnehage:nsrid": "1015630",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1997-09-01",
-                "id": "node/-1228"
+                "id": "node/-1216"
             },
             "geometry": {
                 "type": "Point",
@@ -261,15 +246,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1175",
+            "id": "node/-1164",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "mariann.oppberget@bgr.oslo.kommune.no",
                 "name": "Familie og Læringssenteret",
                 "no-barnehage:nsrid": "1015629",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1994-08-01",
-                "id": "node/-1175"
+                "id": "node/-1164"
             },
             "geometry": {
                 "type": "Point",
@@ -281,10 +267,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1043",
+            "id": "node/-1036",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "135",
+                "contact:email": "astrid.korsvold@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ammerudlia barnehage",
@@ -292,7 +279,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1043"
+                "id": "node/-1036"
             },
             "geometry": {
                 "type": "Point",
@@ -304,10 +291,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1042",
+            "id": "node/-1035",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "117",
+                "contact:email": "lotte.hermanrud@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ammerudkollen barnehage",
@@ -315,7 +303,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1042"
+                "id": "node/-1035"
             },
             "geometry": {
                 "type": "Point",
@@ -327,10 +315,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1041",
+            "id": "node/-1034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "sigbjorn.haugestol@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ammerudgrenda barnehage",
@@ -338,7 +327,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1041"
+                "id": "node/-1034"
             },
             "geometry": {
                 "type": "Point",
@@ -350,10 +339,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1040",
+            "id": "node/-1033",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "126",
+                "contact:email": "cathrine.solgaard@bgr.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ammerudenga barnehage",
@@ -361,7 +351,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1040"
+                "id": "node/-1033"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4088",
+            "id": "node/-4044",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
+                "contact:email": "kari@villvettene.no",
                 "contact:phone": "930 89 251",
                 "contact:website": "http://www.villvettene.no",
                 "max_age": "5",
@@ -16,7 +17,7 @@
                 "operator": "Villvetene Friluftsbarnehage avd Rommetveit Da",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-4088"
+                "id": "node/-4044"
             },
             "geometry": {
                 "type": "Point",
@@ -28,11 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4083",
+            "id": "node/-4039",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "97",
-                "contact:email": "savarhagen@bhg.no",
+                "capacity": "91",
+                "contact:email": "dl.saevarhagen@bhg.no",
                 "contact:phone": "53 41 09 33",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Sævarhagen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4083"
+                "id": "node/-4039"
             },
             "geometry": {
                 "type": "Point",
@@ -53,11 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4076",
+            "id": "node/-4031",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
-                "contact:email": "dl.prestagardskogen@bhg.no",
+                "capacity": "53",
+                "contact:email": "dl.nordbygdo@bhg.no",
                 "contact:phone": "53 41 53 50",
                 "contact:website": "http://www.prestagardskogen.bhg.no",
                 "max_age": "5",
@@ -67,7 +68,7 @@
                 "operator": "Nordbygdo Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "1999-12-31",
-                "id": "node/-4076"
+                "id": "node/-4031"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +80,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4069",
+            "id": "node/-4024",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "51",
+                "contact:email": "dl.dalen@bhg.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Dalen Fus barnehage AS",
@@ -90,7 +92,7 @@
                 "operator": "Dalen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-09-01",
-                "id": "node/-4069"
+                "id": "node/-4024"
             },
             "geometry": {
                 "type": "Point",

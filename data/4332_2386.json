@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-707",
+            "id": "node/-705",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "76",
-                "contact:email": "post@annerudtoppen.no",
+                "capacity": "74",
+                "contact:email": "mona.wold@annerudtoppen.no",
                 "contact:phone": "66 76 59 90",
                 "contact:website": "http://www.annerudtoppen.no",
                 "max_age": "5",
@@ -17,7 +17,7 @@
                 "operator": "Ånnerudtoppen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2000-01-31",
-                "id": "node/-707"
+                "id": "node/-705"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-706",
+            "id": "node/-704",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
+                "contact:email": "ann-bhus@online.no",
                 "contact:phone": "66 79 08 13",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Ånnerud Barnehus Sa",
                 "operator:type": "private",
                 "start_date": "1979-05-22",
-                "id": "node/-706"
+                "id": "node/-704"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,36 @@
         },
         {
             "type": "Feature",
-            "id": "node/-654",
+            "id": "node/-650",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "39",
+                "contact:email": "Merete.Waarli@asker.kommune.no",
+                "contact:phone": "66 78 91 88",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Føyka barnehage Ånnerudveien",
+                "no-barnehage:nsrid": "1020801",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "1979-02-07",
+                "id": "node/-650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40274,
+                    59.82861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-646",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:email": "hege.oshaug@frelsesarmeen.no",
                 "contact:phone": "66 78 74 86",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,7 +92,7 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "1971-12-29",
-                "id": "node/-654"
+                "id": "node/-646"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +104,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-649",
+            "id": "node/-641",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "50",
+                "contact:email": "anita.sonsteby@asker.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Brendsrud barnehage",
@@ -88,7 +116,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-649"
+                "id": "node/-641"
             },
             "geometry": {
                 "type": "Point",
@@ -100,11 +128,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-647",
+            "id": "node/-639",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "63",
-                "contact:email": "borgen.barnehage@asker.kommune.no",
+                "capacity": "60",
+                "contact:email": "anita.sonsteby@asker.kommune.no",
                 "contact:phone": "66989370",
                 "contact:website": "http://borgen.com",
                 "max_age": "5",
@@ -114,7 +142,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1995-05-01",
-                "id": "node/-647"
+                "id": "node/-639"
             },
             "geometry": {
                 "type": "Point",

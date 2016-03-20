@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3282",
+            "id": "node/-3242",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "29",
+                "contact:email": "sissel@spangereidnaturbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Spangereid Naturbarnehage AS",
@@ -14,7 +15,7 @@
                 "operator": "Spangereid Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-3282"
+                "id": "node/-3242"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3277",
+            "id": "node/-3238",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:email": "postmottak@lindesnes.kommune.no",
+                "capacity": "33",
+                "contact:email": "bel@lindesnes.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Båly barnehage",
@@ -38,7 +39,7 @@
                 "operator": "Lindesnes kommune",
                 "operator:type": "public",
                 "start_date": "1999-08-01",
-                "id": "node/-3277"
+                "id": "node/-3238"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2992",
+            "id": "node/-2963",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "77",
+                "contact:email": "anne@soriamoriabarnehage.no",
                 "contact:website": "http://www.soriamoriabarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Soria Moria barnehage i AS",
                 "operator:type": "private",
                 "start_date": "2011-07-01",
-                "id": "node/-2992"
+                "id": "node/-2963"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2964",
+            "id": "node/-2936",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "53",
+                "contact:email": "janne.andersen@arendal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jovannslia Barnehageenhet, Lia",
@@ -38,7 +40,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2964"
+                "id": "node/-2936"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2960",
+            "id": "node/-2932",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "56",
+                "contact:email": "edel.ulven@grandehagen.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grandehagen barnehage AS",
@@ -61,7 +64,7 @@
                 "operator": "Grandehagen barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-08-01",
-                "id": "node/-2960"
+                "id": "node/-2932"
             },
             "geometry": {
                 "type": "Point",

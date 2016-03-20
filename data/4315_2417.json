@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2786",
+            "id": "node/-2751",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "34",
+                "contact:email": "mlvestun@frisurf.no",
                 "contact:phone": "35 51 55 08",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Den Evangelisk Lutherske Frikirke Porsgrunn Menighet",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2786"
+                "id": "node/-2751"
             },
             "geometry": {
                 "type": "Point",
@@ -27,16 +28,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2782",
+            "id": "node/-2747",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "einar.svendsen@porsgrunn.kommune.no",
                 "contact:phone": "35 55 23 80",
                 "name": "Porsgrunn Menighetspleie Frivillighetssentral og barnehage",
                 "no-barnehage:nsrid": "1016051",
                 "operator": "Porsgrunn Sokn",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-2782"
+                "id": "node/-2747"
             },
             "geometry": {
                 "type": "Point",
@@ -48,10 +50,36 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2781",
+            "id": "node/-2746",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "heidi.omdal@porsgrunn.kommune.no",
+                "contact:phone": "35 93 23 60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Osebakken Barnhage",
+                "no-barnehage:nsrid": "1016329",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "2001-12-17",
+                "id": "node/-2746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65916,
+                    59.1491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2745",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
+                "contact:email": "heidi.omdal@porsgrunn.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hovenga barnehage",
@@ -59,13 +87,37 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2781"
+                "id": "node/-2745"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.66419,
                     59.1487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2741",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:email": "post@dengodebarnehagen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akrobaten Telemark Idrettsbarnehage",
+                "no-barnehage:nsrid": "1014228",
+                "operator": "Den Gode Barnehagen AS",
+                "operator:type": "private",
+                "start_date": "2010-07-27",
+                "id": "node/-2741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64683,
+                    59.1457
                 ]
             }
         }

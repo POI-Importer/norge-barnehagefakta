@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4706",
+            "id": "node/-4653",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "20",
+                "capacity": "17",
+                "contact:email": "liedgarden.barnehage@nessetpost.no",
                 "contact:phone": "71 23 43 03",
                 "contact:website": "http://www.liedgarden.barnehage.no",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Liedgarden barnehage AS",
                 "no-barnehage:nsrid": "1021231",
                 "operator": "Liedgarden barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-04-01",
-                "id": "node/-4706"
+                "id": "node/-4653"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4703",
+            "id": "node/-4650",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "57",
+                "contact:email": "eidsvag.barnehage@nesset.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eidsvåg barnehage",
@@ -39,7 +41,7 @@
                 "operator": "Nesset kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4703"
+                "id": "node/-4650"
             },
             "geometry": {
                 "type": "Point",

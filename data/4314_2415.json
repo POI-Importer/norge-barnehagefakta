@@ -3,17 +3,44 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2809",
+            "id": "node/-2784",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "67",
+                "contact:email": "trollmyra@barnehagedrift.no",
+                "contact:phone": "35 53 25 15",
+                "contact:website": "http://www.barnehagemagasinet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollmyra - barnehage AS",
+                "no-barnehage:nsrid": "1021565",
+                "operator": "Trollmyra - barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-11-27",
+                "id": "node/-2784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.583956,
+                    59.18893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2780",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:email": "turid.baasland@sthf.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sykehuset Telemark Hf Trekløveren barnehage",
                 "no-barnehage:nsrid": "1016649",
                 "operator": "Sykehuset Telemark Hf",
                 "start_date": "1989-01-02",
-                "id": "node/-2809"
+                "id": "node/-2780"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2807",
+            "id": "node/-2777",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -38,7 +65,7 @@
                 "operator": "Skogmusa barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-04-01",
-                "id": "node/-2807"
+                "id": "node/-2777"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +77,37 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2805",
+            "id": "node/-2774",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "116",
-                "contact:email": "post@grep-as.no",
+                "capacity": "181",
+                "contact:email": "nicolas@barnehagedrift.no",
+                "contact:phone": "35 58 75 10",
+                "contact:website": "http://www.barnehagemagasinet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtua barnehage",
+                "no-barnehage:nsrid": "1021500",
+                "operator": "Maurtua - barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-08-01",
+                "id": "node/-2774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.585248,
+                    59.19367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2773",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "111",
+                "contact:email": "gro.hoydalsvik@grepgrenland.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Maribakkane barnehage",
@@ -62,7 +115,7 @@
                 "operator": "Grep Grenland AS",
                 "operator:type": "private",
                 "start_date": "2001-11-19",
-                "id": "node/-2805"
+                "id": "node/-2773"
             },
             "geometry": {
                 "type": "Point",
@@ -74,10 +127,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2799",
+            "id": "node/-2766",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "55",
                 "contact:email": "klosterskogen.barnehage@skien.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -86,7 +139,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1991-07-01",
-                "id": "node/-2799"
+                "id": "node/-2766"
             },
             "geometry": {
                 "type": "Point",
@@ -98,11 +151,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2796",
+            "id": "node/-2762",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
-                "contact:email": "gratenmoen.barnehage@skien.kommune.no",
+                "contact:email": "torun.havgar@skien.kommune.no",
                 "contact:phone": "003027520",
                 "max_age": "5",
                 "min_age": "1",
@@ -111,7 +164,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2796"
+                "id": "node/-2762"
             },
             "geometry": {
                 "type": "Point",
@@ -123,16 +176,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2794",
+            "id": "node/-2760",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "gimsoynenset@skien.kommune.no",
+                "contact:email": "klyvopenbarnehage@online.no",
                 "name": "Gimsøy Åpen barnehage",
                 "no-barnehage:nsrid": "1017940",
                 "operator": "Gimsøy og Nenset Sokn",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-2794"
+                "id": "node/-2760"
             },
             "geometry": {
                 "type": "Point",
@@ -144,11 +197,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2793",
+            "id": "node/-2759",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "70",
-                "contact:email": "gimsoy.barnehage@skien.kommune.no",
+                "capacity": "68",
+                "contact:email": "anne.marit.pedersen@skien.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gimsøy barnehage",
@@ -156,7 +209,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1994-08-01",
-                "id": "node/-2793"
+                "id": "node/-2759"
             },
             "geometry": {
                 "type": "Point",

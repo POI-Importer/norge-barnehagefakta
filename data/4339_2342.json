@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2065",
+            "id": "node/-2037",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "23",
+                "contact:email": "toril.kristiansen@musikkfolkehogskolen.no",
                 "contact:phone": "61 13 15 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Musikkfolkehøgskolen Viken",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-2065"
+                "id": "node/-2037"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2064",
+            "id": "node/-2036",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "29",
+                "contact:email": "trine@rcas.no",
                 "contact:phone": "61174667",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +41,7 @@
                 "operator": "Trollhaugen Barnehagestiftelse",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-2064"
+                "id": "node/-2036"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +53,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2062",
+            "id": "node/-2034",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "95",
                 "contact:email": "elisabeth.henriksveen@gjovik.kommune.no",
                 "contact:phone": "61 18 99 30",
                 "contact:website": "http://www.tongjordet.bhg.gjovik.no",
@@ -65,7 +67,7 @@
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-2062"
+                "id": "node/-2034"
             },
             "geometry": {
                 "type": "Point",
@@ -77,20 +79,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2061",
+            "id": "node/-2033",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
-                "contact:email": "post@sopp.no",
+                "capacity": "37",
+                "contact:email": "soppbarnehage.gjovik@sopp.no",
                 "contact:phone": "55104",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Studentsamskipnaden i Trondheim Sopp barnehage Gjøvik",
+                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim Sopp barnehage Gjøvik",
                 "no-barnehage:nsrid": "1015500",
                 "operator": "Studentsamskipnaden i Trondheim",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-2061"
+                "id": "node/-2033"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +104,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2046",
+            "id": "node/-2018",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "51",
+                "contact:email": "gunn.ryland@gjovik.kommune.no",
                 "contact:phone": "61 18 74 40",
                 "max_age": "5",
                 "min_age": "1",
@@ -114,7 +117,7 @@
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-2046"
+                "id": "node/-2018"
             },
             "geometry": {
                 "type": "Point",
@@ -126,10 +129,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2045",
+            "id": "node/-2017",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "59",
+                "contact:email": "fredvika@steinerbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fredvika barnehage",
@@ -137,7 +141,7 @@
                 "operator": "Stiftelsen Fredvika Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1996-08-01",
-                "id": "node/-2045"
+                "id": "node/-2017"
             },
             "geometry": {
                 "type": "Point",
@@ -149,10 +153,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2041",
+            "id": "node/-2013",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
+                "contact:email": "bodil.engen@gjovik.kommune.no",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Båthavna barnehage",
@@ -160,7 +165,7 @@
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
                 "start_date": "2006-08-01",
-                "id": "node/-2041"
+                "id": "node/-2013"
             },
             "geometry": {
                 "type": "Point",

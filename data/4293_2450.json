@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2932",
+            "id": "node/-2905",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "26",
+                "contact:email": "haavard@portveien.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Portveien Barnehagedrift AS Avd Fevik",
@@ -14,7 +15,7 @@
                 "operator": "Portveien Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "2000-01-12",
-                "id": "node/-2932"
+                "id": "node/-2905"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2918",
+            "id": "node/-2891",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "50",
+                "contact:email": "post@grimstad.kirken.no",
                 "contact:phone": "37047212",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +40,7 @@
                 "operator": "Grimstad Kirkelige Fellesråd",
                 "operator:type": "private",
                 "start_date": "1976-01-01",
-                "id": "node/-2918"
+                "id": "node/-2891"
             },
             "geometry": {
                 "type": "Point",

@@ -3,17 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2565",
+            "id": "node/-2533",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "familienkosmo@online.no",
+                "contact:email": "silvia.kosmo@stifinnerenbarnehage.no",
                 "contact:phone": "932 87 374",
                 "name": "Åpen barnehage",
                 "no-barnehage:nsrid": "1022450",
                 "operator": "Silvia Kristoffersen Kosmo",
                 "operator:type": "private",
                 "start_date": "2014-03-01",
-                "id": "node/-2565"
+                "id": "node/-2533"
             },
             "geometry": {
                 "type": "Point",
@@ -25,10 +25,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2562",
+            "id": "node/-2530",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "35",
+                "contact:email": "may@trimveien-barnehage.net",
                 "contact:phone": "41 25 60 90",
                 "max_age": "5",
                 "min_age": "1",
@@ -37,7 +38,7 @@
                 "operator": "Trimveien barnehage Da",
                 "operator:type": "private",
                 "start_date": "2000-12-18",
-                "id": "node/-2562"
+                "id": "node/-2530"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +50,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2559",
+            "id": "node/-2527",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "125",
+                "capacity": "83",
+                "contact:email": "gry.jeanette.nilsen@horten.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Strandparken barnehage",
@@ -60,7 +62,7 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "2005-08-01",
-                "id": "node/-2559"
+                "id": "node/-2527"
             },
             "geometry": {
                 "type": "Point",
@@ -72,10 +74,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2551",
+            "id": "node/-2519",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
+                "contact:email": "ingeravdal@hotmail.com",
                 "contact:phone": "33 04 87 86",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +87,7 @@
                 "operator": "Lilaas Gård Barnehage, Inger Marie Semb Avdal",
                 "operator:type": "private",
                 "start_date": "1990-10-01",
-                "id": "node/-2551"
+                "id": "node/-2519"
             },
             "geometry": {
                 "type": "Point",
@@ -96,10 +99,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2545",
+            "id": "node/-2514",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "66",
+                "contact:email": "Ann.Christin.Haugseth@horten.kommune.no",
                 "contact:phone": "033047515",
                 "max_age": "5",
                 "min_age": "1",
@@ -108,7 +112,7 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2545"
+                "id": "node/-2514"
             },
             "geometry": {
                 "type": "Point",
@@ -120,10 +124,35 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2539",
+            "id": "node/-2512",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "138",
+                "contact:email": "styrer@baggerodbanen.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Baggerødbanen barnehage",
+                "no-barnehage:nsrid": "1025673",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "start_date": "2015-01-01",
+                "id": "node/-2512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46589,
+                    59.40471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2508",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:email": "post@barnas-barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnas barnehage AS",
@@ -131,7 +160,7 @@
                 "operator": "Barnas-Barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-03-04",
-                "id": "node/-2539"
+                "id": "node/-2508"
             },
             "geometry": {
                 "type": "Point",
@@ -143,10 +172,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2538",
+            "id": "node/-2507",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "23",
+                "contact:email": "cecia2@online.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Baggerød barnehage",
@@ -154,7 +184,7 @@
                 "operator": "Baggerød barnehage AS",
                 "operator:type": "private",
                 "start_date": "2000-02-04",
-                "id": "node/-2538"
+                "id": "node/-2507"
             },
             "geometry": {
                 "type": "Point",

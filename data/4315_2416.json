@@ -3,19 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2791",
+            "id": "node/-2757",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "4",
-                "contact:email": "enggrav.skole@skien.kommune.no",
+                "capacity": "2",
+                "contact:email": "post@enggrav.net",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Enggrav Skoles barnehage",
                 "no-barnehage:nsrid": "1014919",
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1996-04-01",
-                "id": "node/-2791"
+                "id": "node/-2757"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +27,35 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2790",
+            "id": "node/-2756",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
-                "contact:email": "borgestad.barnehage@skien.kommune.no",
+                "capacity": "77",
+                "contact:email": "kirsti.brenne@skien.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Buerflata barnehage",
+                "no-barnehage:nsrid": "1018428",
+                "operator": "Skien kommune",
+                "operator:type": "public",
+                "start_date": "2008-01-01",
+                "id": "node/-2756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66501,
+                    59.1653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2755",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "charlott.brekka@skien.kommune.no",
                 "contact:phone": "003027520",
                 "max_age": "5",
                 "min_age": "1",
@@ -40,7 +64,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2790"
+                "id": "node/-2755"
             },
             "geometry": {
                 "type": "Point",

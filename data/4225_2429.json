@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3649",
+            "id": "node/-3608",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -17,7 +17,7 @@
                 "operator": "Skadberg barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2005-01-27",
-                "id": "node/-3649"
+                "id": "node/-3608"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3633",
+            "id": "node/-3593",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "64",
+                "contact:email": "marit.klepp@sola.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eikeberget barnehage",
@@ -40,7 +41,7 @@
                 "operator": "Sola kommune",
                 "operator:type": "public",
                 "start_date": "2007-08-15",
-                "id": "node/-3633"
+                "id": "node/-3593"
             },
             "geometry": {
                 "type": "Point",
@@ -52,10 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3371",
+            "id": "node/-3333",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "20",
+                "contact:email": "naturbhg@start.no",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Soma Gård Naturbarnehage",
@@ -63,7 +65,7 @@
                 "operator": "Herredsvela Private barnehage",
                 "operator:type": "private",
                 "start_date": "2001-03-07",
-                "id": "node/-3371"
+                "id": "node/-3333"
             },
             "geometry": {
                 "type": "Point",

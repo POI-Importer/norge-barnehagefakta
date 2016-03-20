@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4631",
+            "id": "node/-4579",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "62",
+                "contact:email": "bour@orskog.kommune.no",
                 "contact:phone": "70 27 10 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Ørskog kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-4631"
+                "id": "node/-4579"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4630",
+            "id": "node/-4578",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "23",
+                "capacity": "19",
+                "contact:email": "vaksvik.barnehage@orskog.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vaksvik barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Ørskog kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-4630"
+                "id": "node/-4578"
             },
             "geometry": {
                 "type": "Point",

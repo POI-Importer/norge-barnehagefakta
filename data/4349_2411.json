@@ -3,10 +3,60 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-78",
+            "id": "node/-95",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "98",
+                "capacity": "24",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "63 94 62 50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Bamsebo",
+                "no-barnehage:nsrid": "1019772",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1989-01-01",
+                "id": "node/-95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11895,
+                    59.27746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-77",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "annkarinreiersen@hotmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Baneveien barnehage Avd Mobakken",
+                "no-barnehage:nsrid": "1025948",
+                "operator": "Baneveien barnehage AS",
+                "operator:type": "private",
+                "start_date": "2015-05-01",
+                "id": "node/-77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13251,
+                    59.27433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-76",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:email": "post@baneveienbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Baneveien barnehage Avd Baneveien",
@@ -14,7 +64,7 @@
                 "operator": "Baneveien barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-01-31",
-                "id": "node/-78"
+                "id": "node/-76"
             },
             "geometry": {
                 "type": "Point",

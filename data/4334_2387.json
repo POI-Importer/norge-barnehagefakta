@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-703",
+            "id": "node/-701",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "15",
+                "contact:email": "anne.davidsen@asker.kirken.no",
                 "contact:phone": "66794624",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Asker Kirkelige Fellesråd",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-703"
+                "id": "node/-701"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-699",
+            "id": "node/-695",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -40,7 +41,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1992-07-01",
-                "id": "node/-699"
+                "id": "node/-695"
             },
             "geometry": {
                 "type": "Point",
@@ -52,11 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-692",
+            "id": "node/-688",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
-                "contact:email": "rektor@vollenmontessore.no",
+                "contact:email": "barnehagen@vollenmontessori.no",
                 "contact:phone": "66 98 71 20",
                 "contact:website": "http://www.vollenmontessori.no",
                 "max_age": "5",
@@ -66,7 +67,7 @@
                 "operator": "Stiftelsen Vollen Montessoribarnehage",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-692"
+                "id": "node/-688"
             },
             "geometry": {
                 "type": "Point",
@@ -78,10 +79,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-682",
+            "id": "node/-677",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
+                "capacity": "88",
+                "contact:email": "nilsemarka.bhg@norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nilsemarka barnehage",
@@ -89,7 +91,7 @@
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
                 "start_date": "2008-09-11",
-                "id": "node/-682"
+                "id": "node/-677"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +103,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-678",
+            "id": "node/-673",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -115,7 +117,7 @@
                 "operator": "Nansentunet Musikkbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-06-26",
-                "id": "node/-678"
+                "id": "node/-673"
             },
             "geometry": {
                 "type": "Point",
@@ -127,10 +129,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-652",
+            "id": "node/-644",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "92",
+                "capacity": "95",
+                "contact:email": "styrer@blakstad.espira.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Espira Blakstad barnehage",
@@ -138,7 +141,7 @@
                 "operator": "Espira Blakstad AS",
                 "operator:type": "private",
                 "start_date": "2005-05-01",
-                "id": "node/-652"
+                "id": "node/-644"
             },
             "geometry": {
                 "type": "Point",

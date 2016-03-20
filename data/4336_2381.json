@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-527",
+            "id": "node/-519",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
+                "contact:email": "cecilie.intelhus@baerum.kommune.no",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Hosle barnehage Avd Klubbhuset",
@@ -14,7 +15,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2009-01-01",
-                "id": "node/-527"
+                "id": "node/-519"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-526",
+            "id": "node/-518",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "95",
+                "capacity": "94",
+                "contact:email": "cecilie.intelhus@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hosle barnehage Avd Hosle",
@@ -37,7 +39,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-01",
-                "id": "node/-526"
+                "id": "node/-518"
             },
             "geometry": {
                 "type": "Point",
@@ -49,24 +51,25 @@
         },
         {
             "type": "Feature",
-            "id": "node/-459",
+            "id": "node/-454",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "103",
+                "contact:email": "hanne@barnehagenvaar.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Barnehagenvår Granåsen",
-                "no-barnehage:nsrid": "1016497",
+                "name": "Barnehagenvår Hosletoppen",
+                "no-barnehage:nsrid": "1025883",
                 "operator": "Theas Bærum AS",
                 "operator:type": "private",
-                "start_date": "2003-01-30",
-                "id": "node/-459"
+                "start_date": "2015-05-04",
+                "id": "node/-454"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.5889,
-                    59.9371
+                    10.58616,
+                    59.94175
                 ]
             }
         }

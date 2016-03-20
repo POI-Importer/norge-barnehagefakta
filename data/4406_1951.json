@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5677",
+            "id": "node/-5616",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "41",
+                "capacity": "43",
+                "contact:email": "anne.olsen@lofoten-industri.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Multemyra barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Lofoten Industri AS",
                 "operator:type": "private",
                 "start_date": "2004-08-01",
-                "id": "node/-5677"
+                "id": "node/-5616"
             },
             "geometry": {
                 "type": "Point",
@@ -26,15 +27,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5675",
+            "id": "node/-5614",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "tor.ivar.saupstad@vestvagoy.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Leknes Midlertidige barnehage",
                 "no-barnehage:nsrid": "1026039",
                 "operator": "Vestvågøy kommune",
                 "operator:type": "public",
                 "start_date": "2015-07-01",
-                "id": "node/-5675"
+                "id": "node/-5614"
             },
             "geometry": {
                 "type": "Point",
@@ -46,11 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5671",
+            "id": "node/-5610",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
-                "contact:email": "fygle@barnehage.no",
+                "capacity": "31",
+                "contact:email": "stiei-sa@online.no",
                 "contact:phone": "76 08 83 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -59,7 +64,7 @@
                 "operator": "Fygle barnehage",
                 "operator:type": "private",
                 "start_date": "2006-05-23",
-                "id": "node/-5671"
+                "id": "node/-5610"
             },
             "geometry": {
                 "type": "Point",
@@ -71,10 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5668",
+            "id": "node/-5607",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "53",
+                "capacity": "57",
+                "contact:email": "bjornhaugen.barnehage@norlandiabarnehagene.no",
                 "contact:phone": "76 05 40 18",
                 "max_age": "5",
                 "min_age": "1",
@@ -83,7 +89,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1993-01-07",
-                "id": "node/-5668"
+                "id": "node/-5607"
             },
             "geometry": {
                 "type": "Point",

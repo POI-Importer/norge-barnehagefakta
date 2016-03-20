@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5277",
+            "id": "node/-5220",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "32",
+                "contact:email": "anders.westoo@stjordal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skjelstadmark Oppvekstsenter Avd Skjelstadmark Barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5277"
+                "id": "node/-5220"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5263",
+            "id": "node/-5206",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "85",
+                "capacity": "81",
+                "contact:email": "laila.skjei@stjordal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hegra barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1983-09-01",
-                "id": "node/-5263"
+                "id": "node/-5206"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5257",
+            "id": "node/-5200",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
+                "contact:email": "toril.irene.rodde@stjordal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forradal Oppvekstsenter Avd Forradal Barnehage",
@@ -60,7 +63,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-5257"
+                "id": "node/-5200"
             },
             "geometry": {
                 "type": "Point",

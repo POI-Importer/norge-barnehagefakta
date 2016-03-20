@@ -3,10 +3,36 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5478",
+            "id": "node/-5421",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
+                "capacity": "22",
+                "contact:email": "nina.engdahl@outlook.com",
+                "contact:phone": "908 36 822",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hoppensprett Narvik AS",
+                "no-barnehage:nsrid": "1021566",
+                "operator": "Hoppensprett Narvik AS",
+                "operator:type": "private",
+                "start_date": "2007-03-01",
+                "id": "node/-5421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4615,
+                    68.44604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5419",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "furubh@start.no",
                 "contact:phone": "76 94 04 44",
                 "contact:website": "http://www.furutoppen-barnehage.com",
                 "max_age": "5",
@@ -16,7 +42,7 @@
                 "operator": "Narvik Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "1993-06-04",
-                "id": "node/-5478"
+                "id": "node/-5419"
             },
             "geometry": {
                 "type": "Point",

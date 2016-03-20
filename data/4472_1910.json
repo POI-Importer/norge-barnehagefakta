@@ -3,30 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5881",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Småtroll Harstad AS",
-                "no-barnehage:nsrid": "1026038",
-                "operator": "Småtroll Harstad AS",
-                "operator:type": "private",
-                "start_date": "2015-06-29",
-                "id": "node/-5881"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.54326,
-                    68.81256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5860",
+            "id": "node/-5793",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
+                "contact:email": "anne.grete.sorensen@harstad.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fargeklatten Barnehager Avd Hagebyen",
@@ -34,7 +15,7 @@
                 "operator": "Harstad kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-5860"
+                "id": "node/-5793"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5859",
+            "id": "node/-5792",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
+                "contact:email": "anne.grete.Sorensen@harstad.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fargeklatten Barnehager Avd Barnely",
@@ -57,7 +39,7 @@
                 "operator": "Harstad kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-5859"
+                "id": "node/-5792"
             },
             "geometry": {
                 "type": "Point",

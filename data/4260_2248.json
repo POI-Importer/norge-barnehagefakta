@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4501",
+            "id": "node/-4452",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "20",
+                "contact:email": "GRETA.KRISTENSEN@MOLDE.KOMMUNE.NO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Øvre Bergmo barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Molde kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-4501"
+                "id": "node/-4452"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4500",
+            "id": "node/-4451",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
+                "contact:email": "overland@mobarn.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Øverland barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Mobarn Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4500"
+                "id": "node/-4451"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4493",
+            "id": "node/-4444",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "52",
+                "contact:email": "randi.brokstad@mobo.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Norbyen barnehage",
@@ -60,7 +63,7 @@
                 "operator": "Mobarn Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-4493"
+                "id": "node/-4444"
             },
             "geometry": {
                 "type": "Point",
@@ -72,10 +75,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4492",
+            "id": "node/-4443",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "18",
+                "contact:email": "randi.brokstad@mobo.no",
                 "contact:phone": "71253388",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +88,7 @@
                 "operator": "Mårskrenten Borettslag",
                 "operator:type": "private",
                 "start_date": "1990-04-01",
-                "id": "node/-4492"
+                "id": "node/-4443"
             },
             "geometry": {
                 "type": "Point",

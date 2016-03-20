@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2324",
+            "id": "node/-2294",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "42",
                 "contact:email": "kari-loken.thorsen@kongsberg.kommune.no",
                 "contact:phone": "48166179",
                 "contact:website": "http://www.kongsberg.kommune.no/Tjenester/Oppvekst/Kommunale-barnehager/Kommunale-barnehager/Vibehaugen",
@@ -17,7 +17,7 @@
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
                 "start_date": "2011-08-01",
-                "id": "node/-2324"
+                "id": "node/-2294"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2321",
+            "id": "node/-2291",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
+                "contact:email": "styrer@stuffen.no",
                 "contact:phone": "995 09 316",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Sølvstuffen AS",
                 "operator:type": "private",
                 "start_date": "2007-12-01",
-                "id": "node/-2321"
+                "id": "node/-2291"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2320",
+            "id": "node/-2290",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "63",
+                "contact:email": "inger.holmen@hbv.no",
                 "contact:phone": "032725500",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,7 +67,7 @@
                 "operator": "Studentsamskipnaden i Sørøst-Norge",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2320"
+                "id": "node/-2290"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +79,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2317",
+            "id": "node/-2288",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
+                "contact:email": "post@skytterlokkabarnehage.no",
                 "contact:phone": "45 95 60 70",
                 "contact:website": "http://www.skytterlokkabarnehage.no",
                 "max_age": "5",
@@ -90,7 +93,7 @@
                 "operator": "Skytterløkka barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-2317"
+                "id": "node/-2288"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +105,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2315",
+            "id": "node/-2286",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "41",
                 "contact:email": "kaja.nicolaysen@kongsberg.kommune.no",
                 "contact:phone": "32732451",
                 "max_age": "5",
@@ -115,7 +118,7 @@
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2315"
+                "id": "node/-2286"
             },
             "geometry": {
                 "type": "Point",
@@ -127,10 +130,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2311",
+            "id": "node/-2282",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "55",
                 "contact:email": "leder@raumyrbarnehage.no",
                 "contact:phone": "32 72 27 42",
                 "max_age": "5",
@@ -140,7 +143,7 @@
                 "operator": "Raumyr barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1999-10-31",
-                "id": "node/-2311"
+                "id": "node/-2282"
             },
             "geometry": {
                 "type": "Point",
@@ -152,10 +155,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2302",
+            "id": "node/-2273",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "36",
+                "capacity": "33",
                 "contact:email": "kongsbergmontessori@gmail.com",
                 "contact:phone": "32 76 42 53",
                 "contact:website": "http://kongsbergmontessoribarnehage.no",
@@ -166,7 +169,7 @@
                 "operator": "Kongsberg Montessori barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2006-11-01",
-                "id": "node/-2302"
+                "id": "node/-2273"
             },
             "geometry": {
                 "type": "Point",
@@ -178,10 +181,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2301",
+            "id": "node/-2272",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "janne.fiskum@kischool.org",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Kongsberg International Preschool",
@@ -189,7 +193,7 @@
                 "operator": "Kongsberg International Preschool",
                 "operator:type": "private",
                 "start_date": "2009-03-04",
-                "id": "node/-2301"
+                "id": "node/-2272"
             },
             "geometry": {
                 "type": "Point",
@@ -201,16 +205,43 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2294",
+            "id": "node/-2269",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "kari@dampsagabhg.no",
+                "capacity": "61",
+                "contact:email": "kaja.nicolaysen@kongsberg.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Idrettsparken barnehage",
+                "no-barnehage:nsrid": "1025700",
+                "operator": "Kongsberg kommune",
+                "operator:type": "public",
+                "start_date": "2015-08-01",
+                "id": "node/-2269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.628336,
+                    59.67959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2264",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "102",
+                "contact:email": "margit@dampsagabhg.no",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Dampsaga barnehage AS",
                 "no-barnehage:nsrid": "1026167",
                 "operator": "Dampsaga barnehage AS",
                 "operator:type": "private",
                 "start_date": "2015-08-01",
-                "id": "node/-2294"
+                "id": "node/-2264"
             },
             "geometry": {
                 "type": "Point",

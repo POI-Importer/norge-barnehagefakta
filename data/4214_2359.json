@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4255",
+            "id": "node/-4210",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "63",
+                "contact:email": "myrane@kanvas.no",
                 "contact:phone": "22 40 58 40",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4255"
+                "id": "node/-4210"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4251",
+            "id": "node/-4206",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "101",
+                "capacity": "104",
+                "contact:email": "post@kleppebarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kleppe barnehage AS",
@@ -38,7 +40,7 @@
                 "operator": "Kleppe barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-02-08",
-                "id": "node/-4251"
+                "id": "node/-4206"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4249",
+            "id": "node/-4204",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "52",
+                "contact:email": "eb@haugen-barnehage.no",
                 "contact:phone": "56 14 46 06",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +65,7 @@
                 "operator": "Haugen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2001-09-01",
-                "id": "node/-4249"
+                "id": "node/-4204"
             },
             "geometry": {
                 "type": "Point",
@@ -74,11 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4240",
+            "id": "node/-4195",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:email": "kontor@laringsverkstedet.no",
+                "capacity": "70",
+                "contact:email": "lene.mjelstad@duogjegbarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Du og Jeg Sør",
@@ -86,7 +89,7 @@
                 "operator": "Du og Jeg Krokåsfeltet Nord AS",
                 "operator:type": "private",
                 "start_date": "2005-02-14",
-                "id": "node/-4240"
+                "id": "node/-4195"
             },
             "geometry": {
                 "type": "Point",

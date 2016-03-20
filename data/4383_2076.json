@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5520",
+            "id": "node/-5460",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "38",
+                "contact:email": "gunnvor.antonsen@alstahaug.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sandnes barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Alstahaug kommune",
                 "operator:type": "public",
                 "start_date": "2005-05-18",
-                "id": "node/-5520"
+                "id": "node/-5460"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5516",
+            "id": "node/-5457",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "post@graakallenbarnehage.no",
+                "capacity": "17",
+                "contact:email": "bente@graakallenbarnehage.no",
                 "contact:phone": "75041554",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +40,7 @@
                 "operator": "Gråkallen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5516"
+                "id": "node/-5457"
             },
             "geometry": {
                 "type": "Point",

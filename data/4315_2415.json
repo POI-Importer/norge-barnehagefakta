@@ -3,11 +3,61 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2788",
+            "id": "node/-2776",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "ballestad.barnehage@skien.kommune.no",
+                "capacity": "28",
+                "contact:email": "skauen.barnehage@delk.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skauen Kristelige barnehage",
+                "no-barnehage:nsrid": "1021337",
+                "operator": "Det Evangelisk-Lutherske Kirkesamfunn i Telemark",
+                "operator:type": "private",
+                "start_date": "2005-08-08",
+                "id": "node/-2776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.630417,
+                    59.19456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2765",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:email": "kapbarne@frisurf.no",
+                "contact:phone": "35520164",
+                "contact:website": "http://www.kapitelberget.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kapitelberget Natur - og Kulturbarnehage Sa",
+                "no-barnehage:nsrid": "1019997",
+                "operator": "Kapitelberget Natur - og Kulturbarnehage Sa",
+                "operator:type": "private",
+                "start_date": "1991-10-01",
+                "id": "node/-2765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.646118,
+                    59.19652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2753",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:email": "charlott.brekka@skien.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ballestad barnehage",
@@ -15,7 +65,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2788"
+                "id": "node/-2753"
             },
             "geometry": {
                 "type": "Point",

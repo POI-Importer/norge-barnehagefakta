@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4548",
+            "id": "node/-4496",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
+                "capacity": "82",
+                "contact:email": "leder.ase@asebarne.no",
                 "contact:phone": "70 17 86 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Åse barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-4548"
+                "id": "node/-4496"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4528",
+            "id": "node/-4477",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "35",
+                "contact:email": "lykkeliten@ludens.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lykkeliten barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Ludens Norge AS",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-4528"
+                "id": "node/-4477"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4527",
+            "id": "node/-4476",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
-                "contact:email": "postmottak@alesund.kommune.no",
+                "contact:email": "turid.lunde@alesund.kommune.no",
                 "contact:phone": "70162655",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,36 +65,13 @@
                 "operator": "Ålesund kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4527"
+                "id": "node/-4476"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.30698,
                     62.4678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4525",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "139",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kulur Åsemyra barnehage",
-                "no-barnehage:nsrid": "1022150",
-                "operator": "Accrington AS",
-                "operator:type": "private",
-                "start_date": "2011-01-01",
-                "id": "node/-4525"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.318653,
-                    62.46449
                 ]
             }
         }

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-189",
+            "id": "node/-187",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "72",
+                "contact:email": "trondalen@samvirkebarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trondalen barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Samvirkebarnehagene Sa",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-189"
+                "id": "node/-187"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-174",
+            "id": "node/-173",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "49",
+                "contact:email": "monika@skalabarnehage.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skala barnehage AS",
@@ -37,7 +39,7 @@
                 "operator": "Skala barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-02-28",
-                "id": "node/-174"
+                "id": "node/-173"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-163",
+            "id": "node/-162",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
+                "contact:email": "fredtun@nlmbhg.no",
                 "contact:phone": "69 32 89 74",
                 "max_age": "5",
                 "min_age": "1",
@@ -61,7 +64,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-163"
+                "id": "node/-162"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-161",
+            "id": "node/-160",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "42",
+                "contact:email": "dagligleder-kilen@naturbarna.no",
                 "contact:phone": "069329880",
                 "max_age": "5",
                 "min_age": "1",
@@ -85,7 +89,7 @@
                 "operator": "Naturbarna AS",
                 "operator:type": "private",
                 "start_date": "1995-02-20",
-                "id": "node/-161"
+                "id": "node/-160"
             },
             "geometry": {
                 "type": "Point",

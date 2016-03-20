@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4256",
+            "id": "node/-4211",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "96",
+                "capacity": "97",
+                "contact:email": "elisabeth@skogenbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nab Skogen barnehage AS",
@@ -14,7 +15,7 @@
                 "operator": "Nab Skogen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-06-01",
-                "id": "node/-4256"
+                "id": "node/-4211"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4247",
+            "id": "node/-4202",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "160",
-                "contact:email": "firmapost@gnistbarnehager.no",
+                "capacity": "174",
+                "contact:email": "leder.skogstunet@gronmyr.no",
                 "contact:phone": "40 00 65 96",
                 "contact:website": "http://www.gnistbarnehager.no",
                 "max_age": "5",
@@ -40,7 +41,7 @@
                 "operator": "Gnist Barnehager Skogstunet AS",
                 "operator:type": "private",
                 "start_date": "2009-05-15",
-                "id": "node/-4247"
+                "id": "node/-4202"
             },
             "geometry": {
                 "type": "Point",

@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3005",
+            "id": "node/-2976",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
-                "contact:email": "post@tybakken.no",
+                "contact:email": "postmaster@tybakken.no",
                 "contact:website": "http://www.tybakken.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -16,7 +16,7 @@
                 "operator": "Stiftelsen Tromøy Menighets Barnehager",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-3005"
+                "id": "node/-2976"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3003",
+            "id": "node/-2974",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "johnny.svensvik@arendal.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Tromøy Barnehageenhet, Fjellvik",
@@ -39,7 +40,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2009-12-01",
-                "id": "node/-3003"
+                "id": "node/-2974"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +52,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2993",
+            "id": "node/-2964",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "54",
                 "contact:email": "post@spornesbarn.no",
                 "contact:phone": "996 38 933",
                 "contact:website": "http://www.spornesbarn.no",
@@ -65,7 +66,7 @@
                 "operator": "Spornes Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2010-01-18",
-                "id": "node/-2993"
+                "id": "node/-2964"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +78,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2951",
+            "id": "node/-2923",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "20",
+                "contact:email": "blaaklokken@barnehage.no",
                 "contact:phone": "37086372",
                 "max_age": "5",
                 "min_age": "1",
@@ -89,7 +91,7 @@
                 "operator": "Blåklokken barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2951"
+                "id": "node/-2923"
             },
             "geometry": {
                 "type": "Point",

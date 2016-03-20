@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3176",
+            "id": "node/-3140",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
-                "contact:email": "veslefrikk.barnehage@kristiansand.kommune.no",
+                "capacity": "65",
+                "contact:email": "bjorg.askland@kristiansand.kommune.no",
                 "contact:phone": "38 10 36 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -16,7 +16,7 @@
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-3176"
+                "id": "node/-3140"
             },
             "geometry": {
                 "type": "Point",
@@ -28,15 +28,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3163",
+            "id": "node/-3127",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "esteinsland@gmail.com",
                 "name": "Søm Åpne barnehage",
                 "no-barnehage:nsrid": "1018363",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2004-01-01",
-                "id": "node/-3163"
+                "id": "node/-3127"
             },
             "geometry": {
                 "type": "Point",
@@ -48,11 +49,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3162",
+            "id": "node/-3126",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "33",
-                "contact:email": "som.barnehage@kristiansand.kommune.no",
+                "capacity": "32",
+                "contact:email": "karin.stromme@kristiansand.kommune.no",
                 "contact:phone": "38 10 36 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -61,7 +62,7 @@
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-3162"
+                "id": "node/-3126"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +74,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3156",
+            "id": "node/-3121",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "79",
+                "contact:email": "maria.korsvik@solkollen.no",
                 "contact:phone": "38 06 30 85",
                 "contact:website": "http://www.solkollen.no",
                 "max_age": "5",
@@ -86,7 +88,7 @@
                 "operator": "Solkollen barnehage Søm AS",
                 "operator:type": "private",
                 "start_date": "2005-08-20",
-                "id": "node/-3156"
+                "id": "node/-3121"
             },
             "geometry": {
                 "type": "Point",

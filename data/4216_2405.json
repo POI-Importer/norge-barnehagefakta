@@ -3,16 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-3509",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "aabhaugesund@kfuk-kfum.no",
                 "contact:phone": "047238950",
                 "name": "Åpen barnehage",
                 "no-barnehage:nsrid": "1020373",
                 "operator": "Haugesund Kfuk og Kfum",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-3547"
+                "id": "node/-3509"
             },
             "geometry": {
                 "type": "Point",
@@ -24,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3543",
+            "id": "node/-3505",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -38,7 +39,7 @@
                 "operator": "Stiftelsen Soria Moria Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3543"
+                "id": "node/-3505"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3541",
+            "id": "node/-3503",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
+                "contact:email": "aud.marion.lonning@haugesund.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "St. Olav barnehage",
@@ -61,7 +63,7 @@
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-3541"
+                "id": "node/-3503"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +75,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3540",
+            "id": "node/-3502",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
+                "contact:email": "studentbarnehagen@hsh.no",
                 "contact:phone": "51 887517",
                 "max_age": "5",
                 "min_age": "1",
@@ -85,7 +88,7 @@
                 "operator": "Studentsamskipnaden Stord/haugesund",
                 "operator:type": "private",
                 "start_date": "1994-07-28",
-                "id": "node/-3540"
+                "id": "node/-3502"
             },
             "geometry": {
                 "type": "Point",
@@ -97,11 +100,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3531",
+            "id": "node/-3492",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "86",
-                "contact:email": "dl.prestehaug@bhg.no",
+                "capacity": "87",
+                "contact:email": "dl.presthaug@bhg.no",
                 "contact:phone": "52 71 11 30",
                 "max_age": "5",
                 "min_age": "1",
@@ -110,7 +113,7 @@
                 "operator": "Presthaug Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-03-06",
-                "id": "node/-3531"
+                "id": "node/-3492"
             },
             "geometry": {
                 "type": "Point",
@@ -122,10 +125,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3528",
+            "id": "node/-3489",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
+                "contact:email": "hilde@lysskar.no",
                 "contact:phone": "52 72 79 11",
                 "contact:website": "http://www.lysskar.barnehage.no",
                 "max_age": "5",
@@ -135,7 +139,7 @@
                 "operator": "Lysskar barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2002-02-27",
-                "id": "node/-3528"
+                "id": "node/-3489"
             },
             "geometry": {
                 "type": "Point",
@@ -147,34 +151,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3527",
+            "id": "node/-3485",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
-                "contact:phone": "52 71 37 51",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Li-Te AS",
-                "no-barnehage:nsrid": "1022019",
-                "operator": "Li-Te AS",
-                "operator:type": "private",
-                "start_date": "2004-08-02",
-                "id": "node/-3527"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.29032,
-                    59.40165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3524",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "51",
                 "contact:email": "iogtbarn@barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -183,7 +163,7 @@
                 "operator": "Iogt Haugesund",
                 "operator:type": "private",
                 "start_date": "2005-08-15",
-                "id": "node/-3524"
+                "id": "node/-3485"
             },
             "geometry": {
                 "type": "Point",
@@ -195,10 +175,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3522",
+            "id": "node/-3483",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
+                "contact:email": "aase.fauske@haugesund.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hemmingstad barnehage",
@@ -206,7 +187,7 @@
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-3522"
+                "id": "node/-3483"
             },
             "geometry": {
                 "type": "Point",
@@ -218,10 +199,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3518",
+            "id": "node/-3479",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "63",
                 "contact:email": "post@fjellstemmen.no",
                 "contact:phone": "52714915",
                 "contact:website": "http://fjellstemmen.no",
@@ -232,7 +213,7 @@
                 "operator": "Fjellstemmen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1990-09-01",
-                "id": "node/-3518"
+                "id": "node/-3479"
             },
             "geometry": {
                 "type": "Point",
@@ -244,11 +225,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3516",
+            "id": "node/-3477",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
-                "contact:email": "post@espira.no",
+                "contact:email": "styrer@brasteintunet.espira.no",
                 "contact:phone": "52 84 50 20",
                 "contact:website": "http://www.espira.no",
                 "max_age": "5",
@@ -258,7 +239,7 @@
                 "operator": "Espira Bråsteintunet AS",
                 "operator:type": "private",
                 "start_date": "2008-12-05",
-                "id": "node/-3516"
+                "id": "node/-3477"
             },
             "geometry": {
                 "type": "Point",
@@ -270,10 +251,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3513",
+            "id": "node/-3473",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "85",
+                "capacity": "83",
                 "contact:email": "sa@anmba.no",
                 "contact:phone": "52 72 54 00",
                 "contact:website": "http://anm.barnehageside.no",
@@ -284,7 +265,7 @@
                 "operator": "Anna Nilssens Minne Sa",
                 "operator:type": "private",
                 "start_date": "2005-02-28",
-                "id": "node/-3513"
+                "id": "node/-3473"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5342",
+            "id": "node/-5285",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "35",
+                "contact:email": "marte.stiklestad@barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiklestad Gård- og Friluftsbarnehage AS",
@@ -14,7 +15,7 @@
                 "operator": "Stiklestad Gårds- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-02-26",
-                "id": "node/-5342"
+                "id": "node/-5285"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5330",
+            "id": "node/-5273",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
+                "capacity": "77",
+                "contact:email": "kari.reistad@verdal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forbregd-Lein barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Verdal kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-5330"
+                "id": "node/-5273"
             },
             "geometry": {
                 "type": "Point",

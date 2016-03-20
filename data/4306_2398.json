@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2831",
+            "id": "node/-2804",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
+                "contact:email": "ingerlise@kattekleiv.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Villamoen barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Kattekleiv barnehage AS",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-2831"
+                "id": "node/-2804"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2826",
+            "id": "node/-2799",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "54",
+                "contact:email": "randi.rorvik@notodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solhaug barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Notodden kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-2826"
+                "id": "node/-2799"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2823",
+            "id": "node/-2796",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "89",
+                "capacity": "91",
+                "contact:email": "tinnesmoen@nlmbhg.no",
                 "contact:phone": "35 01 25 30",
                 "max_age": "5",
                 "min_age": "1",
@@ -61,7 +64,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-2823"
+                "id": "node/-2796"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2822",
+            "id": "node/-2795",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "61",
+                "contact:email": "astri-johanne.aasen@notodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Meaksmoen barnehage",
@@ -84,7 +88,7 @@
                 "operator": "Notodden kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-2822"
+                "id": "node/-2795"
             },
             "geometry": {
                 "type": "Point",
@@ -96,10 +100,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2820",
+            "id": "node/-2793",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "32",
+                "capacity": "31",
+                "contact:email": "ingerlise@kattekleiv.no",
                 "contact:phone": "35 01 98 52",
                 "contact:website": "http://www.kattkleiv.no",
                 "max_age": "5",
@@ -109,13 +114,37 @@
                 "operator": "Kattekleiv barnehage AS",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-2820"
+                "id": "node/-2793"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.27028,
                     59.5597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2789",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:email": "barnehagen@betanianotodden.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Betania barnehage AS",
+                "no-barnehage:nsrid": "1022350",
+                "operator": "Betania barnehage AS",
+                "operator:type": "private",
+                "start_date": "2013-04-01",
+                "id": "node/-2789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.261346,
+                    59.56024
                 ]
             }
         }

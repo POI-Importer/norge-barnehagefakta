@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-418",
+            "id": "node/-414",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "heidi@carpediemstiftelsen.no",
                 "name": "Åpen barnehage Berger",
                 "no-barnehage:nsrid": "1013042",
                 "operator": "Nesodden Frivilligsentral",
                 "operator:type": "private",
                 "start_date": "2003-03-01",
-                "id": "node/-418"
+                "id": "node/-414"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-415",
+            "id": "node/-411",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "46",
+                "contact:email": "barnehage@startgropa.no",
                 "contact:phone": "66 91 30 96",
                 "contact:website": "http://www.startgropa.no",
                 "max_age": "5",
@@ -36,7 +38,7 @@
                 "operator": "Startgropa barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-08-09",
-                "id": "node/-415"
+                "id": "node/-411"
             },
             "geometry": {
                 "type": "Point",
@@ -48,11 +50,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-414",
+            "id": "node/-410",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
-                "contact:email": "solsikken@combitel.no",
+                "capacity": "61",
+                "contact:email": "annacamillas@gmail.com",
                 "contact:phone": "66 91 24 53",
                 "max_age": "5",
                 "min_age": "1",
@@ -61,7 +63,7 @@
                 "operator": "Stiftelsen Solsikken Steinerbarne- Hage",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-414"
+                "id": "node/-410"
             },
             "geometry": {
                 "type": "Point",
@@ -73,10 +75,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-411",
+            "id": "node/-407",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "66",
+                "contact:email": "tone.omdal@nesodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Oksval barnehage",
@@ -84,7 +87,7 @@
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-411"
+                "id": "node/-407"
             },
             "geometry": {
                 "type": "Point",
@@ -96,10 +99,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-406",
+            "id": "node/-403",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "133",
+                "capacity": "127",
+                "contact:email": "heidi.hansen@nesodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kongleveien barnehage",
@@ -107,7 +111,7 @@
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-406"
+                "id": "node/-403"
             },
             "geometry": {
                 "type": "Point",
@@ -119,10 +123,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-401",
+            "id": "node/-398",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "153",
+                "capacity": "148",
+                "contact:email": "rune.holmedal@nesodden.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heia barnehage",
@@ -130,7 +135,7 @@
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
                 "start_date": "2012-08-01",
-                "id": "node/-401"
+                "id": "node/-398"
             },
             "geometry": {
                 "type": "Point",
@@ -142,18 +147,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-392",
+            "id": "node/-389",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "17",
+                "contact:email": "bergerkollektivet@gmail.com",
                 "max_age": "5",
-                "min_age": "3",
+                "min_age": "1",
                 "name": "Bergerkollektivet barnehage",
                 "no-barnehage:nsrid": "1019675",
                 "operator": "Bergerkollektivet barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-392"
+                "id": "node/-389"
             },
             "geometry": {
                 "type": "Point",
@@ -165,11 +171,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-389",
+            "id": "node/-386",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
-                "contact:email": "askeladden.nesodden@gmail.com",
+                "contact:email": "askeladden.nesodden@gmail.no",
                 "contact:phone": "66960435",
                 "max_age": "5",
                 "min_age": "1",
@@ -178,7 +184,7 @@
                 "operator": "Askeladden barnehage",
                 "operator:type": "private",
                 "start_date": "1995-02-22",
-                "id": "node/-389"
+                "id": "node/-386"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5011",
+            "id": "node/-4959",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "61",
+                "contact:email": "brynhild1.henriksen@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Valset barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-5011"
+                "id": "node/-4959"
             },
             "geometry": {
                 "type": "Point",
@@ -26,16 +27,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4986",
+            "id": "node/-4934",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "post@mist.museum.no",
+                "contact:email": "marte.tveit@sverresborg.no",
                 "name": "Sverrestunet Åpen barnehage",
                 "no-barnehage:nsrid": "1019614",
                 "operator": "Trøndelag Folkemuseum Stiftelse",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-4986"
+                "id": "node/-4934"
             },
             "geometry": {
                 "type": "Point",
@@ -47,18 +48,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4985",
+            "id": "node/-4933",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
-                "max_age": "5",
+                "capacity": "24",
+                "contact:email": "thorstein.venas@trondheim.kommune.no",
+                "max_age": "2",
                 "min_age": "1",
                 "name": "Sverresli barnehage",
                 "no-barnehage:nsrid": "1017330",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1974-01-01",
-                "id": "node/-4985"
+                "id": "node/-4933"
             },
             "geometry": {
                 "type": "Point",
@@ -70,10 +72,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4983",
+            "id": "node/-4931",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "38",
+                "capacity": "28",
+                "contact:email": "pss@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Svalsberget barnehage",
@@ -81,7 +84,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2012-09-01",
-                "id": "node/-4983"
+                "id": "node/-4931"
             },
             "geometry": {
                 "type": "Point",
@@ -93,10 +96,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4906",
+            "id": "node/-4854",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
+                "contact:email": "hege.hansen@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Møllebakken barnehage",
@@ -104,7 +108,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4906"
+                "id": "node/-4854"
             },
             "geometry": {
                 "type": "Point",
@@ -116,10 +120,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4903",
+            "id": "node/-4851",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "post@musikkmanesjen.no",
+                "contact:email": "nora.kulset@ntnu.no",
                 "contact:phone": "95086983",
                 "contact:website": "http://www.musikkmanesjen.no",
                 "name": "Musikkmanesjen",
@@ -127,7 +131,7 @@
                 "operator": "Kulset Musikkmanesjen",
                 "operator:type": "private",
                 "start_date": "2007-01-01",
-                "id": "node/-4903"
+                "id": "node/-4851"
             },
             "geometry": {
                 "type": "Point",
@@ -139,10 +143,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4887",
+            "id": "node/-4835",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "47",
+                "contact:email": "bhg.hammersborg@laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Hammersborg",
@@ -150,7 +155,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2012-08-01",
-                "id": "node/-4887"
+                "id": "node/-4835"
             },
             "geometry": {
                 "type": "Point",
@@ -162,10 +167,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4857",
+            "id": "node/-4804",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
+                "contact:email": "ojulius@frisurf.no",
                 "contact:phone": "72557767",
                 "max_age": "5",
                 "min_age": "1",
@@ -174,7 +180,7 @@
                 "operator": "Julius barnehage AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4857"
+                "id": "node/-4804"
             },
             "geometry": {
                 "type": "Point",
@@ -186,10 +192,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4851",
+            "id": "node/-4798",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "66",
+                "contact:email": "monica.torsetnes@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ila barnehage",
@@ -197,7 +204,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-4851"
+                "id": "node/-4798"
             },
             "geometry": {
                 "type": "Point",
@@ -209,10 +216,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4844",
+            "id": "node/-4791",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "hhoems@online.no",
                 "contact:phone": "95164580",
                 "contact:website": "http://www.sverresborgallebarnehage.no",
                 "max_age": "5",
@@ -222,7 +230,7 @@
                 "operator": "Hila Drift AS",
                 "operator:type": "private",
                 "start_date": "2002-11-15",
-                "id": "node/-4844"
+                "id": "node/-4791"
             },
             "geometry": {
                 "type": "Point",
@@ -234,10 +242,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4817",
+            "id": "node/-4764",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "74",
+                "contact:email": "noc@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ferista Friluftsbarnehage",
@@ -245,7 +254,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-04-01",
-                "id": "node/-4817"
+                "id": "node/-4764"
             },
             "geometry": {
                 "type": "Point",
@@ -257,10 +266,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4816",
+            "id": "node/-4763",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
+                "capacity": "27",
                 "contact:email": "lkj@stavnebarnehage.no",
                 "contact:phone": "73 93 18 70",
                 "max_age": "5",
@@ -270,7 +279,7 @@
                 "operator": "Fagerlia Miljøbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2010-01-11",
-                "id": "node/-4816"
+                "id": "node/-4763"
             },
             "geometry": {
                 "type": "Point",
@@ -282,10 +291,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4806",
+            "id": "node/-4753",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
+                "contact:email": "thorstein.venas@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Cecilienborg barnehage",
@@ -293,7 +303,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-4806"
+                "id": "node/-4753"
             },
             "geometry": {
                 "type": "Point",

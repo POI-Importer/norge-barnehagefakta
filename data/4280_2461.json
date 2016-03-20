@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3139",
+            "id": "node/-3106",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "esteinsland@gmail.com",
                 "name": "Randesund Åpne barnehage",
                 "no-barnehage:nsrid": "1013447",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-3139"
+                "id": "node/-3106"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3138",
+            "id": "node/-3105",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "26",
+                "contact:email": "gaardsbarnehagen@gmail.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rakkerungan Gårdsbarnehage",
@@ -34,7 +36,7 @@
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "2008-01-01",
-                "id": "node/-3138"
+                "id": "node/-3105"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3094",
+            "id": "node/-3063",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "117",
+                "capacity": "120",
+                "contact:email": "fidje@laringsverkstedet.no",
                 "contact:phone": "63 94 62 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +61,7 @@
                 "operator": "Fidje barnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-06-29",
-                "id": "node/-3094"
+                "id": "node/-3063"
             },
             "geometry": {
                 "type": "Point",
@@ -70,10 +73,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3080",
+            "id": "node/-3049",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "17",
                 "contact:email": "blekkbhg@online.no",
                 "contact:phone": "38 04 07 77",
                 "max_age": "5",
@@ -83,7 +86,7 @@
                 "operator": "Blekkulf barnehage Ans",
                 "operator:type": "private",
                 "start_date": "1995-08-02",
-                "id": "node/-3080"
+                "id": "node/-3049"
             },
             "geometry": {
                 "type": "Point",

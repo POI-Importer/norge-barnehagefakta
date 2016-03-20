@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3198",
+            "id": "node/-3162",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "63",
+                "contact:email": "imekollen@barnehage.no",
                 "contact:phone": "38 26 33 08",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1979-03-09",
-                "id": "node/-3198"
+                "id": "node/-3162"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3187",
+            "id": "node/-3151",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "65",
+                "contact:email": "styrer@aarkjaer.espira.no",
                 "contact:phone": "38 26 14 25",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +41,7 @@
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1999-06-30",
-                "id": "node/-3187"
+                "id": "node/-3151"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-190",
+            "id": "node/-188",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "101",
+                "capacity": "100",
+                "contact:email": "bebl@fredrikstad.kommune.no",
                 "contact:phone": "069315486",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-190"
+                "id": "node/-188"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-175",
+            "id": "node/-174",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
+                "contact:email": "kent@aadalenbarnehager.no",
                 "contact:phone": "69 31 38 85",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +41,7 @@
                 "operator": "Ådalen Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-175"
+                "id": "node/-174"
             },
             "geometry": {
                 "type": "Point",
@@ -51,11 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-158",
+            "id": "node/-157",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "trosvik@laringsverkstedet.no",
+                "capacity": "81",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "contact:website": "http://laringsverkstedet.no/trosvik",
                 "max_age": "5",
                 "min_age": "1",
@@ -64,7 +66,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2003-08-28",
-                "id": "node/-158"
+                "id": "node/-157"
             },
             "geometry": {
                 "type": "Point",
@@ -76,10 +78,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-156",
+            "id": "node/-155",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "56",
+                "contact:email": "astrid@aadalenbarnehager.no",
                 "contact:phone": "069390238",
                 "max_age": "5",
                 "min_age": "1",
@@ -88,7 +91,7 @@
                 "operator": "Ådalen Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-156"
+                "id": "node/-155"
             },
             "geometry": {
                 "type": "Point",
@@ -125,10 +128,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-123",
+            "id": "node/-122",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "101",
+                "capacity": "100",
+                "contact:email": "benedicte@bamseby.no",
                 "contact:phone": "69 33 93 30",
                 "max_age": "5",
                 "min_age": "1",
@@ -137,7 +141,7 @@
                 "operator": "Benedicte Gundersen AS",
                 "operator:type": "private",
                 "start_date": "2005-01-01",
-                "id": "node/-123"
+                "id": "node/-122"
             },
             "geometry": {
                 "type": "Point",

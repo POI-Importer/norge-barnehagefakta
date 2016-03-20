@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1661",
+            "id": "node/-1642",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -16,7 +16,7 @@
                 "operator": "Stilla barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1661"
+                "id": "node/-1642"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1491",
+            "id": "node/-1477",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "78",
+                "contact:email": "Myrertoppen.bhg@norlandiacare.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Myrertoppen barnehage",
@@ -39,7 +40,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1998-01-20",
-                "id": "node/-1491"
+                "id": "node/-1477"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1490",
+            "id": "node/-1476",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
+                "contact:email": "myrer@kanvas.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Myrer Kanvas-Barnehage",
@@ -62,7 +64,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-1490"
+                "id": "node/-1476"
             },
             "geometry": {
                 "type": "Point",
@@ -74,10 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1343",
+            "id": "node/-1331",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "104",
+                "capacity": "102",
+                "contact:email": "kristin.uhre@bna.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kjelsås Skole barnehage",
@@ -85,7 +88,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2007-10-01",
-                "id": "node/-1343"
+                "id": "node/-1331"
             },
             "geometry": {
                 "type": "Point",
@@ -97,10 +100,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1272",
+            "id": "node/-1260",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "81",
+                "capacity": "82",
+                "contact:email": "britt-inger.stav@bna.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Haugensjordet barnehage",
@@ -108,7 +112,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1272"
+                "id": "node/-1260"
             },
             "geometry": {
                 "type": "Point",
@@ -120,10 +124,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1237",
+            "id": "node/-1226",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "70",
+                "capacity": "67",
+                "contact:email": "hege.trampe-kindt@bna.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gulldalen barnehage",
@@ -131,7 +136,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1997-09-01",
-                "id": "node/-1237"
+                "id": "node/-1226"
             },
             "geometry": {
                 "type": "Point",
@@ -143,10 +148,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1205",
+            "id": "node/-1195",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "10",
+                "contact:email": "furulunden.barnehage@live.no",
                 "contact:phone": "22 22 05 33",
                 "max_age": "5",
                 "min_age": "1",
@@ -155,7 +161,7 @@
                 "operator": "Furulunden Korttidsbarnehage Ans",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-1205"
+                "id": "node/-1195"
             },
             "geometry": {
                 "type": "Point",
@@ -167,15 +173,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1182",
+            "id": "node/-1172",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "trude.elisabeth@online.no",
                 "name": "Foreldreforeningen Regnbuen Åpen barnehage",
                 "no-barnehage:nsrid": "1020675",
                 "operator": "Foreldreforeningen Regnbuen Åpen barnehage",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-1182"
+                "id": "node/-1172"
             },
             "geometry": {
                 "type": "Point",
@@ -187,10 +194,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1155",
+            "id": "node/-1146",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
+                "contact:email": "TOVE.ORBAK@BNA.OSLO.KOMMUNE.NO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Engebråten barnehage",
@@ -198,7 +206,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2007-10-01",
-                "id": "node/-1155"
+                "id": "node/-1146"
             },
             "geometry": {
                 "type": "Point",

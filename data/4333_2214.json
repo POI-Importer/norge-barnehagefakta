@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5029",
+            "id": "node/-4978",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
+                "contact:email": "astrid.sorensen-rokke@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Aastahagen barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-5029"
+                "id": "node/-4978"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5010",
+            "id": "node/-4958",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "56",
+                "contact:email": "Britt.Monstad@Trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Valentinlyst barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-5010"
+                "id": "node/-4958"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5006",
+            "id": "node/-4954",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "40",
+                "contact:email": "toril.johansen@tyholttunet.no",
                 "contact:phone": "73595505",
                 "max_age": "5",
                 "min_age": "1",
@@ -61,7 +64,7 @@
                 "operator": "Sintef-Barnehagene Prestegårdsjordet og Tyholttunet Sa",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-5006"
+                "id": "node/-4954"
             },
             "geometry": {
                 "type": "Point",
@@ -73,19 +76,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5003",
+            "id": "node/-4951",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "12",
+                "capacity": "13",
+                "contact:email": "styrer@troabarnehage.no",
                 "contact:phone": "73 91 30 00",
-                "max_age": "5",
+                "max_age": "2",
                 "min_age": "1",
                 "name": "Trøa Eberg barnehage AS",
                 "no-barnehage:nsrid": "1021339",
                 "operator": "Trøa Eberg barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-09-01",
-                "id": "node/-5003"
+                "id": "node/-4951"
             },
             "geometry": {
                 "type": "Point",
@@ -97,10 +101,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4998",
+            "id": "node/-4946",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
+                "contact:email": "arne.kjos@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tordenskjold barnehage",
@@ -108,7 +113,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-4998"
+                "id": "node/-4946"
             },
             "geometry": {
                 "type": "Point",
@@ -120,10 +125,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4989",
+            "id": "node/-4937",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "46",
+                "contact:email": "heidi.kiel@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Teglverket barnehage",
@@ -131,7 +137,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4989"
+                "id": "node/-4937"
             },
             "geometry": {
                 "type": "Point",
@@ -143,10 +149,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4987",
+            "id": "node/-4935",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "45",
+                "contact:email": "saetra@saetra.no",
                 "contact:phone": "73 51 52 52",
                 "contact:website": "http://www.saetra.no/",
                 "max_age": "5",
@@ -156,7 +163,7 @@
                 "operator": "Sætra-Barnehage AS",
                 "operator:type": "private",
                 "start_date": "1990-11-01",
-                "id": "node/-4987"
+                "id": "node/-4935"
             },
             "geometry": {
                 "type": "Point",
@@ -168,10 +175,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4979",
+            "id": "node/-4927",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "26",
+                "contact:email": "sn-barne@online.no",
                 "contact:phone": "73 50 24 80",
                 "max_age": "5",
                 "min_age": "1",
@@ -180,7 +188,7 @@
                 "operator": "Stiftelsen Nrk - Marintek barnehage",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4979"
+                "id": "node/-4927"
             },
             "geometry": {
                 "type": "Point",
@@ -192,10 +200,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4923",
+            "id": "node/-4871",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "73",
+                "contact:email": "Heidi.Reese@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Persaunet barnehage",
@@ -203,7 +212,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4923"
+                "id": "node/-4871"
             },
             "geometry": {
                 "type": "Point",
@@ -215,10 +224,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4881",
+            "id": "node/-4829",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "76",
+                "contact:email": "heidi.kiel@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lidarende barnehage",
@@ -226,7 +236,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-4881"
+                "id": "node/-4829"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +248,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4847",
+            "id": "node/-4794",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -251,7 +261,7 @@
                 "operator": "Hundremeterskogen Bhg Sa",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4847"
+                "id": "node/-4794"
             },
             "geometry": {
                 "type": "Point",
@@ -263,10 +273,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4837",
+            "id": "node/-4784",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
+                "contact:email": "hagebyenbarnehage@gmail.com",
                 "contact:phone": "73915560",
                 "max_age": "5",
                 "min_age": "1",
@@ -275,7 +286,7 @@
                 "operator": "Hagebyen Private barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1993-08-01",
-                "id": "node/-4837"
+                "id": "node/-4784"
             },
             "geometry": {
                 "type": "Point",
@@ -287,10 +298,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4818",
+            "id": "node/-4765",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "63",
+                "contact:email": "vigdis.sather-halsli@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Festningen barnehage",
@@ -298,7 +310,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-4818"
+                "id": "node/-4765"
             },
             "geometry": {
                 "type": "Point",
@@ -310,10 +322,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4804",
+            "id": "node/-4751",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "140",
+                "capacity": "128",
+                "contact:email": "lise.garvik@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Brøset barnehage",
@@ -321,7 +334,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-07-01",
-                "id": "node/-4804"
+                "id": "node/-4751"
             },
             "geometry": {
                 "type": "Point",
@@ -333,10 +346,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4801",
+            "id": "node/-4748",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "57",
+                "contact:email": "Britt.Monstad@Trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bromstad barnehage",
@@ -344,7 +358,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4801"
+                "id": "node/-4748"
             },
             "geometry": {
                 "type": "Point",
@@ -356,11 +370,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4789",
+            "id": "node/-4736",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
-                "contact:email": "berg-bhg@asylselskapet.no",
+                "contact:email": "ljh@asylselskapet.no",
                 "contact:phone": "73 93 67 19",
                 "contact:website": "http://www.asylselskapet.no/berg",
                 "max_age": "5",
@@ -370,7 +384,7 @@
                 "operator": "Berg barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4789"
+                "id": "node/-4736"
             },
             "geometry": {
                 "type": "Point",
@@ -382,11 +396,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4788",
+            "id": "node/-4735",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:email": "berg-bhg@asylselskapet.no",
+                "capacity": "36",
+                "contact:email": "ljh@asylselskapet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Berg barnehage avd Øvre Bergsvingen",
@@ -394,7 +408,7 @@
                 "operator": "Berg barnehage",
                 "operator:type": "private",
                 "start_date": "2015-01-01",
-                "id": "node/-4788"
+                "id": "node/-4735"
             },
             "geometry": {
                 "type": "Point",

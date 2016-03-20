@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3148",
+            "id": "node/-3113",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "esteinsland@gmail.com",
                 "name": "Sentrum Åpne barnehage",
                 "no-barnehage:nsrid": "1018364",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2005-01-01",
-                "id": "node/-3148"
+                "id": "node/-3113"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3123",
+            "id": "node/-3091",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "kuholmen@laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Kuholmen",
@@ -34,7 +36,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "1995-03-29",
-                "id": "node/-3123"
+                "id": "node/-3091"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3116",
+            "id": "node/-3084",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "111",
+                "contact:email": "bhg.liantjonn@laringsverkstedet.no",
                 "contact:phone": "63 94 62 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +61,7 @@
                 "operator": "Liantjønn barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-07-06",
-                "id": "node/-3116"
+                "id": "node/-3084"
             },
             "geometry": {
                 "type": "Point",
@@ -70,10 +73,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3112",
+            "id": "node/-3081",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "53",
                 "contact:email": "kirsti.tellefsen@kristiansand.kommune.no",
                 "contact:phone": "38 10 34 30",
                 "max_age": "5",
@@ -83,7 +86,7 @@
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-3112"
+                "id": "node/-3081"
             },
             "geometry": {
                 "type": "Point",

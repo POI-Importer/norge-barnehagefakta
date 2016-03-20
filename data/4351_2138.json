@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5382",
+            "id": "node/-5325",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -11,12 +11,12 @@
                 "contact:phone": "74 39 34 40",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Tårnet barnehage",
+                "name": "T��rnet barnehage",
                 "no-barnehage:nsrid": "1014967",
                 "operator": "Vikna kommune",
                 "operator:type": "public",
                 "start_date": "1997-01-01",
-                "id": "node/-5382"
+                "id": "node/-5325"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5380",
+            "id": "node/-5323",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "29",
+                "contact:email": "post@rilbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ril barnehage",
@@ -39,7 +40,7 @@
                 "operator": "Rørvik Idrettslag",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-5380"
+                "id": "node/-5323"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5379",
+            "id": "node/-5321",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "33",
+                "contact:email": "post@heimenbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heimen barnehage AS",
@@ -62,7 +64,7 @@
                 "operator": "Heimen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-01-01",
-                "id": "node/-5379"
+                "id": "node/-5321"
             },
             "geometry": {
                 "type": "Point",
@@ -74,11 +76,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5377",
+            "id": "node/-5319",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:email": "elin.k.k@frisurf.no",
+                "capacity": "34",
+                "contact:email": "elin.k.k@online.no",
                 "contact:phone": "74 36 14 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -87,7 +89,7 @@
                 "operator": "Bergheim Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-07-22",
-                "id": "node/-5377"
+                "id": "node/-5319"
             },
             "geometry": {
                 "type": "Point",

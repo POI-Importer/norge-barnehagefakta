@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3240",
+            "id": "node/-3204",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "105",
+                "capacity": "107",
+                "contact:email": "sigrid@snomyra.no",
                 "contact:phone": "38 15 62 29",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Snømyra barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1993-02-01",
-                "id": "node/-3240"
+                "id": "node/-3204"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3238",
+            "id": "node/-3202",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "87",
+                "contact:email": "post@mariknotten.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mariknotten barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Filadelfiamenigheten Vennesla",
                 "operator:type": "private",
                 "start_date": "2004-08-25",
-                "id": "node/-3238"
+                "id": "node/-3202"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3237",
+            "id": "node/-3201",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "72",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Vennesla",
@@ -61,7 +64,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2010-03-01",
-                "id": "node/-3237"
+                "id": "node/-3201"
             },
             "geometry": {
                 "type": "Point",

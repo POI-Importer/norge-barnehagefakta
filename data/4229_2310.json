@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4420",
+            "id": "node/-4372",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "50",
+                "contact:email": "solvang.barnehage@gmail.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solvang barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Sunnfjord Folkehøgskule",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-4420"
+                "id": "node/-4372"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4418",
+            "id": "node/-4370",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
-                "contact:email": "haugum.barnehage@forde.kommune.no",
+                "capacity": "46",
+                "contact:email": "elin.hagen@forde.kommune.no",
                 "contact:phone": "57 72 44 40",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +40,7 @@
                 "operator": "Førde kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4418"
+                "id": "node/-4370"
             },
             "geometry": {
                 "type": "Point",

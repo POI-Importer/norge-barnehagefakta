@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3500",
+            "id": "node/-3460",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "52",
+                "contact:email": "toril.bergslien@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tyrihans barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1997-01-13",
-                "id": "node/-3500"
+                "id": "node/-3460"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3489",
+            "id": "node/-3450",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
+                "contact:email": "tron.kjetel.kjormo@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sørmarka Arena barnehage",
@@ -37,7 +39,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "2011-03-01",
-                "id": "node/-3489"
+                "id": "node/-3450"
             },
             "geometry": {
                 "type": "Point",
@@ -49,11 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3481",
+            "id": "node/-3442",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
-                "contact:email": "bukkenebruse@steinerbarnehagene.no",
+                "contact:email": "bukkenebruse@steinerbarnehage.no",
                 "contact:phone": "51 58 48 44",
                 "contact:website": "http://www.bukkenbruse.steinerbarnehagene.no",
                 "max_age": "5",
@@ -63,7 +65,7 @@
                 "operator": "Stiftelsen Steinerbarnehagen Bukkene Bruse",
                 "operator:type": "private",
                 "start_date": "1995-02-20",
-                "id": "node/-3481"
+                "id": "node/-3442"
             },
             "geometry": {
                 "type": "Point",
@@ -75,10 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3470",
+            "id": "node/-3431",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "94",
+                "capacity": "95",
+                "contact:email": "monica.kapstad@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sandvikveien barnehage",
@@ -86,7 +89,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "2009-01-01",
-                "id": "node/-3470"
+                "id": "node/-3431"
             },
             "geometry": {
                 "type": "Point",
@@ -98,11 +101,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3442",
+            "id": "node/-3404",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "capacity": "27",
+                "contact:email": "inger.lise.sorbo@stavanger.kommune.no",
                 "contact:phone": "51 58 67 67",
                 "max_age": "5",
                 "min_age": "1",
@@ -111,7 +114,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3442"
+                "id": "node/-3404"
             },
             "geometry": {
                 "type": "Point",
@@ -123,11 +126,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3441",
+            "id": "node/-3403",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "120",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "contact:email": "inger.lise.sorbo@stavanger.kommune.no",
                 "contact:phone": "51 58 73 25",
                 "max_age": "5",
                 "min_age": "1",
@@ -136,7 +139,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1965-12-31",
-                "id": "node/-3441"
+                "id": "node/-3403"
             },
             "geometry": {
                 "type": "Point",
@@ -148,10 +151,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3414",
+            "id": "node/-3376",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
+                "contact:email": "arne.maland@frelsesarmeen.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Frelsesarmeens Barnehager Avd Auglendsdalen",
@@ -159,7 +163,7 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "2008-08-01",
-                "id": "node/-3414"
+                "id": "node/-3376"
             },
             "geometry": {
                 "type": "Point",
@@ -171,15 +175,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3404",
+            "id": "node/-3366",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "post@dansehagen.com",
                 "name": "Dansehagen Åpen barnehage AS",
                 "no-barnehage:nsrid": "1020977",
                 "operator": "Dansehagen Åpen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-3404"
+                "id": "node/-3366"
             },
             "geometry": {
                 "type": "Point",
@@ -191,11 +196,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3387",
+            "id": "node/-3349",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "127",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "capacity": "125",
+                "contact:email": "bsjothun@stavanger.kommune.no",
                 "contact:phone": "51 90 56 17",
                 "max_age": "5",
                 "min_age": "1",
@@ -204,7 +209,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-3387"
+                "id": "node/-3349"
             },
             "geometry": {
                 "type": "Point",

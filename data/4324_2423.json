@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2719",
+            "id": "node/-2682",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "ingunn.hjelm@larvik.kommune.no",
                 "name": "Åpen barnehage Stavern",
                 "no-barnehage:nsrid": "1025680",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "2003-05-01",
-                "id": "node/-2719"
+                "id": "node/-2682"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2712",
+            "id": "node/-2675",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "38",
+                "capacity": "37",
+                "contact:email": "eva.sending@larvik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Varden barnehage",
@@ -34,7 +36,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2712"
+                "id": "node/-2675"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2701",
+            "id": "node/-2665",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "70",
+                "capacity": "71",
+                "contact:email": "ase.lill.evensen@larvik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solstad barnehage",
@@ -57,7 +60,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2701"
+                "id": "node/-2665"
             },
             "geometry": {
                 "type": "Point",
@@ -69,10 +72,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2699",
+            "id": "node/-2663",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "41",
+                "contact:email": "sjoparken@kanvas.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sjøparken Kanvas-Barnehage",
@@ -80,7 +84,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2010-08-01",
-                "id": "node/-2699"
+                "id": "node/-2663"
             },
             "geometry": {
                 "type": "Point",

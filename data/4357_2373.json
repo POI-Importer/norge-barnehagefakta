@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-986",
+            "id": "node/-981",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "72",
+                "contact:email": "grethe.skarerhogda@nes-ak.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Svarverud barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Nes kommune",
                 "operator:type": "public",
                 "start_date": "1977-08-01",
-                "id": "node/-986"
+                "id": "node/-981"
             },
             "geometry": {
                 "type": "Point",
@@ -26,15 +27,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-982",
+            "id": "node/-977",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "anne.lise.bruteig@nes-ak.kommune.no",
                 "name": "Nes kommune Familiens Hus Åpen Barnehage",
                 "no-barnehage:nsrid": "1016966",
                 "operator": "Nes kommune",
                 "operator:type": "public",
                 "start_date": "2005-08-01",
-                "id": "node/-982"
+                "id": "node/-977"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-978",
+            "id": "node/-973",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "53",
                 "contact:email": "husmo@barnehage.no",
                 "contact:phone": "63 91 00 95",
                 "contact:website": "http://www.husmobarnehage.no",
@@ -60,7 +62,7 @@
                 "operator": "Husmo barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1995-02-22",
-                "id": "node/-978"
+                "id": "node/-973"
             },
             "geometry": {
                 "type": "Point",

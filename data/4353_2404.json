@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-259",
+            "id": "node/-256",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
+                "capacity": "40",
+                "contact:email": "post@noahsarkbarnehage.no",
                 "contact:phone": "69 22 30 68",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Noahs Ark barnehage",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-259"
+                "id": "node/-256"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-257",
+            "id": "node/-254",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
-                "contact:email": "post@knertitten.no",
+                "capacity": "43",
+                "contact:email": "annika@knertitten.no",
                 "contact:phone": "69 22 76 46",
                 "contact:website": "http://www.knertitten.no",
                 "max_age": "5",
@@ -41,7 +42,7 @@
                 "operator": "Knertitten barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-01-01",
-                "id": "node/-257"
+                "id": "node/-254"
             },
             "geometry": {
                 "type": "Point",
@@ -53,11 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-253",
+            "id": "node/-250",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:email": "henriette.myhrvang@rakkestad.kommune.no",
+                "capacity": "34",
+                "contact:email": "heidi.magnus@rakkestad.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Elle Melle barnehage",
@@ -65,7 +66,7 @@
                 "operator": "Rakkestad kommune",
                 "operator:type": "public",
                 "start_date": "2010-04-20",
-                "id": "node/-253"
+                "id": "node/-250"
             },
             "geometry": {
                 "type": "Point",

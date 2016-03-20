@@ -6,7 +6,8 @@
             "id": "node/-1",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "34",
+                "contact:email": "alfheim@halden.net",
                 "contact:phone": "69 18 51 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -27,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-42",
+            "id": "node/-40",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -41,7 +42,7 @@
                 "operator": "Åkerholmen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2000-08-01",
-                "id": "node/-42"
+                "id": "node/-40"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-37",
+            "id": "node/-35",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "76",
+                "contact:email": "post@stenrod-barnehage.no",
                 "contact:phone": "69 17 81 90",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,7 +67,7 @@
                 "operator": "Stenrød barnehage AS",
                 "operator:type": "private",
                 "start_date": "1997-12-15",
-                "id": "node/-37"
+                "id": "node/-35"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +79,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-32",
+            "id": "node/-30",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "19",
+                "contact:email": "tormod@tdmbarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solbakken Naturbarnehage",
@@ -88,7 +91,7 @@
                 "operator": "Tdm Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1987-08-01",
-                "id": "node/-32"
+                "id": "node/-30"
             },
             "geometry": {
                 "type": "Point",
@@ -100,35 +103,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-31",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "nils@mags.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skogporten barnehage",
-                "no-barnehage:nsrid": "1015051",
-                "operator": "Noram-Trading AS",
-                "operator:type": "private",
-                "start_date": "2011-08-01",
-                "id": "node/-31"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.3939,
-                    59.1462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-30",
+            "id": "node/-29",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
-                "contact:email": "postmottak@skogkanten-barnehage.no",
+                "contact:email": "ingercecilie@barnehage.no",
                 "contact:phone": "69 17 99 17",
                 "contact:website": "http://www.skogkanten-barnehage.no",
                 "max_age": "5",
@@ -138,7 +117,7 @@
                 "operator": "Skogkanten Dyr & Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-11-04",
-                "id": "node/-30"
+                "id": "node/-29"
             },
             "geometry": {
                 "type": "Point",
@@ -150,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-26",
+            "id": "node/-25",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "27",
                 "contact:email": "nordby.gard@barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -162,7 +141,7 @@
                 "operator": "Nordby Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-07-01",
-                "id": "node/-26"
+                "id": "node/-25"
             },
             "geometry": {
                 "type": "Point",
@@ -174,10 +153,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-25",
+            "id": "node/-24",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "49",
+                "contact:email": "tryggheim.halden@nlmbhg.no",
                 "contact:phone": "69 18 00 25",
                 "max_age": "5",
                 "min_age": "1",
@@ -186,7 +166,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-25"
+                "id": "node/-24"
             },
             "geometry": {
                 "type": "Point",
@@ -198,10 +178,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-21",
+            "id": "node/-20",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "14",
+                "capacity": "12",
+                "contact:email": "lys@lysloypa.net",
                 "contact:phone": "69 17 69 44",
                 "max_age": "5",
                 "min_age": "1",
@@ -210,7 +191,7 @@
                 "operator": "Lysløypa barnehage AS",
                 "operator:type": "private",
                 "start_date": "1996-01-31",
-                "id": "node/-21"
+                "id": "node/-20"
             },
             "geometry": {
                 "type": "Point",

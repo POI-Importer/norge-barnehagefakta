@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-117",
+            "id": "node/-116",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -17,7 +17,7 @@
                 "operator": "Tyrihans barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-05-06",
-                "id": "node/-117"
+                "id": "node/-116"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-115",
+            "id": "node/-114",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
+                "contact:email": "tuneskipet@barnehage.no",
                 "contact:phone": "69 14 51 85",
                 "contact:website": "http://tuneskipet.no",
                 "max_age": "5",
@@ -42,7 +43,7 @@
                 "operator": "Tuneskipet barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-115"
+                "id": "node/-114"
             },
             "geometry": {
                 "type": "Point",
@@ -54,11 +55,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-114",
+            "id": "node/-113",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
-                "contact:email": "fakturamottak@borgbarn.no",
+                "contact:email": "merete@barnehagenett.no",
                 "contact:phone": "69 10 45 80",
                 "max_age": "5",
                 "min_age": "1",
@@ -67,7 +68,7 @@
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1990-08-01",
-                "id": "node/-114"
+                "id": "node/-113"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +80,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-112",
+            "id": "node/-111",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "108",
+                "capacity": "106",
+                "contact:email": "marit.samuelsen@sarpsborg.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tindlund barnehage",
@@ -90,7 +92,7 @@
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-112"
+                "id": "node/-111"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +104,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-98",
+            "id": "node/-97",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "70",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Hinkenhopp",
@@ -113,7 +116,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2004-05-05",
-                "id": "node/-98"
+                "id": "node/-97"
             },
             "geometry": {
                 "type": "Point",
@@ -125,10 +128,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-97",
+            "id": "node/-96",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "59",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "contact:phone": "69 13 91 90",
                 "max_age": "5",
                 "min_age": "1",
@@ -137,7 +141,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "1998-04-01",
-                "id": "node/-97"
+                "id": "node/-96"
             },
             "geometry": {
                 "type": "Point",
@@ -149,11 +153,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-88",
+            "id": "node/-87",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "104",
-                "contact:email": "fakturamottak@borgbarn.no",
+                "capacity": "105",
+                "contact:email": "solveig@barnehagenett.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hannestad barnehage",
@@ -161,7 +165,7 @@
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2008-08-25",
-                "id": "node/-88"
+                "id": "node/-87"
             },
             "geometry": {
                 "type": "Point",

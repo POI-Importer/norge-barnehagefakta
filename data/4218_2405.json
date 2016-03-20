@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3725",
+            "id": "node/-3683",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "67",
+                "contact:email": "marthe.amundsen@tysver.kommune.no",
                 "contact:phone": "52 75 79 10",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Tysvær kommune",
                 "operator:type": "public",
                 "start_date": "2003-01-01",
-                "id": "node/-3725"
+                "id": "node/-3683"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3723",
+            "id": "node/-3681",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "64",
+                "contact:email": "bente.halvorsen@tysver.kommune",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Førdesfjorden barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Tysvær kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3723"
+                "id": "node/-3681"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3719",
+            "id": "node/-3677",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "87",
-                "contact:email": "dl.hoievegen@bhg.no",
+                "contact:email": "dl.asparmarka@bhg.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Asparmarka Fus barnehage AS",
@@ -62,7 +64,7 @@
                 "operator": "Asparmarka Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-11-22",
-                "id": "node/-3719"
+                "id": "node/-3677"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-832",
+            "id": "node/-829",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -17,7 +17,7 @@
                 "operator": "Vangen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1990-10-01",
-                "id": "node/-832"
+                "id": "node/-829"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-830",
+            "id": "node/-827",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "49",
+                "capacity": "50",
+                "contact:email": "tretroll.bhg@norlandiabarnehagene.no",
                 "contact:phone": "67 90 60 32",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2003-05-20",
-                "id": "node/-830"
+                "id": "node/-827"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-814",
+            "id": "node/-811",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "46",
+                "contact:email": "margaretalia@laringsverkstedet.no",
                 "contact:phone": "63 94 62 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,7 +67,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "1995-06-13",
-                "id": "node/-814"
+                "id": "node/-811"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +79,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-799",
+            "id": "node/-797",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "74",
                 "contact:email": "fjellsrud.barnehage@lorenskog.kommune.no",
                 "contact:phone": "67 20 17 75",
                 "max_age": "5",
@@ -90,7 +92,7 @@
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-799"
+                "id": "node/-797"
             },
             "geometry": {
                 "type": "Point",
@@ -102,11 +104,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-798",
+            "id": "node/-796",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
-                "contact:email": "fjbh@lorenskog.kommune.no",
+                "contact:email": "jve@lorenskog.kommune.no",
                 "contact:phone": "67 98 21 10",
                 "max_age": "5",
                 "min_age": "1",
@@ -115,7 +117,7 @@
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-798"
+                "id": "node/-796"
             },
             "geometry": {
                 "type": "Point",
@@ -127,11 +129,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-793",
+            "id": "node/-791",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
-                "contact:email": "brbh@lorenskog.kommune.no",
+                "contact:email": "jve@lorenskog.kommune.no",
                 "contact:phone": "67 92 96 90",
                 "max_age": "5",
                 "min_age": "3",
@@ -140,7 +142,7 @@
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-793"
+                "id": "node/-791"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-377",
+            "id": "node/-374",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "46",
+                "contact:email": "solgry.barnehage@frelsesarmeen.no",
                 "contact:phone": "64 93 15 09",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-377"
+                "id": "node/-374"
             },
             "geometry": {
                 "type": "Point",
@@ -27,15 +28,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-372",
+            "id": "node/-369",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "postmottak@frogn.kommune.no",
                 "name": "Drøbak Åpen barnehage",
                 "no-barnehage:nsrid": "1013357",
                 "operator": "Frogn kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-01",
-                "id": "node/-372"
+                "id": "node/-369"
             },
             "geometry": {
                 "type": "Point",

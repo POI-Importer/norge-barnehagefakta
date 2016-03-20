@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4310",
+            "id": "node/-4264",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "75",
                 "contact:email": "solhaugen@barnehage.no",
                 "contact:phone": "56 36 20 60",
                 "contact:website": "http://www.solhaugen.barnehage.no",
@@ -17,7 +17,7 @@
                 "operator": "Solhaugen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-09-01",
-                "id": "node/-4310"
+                "id": "node/-4264"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4303",
+            "id": "node/-4257",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "49",
+                "capacity": "51",
+                "contact:email": "hamo@lindas.kommune.no",
                 "contact:phone": "56 37 50 62",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Lindås kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4303"
+                "id": "node/-4257"
             },
             "geometry": {
                 "type": "Point",

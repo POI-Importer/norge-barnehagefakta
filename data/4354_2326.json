@@ -3,34 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1982",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "5",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Hedmark Avd Studentbarnehage Sandmo",
-                "no-barnehage:nsrid": "1015907",
-                "operator": "Studentsamskipnaden i Hedmark",
-                "operator:type": "private",
-                "start_date": "1999-08-01",
-                "id": "node/-1982"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.3736,
-                    61.1354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1981",
+            "id": "node/-1954",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
-                "contact:email": "hwi@amot.kommune.no",
+                "contact:email": "ans@amot.kommune.no",
                 "contact:phone": "62 43 47 38",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +16,7 @@
                 "operator": "Åmot kommune",
                 "operator:type": "public",
                 "start_date": "1999-01-01",
-                "id": "node/-1981"
+                "id": "node/-1954"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1978",
+            "id": "node/-1951",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "25",
+                "contact:email": "klingen-nb@bbnett.no",
                 "contact:phone": "62441164",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +41,7 @@
                 "operator": "Klingen Naturbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "1979-02-13",
-                "id": "node/-1978"
+                "id": "node/-1951"
             },
             "geometry": {
                 "type": "Point",
@@ -75,10 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1976",
+            "id": "node/-1949",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
+                "capacity": "18",
+                "contact:email": "anita.stormoen@amot.kommune.no",
                 "contact:phone": "62 43 43 70",
                 "max_age": "5",
                 "min_age": "1",
@@ -87,7 +66,7 @@
                 "operator": "Åmot kommune",
                 "operator:type": "public",
                 "start_date": "2009-12-01",
-                "id": "node/-1976"
+                "id": "node/-1949"
             },
             "geometry": {
                 "type": "Point",

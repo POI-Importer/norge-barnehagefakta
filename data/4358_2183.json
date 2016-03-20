@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5201",
+            "id": "node/-5144",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "59",
+                "contact:email": "vegar@guldbergaunetforskole.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Guldbergaunet Førskole AS",
@@ -14,7 +15,7 @@
                 "operator": "Guldbergaunet Førskole AS",
                 "operator:type": "private",
                 "start_date": "2008-03-12",
-                "id": "node/-5201"
+                "id": "node/-5144"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5197",
+            "id": "node/-5140",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "Fagerheim.barnehage@steinkjer.kommune.no",
+                "capacity": "28",
+                "contact:email": "eli.saxegaard@steinkjer.kommune.no",
                 "contact:phone": "74 14 00 01",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +40,7 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "1994-08-01",
-                "id": "node/-5197"
+                "id": "node/-5140"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5195",
+            "id": "node/-5138",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "35",
+                "contact:email": "b-barneh@online.no",
                 "contact:phone": "74167877",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +65,7 @@
                 "operator": "Byafossen Kortidsbarnehage",
                 "operator:type": "private",
                 "start_date": "1978-12-21",
-                "id": "node/-5195"
+                "id": "node/-5138"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5194",
+            "id": "node/-5137",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Byafossen Kommunale Barenhage",
@@ -83,7 +85,7 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "2016-01-01",
-                "id": "node/-5194"
+                "id": "node/-5137"
             },
             "geometry": {
                 "type": "Point",

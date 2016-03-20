@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-192",
+            "id": "node/-190",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "67",
                 "contact:email": "dl.torkopp@bhg.no",
                 "contact:phone": "69 32 71 00",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Tørkopp Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-08-04",
-                "id": "node/-192"
+                "id": "node/-190"
             },
             "geometry": {
                 "type": "Point",
@@ -28,30 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-179",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "St Hans Fjellet barnehage",
-                "no-barnehage:nsrid": "1026341",
-                "operator": "Fredrikstad kommune",
-                "operator:type": "public",
-                "start_date": "2016-01-01",
-                "id": "node/-179"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.93586,
-                    59.21611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-177",
+            "id": "node/-176",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
+                "contact:email": "jean@fredrikstad.kommune.no",
                 "contact:phone": "069341066",
                 "max_age": "5",
                 "min_age": "1",
@@ -60,7 +41,7 @@
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-177"
+                "id": "node/-176"
             },
             "geometry": {
                 "type": "Point",
@@ -72,10 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-172",
+            "id": "node/-171",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "45",
+                "contact:email": "krossnes-toppen@barnehage.no",
                 "contact:phone": "91846411",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +66,7 @@
                 "operator": "Rs Team AS",
                 "operator:type": "private",
                 "start_date": "2007-02-12",
-                "id": "node/-172"
+                "id": "node/-171"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +81,8 @@
             "id": "node/-147",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "89",
+                "contact:email": "krakeby@samvirkebarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kråkeby barnehage",
@@ -123,6 +106,7 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
+                "contact:email": "aneh@fredrikstad.kommune.no",
                 "contact:phone": "069327599",
                 "max_age": "5",
                 "min_age": "1",
@@ -143,10 +127,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-129",
+            "id": "node/-128",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "33",
+                "capacity": "32",
+                "contact:email": "fredbarn@online.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Domkirken Menighetspleies barnehage",
@@ -154,7 +139,7 @@
                 "operator": "Domkirken Menighetspleies barnehage",
                 "operator:type": "private",
                 "start_date": "1980-01-01",
-                "id": "node/-129"
+                "id": "node/-128"
             },
             "geometry": {
                 "type": "Point",
@@ -166,16 +151,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-126",
+            "id": "node/-125",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "annkristin.ryen@blaakors.no",
                 "contact:phone": "69 31 48 66",
                 "name": "Blå Kors Fredrikstad Barnas Stasjon",
                 "no-barnehage:nsrid": "1018598",
                 "operator": "Stiftelsen Blå Kors Fredrikstad",
                 "operator:type": "private",
                 "start_date": "2007-01-01",
-                "id": "node/-126"
+                "id": "node/-125"
             },
             "geometry": {
                 "type": "Point",

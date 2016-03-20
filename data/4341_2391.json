@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-362",
+            "id": "node/-359",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
+                "contact:email": "tamburbakken@barnehage.no",
                 "contact:phone": "64946545",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Tamburbakken barnehage",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-362"
+                "id": "node/-359"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-358",
+            "id": "node/-355",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "135",
+                "capacity": "156",
+                "contact:email": "Cecilie.kolstad@as.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solbergtunet barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Ås kommune",
                 "operator:type": "public",
                 "start_date": "2010-08-01",
-                "id": "node/-358"
+                "id": "node/-355"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5589",
+            "id": "node/-5529",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
+                "contact:email": "bjorg.forseng@rana.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ytteren barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Rana kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-5589"
+                "id": "node/-5529"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5583",
+            "id": "node/-5523",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "57",
+                "contact:email": "mette@kirkebakken-barnehage.no",
                 "contact:phone": "75 16 84 45",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +40,7 @@
                 "operator": "Stiftelsen Kirkebakken barnehage",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-5583"
+                "id": "node/-5523"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3063",
+            "id": "node/-3033",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "15",
+                "capacity": "16",
+                "contact:email": "barnehagen@lekekassa.no",
                 "contact:phone": "37 93 37 27",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Lekekassa barnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-06-12",
-                "id": "node/-3063"
+                "id": "node/-3033"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3062",
+            "id": "node/-3032",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "62",
+                "contact:email": "kristin.haland@e-h.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hornnes barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Evje og Hornnes kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3062"
+                "id": "node/-3032"
             },
             "geometry": {
                 "type": "Point",

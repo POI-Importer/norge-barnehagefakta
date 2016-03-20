@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5327",
+            "id": "node/-5270",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "25",
+                "capacity": "27",
+                "contact:email": "bsu@levanger.kommune.no",
                 "contact:phone": "74053999",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Levanger kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5327"
+                "id": "node/-5270"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5299",
+            "id": "node/-5242",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
-                "contact:email": "post.bruse@barnehage.no",
+                "capacity": "64",
+                "contact:email": "post@brusebarnehage.no",
                 "contact:phone": "74 05 65 51",
                 "contact:website": "http://bruse.barnehage.no",
                 "max_age": "5",
@@ -41,7 +42,7 @@
                 "operator": "Bruse barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5299"
+                "id": "node/-5242"
             },
             "geometry": {
                 "type": "Point",

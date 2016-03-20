@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-312",
+            "id": "node/-310",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "75",
+                "contact:email": "kari.hagen@vestby.kommune.no",
                 "contact:phone": "40 42 63 20",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Vestby kommune",
                 "operator:type": "public",
                 "start_date": "2002-08-01",
-                "id": "node/-312"
+                "id": "node/-310"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-305",
+            "id": "node/-303",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "61",
+                "contact:email": "storebrevikbarnehage@gmail.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Store Brevik barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Vestby Stiftelsesbarnehager",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-305"
+                "id": "node/-303"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-304",
+            "id": "node/-302",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "76",
                 "contact:email": "dl.solasen@bhg.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +64,7 @@
                 "operator": "Solåsen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-02-17",
-                "id": "node/-304"
+                "id": "node/-302"
             },
             "geometry": {
                 "type": "Point",

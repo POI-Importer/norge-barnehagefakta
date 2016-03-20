@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-910",
+            "id": "node/-905",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
-                "contact:email": "post@toyenasen.no",
+                "contact:email": "liv@toyenasen.no",
                 "contact:phone": "67 07 61 69",
                 "contact:website": "http://www.toyenasen.no",
                 "max_age": "5",
@@ -17,7 +17,7 @@
                 "operator": "Tøyenåsen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-910"
+                "id": "node/-905"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-909",
+            "id": "node/-904",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "41",
+                "contact:email": "brit-tove.hjelmerud@nittedal.kommune.no",
                 "contact:phone": "67 07 47 35",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Nittedal kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-909"
+                "id": "node/-904"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-886",
+            "id": "node/-882",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "18",
+                "contact:email": "tove.nilssen@ula.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Glittre barnehage",
@@ -64,7 +66,7 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-886"
+                "id": "node/-882"
             },
             "geometry": {
                 "type": "Point",

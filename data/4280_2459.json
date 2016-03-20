@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3137",
+            "id": "node/-3104",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "24",
+                "capacity": "22",
+                "contact:email": "gaardsbarnehagen@gmail.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rakkerungan Barnehagedrift AS",
@@ -14,7 +15,7 @@
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "2004-05-01",
-                "id": "node/-3137"
+                "id": "node/-3104"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3107",
+            "id": "node/-3076",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:email": "jordbaerveien.barnehage@kristiansand.kommune.no",
+                "capacity": "66",
+                "contact:email": "elfrid.jortveit@kristiansand.kommune.no",
                 "contact:phone": "38 10 36 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +40,7 @@
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-3107"
+                "id": "node/-3076"
             },
             "geometry": {
                 "type": "Point",
@@ -51,15 +52,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3105",
+            "id": "node/-3074",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "esteinsland@gmail.com",
                 "name": "Hånes Åpne barnehage",
                 "no-barnehage:nsrid": "1013446",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2003-01-01",
-                "id": "node/-3105"
+                "id": "node/-3074"
             },
             "geometry": {
                 "type": "Point",

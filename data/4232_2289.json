@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4453",
+            "id": "node/-4405",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "11",
+                "capacity": "10",
+                "contact:email": "snokrystallen@gmail.com",
                 "contact:phone": "473 95 464",
                 "max_age": "2",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Snøkrystall AS",
                 "operator:type": "private",
                 "start_date": "2006-10-31",
-                "id": "node/-4453"
+                "id": "node/-4405"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4449",
+            "id": "node/-4401",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "136",
+                "capacity": "130",
+                "contact:email": "golvsengane@eid.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Golvsengane barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Eid kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-4449"
+                "id": "node/-4401"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4448",
+            "id": "node/-4400",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
-                "contact:email": "gjerdane.barnehage@eid.kommune.no",
+                "capacity": "52",
+                "contact:email": "gb@eid.kommune.no",
                 "contact:phone": "57861259",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +65,7 @@
                 "operator": "Eid kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-4448"
+                "id": "node/-4400"
             },
             "geometry": {
                 "type": "Point",
@@ -75,11 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4446",
+            "id": "node/-4398",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "81",
-                "contact:email": "eid@bhg.no",
+                "capacity": "79",
+                "contact:email": "eid@barnehage.no",
                 "contact:phone": "57 86 30 40",
                 "max_age": "5",
                 "min_age": "1",
@@ -88,7 +90,7 @@
                 "operator": "Eid barnehage AS",
                 "operator:type": "private",
                 "start_date": "1976-01-01",
-                "id": "node/-4446"
+                "id": "node/-4398"
             },
             "geometry": {
                 "type": "Point",

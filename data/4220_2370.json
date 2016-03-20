@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4185",
+            "id": "node/-4142",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "jan.frode.sandvik@bergen.kirken.no",
                 "name": "Osøyro Åpen barnehage",
                 "no-barnehage:nsrid": "1014083",
                 "operator": "Norges Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2009-12-01",
-                "id": "node/-4185"
+                "id": "node/-4142"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4184",
+            "id": "node/-4141",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "129",
+                "capacity": "124",
+                "contact:email": "eno@os-ho.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Os barnehage",
@@ -34,7 +36,7 @@
                 "operator": "Os kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4184"
+                "id": "node/-4141"
             },
             "geometry": {
                 "type": "Point",
@@ -46,10 +48,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4181",
+            "id": "node/-4138",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "109",
+                "capacity": "110",
+                "contact:email": "marielle@kulur.no",
                 "contact:phone": "56 30 96 00",
                 "contact:website": "http://www.kuvaagenbarnehage.no",
                 "max_age": "5",
@@ -59,7 +62,7 @@
                 "operator": "Kuvågen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-06-28",
-                "id": "node/-4181"
+                "id": "node/-4138"
             },
             "geometry": {
                 "type": "Point",
@@ -71,10 +74,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4178",
+            "id": "node/-4135",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "33",
+                "capacity": "32",
+                "contact:email": "flaatenbarn@gmail.com",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Flåten Naturbarnehage AS",
@@ -82,7 +86,7 @@
                 "operator": "Flåten Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-01-11",
-                "id": "node/-4178"
+                "id": "node/-4135"
             },
             "geometry": {
                 "type": "Point",

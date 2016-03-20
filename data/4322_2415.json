@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2717",
+            "id": "node/-2680",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "ingunn.hjelm@larvik.kommune.no",
                 "name": "Åpen barnehage Kvelde",
                 "no-barnehage:nsrid": "1025681",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "2004-09-16",
-                "id": "node/-2717"
+                "id": "node/-2680"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2709",
+            "id": "node/-2672",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "53",
+                "capacity": "54",
+                "contact:email": "heidi.bjork@larvik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tun barnehage",
@@ -34,7 +36,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2709"
+                "id": "node/-2672"
             },
             "geometry": {
                 "type": "Point",

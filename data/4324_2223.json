@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5158",
+            "id": "node/-5101",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "38",
+                "contact:email": "siri.leer@skaun.kommune.no",
                 "contact:phone": "72 86 80 18",
                 "contact:website": "http://www.skaun.kommune.no",
                 "max_age": "5",
@@ -16,7 +17,7 @@
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5158"
+                "id": "node/-5101"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5155",
+            "id": "node/-5099",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "30",
+                "contact:email": "astrid.gimseng@skaun.kommune.no",
                 "contact:phone": "72 86 29 35",
                 "max_age": "5",
                 "min_age": "1",
@@ -40,7 +42,7 @@
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "start_date": "1999-01-01",
-                "id": "node/-5155"
+                "id": "node/-5099"
             },
             "geometry": {
                 "type": "Point",

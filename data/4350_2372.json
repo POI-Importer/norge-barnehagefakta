@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3925",
+            "id": "node/-3880",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "95",
@@ -16,7 +16,7 @@
                 "operator": "Krokusbakken barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-02-01",
-                "id": "node/-3925"
+                "id": "node/-3880"
             },
             "geometry": {
                 "type": "Point",
@@ -28,11 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-963",
+            "id": "node/-958",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
-                "contact:email": "romsaas.bhg@vitto.no",
+                "capacity": "57",
+                "contact:email": "romsaas.bhg@norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Romsaas barnehage",
@@ -40,7 +40,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2002-03-01",
-                "id": "node/-963"
+                "id": "node/-958"
             },
             "geometry": {
                 "type": "Point",
@@ -52,11 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-956",
+            "id": "node/-951",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "40",
-                "contact:email": "verkensveien@laringsverkstedet.no",
+                "capacity": "39",
+                "contact:email": "bhg.verkensveien@laringsverkstedet.no",
                 "contact:phone": "63 97 88 45",
                 "contact:website": "http://www.laringsverkstedet.no/verkensveien",
                 "max_age": "5",
@@ -66,7 +66,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2005-09-01",
-                "id": "node/-956"
+                "id": "node/-951"
             },
             "geometry": {
                 "type": "Point",
@@ -78,11 +78,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-954",
+            "id": "node/-949",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "130",
-                "contact:email": "skogmo@laringsverkstedet.no",
+                "capacity": "134",
+                "contact:email": "bhg.skogmo@laringsverkstedet.no",
                 "contact:phone": "41538020",
                 "contact:website": "http://www.laringsverkstedet.no/skogmo",
                 "max_age": "5",
@@ -92,7 +92,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2006-09-15",
-                "id": "node/-954"
+                "id": "node/-949"
             },
             "geometry": {
                 "type": "Point",
@@ -104,16 +104,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-944",
+            "id": "node/-939",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "post@ullensaker.kirkene.net",
                 "contact:phone": "63 94 40 20",
                 "name": "Jessheim Åpen barnehage",
                 "no-barnehage:nsrid": "1020407",
                 "operator": "Hovin Sokn",
                 "operator:type": "private",
                 "start_date": "2010-09-01",
-                "id": "node/-944"
+                "id": "node/-939"
             },
             "geometry": {
                 "type": "Point",
@@ -125,10 +126,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-943",
+            "id": "node/-938",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "73",
+                "capacity": "69",
+                "contact:email": "hilde.kverner@ullensaker.kommune.no",
                 "contact:phone": "66 10 89 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -137,7 +139,7 @@
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-943"
+                "id": "node/-938"
             },
             "geometry": {
                 "type": "Point",
@@ -149,10 +151,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-940",
+            "id": "node/-935",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "78",
+                "contact:email": "stine@hoppensprett.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hoppensprett Avd Skogmo",
@@ -160,7 +163,7 @@
                 "operator": "Hoppensprett AS",
                 "operator:type": "private",
                 "start_date": "2005-04-20",
-                "id": "node/-940"
+                "id": "node/-935"
             },
             "geometry": {
                 "type": "Point",
@@ -172,10 +175,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-932",
+            "id": "node/-927",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "44",
+                "contact:email": "mari.sandnes.rodland@ullensaker.kommune.no",
                 "contact:phone": "66 10 88 90",
                 "max_age": "5",
                 "min_age": "1",
@@ -184,7 +188,7 @@
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
                 "start_date": "1996-01-01",
-                "id": "node/-932"
+                "id": "node/-927"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +200,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-930",
+            "id": "node/-925",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -210,7 +214,7 @@
                 "operator": "Døli barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1990-04-01",
-                "id": "node/-930"
+                "id": "node/-925"
             },
             "geometry": {
                 "type": "Point",

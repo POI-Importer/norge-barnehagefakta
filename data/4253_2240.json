@@ -3,16 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4733",
+            "id": "node/-4680",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "mobo@mobo.no",
+                "capacity": "42",
+                "contact:email": "panorama@mobarn.no",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Mobarn Panorama barnehage",
                 "no-barnehage:nsrid": "1025979",
                 "operator": "Mobarn Sa",
                 "operator:type": "private",
                 "start_date": "2015-05-01",
-                "id": "node/-4733"
+                "id": "node/-4680"
             },
             "geometry": {
                 "type": "Point",
@@ -24,10 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4715",
+            "id": "node/-4662",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "49",
+                "capacity": "50",
                 "contact:email": "kari.anne.vikan@frana.kommune.no",
                 "contact:phone": "71261188",
                 "max_age": "5",
@@ -37,7 +40,7 @@
                 "operator": "Fræna kommune",
                 "operator:type": "public",
                 "start_date": "1990-08-01",
-                "id": "node/-4715"
+                "id": "node/-4662"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6028",
+            "id": "node/-5956",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "66",
+                "contact:email": "imi@trollnet.no",
                 "contact:phone": "22111315",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Stiftelsen Imi barnehage",
                 "operator:type": "private",
                 "start_date": "1981-09-01",
-                "id": "node/-6028"
+                "id": "node/-5956"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6022",
+            "id": "node/-5950",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "65",
+                "contact:email": "gry.roe@alta.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Breidablikk barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Alta kommune",
                 "operator:type": "public",
                 "start_date": "2003-01-01",
-                "id": "node/-6022"
+                "id": "node/-5950"
             },
             "geometry": {
                 "type": "Point",

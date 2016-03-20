@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3654",
+            "id": "node/-3613",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
+                "contact:email": "kristin.bjander@sis.uis.no",
                 "contact:phone": "04 87405",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Studentsamskipnaden i Stavanger",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-3654"
+                "id": "node/-3613"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3644",
+            "id": "node/-3603",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
-                "contact:email": "ingerlise.strand@halliburton.com",
+                "contact:email": "styrer.novvegen@barnehage.no",
                 "contact:phone": "51 65 64 91",
                 "contact:website": "http://novvegen.barnehage.no",
                 "max_age": "2",
@@ -41,7 +42,7 @@
                 "operator": "Novvegen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-09-01",
-                "id": "node/-3644"
+                "id": "node/-3603"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3636",
+            "id": "node/-3596",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "67",
                 "contact:email": "grannes.barnehage@sola.kommune.no",
                 "contact:phone": "51 69 23 10",
                 "max_age": "5",
@@ -66,7 +67,7 @@
                 "operator": "Sola kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3636"
+                "id": "node/-3596"
             },
             "geometry": {
                 "type": "Point",
@@ -78,10 +79,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3494",
+            "id": "node/-3454",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "68",
                 "contact:email": "post@tommeliten-barnehage.no",
                 "contact:website": "http://www.tommeliten.com",
                 "max_age": "5",
@@ -91,7 +92,7 @@
                 "operator": "Tommeliten barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1994-08-12",
-                "id": "node/-3494"
+                "id": "node/-3454"
             },
             "geometry": {
                 "type": "Point",
@@ -103,32 +104,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3491",
+            "id": "node/-3432",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:phone": "51 53 40 10",
-                "name": "Tastarust�� barnehage AS",
-                "no-barnehage:nsrid": "1026043",
-                "operator": "Tastarustå barnehage AS",
-                "operator:type": "private",
-                "start_date": "2015-06-23",
-                "id": "node/-3491"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.679378,
-                    58.94656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3471",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "52",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "capacity": "51",
+                "contact:email": "elin.tysseland@stavanger.kommune.no",
                 "contact:phone": "51 87 17 43",
                 "max_age": "5",
                 "min_age": "1",
@@ -137,7 +117,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3471"
+                "id": "node/-3432"
             },
             "geometry": {
                 "type": "Point",
@@ -149,11 +129,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3466",
+            "id": "node/-3427",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
-                "contact:email": "rognebarnehagen@barnehage.no",
+                "capacity": "59",
+                "contact:email": "anne.grete.rortveit@lyse.net",
                 "contact:phone": "51 55 85 74",
                 "contact:website": "http://www.rognebarnehagen.barnehage.no",
                 "max_age": "5",
@@ -163,7 +143,7 @@
                 "operator": "Stiftelsen Sr Bank barnehage",
                 "operator:type": "private",
                 "start_date": "1989-10-01",
-                "id": "node/-3466"
+                "id": "node/-3427"
             },
             "geometry": {
                 "type": "Point",
@@ -175,11 +155,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3449",
+            "id": "node/-3411",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "contact:email": "kirsten.roth@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Madlavoll barnehage",
@@ -187,7 +167,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3449"
+                "id": "node/-3411"
             },
             "geometry": {
                 "type": "Point",
@@ -199,11 +179,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3439",
+            "id": "node/-3401",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "capacity": "28",
+                "contact:email": "bbjotve@stavanger.kommune.no",
                 "contact:phone": "51 87 16 72",
                 "max_age": "5",
                 "min_age": "1",
@@ -212,7 +192,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3439"
+                "id": "node/-3401"
             },
             "geometry": {
                 "type": "Point",
@@ -224,11 +204,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3438",
+            "id": "node/-3400",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "contact:email": "bbjotve@stavanger.kommune.no",
                 "contact:phone": "51 55 71 75",
                 "max_age": "5",
                 "min_age": "1",
@@ -237,7 +217,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3438"
+                "id": "node/-3400"
             },
             "geometry": {
                 "type": "Point",
@@ -249,11 +229,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3424",
+            "id": "node/-3386",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
-                "contact:email": "tove.janne.joa@stavanger.kommune.no",
+                "capacity": "53",
+                "contact:email": "elisabeth.aarthun-van.der.hagen@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Havhesten barnehage",
@@ -261,7 +241,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-3424"
+                "id": "node/-3386"
             },
             "geometry": {
                 "type": "Point",
@@ -273,10 +253,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3421",
+            "id": "node/-3383",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "17",
+                "contact:email": "hakkebakkeskogen@barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hakkebakkeskogen Private barnehage AS Avd Tjensvoll",
@@ -284,7 +265,7 @@
                 "operator": "Hakkebakkeskogen Private barnehage AS",
                 "operator:type": "private",
                 "start_date": "1977-12-02",
-                "id": "node/-3421"
+                "id": "node/-3383"
             },
             "geometry": {
                 "type": "Point",
@@ -296,11 +277,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3419",
+            "id": "node/-3381",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
-                "contact:email": "alle.barnehager.stavanger@stavanger.kommune.no",
+                "contact:email": "siri.minde@stavanger.kommune.no",
                 "contact:phone": "51 59 70 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -309,7 +290,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3419"
+                "id": "node/-3381"
             },
             "geometry": {
                 "type": "Point",
@@ -321,10 +302,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3395",
+            "id": "node/-3357",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "60",
+                "contact:email": "bente.torjusen@stavanger.kommune.no",
                 "contact:phone": "51 55 68 17",
                 "max_age": "5",
                 "min_age": "1",
@@ -333,7 +315,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3395"
+                "id": "node/-3357"
             },
             "geometry": {
                 "type": "Point",
@@ -345,10 +327,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3392",
+            "id": "node/-3354",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "24",
+                "contact:email": "Inger.kristin.bakken@stavanger.kommune.no",
                 "contact:phone": "51 59 93 57",
                 "max_age": "5",
                 "min_age": "1",
@@ -357,7 +340,7 @@
                 "operator": "Madlamark Sokn",
                 "operator:type": "private",
                 "start_date": "1997-01-27",
-                "id": "node/-3392"
+                "id": "node/-3354"
             },
             "geometry": {
                 "type": "Point",

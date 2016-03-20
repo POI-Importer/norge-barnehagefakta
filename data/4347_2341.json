@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1872",
+            "id": "node/-1847",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "62",
+                "contact:email": "kla@ringsaker.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Simenstua barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Ringsaker kommune",
                 "operator:type": "public",
                 "start_date": "2012-08-01",
-                "id": "node/-1872"
+                "id": "node/-1847"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1841",
+            "id": "node/-1817",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "54",
+                "contact:email": "sissel.nyang@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +40,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-1841"
+                "id": "node/-1817"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1832",
+            "id": "node/-1809",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "26",
+                "contact:email": "ingrid.steigen.hellerud@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +65,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-1832"
+                "id": "node/-1809"
             },
             "geometry": {
                 "type": "Point",
@@ -74,11 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1826",
+            "id": "node/-1803",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
-                "contact:email": "postmottak@hamar.kommune.no",
+                "capacity": "63",
+                "contact:email": "mette.fjoertoft@hamar.kommne.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -87,7 +90,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "2008-08-01",
-                "id": "node/-1826"
+                "id": "node/-1803"
             },
             "geometry": {
                 "type": "Point",
@@ -99,10 +102,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1825",
+            "id": "node/-1802",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
+                "capacity": "48",
+                "contact:email": "hanne.borg@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -111,7 +115,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-1825"
+                "id": "node/-1802"
             },
             "geometry": {
                 "type": "Point",
@@ -123,10 +127,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1821",
+            "id": "node/-1798",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "39",
+                "contact:email": "anne.nordsveen@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -135,7 +140,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-1821"
+                "id": "node/-1798"
             },
             "geometry": {
                 "type": "Point",
@@ -147,10 +152,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1818",
+            "id": "node/-1795",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "33",
+                "capacity": "35",
+                "contact:email": "solfridprivat@gmail.com",
                 "contact:phone": "99717066",
                 "contact:website": "http://www.hamarbooking.no",
                 "max_age": "5",
@@ -160,7 +166,7 @@
                 "operator": "Hamar Gårdsbarnehage Solfrid Bjørge Goldsack",
                 "operator:type": "private",
                 "start_date": "2006-01-01",
-                "id": "node/-1818"
+                "id": "node/-1795"
             },
             "geometry": {
                 "type": "Point",
@@ -172,10 +178,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1817",
+            "id": "node/-1794",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "26",
+                "contact:email": "ingrid.steigen.hellerud@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -184,7 +191,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-1817"
+                "id": "node/-1794"
             },
             "geometry": {
                 "type": "Point",
@@ -196,32 +203,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1816",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "juljor19@gmail.com",
-                "contact:phone": "980 83 725",
-                "name": "Frukthagen barnehage Jørgensen",
-                "no-barnehage:nsrid": "1025954",
-                "operator": "Frukthagen barnehage Jørgensen",
-                "operator:type": "private",
-                "start_date": "2015-05-13",
-                "id": "node/-1816"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.03274,
-                    60.80989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1812",
+            "id": "node/-1790",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
+                "contact:email": "blaveisen.barnehage@gmail.com",
                 "contact:phone": "62 55 58 90",
                 "contact:website": "http://www.blaaveisen.com",
                 "max_age": "5",
@@ -231,7 +217,7 @@
                 "operator": "Blåveisen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-07-01",
-                "id": "node/-1812"
+                "id": "node/-1790"
             },
             "geometry": {
                 "type": "Point",
@@ -243,10 +229,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1807",
+            "id": "node/-1785",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "41",
+                "contact:email": "ruth.helen.nilssen@hamar.kommune.no",
                 "contact:phone": "62 56 30 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -255,7 +242,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-1807"
+                "id": "node/-1785"
             },
             "geometry": {
                 "type": "Point",

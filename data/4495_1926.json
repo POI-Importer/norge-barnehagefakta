@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5475",
+            "id": "node/-5416",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "22",
+                "contact:email": "stineh@hoppensprett.no",
                 "contact:phone": "76 95 25 80",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Hoppensprett Narvik AS",
                 "operator:type": "private",
                 "start_date": "1994-01-04",
-                "id": "node/-5475"
+                "id": "node/-5416"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5474",
+            "id": "node/-5415",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "19",
+                "contact:email": "lill-tove.jansson@narvik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjerkvik barnehage",
@@ -38,7 +40,7 @@
                 "operator": "Narvik kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5474"
+                "id": "node/-5415"
             },
             "geometry": {
                 "type": "Point",

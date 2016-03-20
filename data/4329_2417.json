@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2662",
+            "id": "node/-2628",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
-                "contact:email": "post@toppenbhg.com",
+                "contact:email": "annemarit.skei@gmail.com",
                 "contact:phone": "33 45 08 95",
                 "contact:website": "http://www.toppenbhg.com",
                 "max_age": "5",
@@ -17,7 +17,7 @@
                 "operator": "Toppen barnehage AS",
                 "operator:type": "private",
                 "start_date": "1994-08-08",
-                "id": "node/-2662"
+                "id": "node/-2628"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2637",
+            "id": "node/-2603",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "28",
+                "contact:email": "post@hogenhall.no",
                 "contact:phone": "33 45 15 70",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +42,7 @@
                 "operator": "Høgenhall barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-02-01",
-                "id": "node/-2637"
+                "id": "node/-2603"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +54,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2627",
+            "id": "node/-2594",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "21",
+                "contact:email": "epleblomsten@steinerbarnehage.no",
                 "contact:phone": "33461520",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,38 +67,13 @@
                 "operator": "Rudolf Steinerbarnehagen i Sandefjord",
                 "operator:type": "private",
                 "start_date": "1995-02-22",
-                "id": "node/-2627"
+                "id": "node/-2594"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.24334,
                     59.13229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2625",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:email": "breili.barnehage@sandefjord.kommune.no",
-                "contact:phone": "33 41 77 60",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Breili barnehage",
-                "no-barnehage:nsrid": "1015766",
-                "operator": "Sandefjord kommune",
-                "operator:type": "public",
-                "start_date": "1999-08-01",
-                "id": "node/-2625"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.243,
-                    59.1319
                 ]
             }
         }

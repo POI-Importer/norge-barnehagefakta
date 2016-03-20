@@ -3,25 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2780",
+            "id": "node/-2744",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "4",
+                "capacity": "1",
+                "contact:email": "marihona.barnehage@porsgrunn.kommune.no",
                 "contact:phone": "46 90 41 39",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Heistadskolene Avd Marihøna Spesialavdeling",
                 "no-barnehage:nsrid": "1013300",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2001-08-01",
-                "id": "node/-2780"
+                "id": "node/-2744"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.68296,
                     59.0868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2743",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:email": "liv.kvaran@porsgrunn.kommune.no",
+                "contact:phone": "35 51 09 98",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brattås barnehage",
+                "no-barnehage:nsrid": "1013935",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1990-01-01",
+                "id": "node/-2743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67128,
+                    59.0969
                 ]
             }
         }

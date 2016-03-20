@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-700",
+            "id": "node/-698",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "130",
-                "contact:email": "Hovedgardensonen.barnehager@asker.kommune.no",
+                "capacity": "78",
+                "contact:email": "merete.bjertnes@asker.kommune.no",
                 "contact:phone": "66907100",
                 "max_age": "5",
                 "min_age": "1",
@@ -16,7 +16,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-700"
+                "id": "node/-698"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,83 @@
         },
         {
             "type": "Feature",
-            "id": "node/-661",
+            "id": "node/-697",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "36",
+                "contact:email": "merete.bjertnes@asker.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vikingjordet barnehage Åmotveien",
+                "no-barnehage:nsrid": "1025803",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "2015-01-01",
+                "id": "node/-697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43076,
+                    59.78477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-696",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:email": "merete.bjertnes@asker.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vikingjordet barnehage Øvre Gjellumvei",
+                "no-barnehage:nsrid": "1025802",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "2015-01-01",
+                "id": "node/-696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44929,
+                    59.79212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-654",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "merete.bjertnes@asker.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Heggedalskogen barnehage Heggedalskogen Friluft",
+                "no-barnehage:nsrid": "1025799",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "2015-01-01",
+                "id": "node/-654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44596,
+                    59.78114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-653",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "contact:email": "merete.bjertnes@asker.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heggedalskogen barnehage Heggedalskogen",
@@ -39,7 +112,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-661"
+                "id": "node/-653"
             },
             "geometry": {
                 "type": "Point",

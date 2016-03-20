@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5678",
+            "id": "node/-5617",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "15",
+                "capacity": "16",
+                "contact:email": "bente.bernhardsen@okonor.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nye Kakhaugen barnehage Silja-Mari Pettersen",
@@ -14,7 +15,7 @@
                 "operator": "Nye Kakhaugen barnehage Silja-Mari Pettersen",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-5678"
+                "id": "node/-5617"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5667",
+            "id": "node/-5606",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
+                "contact:email": "ballstad@barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ballstad barnehage AS",
@@ -37,7 +39,7 @@
                 "operator": "Ballstad barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-08-01",
-                "id": "node/-5667"
+                "id": "node/-5606"
             },
             "geometry": {
                 "type": "Point",

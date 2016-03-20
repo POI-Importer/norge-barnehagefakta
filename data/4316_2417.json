@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2785",
+            "id": "node/-2750",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
+                "contact:email": "marianne.ingvaldsen@porsgrunn.kommune.no",
                 "contact:phone": "35 55 11 17",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1996-04-01",
-                "id": "node/-2785"
+                "id": "node/-2750"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +28,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2784",
+            "id": "node/-2749",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "19",
+                "contact:email": "lina.holt@sitel.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Studentsamskipnaden i Sørøst-Norge Elverhøy Studentbarnehage",
@@ -38,7 +40,7 @@
                 "operator": "Studentsamskipnaden i Sørøst-Norge",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-2784"
+                "id": "node/-2749"
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2779",
+            "id": "node/-2742",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "100",
+                "capacity": "98",
+                "contact:email": "post@dengodebarnehagen.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Borgeenga barnehage",
@@ -61,7 +64,7 @@
                 "operator": "Den Gode Barnehagen AS",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-2779"
+                "id": "node/-2742"
             },
             "geometry": {
                 "type": "Point",
