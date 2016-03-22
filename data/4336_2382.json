@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-632",
+            "id": "node/-635",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -15,7 +15,31 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-632"
+                "id": "node/-635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5534,
+                    59.9246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-634",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "7",
+                "contact:email": "ellen.nordahl@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Åsterud barnehage Avdeling Edelgranveien",
+                "no-barnehage:nsrid": "1013408",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "2007-01-01",
+                "id": "node/-634"
             },
             "geometry": {
                 "type": "Point",
@@ -30,30 +54,6 @@
             "id": "node/-631",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "7",
-                "contact:email": "ellen.nordahl@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Åsterud barnehage Avdeling Edelgranveien",
-                "no-barnehage:nsrid": "1013408",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2007-01-01",
-                "id": "node/-631"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.5534,
-                    59.9246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-628",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "41",
                 "contact:email": "post@overlandbarnehage.no",
                 "contact:phone": "67 12 18 57",
@@ -64,7 +64,7 @@
                 "operator": "Øverland barnehage AS",
                 "operator:type": "private",
                 "start_date": "1981-08-20",
-                "id": "node/-628"
+                "id": "node/-631"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-610",
+            "id": "node/-614",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:email": "rebecka.plavnik@oslois.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "The International Kindergarten",
+                "no-barnehage:nsrid": "1010112",
+                "operator": "Stiftelse Oslo International School",
+                "operator:type": "private",
+                "start_date": "2007-05-22",
+                "id": "node/-614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.581624,
+                    59.91937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -89,7 +113,7 @@
                 "operator": "Stiftelsen Søråsen barnehage",
                 "operator:type": "private",
                 "start_date": "1990-08-01",
-                "id": "node/-610"
+                "id": "node/-612"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +125,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-580",
+            "id": "node/-582",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -114,7 +138,7 @@
                 "operator": "Ringstabekk Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-11-18",
-                "id": "node/-580"
+                "id": "node/-582"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-553",
+            "id": "node/-555",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -138,7 +162,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-553"
+                "id": "node/-555"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +174,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-552",
+            "id": "node/-554",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -162,7 +186,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-552"
+                "id": "node/-554"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +198,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-551",
+            "id": "node/-553",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -187,7 +211,7 @@
                 "operator": "Myrsnipa barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-551"
+                "id": "node/-553"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +223,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-521",
+            "id": "node/-523",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
@@ -211,7 +235,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2003-08-25",
-                "id": "node/-521"
+                "id": "node/-523"
             },
             "geometry": {
                 "type": "Point",
@@ -223,7 +247,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-513",
+            "id": "node/-515",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "106",
@@ -237,7 +261,7 @@
                 "operator": "Haslum Idrettsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-02-21",
-                "id": "node/-513"
+                "id": "node/-515"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +273,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-512",
+            "id": "node/-514",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -262,7 +286,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-512"
+                "id": "node/-514"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +298,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-511",
+            "id": "node/-513",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -286,7 +310,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2010-08-20",
-                "id": "node/-511"
+                "id": "node/-513"
             },
             "geometry": {
                 "type": "Point",
@@ -298,7 +322,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-485",
+            "id": "node/-487",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -310,7 +334,7 @@
                 "operator": "Skaubo AS",
                 "operator:type": "private",
                 "start_date": "2004-01-15",
-                "id": "node/-485"
+                "id": "node/-487"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +346,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-477",
+            "id": "node/-479",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -335,7 +359,7 @@
                 "operator": "Ekrekroken barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1999-08-01",
-                "id": "node/-477"
+                "id": "node/-479"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +371,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-469",
+            "id": "node/-471",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "88",
@@ -359,7 +383,7 @@
                 "operator": "Bærumsmarka Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-10-01",
-                "id": "node/-469"
+                "id": "node/-471"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +395,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-457",
+            "id": "node/-459",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "157",
@@ -383,7 +407,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2006-08-01",
-                "id": "node/-457"
+                "id": "node/-459"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +419,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-449",
+            "id": "node/-451",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -408,7 +432,7 @@
                 "operator": "Balder barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-449"
+                "id": "node/-451"
             },
             "geometry": {
                 "type": "Point",

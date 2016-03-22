@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4911",
+            "id": "node/-4930",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:email": "beathe.lillejord@sit.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "no-barnehage:nsrid": "1016840",
+                "operator": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "operator:type": "private",
+                "start_date": "1993-08-01",
+                "id": "node/-4930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4638,
+                    63.4097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4912",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "113",
@@ -17,37 +41,13 @@
                 "operator": "Solbakken Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-4911"
+                "id": "node/-4912"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.50194,
                     63.40767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4757",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "68",
-                "contact:email": "beathe.lillejord@sit.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "no-barnehage:nsrid": "1016840",
-                "operator": "Studentsamskipnaden i Trondheim",
-                "operator:type": "private",
-                "start_date": "1993-08-01",
-                "id": "node/-4757"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4638,
-                    63.4097
                 ]
             }
         }

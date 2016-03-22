@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4979",
+            "id": "node/-4983",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -15,7 +15,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-4979"
+                "id": "node/-4983"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4976",
+            "id": "node/-4980",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -39,7 +39,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-4976"
+                "id": "node/-4980"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4969",
+            "id": "node/-4973",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -63,7 +63,7 @@
                 "operator": "Voll Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-07-30",
-                "id": "node/-4969"
+                "id": "node/-4973"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4962",
+            "id": "node/-4966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -87,7 +87,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4962"
+                "id": "node/-4966"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +99,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4961",
+            "id": "node/-4965",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -111,7 +111,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4961"
+                "id": "node/-4965"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +123,55 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4913",
+            "id": "node/-4932",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:email": "guri.evensen@sit.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "no-barnehage:nsrid": "1016819",
+                "operator": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-4932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4302,
+                    63.4094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4931",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "contact:email": "marit.landsem@sit.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "no-barnehage:nsrid": "1016818",
+                "operator": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-4931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4298,
+                    63.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4914",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -135,7 +183,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-4913"
+                "id": "node/-4914"
             },
             "geometry": {
                 "type": "Point",
@@ -147,7 +195,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4884",
+            "id": "node/-4885",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -159,7 +207,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4884"
+                "id": "node/-4885"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +219,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4864",
+            "id": "node/-4865",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -184,7 +232,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1972-12-26",
-                "id": "node/-4864"
+                "id": "node/-4865"
             },
             "geometry": {
                 "type": "Point",
@@ -196,31 +244,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4863",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "81",
-                "contact:email": "guri.evensen@sit.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "no-barnehage:nsrid": "1016819",
-                "operator": "Studentsamskipnaden i Trondheim",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-4863"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4302,
-                    63.4094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4857",
+            "id": "node/-4859",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -232,7 +256,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-12-01",
-                "id": "node/-4857"
+                "id": "node/-4859"
             },
             "geometry": {
                 "type": "Point",
@@ -244,31 +268,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4845",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "96",
-                "contact:email": "marit.landsem@sit.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "no-barnehage:nsrid": "1016818",
-                "operator": "Studentsamskipnaden i Trondheim",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-4845"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4298,
-                    63.41
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4830",
+            "id": "node/-4833",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -280,7 +280,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2007-08-01",
-                "id": "node/-4830"
+                "id": "node/-4833"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +292,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4803",
+            "id": "node/-4806",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -304,7 +304,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1973-01-01",
-                "id": "node/-4803"
+                "id": "node/-4806"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +316,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4792",
+            "id": "node/-4795",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "elijos@gmail.com",
@@ -325,7 +325,7 @@
                 "operator": "Hoeggen Sokn",
                 "operator:type": "private",
                 "start_date": "1999-01-01",
-                "id": "node/-4792"
+                "id": "node/-4795"
             },
             "geometry": {
                 "type": "Point",
@@ -337,7 +337,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4741",
+            "id": "node/-4745",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -349,7 +349,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-4741"
+                "id": "node/-4745"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +361,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4738",
+            "id": "node/-4742",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -375,7 +375,7 @@
                 "operator": "Bergheim barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-4738"
+                "id": "node/-4742"
             },
             "geometry": {
                 "type": "Point",
