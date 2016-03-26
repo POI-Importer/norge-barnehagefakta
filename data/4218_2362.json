@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3994",
+            "id": "node/-3992",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
+                "contact:email": "ka-n-fle@online.no",
                 "contact:phone": "55 28 72 31",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Vår Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1999-01-01",
-                "id": "node/-3994"
+                "id": "node/-3992"
             },
             "geometry": {
                 "type": "Point",
@@ -27,15 +28,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3980",
+            "id": "node/-3978",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "jan.frode.sandvik@bergen.kirken.no",
                 "name": "Ulriken Kfuk-Kfum Åpen barnehage",
                 "no-barnehage:nsrid": "1014295",
                 "operator": "Ulriken Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2011-06-01",
-                "id": "node/-3980"
+                "id": "node/-3978"
             },
             "geometry": {
                 "type": "Point",
@@ -47,15 +49,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3963",
+            "id": "node/-3962",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "ase.christiansen@skbb.no",
                 "name": "Språkstien Åpen barnehage Slettebakken",
                 "no-barnehage:nsrid": "1015031",
                 "operator": "Stiftelsen Kirkens Bymisjon i Bergen",
                 "operator:type": "private",
                 "start_date": "2011-09-15",
-                "id": "node/-3963"
+                "id": "node/-3962"
             },
             "geometry": {
                 "type": "Point",
@@ -67,10 +70,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3955",
+            "id": "node/-3953",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
+                "contact:email": "laila.fitje@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sletten barnehage",
@@ -78,7 +82,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3955"
+                "id": "node/-3953"
             },
             "geometry": {
                 "type": "Point",
@@ -90,10 +94,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3902",
+            "id": "node/-3900",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "39",
+                "contact:email": "janne.hovi@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mannsverk barnehage",
@@ -101,7 +106,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3902"
+                "id": "node/-3900"
             },
             "geometry": {
                 "type": "Point",
@@ -113,10 +118,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3854",
+            "id": "node/-3852",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "68",
+                "contact:email": "Signe-Lise.Lagestrand@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Erleveien",
@@ -124,7 +130,7 @@
                 "operator": "Kidsa Erleveien AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3854"
+                "id": "node/-3852"
             },
             "geometry": {
                 "type": "Point",
@@ -136,18 +142,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3833",
+            "id": "node/-3831",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
-                "contact:email": "vognstolen.barnehage@helse-bergen.no",
+                "contact:email": "geba@helse-bergen.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Helse Bergen Hf Vognstølen Barnehage",
                 "no-barnehage:nsrid": "1015604",
                 "operator": "Helse Bergen Hf",
                 "start_date": "1997-12-01",
-                "id": "node/-3833"
+                "id": "node/-3831"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +168,8 @@
             "id": "node/-3779",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "45",
+                "contact:email": "intbarn@broadpark.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Den Internasjonale barnehage i Berg",
@@ -185,7 +192,8 @@
             "id": "node/-3764",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "15",
+                "contact:email": "torejohan.berg@gmail.com",
                 "contact:phone": "69 28 45 21",
                 "max_age": "5",
                 "min_age": "1",

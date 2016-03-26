@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3953",
+            "id": "node/-3951",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "53",
+                "contact:email": "merete.ruvang@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skårungen barnehage",
@@ -14,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-3953"
+                "id": "node/-3951"
             },
             "geometry": {
                 "type": "Point",
@@ -26,31 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3914",
+            "id": "node/-3905",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Myren Gårdsbarnehage AS",
-                "no-barnehage:nsrid": "1026081",
-                "operator": "Myren Gårdsbarnehage AS",
-                "operator:type": "private",
-                "start_date": "2015-06-29",
-                "id": "node/-3914"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.187306,
-                    60.3433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3907",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "kontoret@mnof.no",
+                "capacity": "25",
+                "contact:email": "barnehagekontoret@gmail.com",
                 "contact:phone": "55 51 12 10",
                 "max_age": "5",
                 "min_age": "1",
@@ -59,7 +40,7 @@
                 "operator": "Mathopen Natur- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2007-03-20",
-                "id": "node/-3907"
+                "id": "node/-3905"
             },
             "geometry": {
                 "type": "Point",
@@ -71,11 +52,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3906",
+            "id": "node/-3904",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
-                "contact:email": "solfrid.wergeland@mathopenbgh.no",
+                "contact:email": "solfrid.wergeland@mathopenbhg.no",
                 "contact:phone": "91636717",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +65,7 @@
                 "operator": "Mathopen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-11-22",
-                "id": "node/-3906"
+                "id": "node/-3904"
             },
             "geometry": {
                 "type": "Point",
@@ -96,11 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3836",
+            "id": "node/-3834",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "lailahak@start.no",
+                "capacity": "77",
+                "contact:email": "dl.haakonshella@bhg.no",
                 "contact:phone": "55 26 79 69",
                 "max_age": "5",
                 "min_age": "1",
@@ -109,7 +90,7 @@
                 "operator": "Håkonshella Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-01-30",
-                "id": "node/-3836"
+                "id": "node/-3834"
             },
             "geometry": {
                 "type": "Point",
@@ -121,10 +102,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3834",
+            "id": "node/-3832",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "14",
+                "capacity": "12",
+                "contact:email": "hillertun@barnehage.no",
                 "contact:phone": "55 93 46 35",
                 "max_age": "5",
                 "min_age": "1",
@@ -133,7 +115,7 @@
                 "operator": "Hillertun barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3834"
+                "id": "node/-3832"
             },
             "geometry": {
                 "type": "Point",

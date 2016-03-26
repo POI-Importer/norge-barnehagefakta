@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4172",
+            "id": "node/-4169",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -16,7 +16,7 @@
                 "operator": "Gardstunet barnehage AS",
                 "operator:type": "private",
                 "start_date": "1997-08-29",
-                "id": "node/-4172"
+                "id": "node/-4169"
             },
             "geometry": {
                 "type": "Point",
@@ -28,16 +28,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4003",
+            "id": "node/-4000",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "post@skbb.no",
+                "contact:email": "ase.christiansen@skbb.no",
                 "name": "Åpen barnehage Sentrum",
                 "no-barnehage:nsrid": "1017646",
                 "operator": "Stiftelsen Kirkens Bymisjon i Bergen",
                 "operator:type": "private",
                 "start_date": "2006-08-01",
-                "id": "node/-4003"
+                "id": "node/-4000"
             },
             "geometry": {
                 "type": "Point",
@@ -49,10 +49,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3913",
+            "id": "node/-3911",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "84",
+                "capacity": "85",
+                "contact:email": "bente.tunsberg@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mulesvingen barnehage",
@@ -60,7 +61,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2008-01-01",
-                "id": "node/-3913"
+                "id": "node/-3911"
             },
             "geometry": {
                 "type": "Point",
@@ -72,10 +73,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3905",
+            "id": "node/-3903",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "52",
+                "contact:email": "jannicke.ellingsen@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Marken barnehage",
@@ -83,7 +85,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3905"
+                "id": "node/-3903"
             },
             "geometry": {
                 "type": "Point",
@@ -95,15 +97,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3903",
+            "id": "node/-3901",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "jan.frode.sandvik@bergen.kirken.no",
                 "name": "Mariakirken Åpen barnehage",
                 "no-barnehage:nsrid": "1014086",
                 "operator": "Bergen Domkirke Sokn",
                 "operator:type": "private",
                 "start_date": "2010-01-01",
-                "id": "node/-3903"
+                "id": "node/-3901"
             },
             "geometry": {
                 "type": "Point",
@@ -115,10 +118,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3860",
+            "id": "node/-3858",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
+                "contact:email": "Elin.Vik@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Ladegården AS",
@@ -126,7 +130,7 @@
                 "operator": "Kidsa Ladegården AS",
                 "operator:type": "private",
                 "start_date": "2013-10-09",
-                "id": "node/-3860"
+                "id": "node/-3858"
             },
             "geometry": {
                 "type": "Point",
@@ -138,10 +142,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3852",
+            "id": "node/-3850",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
+                "contact:email": "Johan.Johnsson@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Christinegård",
@@ -149,7 +154,7 @@
                 "operator": "Kidsa Christinegård AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3852"
+                "id": "node/-3850"
             },
             "geometry": {
                 "type": "Point",
@@ -161,10 +166,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3845",
+            "id": "node/-3843",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
+                "contact:email": "elisabeth.alnes@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Kalmargaten barnehage",
@@ -172,7 +178,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1993-01-01",
-                "id": "node/-3845"
+                "id": "node/-3843"
             },
             "geometry": {
                 "type": "Point",
@@ -188,6 +194,7 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
+                "contact:email": "bergensbarneasyl@barnehage.no",
                 "contact:phone": "55 54 83 50",
                 "max_age": "5",
                 "min_age": "1",
@@ -211,7 +218,8 @@
             "id": "node/-3749",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "25",
+                "capacity": "29",
+                "contact:email": "aina.olsnes.bjorvatn@akasia.no",
                 "contact:phone": "55 32 46 47",
                 "max_age": "5",
                 "min_age": "1",

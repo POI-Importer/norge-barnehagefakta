@@ -3,9 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4002",
+            "id": "node/-3999",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "kari71@start.no",
                 "contact:phone": "41228003",
                 "contact:website": "http://www.openbarnehage.no/",
                 "name": "Åpen barnehage Fana Km",
@@ -13,7 +14,7 @@
                 "operator": "Fana Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2008-01-28",
-                "id": "node/-4002"
+                "id": "node/-3999"
             },
             "geometry": {
                 "type": "Point",
@@ -25,11 +26,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3930",
+            "id": "node/-3928",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:email": "post@vangdal.net",
+                "capacity": "67",
+                "contact:email": "karianne.eikevik@kulur.no",
                 "contact:phone": "55 91 50 75",
                 "contact:website": "http://www.kultur.no",
                 "max_age": "5",
@@ -39,7 +40,7 @@
                 "operator": "Nøff AS",
                 "operator:type": "private",
                 "start_date": "1996-09-01",
-                "id": "node/-3930"
+                "id": "node/-3928"
             },
             "geometry": {
                 "type": "Point",
@@ -55,6 +56,7 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
+                "contact:email": "fanabarnehage@akasia.no",
                 "contact:phone": "55 11 70 80",
                 "contact:website": "http://www.fanabarnehage.no",
                 "max_age": "5",

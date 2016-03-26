@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3942",
+            "id": "node/-3940",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "moyfrid.opheim@bergen.kirken.no",
                 "name": "Sakkeus Åpen barnehage",
                 "no-barnehage:nsrid": "1014113",
                 "operator": "Arna Sokn",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-3942"
+                "id": "node/-3940"
             },
             "geometry": {
                 "type": "Point",
@@ -23,10 +24,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3876",
+            "id": "node/-3874",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "112",
+                "capacity": "114",
+                "contact:email": "nina.solberg@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Øyrane",
@@ -34,7 +36,7 @@
                 "operator": "Kidsa Øyrane AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3876"
+                "id": "node/-3874"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3839",
+            "id": "node/-3837",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "elinbrev@online.no",
@@ -56,7 +58,7 @@
                 "operator": "Indre Arna Kvinne og Familielag",
                 "operator:type": "private",
                 "start_date": "1977-12-02",
-                "id": "node/-3839"
+                "id": "node/-3837"
             },
             "geometry": {
                 "type": "Point",
@@ -68,10 +70,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3838",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
+                "contact:email": "lisbeth.kallestad@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Indre Arna barnehage",
@@ -79,7 +82,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2011-08-01",
-                "id": "node/-3838"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
@@ -95,6 +98,7 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
+                "contact:email": "Kristin.haugsbo@bergen.kommune.no",
                 "contact:phone": "55979700",
                 "max_age": "5",
                 "min_age": "1",

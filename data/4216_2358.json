@@ -3,10 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3992",
+            "id": "node/-3990",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "14",
+                "contact:email": "postmaster@gaardsbarnehagen.no",
                 "contact:phone": "55 18 32 00",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +16,7 @@
                 "operator": "Åsane Gårds- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-09-01",
-                "id": "node/-3992"
+                "id": "node/-3990"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3974",
+            "id": "node/-3973",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
-                "contact:email": "tertnes.forskole@broadpark.no",
+                "capacity": "28",
+                "contact:email": "tertnesparken@barnehage.no",
                 "contact:phone": "55 19 21 42",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ternes Førskole AS",
+                "name": "Tertnesparken barnehage AS",
                 "no-barnehage:nsrid": "1021345",
                 "operator": "Tertnesparken barnehage AS",
                 "operator:type": "private",
                 "start_date": "1978-06-20",
-                "id": "node/-3974"
+                "id": "node/-3973"
             },
             "geometry": {
                 "type": "Point",
@@ -52,10 +53,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3853",
+            "id": "node/-3851",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
+                "contact:email": "eidsvag@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Eidsvåg",
@@ -63,7 +65,7 @@
                 "operator": "Kidsa Eidsvåg AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3853"
+                "id": "node/-3851"
             },
             "geometry": {
                 "type": "Point",
@@ -75,10 +77,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3820",
+            "id": "node/-3818",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "98",
+                "capacity": "96",
+                "contact:email": "styrer@gronskjeret.no",
                 "contact:website": "http://gronskjeret.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -87,7 +90,7 @@
                 "operator": "Grønskjeret barnehage AS",
                 "operator:type": "private",
                 "start_date": "1999-09-23",
-                "id": "node/-3820"
+                "id": "node/-3818"
             },
             "geometry": {
                 "type": "Point",
@@ -102,8 +105,8 @@
             "id": "node/-3802",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "122",
-                "contact:email": "eivind@gaardsbarnehagen.no",
+                "capacity": "125",
+                "contact:email": "fana@gaardsbarnehagen.no",
                 "contact:phone": "928 51 010",
                 "max_age": "5",
                 "min_age": "1",
@@ -128,6 +131,7 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
+                "contact:email": "enb-bhg@outlook.com",
                 "contact:phone": "55257562",
                 "max_age": "5",
                 "min_age": "1",
