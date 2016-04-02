@@ -167,7 +167,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1996-10-01" />
 	</node>
-	<node id="-6005" lat="69.6793" lon="30.10494">
+	<node id="-6011" lat="69.6793" lon="30.10494">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="livjud@start.no" />
@@ -193,7 +193,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-01-14" />
 	</node>
-	<node id="-5986" lat="70.48306" lon="25.05056">
+	<node id="-5992" lat="70.48306" lon="25.05056">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="3" />
 		<tag k="contact:email" v="greteliv@online.no" />
@@ -231,19 +231,6 @@
 		<tag k="operator" v="Huse Gards- Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2000-08-21" />
-	</node>
-	<node id="-5774" lat="69.67188" lon="18.93296">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="contact:email" v="anneskov@online.no" />
-		<tag k="contact:phone" v="77 61 26 02" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Vestavinden Familiebarnehage Sa" />
-		<tag k="no-barnehage:nsrid" v="1020116" />
-		<tag k="operator" v="Vestavinden Familiebarnehage Sa" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="1993-11-01" />
 	</node>
 	<node id="-1872" lat="60.76738" lon="11.15521">
 		<tag k="amenity" v="kindergarten" />
@@ -362,6 +349,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1992-01-01" />
 	</node>
+	<node id="-5929" lat="70.79476" lon="23.40921">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="2" />
+		<tag k="contact:email" v="christine.witt@hammerfest.kommune.no" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Akkarfjord Oppvekstsenter Avd Barnehage" />
+		<tag k="no-barnehage:nsrid" v="1019522" />
+		<tag k="operator" v="Hammerfest kommune" />
+		<tag k="operator:type" v="public" />
+		<tag k="start_date" v="2014-01-01" />
+	</node>
 	<node id="-1830" lat="60.8681" lon="10.87051">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
@@ -374,18 +373,6 @@
 		<tag k="operator" v="Helle Skjellerud Kløvimo" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2007-09-01" />
-	</node>
-	<node id="-5923" lat="70.79476" lon="23.40921">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="2" />
-		<tag k="contact:email" v="christine.witt@hammerfest.kommune.no" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Akkarfjord Oppvekstsenter Avd Barnehage" />
-		<tag k="no-barnehage:nsrid" v="1019522" />
-		<tag k="operator" v="Hammerfest kommune" />
-		<tag k="operator:type" v="public" />
-		<tag k="start_date" v="2014-01-01" />
 	</node>
 	<node id="-1820" lat="60.8514" lon="11.1367">
 		<tag k="amenity" v="kindergarten" />
@@ -425,6 +412,19 @@
 		<tag k="operator" v="Regnbuen Familiebarnehage V/sara Victoria Bjørge Goldsack" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-10-25" />
+	</node>
+	<node id="-5242" lat="63.74963" lon="11.3165">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="agnetefredriksen@yahoo.no" />
+		<tag k="contact:phone" v="476 58 349" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Athene Familiebarnehage Agnete Marlen Fredriksen" />
+		<tag k="no-barnehage:nsrid" v="1021668" />
+		<tag k="operator" v="Athene Familiebarnehage Agnete Marlen Fredriksen" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2007-07-30" />
 	</node>
 	<node id="-3813" lat="60.38503" lon="5.202597">
 		<tag k="amenity" v="kindergarten" />
@@ -530,7 +530,20 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-01-03" />
 	</node>
-	<node id="-5816" lat="68.81256" lon="16.54326">
+	<node id="-5377" lat="67.27781" lon="14.48253">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="v-uteng@online.no" />
+		<tag k="contact:phone" v="75 56 01 32" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lille Parallellen Familiebarnehage Vibeke Uteng Johansen" />
+		<tag k="no-barnehage:nsrid" v="1021684" />
+		<tag k="operator" v="Lille Parallellen Familiebarnehage Vibeke Uteng Johansen" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2007-08-13" />
+	</node>
+	<node id="-5821" lat="68.81256" lon="16.54326">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="k-r-k-h@online.no" />
@@ -543,7 +556,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2004-07-26" />
 	</node>
-	<node id="-5811" lat="68.76165" lon="16.55747">
+	<node id="-5816" lat="68.76165" lon="16.55747">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="molnholtet.familiebarnehage@gmail.com" />
@@ -555,7 +568,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-09-19" />
 	</node>
-	<node id="-5807" lat="68.80281" lon="16.5313">
+	<node id="-5812" lat="68.80281" lon="16.5313">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="heidisur@gmail.com" />
@@ -607,6 +620,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-01-20" />
 	</node>
+	<node id="-5794" lat="68.78819" lon="16.52059">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="contact:phone" v="928 18 928" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Fagerlia Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1022211" />
+		<tag k="operator" v="Fagerlia Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2011-06-25" />
+	</node>
 	<node id="-1695" lat="59.9208" lon="10.7074">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -631,17 +656,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2012-07-01" />
 	</node>
-	<node id="-5789" lat="68.78819" lon="16.52059">
+	<node id="-5785" lat="68.81051" lon="16.50795">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
-		<tag k="contact:phone" v="928 18 928" />
+		<tag k="contact:email" v="mikkelsen1991@hotmail.com" />
+		<tag k="contact:phone" v="920 17 916" />
 		<tag k="max_age" v="2" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Fagerlia Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1022211" />
-		<tag k="operator" v="Fagerlia Familiebarnehage AS" />
+		<tag k="name" v="Bergsengveien Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1022437" />
+		<tag k="operator" v="Bergsengveien Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2011-06-25" />
+		<tag k="start_date" v="2008-08-01" />
 	</node>
 	<node id="-3012" lat="58.24318" lon="8.362002">
 		<tag k="amenity" v="kindergarten" />
@@ -655,18 +681,31 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2008-01-01" />
 	</node>
-	<node id="-5780" lat="68.81051" lon="16.50795">
+	<node id="-5781" lat="69.64372" lon="19.0086">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="15" />
+		<tag k="contact:email" v="iselinabe@yahoo.no" />
+		<tag k="contact:phone" v="95 94 91 22" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Virre Vapp Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1022447" />
+		<tag k="operator" v="Virre Vapp Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2010-06-01" />
+	</node>
+	<node id="-5779" lat="69.67188" lon="18.93296">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
-		<tag k="contact:email" v="mikkelsen1991@hotmail.com" />
-		<tag k="contact:phone" v="920 17 916" />
+		<tag k="contact:email" v="anneskov@online.no" />
+		<tag k="contact:phone" v="77 61 26 02" />
 		<tag k="max_age" v="2" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Bergsengveien Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1022437" />
-		<tag k="operator" v="Bergsengveien Familiebarnehage AS" />
+		<tag k="name" v="Vestavinden Familiebarnehage Sa" />
+		<tag k="no-barnehage:nsrid" v="1020116" />
+		<tag k="operator" v="Vestavinden Familiebarnehage Sa" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2008-08-01" />
+		<tag k="start_date" v="1993-11-01" />
 	</node>
 	<node id="-1682" lat="59.88486" lon="10.77882">
 		<tag k="amenity" v="kindergarten" />
@@ -680,19 +719,6 @@
 		<tag k="operator" v="Tigergutt Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2008-01-30" />
-	</node>
-	<node id="-5776" lat="69.64372" lon="19.0086">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="15" />
-		<tag k="contact:email" v="iselinabe@yahoo.no" />
-		<tag k="contact:phone" v="95 94 91 22" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Virre Vapp Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1022447" />
-		<tag k="operator" v="Virre Vapp Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2010-06-01" />
 	</node>
 	<node id="-1678" lat="59.95338" lon="10.70147">
 		<tag k="amenity" v="kindergarten" />
@@ -743,7 +769,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-09-01" />
 	</node>
-	<node id="-5750" lat="69.69842" lon="18.88716">
+	<node id="-5755" lat="69.69842" lon="18.88716">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="sestdahl@hotmail.com" />
@@ -756,7 +782,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-08-01" />
 	</node>
-	<node id="-5740" lat="69.7746" lon="18.81982">
+	<node id="-5745" lat="69.7746" lon="18.81982">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="20" />
 		<tag k="contact:email" v="rodhettefamiliebarnehage@hotmail.com" />
@@ -769,19 +795,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2001-10-15" />
 	</node>
-	<node id="-5153" lat="64.02038" lon="11.4979">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="contact:email" v="hilde@taraldsen-regnskap.no" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Nordsihaugen Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1021448" />
-		<tag k="operator" v="Nordsihaugen Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="1998-02-01" />
-	</node>
-	<node id="-5730" lat="69.64435" lon="19.00043">
+	<node id="-5735" lat="69.64435" lon="19.00043">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="rubenhamnes@hotmail.com" />
@@ -794,7 +808,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2010-10-01" />
 	</node>
-	<node id="-5729" lat="69.68327" lon="18.94423">
+	<node id="-5734" lat="69.68327" lon="18.94423">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="olaug.hanssen@live.no" />
@@ -807,7 +821,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-07-27" />
 	</node>
-	<node id="-5728" lat="69.66308" lon="19.02563">
+	<node id="-5733" lat="69.66308" lon="19.02563">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="18" />
 		<tag k="contact:email" v="odsja@online.no" />
@@ -818,6 +832,19 @@
 		<tag k="operator" v="Midnattsol Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-04-26" />
+	</node>
+	<node id="-5728" lat="69.68705" lon="18.83419">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="15" />
+		<tag k="contact:email" v="post@lekestua.no" />
+		<tag k="contact:phone" v="99167192" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lekestua Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1021750" />
+		<tag k="operator" v="Lekestua Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2004-03-01" />
 	</node>
 	<node id="-1629" lat="59.94748" lon="10.63652">
 		<tag k="amenity" v="kindergarten" />
@@ -832,18 +859,19 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-08-25" />
 	</node>
-	<node id="-5723" lat="69.68705" lon="18.83419">
+	<node id="-5708" lat="69.64841" lon="19.00094">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="15" />
-		<tag k="contact:email" v="post@lekestua.no" />
-		<tag k="contact:phone" v="99167192" />
+		<tag k="capacity" v="10" />
+		<tag k="contact:email" v="katrinegulstad@hotmail.com" />
+		<tag k="contact:phone" v="950 25 765" />
+		<tag k="contact:website" v="http://www.eventyroya.bhg.no" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Lekestua Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1021750" />
-		<tag k="operator" v="Lekestua Familiebarnehage AS" />
+		<tag k="name" v="Eventyrøya Familiebarnehage Da" />
+		<tag k="no-barnehage:nsrid" v="1020924" />
+		<tag k="operator" v="Eventyrøya Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2004-03-01" />
+		<tag k="start_date" v="2003-05-21" />
 	</node>
 	<node id="-1610" lat="59.84087" lon="10.79907">
 		<tag k="amenity" v="kindergarten" />
@@ -918,20 +946,7 @@
 		<tag k="operator:type" v="public" />
 		<tag k="start_date" v="2006-11-01" />
 	</node>
-	<node id="-5692" lat="69.65518" lon="19.01492">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="contact:email" v="laarvid@online.no" />
-		<tag k="contact:phone" v="77 63 96 06" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Bjørnehiet Fam barnehage Ans" />
-		<tag k="no-barnehage:nsrid" v="1020840" />
-		<tag k="operator" v="Bjørnehiet Fam barnehage Ans" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2002-08-15" />
-	</node>
-	<node id="-5685" lat="69.64758" lon="18.93334">
+	<node id="-5690" lat="69.64758" lon="18.93334">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="havardhamnes1@hotmail.com" />
@@ -944,7 +959,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-05-31" />
 	</node>
-	<node id="-5672" lat="68.70286" lon="15.40515">
+	<node id="-5677" lat="68.70286" lon="15.40515">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="skogsstjerna.barnehage@hotmail.com" />
@@ -1046,7 +1061,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1998-01-01" />
 	</node>
-	<node id="-5630" lat="68.23626" lon="14.54101">
+	<node id="-5635" lat="68.23626" lon="14.54101">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="lundeveien.barnehage@lofotkraft.net" />
@@ -1059,7 +1074,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-08-01" />
 	</node>
-	<node id="-5626" lat="68.24681" lon="14.55683">
+	<node id="-5631" lat="68.24681" lon="14.55683">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="contact:email" v="aud.eli.stabell@adwice.no" />
@@ -1110,6 +1125,19 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
+	<node id="-5616" lat="68.07417" lon="13.54972">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="contact:email" v="trondha6@online.no" />
+		<tag k="contact:phone" v="76 08 80 29" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Heimly Familiebarnehage Renate Hansen" />
+		<tag k="no-barnehage:nsrid" v="1020284" />
+		<tag k="operator" v="Heimly Familiebarnehage Renate Hansen" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="1998-01-01" />
+	</node>
 	<node id="-1518" lat="59.85388" lon="10.80138">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -1122,19 +1150,6 @@
 		<tag k="operator" v="Ole Brumm barnehage AS" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1998-08-01" />
-	</node>
-	<node id="-5611" lat="68.07417" lon="13.54972">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="contact:email" v="trondha6@online.no" />
-		<tag k="contact:phone" v="76 08 80 29" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Heimly Familiebarnehage Renate Hansen" />
-		<tag k="no-barnehage:nsrid" v="1020284" />
-		<tag k="operator" v="Heimly Familiebarnehage Renate Hansen" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="1998-01-01" />
 	</node>
 	<node id="-1514" lat="59.95702" lon="10.86304">
 		<tag k="amenity" v="kindergarten" />
@@ -1162,7 +1177,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2002-08-01" />
 	</node>
-	<node id="-5595" lat="68.34283" lon="16.83145">
+	<node id="-5600" lat="68.34283" lon="16.83145">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="hanschristian61@gmail.com" />
@@ -1306,20 +1321,6 @@
 		<tag k="operator" v="Planeten barnehage AS" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-09-01" />
-	</node>
-	<node id="-5703" lat="69.64841" lon="19.00094">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="contact:email" v="katrinegulstad@hotmail.com" />
-		<tag k="contact:phone" v="950 25 765" />
-		<tag k="contact:website" v="http://www.eventyroya.bhg.no" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Eventyrøya Familiebarnehage Da" />
-		<tag k="no-barnehage:nsrid" v="1020924" />
-		<tag k="operator" v="Eventyrøya Familiebarnehage Da" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2003-05-21" />
 	</node>
 	<node id="-1447" lat="59.9317" lon="10.814">
 		<tag k="amenity" v="kindergarten" />
@@ -1700,7 +1701,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-03-01" />
 	</node>
-	<node id="-5481" lat="65.8189" lon="13.22004">
+	<node id="-5486" lat="65.8189" lon="13.22004">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="trude.skar@online.no" />
@@ -1726,19 +1727,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-01-01" />
 	</node>
-	<node id="-1375" lat="59.88391" lon="10.80696">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="contact:email" v="ranveighansen@gmail.com" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Lille Venn Familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022371" />
-		<tag k="operator" v="Lambertseter Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2012-07-12" />
-	</node>
-	<node id="-5470" lat="65.82015" lon="13.22402">
+	<node id="-5475" lat="65.82015" lon="13.22402">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="ninaaskerod@hotmail.com" />
@@ -1750,6 +1739,18 @@
 		<tag k="operator" v="Nina Askerød / Bukkene Bruse Fam.Barnehage" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-10-01" />
+	</node>
+	<node id="-1375" lat="59.88391" lon="10.80696">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="contact:email" v="ranveighansen@gmail.com" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lille Venn Familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022371" />
+		<tag k="operator" v="Lambertseter Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2012-07-12" />
 	</node>
 	<node id="-1373" lat="59.8569" lon="10.79916">
 		<tag k="amenity" v="kindergarten" />
@@ -1877,6 +1878,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-01-01" />
 	</node>
+	<node id="-5434" lat="68.54829" lon="17.53074">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="9" />
+		<tag k="contact:email" v="trollefam@gmail.com" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Trollhaugen Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1020172" />
+		<tag k="operator" v="Trollhaugen Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2003-01-01" />
+	</node>
 	<node id="-1336" lat="59.94234" lon="10.68485">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -1890,19 +1903,20 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1996-07-31" />
 	</node>
-	<node id="-5430" lat="68.54829" lon="17.53074">
+	<node id="-5342" lat="63.95862" lon="11.32831">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="contact:email" v="trollefam@gmail.com" />
+		<tag k="capacity" v="10" />
+		<tag k="contact:email" v="post@markvoll.no" />
+		<tag k="contact:phone" v="74 15 64 09" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Trollhaugen Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1020172" />
-		<tag k="operator" v="Trollhaugen Familiebarnehage AS" />
+		<tag k="name" v="Markvoll Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1021631" />
+		<tag k="operator" v="Markvoll Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2003-01-01" />
+		<tag k="start_date" v="2001-08-15" />
 	</node>
-	<node id="-5421" lat="68.41868" lon="17.38179">
+	<node id="-5425" lat="68.41868" lon="17.38179">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="benedp@frisurf.no" />
@@ -1964,19 +1978,6 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-01-02" />
 	</node>
-	<node id="-5338" lat="63.95862" lon="11.32831">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="contact:email" v="post@markvoll.no" />
-		<tag k="contact:phone" v="74 15 64 09" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Markvoll Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1021631" />
-		<tag k="operator" v="Markvoll Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2001-08-15" />
-	</node>
 	<node id="-1305" lat="59.92212" lon="10.65596">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -1990,19 +1991,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2008-06-01" />
 	</node>
-	<node id="-5335" lat="63.86708" lon="11.29562">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="11" />
-		<tag k="contact:email" v="tina.pedersen.leinan@ntebb.no" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Inderøy Familiebarnehage Tina Leinan" />
-		<tag k="no-barnehage:nsrid" v="1020629" />
-		<tag k="operator" v="Inderøy Familiebarnehage Tina Leinan" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2011-01-01" />
-	</node>
-	<node id="-5381" lat="67.2769" lon="14.47007">
+	<node id="-5385" lat="67.2769" lon="14.47007">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="synlau@start.no" />
@@ -2040,20 +2029,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2014-02-03" />
 	</node>
-	<node id="-5373" lat="67.27781" lon="14.48253">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="v-uteng@online.no" />
-		<tag k="contact:phone" v="75 56 01 32" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Lille Parallellen Familiebarnehage Vibeke Uteng Johansen" />
-		<tag k="no-barnehage:nsrid" v="1021684" />
-		<tag k="operator" v="Lille Parallellen Familiebarnehage Vibeke Uteng Johansen" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2007-08-13" />
-	</node>
-	<node id="-5360" lat="67.2939" lon="14.42433">
+	<node id="-5364" lat="67.2939" lon="14.42433">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="hanne.torsteinsen@gmail.com" />
@@ -2065,7 +2041,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-02-01" />
 	</node>
-	<node id="-5352" lat="67.2938" lon="14.58979">
+	<node id="-5356" lat="67.2938" lon="14.58979">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="6" />
 		<tag k="contact:email" v="adriennemathisen@hotmail.com" />
@@ -2334,6 +2310,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2000-08-01" />
 	</node>
+	<node id="-5295" lat="64.2457" lon="12.37779">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="5" />
+		<tag k="contact:email" v="Lillmark@online.no" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lillemarka Familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020521" />
+		<tag k="operator" v="Laila Saur" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2009-01-01" />
+	</node>
 	<node id="-1197" lat="59.90521" lon="10.80805">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="3" />
@@ -2345,18 +2333,6 @@
 		<tag k="operator" v="Grimelund Familiebarnehage Mette Fürst" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2007-10-01" />
-	</node>
-	<node id="-5291" lat="64.2457" lon="12.37779">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="Lillmark@online.no" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Lillemarka Familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020521" />
-		<tag k="operator" v="Laila Saur" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2009-01-01" />
 	</node>
 	<node id="-1194" lat="59.9564" lon="10.6706">
 		<tag k="amenity" v="kindergarten" />
@@ -2472,7 +2448,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
-	<node id="-5255" lat="63.60823" lon="11.05177">
+	<node id="-5259" lat="63.60823" lon="11.05177">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="17" />
 		<tag k="contact:email" v="Kjell.Stokkan@aasenregnskap.no" />
@@ -2485,7 +2461,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2001-08-01" />
 	</node>
-	<node id="-5253" lat="63.70111" lon="11.18688">
+	<node id="-5257" lat="63.70111" lon="11.18688">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="landstad.familiebarnehage@ntebb.no" />
@@ -2497,6 +2473,32 @@
 		<tag k="operator" v="Landstad Familiebarnehage Siw Ingrid Skramstad" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2007-07-30" />
+	</node>
+	<node id="-5218" lat="63.46393" lon="11.11427">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="9" />
+		<tag k="contact:email" v="mstavne@gmail.com" />
+		<tag k="contact:phone" v="74 82 87 79" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Nasse Nøff Familiebarnehage AS Avd Nasse Nøff" />
+		<tag k="no-barnehage:nsrid" v="1022265" />
+		<tag k="operator" v="Nasse Nøff Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2006-12-13" />
+	</node>
+	<node id="-5252" lat="63.74636" lon="11.30049">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="li-ves-g@online.no" />
+		<tag k="contact:phone" v="74 08 87 32" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Heirsaunet Familiebarnehage Lisbeth Vestnes Guddingsmo" />
+		<tag k="no-barnehage:nsrid" v="1021644" />
+		<tag k="operator" v="Heirsaunet Familiebarnehage Lisbeth Vestnes Guddingsmo" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2007-04-20" />
 	</node>
 	<node id="-3200" lat="58.23707" lon="7.938873">
 		<tag k="amenity" v="kindergarten" />
@@ -2561,19 +2563,6 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2003-01-01" />
 	</node>
-	<node id="-5238" lat="63.74963" lon="11.3165">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="agnetefredriksen@yahoo.no" />
-		<tag k="contact:phone" v="476 58 349" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Athene Familiebarnehage Agnete Marlen Fredriksen" />
-		<tag k="no-barnehage:nsrid" v="1021668" />
-		<tag k="operator" v="Athene Familiebarnehage Agnete Marlen Fredriksen" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2007-07-30" />
-	</node>
 	<node id="-1135" lat="59.9496" lon="10.6815">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -2586,7 +2575,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2008-07-29" />
 	</node>
-	<node id="-5225" lat="63.48188" lon="10.97334">
+	<node id="-5229" lat="63.48188" lon="10.97334">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="11" />
 		<tag k="contact:email" v="trollskogen@borgso.net" />
@@ -2599,7 +2588,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-01-01" />
 	</node>
-	<node id="-5224" lat="63.48073" lon="10.96838">
+	<node id="-5228" lat="63.48073" lon="10.96838">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="5" />
 		<tag k="contact:email" v="grantopp@online.no" />
@@ -2608,6 +2597,31 @@
 		<tag k="name" v="Toppen Familiebarnehage Avd Grantoppen" />
 		<tag k="no-barnehage:nsrid" v="1021269" />
 		<tag k="operator" v="Ingebjørg Husby" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2010-01-01" />
+	</node>
+	<node id="-5227" lat="63.40368" lon="10.97612">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="5" />
+		<tag k="contact:email" v="anettbrands@hotmail.com" />
+		<tag k="contact:phone" v="74 82 82 01" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Toppen Familiebarnehage Avd Furutoppen" />
+		<tag k="no-barnehage:nsrid" v="1021270" />
+		<tag k="operator" v="Anett Brandsæter" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2009-01-01" />
+	</node>
+	<node id="-5226" lat="63.43882" lon="10.9041">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="mrsorensen77@hotmail.com" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Toppen Familiebarnehage Avd Eiketoppen" />
+		<tag k="no-barnehage:nsrid" v="1021459" />
+		<tag k="operator" v="Toppen Familiebarnehage avd Eiketoppen V / Torkell Sørensen" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2010-01-01" />
 	</node>
@@ -2712,19 +2726,6 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2015-08-01" />
 	</node>
-	<node id="-5214" lat="63.46393" lon="11.11427">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="contact:email" v="mstavne@gmail.com" />
-		<tag k="contact:phone" v="74 82 87 79" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Nasse Nøff Familiebarnehage AS Avd Nasse Nøff" />
-		<tag k="no-barnehage:nsrid" v="1022265" />
-		<tag k="operator" v="Nasse Nøff Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2006-12-13" />
-	</node>
 	<node id="-4965" lat="63.42201" lon="10.54462">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -2737,16 +2738,28 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
-	<node id="-5209" lat="63.4808" lon="10.96806">
+	<node id="-5212" lat="63.4678" lon="10.9176">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="ruthteigen@hotmail.com" />
-		<tag k="contact:phone" v="41 50 02 64" />
+		<tag k="contact:email" v="annejorids@gmail.com" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Lasseliten Familiebarnehage Avd Toppen" />
-		<tag k="no-barnehage:nsrid" v="1020535" />
-		<tag k="operator" v="Lasseliten Familiebarnehage avd Toppen Ruth Lund Teigen" />
+		<tag k="name" v="Lasseliten Familiebarnehage Avd Stubben" />
+		<tag k="no-barnehage:nsrid" v="1020872" />
+		<tag k="operator" v="Lasseliten Familiebarnehage Anne Jorid Skjervold" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2009-01-01" />
+	</node>
+	<node id="-5211" lat="63.48135" lon="10.96958">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="5" />
+		<tag k="contact:email" v="annsirikoen@gmail.com" />
+		<tag k="contact:phone" v="92 26 01 35" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lasseliten Familiebarnehage Avd Siritun" />
+		<tag k="no-barnehage:nsrid" v="1020622" />
+		<tag k="operator" v="Malmtunet Familiebarnehage avd Siritun Ann-Siri Koen" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
@@ -2762,18 +2775,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2008-08-01" />
 	</node>
-	<node id="-5207" lat="63.48135" lon="10.96958">
+	<node id="-5207" lat="63.47233" lon="10.91938">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="annsirikoen@gmail.com" />
-		<tag k="contact:phone" v="92 26 01 35" />
+		<tag k="contact:email" v="olagresseth@gmail.com" />
+		<tag k="contact:phone" v="74 82 83 27" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Lasseliten Familiebarnehage Avd Siritun" />
-		<tag k="no-barnehage:nsrid" v="1020622" />
-		<tag k="operator" v="Malmtunet Familiebarnehage avd Siritun Ann-Siri Koen" />
+		<tag k="name" v="Gresstoppen Familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1021742" />
+		<tag k="operator" v="Gresstoppen Familiebarnehage Gresseth" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2009-01-01" />
+		<tag k="start_date" v="2008-01-01" />
 	</node>
 	<node id="-3158" lat="58.02784" lon="7.435908">
 		<tag k="amenity" v="kindergarten" />
@@ -2826,7 +2839,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2002-09-15" />
 	</node>
-	<node id="-5195" lat="63.4588" lon="10.9657">
+	<node id="-5198" lat="63.4588" lon="10.9657">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
 		<tag k="contact:email" v="kari.skulborstad@gmail.com" />
@@ -2838,6 +2851,31 @@
 		<tag k="operator" v="Kari Skulbørstad" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-12-16" />
+	</node>
+	<node id="-5197" lat="63.48648" lon="10.96079">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="6" />
+		<tag k="contact:email" v="laila_hofstad@hotmail.no" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Eventyrskogen Familiebarnehage Avd Askeladden" />
+		<tag k="no-barnehage:nsrid" v="1020826" />
+		<tag k="operator" v="Laila Hofstad" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2010-01-01" />
+	</node>
+	<node id="-5195" lat="63.46946" lon="10.93787">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="nina.langberg@hotmail.com" />
+		<tag k="contact:phone" v="934 46 024" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Brumm Familiebarnehage Langberg" />
+		<tag k="no-barnehage:nsrid" v="1021506" />
+		<tag k="operator" v="Brumm Familiebarnehage Langberg" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2006-08-28" />
 	</node>
 	<node id="-3146" lat="58.12258" lon="7.958855">
 		<tag k="amenity" v="kindergarten" />
@@ -2916,19 +2954,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2004-07-27" />
 	</node>
-	<node id="-5184" lat="64.46629" lon="11.49559">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="contact:email" v="snippenfam@hotmail.com" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Snippen Familiebarnehage AS" />
-		<tag k="no-barnehage:nsrid" v="1020182" />
-		<tag k="operator" v="Snippen Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="1995-08-11" />
-	</node>
-	<node id="-5176" lat="64.40973" lon="11.48248">
+	<node id="-5177" lat="64.40973" lon="11.48248">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="contact:email" v="tone@klingafamb.no" />
@@ -3031,7 +3057,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
-	<node id="-5155" lat="64.02122" lon="11.54056">
+	<node id="-5156" lat="64.02122" lon="11.54056">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="contact:email" v="risgropa.familiebarnehage@ntebb.no" />
@@ -3043,6 +3069,18 @@
 		<tag k="operator" v="Karin Wahl Oldren" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2003-08-01" />
+	</node>
+	<node id="-5154" lat="64.02038" lon="11.4979">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="contact:email" v="hilde@taraldsen-regnskap.no" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Nordsihaugen Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1021448" />
+		<tag k="operator" v="Nordsihaugen Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="1998-02-01" />
 	</node>
 	<node id="-3105" lat="58.15738" lon="8.080633">
 		<tag k="amenity" v="kindergarten" />
@@ -3070,7 +3108,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2003-08-01" />
 	</node>
-	<node id="-5148" lat="64.02212" lon="11.50126">
+	<node id="-5149" lat="64.02212" lon="11.50126">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="contact:email" v="lykkeliten.bhg@hotmail.com" />
@@ -3194,20 +3232,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2004-08-01" />
 	</node>
-	<node id="-5125" lat="63.43306" lon="10.59604">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="contact:email" v="utsikten.familiebarnehage@yahoo.no" />
-		<tag k="contact:phone" v="73 97 88 87" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
-		<tag k="no-barnehage:nsrid" v="1020510" />
-		<tag k="operator" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="1998-08-03" />
-	</node>
-	<node id="-5124" lat="63.43727" lon="10.62657">
+	<node id="-5125" lat="63.43727" lon="10.62657">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="akwedoe@yahoo.no" />
@@ -3220,7 +3245,7 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1999-08-02" />
 	</node>
-	<node id="-5121" lat="63.43891" lon="10.604">
+	<node id="-5122" lat="63.43891" lon="10.604">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="heidialeksandersen@gmail.com" />
@@ -3785,6 +3810,19 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
 	</node>
+	<node id="-5213" lat="63.4808" lon="10.96806">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="5" />
+		<tag k="contact:email" v="ruthteigen@hotmail.com" />
+		<tag k="contact:phone" v="41 50 02 64" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lasseliten Familiebarnehage Avd Toppen" />
+		<tag k="no-barnehage:nsrid" v="1020535" />
+		<tag k="operator" v="Lasseliten Familiebarnehage avd Toppen Ruth Lund Teigen" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2009-01-01" />
+	</node>
 	<node id="-2946" lat="58.4115" lon="8.637424">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
@@ -3811,6 +3849,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2001-08-01" />
 	</node>
+	<node id="-5339" lat="63.86708" lon="11.29562">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="11" />
+		<tag k="contact:email" v="tina.pedersen.leinan@ntebb.no" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Inderøy Familiebarnehage Tina Leinan" />
+		<tag k="no-barnehage:nsrid" v="1020629" />
+		<tag k="operator" v="Inderøy Familiebarnehage Tina Leinan" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2011-01-01" />
+	</node>
 	<node id="-2928" lat="58.47294" lon="8.777997">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
@@ -3836,17 +3886,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2005-08-01" />
 	</node>
-	<node id="-5697" lat="69.64346" lon="18.98919">
+	<node id="-5697" lat="69.65518" lon="19.01492">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="contact:email" v="Hamnes@live.com" />
+		<tag k="capacity" v="9" />
+		<tag k="contact:email" v="laarvid@online.no" />
+		<tag k="contact:phone" v="77 63 96 06" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Dalen Familiebarnehage Da" />
-		<tag k="no-barnehage:nsrid" v="1022349" />
-		<tag k="operator" v="Dalen Familiebarnehage Da" />
+		<tag k="name" v="Bjørnehiet Fam barnehage Ans" />
+		<tag k="no-barnehage:nsrid" v="1020840" />
+		<tag k="operator" v="Bjørnehiet Fam barnehage Ans" />
 		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2013-02-17" />
+		<tag k="start_date" v="2002-08-15" />
 	</node>
 	<node id="-4968" lat="63.34393" lon="10.36376">
 		<tag k="amenity" v="kindergarten" />
@@ -4471,19 +4522,6 @@
 		<tag k="operator" v="Nydammen Familiebarne Hege Skylstad Dahl" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
-	</node>
-	<node id="-5248" lat="63.74636" lon="11.30049">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="li-ves-g@online.no" />
-		<tag k="contact:phone" v="74 08 87 32" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Heirsaunet Familiebarnehage Lisbeth Vestnes Guddingsmo" />
-		<tag k="no-barnehage:nsrid" v="1021644" />
-		<tag k="operator" v="Heirsaunet Familiebarnehage Lisbeth Vestnes Guddingsmo" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2007-04-20" />
 	</node>
 	<node id="-4859" lat="63.37691" lon="10.3503">
 		<tag k="amenity" v="kindergarten" />
@@ -5245,31 +5283,6 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2014-05-01" />
 	</node>
-	<node id="-5223" lat="63.40368" lon="10.97612">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="anettbrands@hotmail.com" />
-		<tag k="contact:phone" v="74 82 82 01" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Toppen Familiebarnehage Avd Furutoppen" />
-		<tag k="no-barnehage:nsrid" v="1021270" />
-		<tag k="operator" v="Anett Brandsæter" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2009-01-01" />
-	</node>
-	<node id="-5222" lat="63.43882" lon="10.9041">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="mrsorensen77@hotmail.com" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Toppen Familiebarnehage Avd Eiketoppen" />
-		<tag k="no-barnehage:nsrid" v="1021459" />
-		<tag k="operator" v="Toppen Familiebarnehage avd Eiketoppen V / Torkell Sørensen" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2010-01-01" />
-	</node>
 	<node id="-610" lat="59.90491" lon="10.60419">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -5714,6 +5727,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2011-05-01" />
 	</node>
+	<node id="-5702" lat="69.64346" lon="18.98919">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="contact:email" v="Hamnes@live.com" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Dalen Familiebarnehage Da" />
+		<tag k="no-barnehage:nsrid" v="1022349" />
+		<tag k="operator" v="Dalen Familiebarnehage Da" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2013-02-17" />
+	</node>
 	<node id="-529" lat="59.90809" lon="10.55892">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -5726,18 +5751,6 @@
 		<tag k="operator" v="Kamilleblom Familebarnehage Camilla Thorsen Kulsrud" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1995-12-15" />
-	</node>
-	<node id="-5208" lat="63.4678" lon="10.9176">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="annejorids@gmail.com" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Lasseliten Familiebarnehage Avd Stubben" />
-		<tag k="no-barnehage:nsrid" v="1020872" />
-		<tag k="operator" v="Lasseliten Familiebarnehage Anne Jorid Skjervold" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2009-01-01" />
 	</node>
 	<node id="-2571" lat="59.26716" lon="10.45506">
 		<tag k="amenity" v="kindergarten" />
@@ -5776,6 +5789,19 @@
 		<tag k="operator" v="Ingas Tigergutt Familiebarnehage Inga Staneviciene" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2010-08-01" />
+	</node>
+	<node id="-5206" lat="63.46393" lon="11.11427">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="4" />
+		<tag k="contact:email" v="rakel_aune@hotmail.com" />
+		<tag k="contact:phone" v="90066398" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Gressethgrenda Familiebarnehage V/rakel Chr. Aune" />
+		<tag k="no-barnehage:nsrid" v="1022246" />
+		<tag k="operator" v="Gressethgrenda Familiebarnehage V/rakel Chr. Aune" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="2012-01-02" />
 	</node>
 	<node id="-2561" lat="59.2863" lon="10.49567">
 		<tag k="amenity" v="kindergarten" />
@@ -5863,32 +5889,6 @@
 		<tag k="operator" v="Granvollen Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1995-08-01" />
-	</node>
-	<node id="-5203" lat="63.47233" lon="10.91938">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="contact:email" v="olagresseth@gmail.com" />
-		<tag k="contact:phone" v="74 82 83 27" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Gresstoppen Familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1021742" />
-		<tag k="operator" v="Gresstoppen Familiebarnehage Gresseth" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2008-01-01" />
-	</node>
-	<node id="-5202" lat="63.46393" lon="11.11427">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="rakel_aune@hotmail.com" />
-		<tag k="contact:phone" v="90066398" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Gressethgrenda Familiebarnehage V/rakel Chr. Aune" />
-		<tag k="no-barnehage:nsrid" v="1022246" />
-		<tag k="operator" v="Gressethgrenda Familiebarnehage V/rakel Chr. Aune" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2012-01-02" />
 	</node>
 	<node id="-2534" lat="59.40637" lon="10.46964">
 		<tag k="amenity" v="kindergarten" />
@@ -6091,18 +6091,6 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="1996-06-07" />
 	</node>
-	<node id="-5194" lat="63.48648" lon="10.96079">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="6" />
-		<tag k="contact:email" v="laila_hofstad@hotmail.no" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Eventyrskogen Familiebarnehage Avd Askeladden" />
-		<tag k="no-barnehage:nsrid" v="1020826" />
-		<tag k="operator" v="Laila Hofstad" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2010-01-01" />
-	</node>
 	<node id="-2486" lat="59.71351" lon="10.51752">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
@@ -6115,19 +6103,6 @@
 		<tag k="operator" v="Utsikten Familie barnehage Carina Abrahamsen" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2006-08-01" />
-	</node>
-	<node id="-5192" lat="63.46946" lon="10.93787">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="4" />
-		<tag k="contact:email" v="nina.langberg@hotmail.com" />
-		<tag k="contact:phone" v="934 46 024" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Brumm Familiebarnehage Langberg" />
-		<tag k="no-barnehage:nsrid" v="1021506" />
-		<tag k="operator" v="Brumm Familiebarnehage Langberg" />
-		<tag k="operator:type" v="private" />
-		<tag k="start_date" v="2006-08-28" />
 	</node>
 	<node id="-2468" lat="59.753" lon="10.4652">
 		<tag k="amenity" v="kindergarten" />
@@ -6272,6 +6247,18 @@
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2004-07-01" />
 	</node>
+	<node id="-5185" lat="64.46629" lon="11.49559">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="9" />
+		<tag k="contact:email" v="snippenfam@hotmail.com" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Snippen Familiebarnehage AS" />
+		<tag k="no-barnehage:nsrid" v="1020182" />
+		<tag k="operator" v="Snippen Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="1995-08-11" />
+	</node>
 	<node id="-388" lat="59.83494" lon="10.68622">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -6363,10 +6350,10 @@
 	</node>
 	<node id="-371" lat="59.6696" lon="10.6579">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
+		<tag k="capacity" v="10" />
 		<tag k="contact:email" v="dyrlokketoppen@barnehage.no" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="3" />
 		<tag k="name" v="Dyrløkketoppen Familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1013532" />
 		<tag k="operator" v="Wica Invest AS" />
@@ -6501,6 +6488,19 @@
 		<tag k="operator" v="Do-Re-Mi Musikk-Familiebarnehage Anne-Karine Kjus" />
 		<tag k="operator:type" v="private" />
 		<tag k="start_date" v="2009-01-01" />
+	</node>
+	<node id="-5126" lat="63.43306" lon="10.59604">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="contact:email" v="utsikten.familiebarnehage@yahoo.no" />
+		<tag k="contact:phone" v="73 97 88 87" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
+		<tag k="no-barnehage:nsrid" v="1020510" />
+		<tag k="operator" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
+		<tag k="operator:type" v="private" />
+		<tag k="start_date" v="1998-08-03" />
 	</node>
 	<node id="-2445" lat="59.82197" lon="10.27331">
 		<tag k="amenity" v="kindergarten" />

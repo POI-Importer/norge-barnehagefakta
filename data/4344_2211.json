@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5220",
+            "id": "node/-5224",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -16,7 +16,7 @@
                 "operator": "Stjørdal Menighets barnehage",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-5220"
+                "id": "node/-5224"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5216",
+            "id": "node/-5220",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -40,7 +40,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-5216"
+                "id": "node/-5220"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5213",
+            "id": "node/-5217",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -64,7 +64,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-5213"
+                "id": "node/-5217"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5212",
+            "id": "node/-5216",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -88,13 +88,37 @@
                 "operator": "Medbroen Drift AS",
                 "operator:type": "private",
                 "start_date": "2011-08-01",
-                "id": "node/-5212"
+                "id": "node/-5216"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.9091,
                     63.4786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5193",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:email": "gerd@aglo.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Aglo barnehage Sentrum",
+                "no-barnehage:nsrid": "1026309",
+                "operator": "Aglo Opplæringssenter",
+                "operator:type": "private",
+                "start_date": "2009-08-10",
+                "id": "node/-5193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92275,
+                    63.47264
                 ]
             }
         }

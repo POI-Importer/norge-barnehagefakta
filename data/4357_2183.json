@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5166",
+            "id": "node/-5167",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -16,7 +16,7 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-5166"
+                "id": "node/-5167"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5164",
+            "id": "node/-5165",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -42,7 +42,7 @@
                 "operator": "Vikingen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-10-27",
-                "id": "node/-5164"
+                "id": "node/-5165"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5159",
+            "id": "node/-5160",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -66,7 +66,7 @@
                 "operator": "Steinkjer Montessoribarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2005-08-01",
-                "id": "node/-5159"
+                "id": "node/-5160"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5154",
+            "id": "node/-5155",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -92,7 +92,32 @@
                 "operator": "Poppellunden barnehage Stiftelse",
                 "operator:type": "private",
                 "start_date": "1996-06-01",
-                "id": "node/-5154"
+                "id": "node/-5155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.49526,
+                    64.01502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5147",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:email": "karsteinhelge@hotmail.com",
+                "contact:phone": "74 14 96 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvam barnehage",
+                "no-barnehage:nsrid": "1020499",
+                "operator": "Kvam barnehage",
+                "operator:type": "private",
+                "start_date": "1998-01-01",
+                "id": "node/-5147"
             },
             "geometry": {
                 "type": "Point",
@@ -107,16 +132,17 @@
             "id": "node/-5146",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:email": "karsteinhelge@hotmail.com",
-                "contact:phone": "74 14 96 00",
+                "capacity": "44",
+                "contact:email": "dagolav@kringlabarnehage.no",
+                "contact:phone": "74 16 76 42",
+                "contact:website": "http://www.kringlabarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kvam barnehage",
-                "no-barnehage:nsrid": "1020499",
-                "operator": "Kvam barnehage",
+                "name": "Kringla Friluftsbarnehage AS",
+                "no-barnehage:nsrid": "1021973",
+                "operator": "Kringla Friluftsbarnehage AS",
                 "operator:type": "private",
-                "start_date": "1998-01-01",
+                "start_date": "2009-09-01",
                 "id": "node/-5146"
             },
             "geometry": {
@@ -129,33 +155,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5145",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "44",
-                "contact:email": "dagolav@kringlabarnehage.no",
-                "contact:phone": "74 16 76 42",
-                "contact:website": "http://www.kringlabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kringla Friluftsbarnehage AS",
-                "no-barnehage:nsrid": "1021973",
-                "operator": "Kringla Friluftsbarnehage AS",
-                "operator:type": "private",
-                "start_date": "2009-09-01",
-                "id": "node/-5145"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.49526,
-                    64.01502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5135",
+            "id": "node/-5136",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -168,7 +168,7 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5135"
+                "id": "node/-5136"
             },
             "geometry": {
                 "type": "Point",
