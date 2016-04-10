@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2772",
+            "id": "node/-2823",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -15,7 +15,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2772"
+                "id": "node/-2823"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2769",
+            "id": "node/-2818",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "114",
+                "contact:email": "klyveskogen@barnehagedrift.no",
+                "contact:phone": "35 59 72 00",
+                "contact:website": "http://www.barnehagemagasinet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Klyveskogen barnehage AS",
+                "no-barnehage:nsrid": "1021850",
+                "operator": "Klyveskogen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2001-12-01",
+                "id": "node/-2818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.623823,
+                    59.148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2817",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "klyveopenbarnehage@online.no",
@@ -36,7 +62,7 @@
                 "operator": "Gimsøy og Nenset Sokn",
                 "operator:type": "private",
                 "start_date": "2005-09-01",
-                "id": "node/-2769"
+                "id": "node/-2817"
             },
             "geometry": {
                 "type": "Point",

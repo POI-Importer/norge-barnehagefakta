@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2784",
+            "id": "node/-2836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -16,7 +16,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1980-01-24",
-                "id": "node/-2784"
+                "id": "node/-2836"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2773",
+            "id": "node/-2824",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -40,7 +40,7 @@
                 "operator": "Gulset og Skotfoss Sokn",
                 "operator:type": "private",
                 "start_date": "2009-06-30",
-                "id": "node/-2773"
+                "id": "node/-2824"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2771",
+            "id": "node/-2820",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -64,7 +64,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1994-08-01",
-                "id": "node/-2771"
+                "id": "node/-2820"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2765",
+            "id": "node/-2811",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -88,13 +88,39 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2765"
+                "id": "node/-2811"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.56051,
                     59.2176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2802",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:email": "einaren.barnehage@live.no",
+                "contact:phone": "35 53 83 66",
+                "contact:website": "http://www.einaren.barnehage.skien.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Einaren barnehage",
+                "no-barnehage:nsrid": "1019902",
+                "operator": "Einaren barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1990-04-01",
+                "id": "node/-2802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.557604,
+                    59.2095
                 ]
             }
         }

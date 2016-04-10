@@ -3,7 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2753",
+            "id": "node/-2821",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:email": "kongerod@barnehagedrift.no",
+                "contact:phone": "35 50 34 30",
+                "contact:website": "http://www.barnehagemagasinet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kongerød barnehage AS",
+                "no-barnehage:nsrid": "1021788",
+                "operator": "Kongerød barnehage AS",
+                "operator:type": "private",
+                "start_date": "2008-02-26",
+                "id": "node/-2821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.624725,
+                    59.15297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2791",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -16,7 +42,7 @@
                 "operator": "Den Evangelisk Lutherske Frikirke Porsgrunn Menighet",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2753"
+                "id": "node/-2791"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +54,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2749",
+            "id": "node/-2790",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:email": "trine.larsen@porsgrunn.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestsiden barnehage",
+                "no-barnehage:nsrid": "1019583",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "2014-01-01",
+                "id": "node/-2790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.634799,
+                    59.14537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2778",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "einar.svendsen@porsgrunn.kommune.no",
@@ -38,7 +88,7 @@
                 "operator": "Porsgrunn Sokn",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-2749"
+                "id": "node/-2778"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2748",
+            "id": "node/-2777",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -63,7 +113,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2001-12-17",
-                "id": "node/-2748"
+                "id": "node/-2777"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +125,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2747",
+            "id": "node/-2769",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "trine.larsen@porsgrunn.kommune.no",
+                "contact:phone": "35 55 16 24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirketjernet barnehage",
+                "no-barnehage:nsrid": "1018034",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-2769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64292,
+                    59.1434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2767",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -87,7 +162,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2747"
+                "id": "node/-2767"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +174,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2743",
+            "id": "node/-2764",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:email": "anne.omnes@porsgrunn.kommune.no",
+                "contact:phone": "35 55 22 65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frednes barnehage",
+                "no-barnehage:nsrid": "1018033",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-2764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64236,
+                    59.1335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2758",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -111,7 +211,7 @@
                 "operator": "Den Gode Barnehagen AS",
                 "operator:type": "private",
                 "start_date": "2010-07-27",
-                "id": "node/-2743"
+                "id": "node/-2758"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-535",
+            "id": "node/-534",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -16,7 +16,7 @@
                 "operator": "Kolsåstrollet barnehage",
                 "operator:type": "private",
                 "start_date": "2000-08-01",
-                "id": "node/-535"
+                "id": "node/-534"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-534",
+            "id": "node/-533",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -37,30 +37,6 @@
                 "min_age": "1",
                 "name": "Kolsås barnehage Avdeling Småbarnshuset",
                 "no-barnehage:nsrid": "1017643",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2006-12-01",
-                "id": "node/-534"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.5092,
-                    59.9145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-533",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "contact:email": "vera.sandvoll@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Kolsås barnehage Avdeling Knerten",
-                "no-barnehage:nsrid": "1017642",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2006-12-01",
@@ -79,6 +55,30 @@
             "id": "node/-532",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "12",
+                "contact:email": "vera.sandvoll@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Kolsås barnehage Avdeling Knerten",
+                "no-barnehage:nsrid": "1017642",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "2006-12-01",
+                "id": "node/-532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5092,
+                    59.9145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-531",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "67",
                 "contact:email": "vera.sandvoll@baerum.kommune.no",
                 "max_age": "5",
@@ -88,7 +88,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-532"
+                "id": "node/-531"
             },
             "geometry": {
                 "type": "Point",

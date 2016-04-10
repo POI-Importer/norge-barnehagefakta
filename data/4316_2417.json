@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2752",
+            "id": "node/-2789",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -16,7 +16,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1996-04-01",
-                "id": "node/-2752"
+                "id": "node/-2789"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2751",
+            "id": "node/-2785",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -40,7 +40,7 @@
                 "operator": "Studentsamskipnaden i Sørøst-Norge",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-2751"
+                "id": "node/-2785"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2744",
+            "id": "node/-2771",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:email": "liv.lio@barnehage.no",
+                "contact:phone": "35 55 50 86",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liane barnehage Sa",
+                "no-barnehage:nsrid": "1020014",
+                "operator": "Liane barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1991-04-01",
+                "id": "node/-2771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.676746,
+                    59.15338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2759",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "98",
@@ -64,7 +89,7 @@
                 "operator": "Den Gode Barnehagen AS",
                 "operator:type": "private",
                 "start_date": "2007-08-01",
-                "id": "node/-2744"
+                "id": "node/-2759"
             },
             "geometry": {
                 "type": "Point",

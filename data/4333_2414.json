@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2741",
+            "id": "node/-2743",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:email": "birte@bjornhaug.no",
+                "contact:phone": "33 38 77 73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stiftelsen Barnas Have",
+                "no-barnehage:nsrid": "1020343",
+                "operator": "Stiftelsen Barnas Have",
+                "operator:type": "private",
+                "start_date": "1996-08-01",
+                "id": "node/-2743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44566,
+                    59.20711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2740",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -16,7 +41,7 @@
                 "operator": "Nøtterøy kommune",
                 "operator:type": "public",
                 "start_date": "2005-08-01",
-                "id": "node/-2741"
+                "id": "node/-2740"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2737",
+            "id": "node/-2736",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -41,7 +66,7 @@
                 "operator": "Nøtterøy kommune",
                 "operator:type": "public",
                 "start_date": "2006-04-18",
-                "id": "node/-2737"
+                "id": "node/-2736"
             },
             "geometry": {
                 "type": "Point",
