@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2871",
+            "id": "node/-2872",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -16,7 +16,7 @@
                 "operator": "Tirilltoppen barnehage Bamle Sa",
                 "operator:type": "private",
                 "start_date": "1991-07-01",
-                "id": "node/-2871"
+                "id": "node/-2872"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2868",
+            "id": "node/-2869",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -41,7 +41,7 @@
                 "operator": "Solstua Kulturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-07-27",
-                "id": "node/-2868"
+                "id": "node/-2869"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2865",
+            "id": "node/-2866",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -66,7 +66,7 @@
                 "operator": "Bamble kommune",
                 "operator:type": "public",
                 "start_date": "2004-08-01",
-                "id": "node/-2865"
+                "id": "node/-2866"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2864",
+            "id": "node/-2865",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -91,6 +91,27 @@
                 "operator": "Grashoppa barnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-02-10",
+                "id": "node/-2865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70475,
+                    59.0257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2864",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "bjorg.ditlefsen@grashoppa.no",
+                "name": "Grashoppa barnehage Avd Åpen Barnehage",
+                "no-barnehage:nsrid": "1013189",
+                "operator": "Grashoppa barnehage AS",
+                "operator:type": "private",
+                "start_date": "2000-01-01",
                 "id": "node/-2864"
             },
             "geometry": {
@@ -106,27 +127,6 @@
             "id": "node/-2863",
             "properties": {
                 "amenity": "kindergarten",
-                "contact:email": "bjorg.ditlefsen@grashoppa.no",
-                "name": "Grashoppa barnehage Avd Åpen Barnehage",
-                "no-barnehage:nsrid": "1013189",
-                "operator": "Grashoppa barnehage AS",
-                "operator:type": "private",
-                "start_date": "2000-01-01",
-                "id": "node/-2863"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.70475,
-                    59.0257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2862",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "hanne.enger@bamble.kommune.no",
                 "max_age": "5",
@@ -136,7 +136,7 @@
                 "operator": "Bamble kommune",
                 "operator:type": "public",
                 "start_date": "2015-11-01",
-                "id": "node/-2862"
+                "id": "node/-2863"
             },
             "geometry": {
                 "type": "Point",

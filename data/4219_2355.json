@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4262",
+            "id": "node/-4246",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -15,7 +15,31 @@
                 "operator": "Osterøy kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-4262"
+                "id": "node/-4246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4345,
+                    60.5047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4242",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:email": "merethem.kvamme@osteroy.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hauge barnehage",
+                "no-barnehage:nsrid": "1018124",
+                "operator": "Osterøy kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-4242"
             },
             "geometry": {
                 "type": "Point",
