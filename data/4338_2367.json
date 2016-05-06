@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2144",
+            "id": "node/-2146",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -16,7 +16,33 @@
                 "operator": "Myllatoppen barnehage",
                 "operator:type": "private",
                 "start_date": "2003-03-01",
-                "id": "node/-2144"
+                "id": "node/-2146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66339,
+                    60.25959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2142",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:email": "lene.1970@live.no",
+                "contact:phone": "930 95 793",
+                "contact:website": "http://www.gruabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grua barnehage",
+                "no-barnehage:nsrid": "1022408",
+                "operator": "Grua barnehage Lene Nordberg",
+                "operator:type": "private",
+                "start_date": "2013-10-01",
+                "id": "node/-2142"
             },
             "geometry": {
                 "type": "Point",
@@ -31,32 +57,6 @@
             "id": "node/-2140",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "45",
-                "contact:email": "lene.1970@live.no",
-                "contact:phone": "930 95 793",
-                "contact:website": "http://www.gruabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grua barnehage",
-                "no-barnehage:nsrid": "1022408",
-                "operator": "Grua barnehage Lene Nordberg",
-                "operator:type": "private",
-                "start_date": "2013-10-01",
-                "id": "node/-2140"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.66339,
-                    60.25959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2138",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "38",
                 "contact:email": "lml@lunner.kommune.no",
                 "contact:phone": "61 32 53 24",
@@ -67,7 +67,7 @@
                 "operator": "Lunner kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-2138"
+                "id": "node/-2140"
             },
             "geometry": {
                 "type": "Point",
