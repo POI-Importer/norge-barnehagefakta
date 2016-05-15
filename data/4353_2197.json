@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5257",
+            "id": "node/-5267",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -16,7 +16,7 @@
                 "operator": "Nord Studentsamskipnad",
                 "operator:type": "private",
                 "start_date": "2008-08-01",
-                "id": "node/-5257"
+                "id": "node/-5267"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5255",
+            "id": "node/-5265",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -42,7 +42,131 @@
                 "operator": "Munkeby Gård- og Naturbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2007-06-16",
+                "id": "node/-5265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30049,
+                    63.74636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5255",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:email": "hegle@barnehage.no",
+                "contact:phone": "74 08 43 43",
+                "contact:website": "http://www.hegle.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hegle barnehage",
+                "no-barnehage:nsrid": "1019928",
+                "operator": "Hegle barnehage",
+                "operator:type": "private",
+                "start_date": "1990-08-01",
                 "id": "node/-5255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.32015,
+                    63.74593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5254",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:email": "mlv@levanger.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frol barnehage",
+                "no-barnehage:nsrid": "1014950",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "start_date": "1996-04-01",
+                "id": "node/-5254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3226,
+                    63.746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5250",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:email": "dagali@barnehage.no",
+                "contact:phone": "74082340",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dagali barnehage",
+                "no-barnehage:nsrid": "1019518",
+                "operator": "Dagali barnehage",
+                "operator:type": "private",
+                "start_date": "1976-12-24",
+                "id": "node/-5250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.32311,
+                    63.75141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5249",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:email": "casmus@online.no",
+                "contact:phone": "74 08 26 80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Casa Musica barnehage Ans",
+                "no-barnehage:nsrid": "1020776",
+                "operator": "Casa Musica barnehage AS",
+                "operator:type": "private",
+                "start_date": "2000-08-15",
+                "id": "node/-5249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.32027,
+                    63.74795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5247",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:email": "POST@BARNASMOA.COM",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas Moa AS",
+                "no-barnehage:nsrid": "1022439",
+                "operator": "Barnas Moa AS",
+                "operator:type": "private",
+                "start_date": "2002-04-01",
+                "id": "node/-5247"
             },
             "geometry": {
                 "type": "Point",
@@ -57,130 +181,6 @@
             "id": "node/-5245",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "24",
-                "contact:email": "hegle@barnehage.no",
-                "contact:phone": "74 08 43 43",
-                "contact:website": "http://www.hegle.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hegle barnehage",
-                "no-barnehage:nsrid": "1019928",
-                "operator": "Hegle barnehage",
-                "operator:type": "private",
-                "start_date": "1990-08-01",
-                "id": "node/-5245"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.32015,
-                    63.74593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5244",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "48",
-                "contact:email": "mlv@levanger.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Frol barnehage",
-                "no-barnehage:nsrid": "1014950",
-                "operator": "Levanger kommune",
-                "operator:type": "public",
-                "start_date": "1996-04-01",
-                "id": "node/-5244"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.3226,
-                    63.746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5240",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "34",
-                "contact:email": "dagali@barnehage.no",
-                "contact:phone": "74082340",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Dagali barnehage",
-                "no-barnehage:nsrid": "1019518",
-                "operator": "Dagali barnehage",
-                "operator:type": "private",
-                "start_date": "1976-12-24",
-                "id": "node/-5240"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.32311,
-                    63.75141
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5239",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "61",
-                "contact:email": "casmus@online.no",
-                "contact:phone": "74 08 26 80",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Casa Musica barnehage Ans",
-                "no-barnehage:nsrid": "1020776",
-                "operator": "Casa Musica barnehage AS",
-                "operator:type": "private",
-                "start_date": "2000-08-15",
-                "id": "node/-5239"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.32027,
-                    63.74795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5237",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "32",
-                "contact:email": "POST@BARNASMOA.COM",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnas Moa AS",
-                "no-barnehage:nsrid": "1022439",
-                "operator": "Barnas Moa AS",
-                "operator:type": "private",
-                "start_date": "2002-04-01",
-                "id": "node/-5237"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.30049,
-                    63.74636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5235",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "39",
                 "contact:email": "abra-cadabra@barnehage.no",
                 "contact:phone": "74 05 60 90",
@@ -191,7 +191,7 @@
                 "operator": "Abra Cadabra barnehage",
                 "operator:type": "private",
                 "start_date": "2006-02-28",
-                "id": "node/-5235"
+                "id": "node/-5245"
             },
             "geometry": {
                 "type": "Point",
