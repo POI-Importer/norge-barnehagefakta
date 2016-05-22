@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4248",
+            "id": "node/-4249",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -15,7 +15,7 @@
                 "operator": "Osterøy kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-4248"
+                "id": "node/-4249"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,57 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4244",
+            "id": "node/-4248",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:email": "reppenbarnehage@hotmail.com",
+                "contact:phone": "56390428",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Reppen barnehage AS",
+                "no-barnehage:nsrid": "1022384",
+                "operator": "Reppen barnehage AS",
+                "operator:type": "private",
+                "start_date": "1996-04-17",
+                "id": "node/-4248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434501,
+                    60.50471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4247",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "arny@friluftsbarnehage.no",
+                "contact:phone": "95836735",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Osterøy Gårds og Friluftsbarnehage AS",
+                "no-barnehage:nsrid": "1021050",
+                "operator": "Osterøy Gårds og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "start_date": "2004-05-03",
+                "id": "node/-4247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434501,
+                    60.50471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4243",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -39,7 +89,7 @@
                 "operator": "Osterøy kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4244"
+                "id": "node/-4243"
             },
             "geometry": {
                 "type": "Point",

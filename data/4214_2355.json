@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4251",
+            "id": "node/-4257",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -17,13 +17,39 @@
                 "operator": "Læringsverkstedet Maurtua AS",
                 "operator:type": "private",
                 "start_date": "2002-06-07",
-                "id": "node/-4251"
+                "id": "node/-4257"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.22496,
                     60.5103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4251",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "147",
+                "contact:email": "torill.seliussen@drommehagen.net",
+                "contact:phone": "47 97 93 00",
+                "contact:website": "http://www.facebook.com/DrommehagenBarnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Drømmehagen barnehage AS",
+                "no-barnehage:nsrid": "1022232",
+                "operator": "Drømmehagen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2011-12-06",
+                "id": "node/-4251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222702,
+                    60.50917
                 ]
             }
         }

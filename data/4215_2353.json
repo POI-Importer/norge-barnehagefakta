@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4270",
+            "id": "node/-4283",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -17,13 +17,38 @@
                 "operator": "Trollskogen barnehage Ikenberget Sa",
                 "operator:type": "private",
                 "start_date": "2001-08-31",
-                "id": "node/-4270"
+                "id": "node/-4283"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.254523,
                     60.55925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4269",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:email": "inge@alversundmontessori.no",
+                "contact:phone": "56 35 24 74",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Alversund Montessoribarnehage AS",
+                "no-barnehage:nsrid": "1021968",
+                "operator": "Alversund Montessoribarnehage AS",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-4269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.242158,
+                    60.56165
                 ]
             }
         }

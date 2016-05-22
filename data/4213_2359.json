@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4236",
+            "id": "node/-4232",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:email": "hege@soltunbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soltun barnehage Hetlevik AS",
+                "no-barnehage:nsrid": "1021950",
+                "operator": "Soltun barnehage Hetlevik AS",
+                "operator:type": "private",
+                "start_date": "1996-08-29",
+                "id": "node/-4232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14942,
+                    60.42597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4226",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -16,7 +40,7 @@
                 "operator": "Du og Jeg Krokåsfeltet Nord AS",
                 "operator:type": "private",
                 "start_date": "2000-03-20",
-                "id": "node/-4236"
+                "id": "node/-4226"
             },
             "geometry": {
                 "type": "Point",

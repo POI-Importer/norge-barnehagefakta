@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4227",
+            "id": "node/-4194",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:email": "vibeke@liatunet.no",
+                "contact:phone": "56 33 54 44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liatunet barnehage AS",
+                "no-barnehage:nsrid": "1021260",
+                "operator": "Liatunet barnehage AS",
+                "operator:type": "private",
+                "start_date": "2005-06-01",
+                "id": "node/-4194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.081392,
+                    60.35096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4188",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -15,7 +40,7 @@
                 "operator": "Havhesten Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "1996-04-02",
-                "id": "node/-4227"
+                "id": "node/-4188"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4221",
+            "id": "node/-4182",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "6",
@@ -40,7 +65,7 @@
                 "operator": "Fjell kommune",
                 "operator:type": "public",
                 "start_date": "1990-08-01",
-                "id": "node/-4221"
+                "id": "node/-4182"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4229",
+            "id": "node/-4201",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -16,7 +16,7 @@
                 "operator": "Fjell kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4229"
+                "id": "node/-4201"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,80 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4224",
+            "id": "node/-4196",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "93",
+                "contact:email": "bhg.valen@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Valen",
+                "no-barnehage:nsrid": "1015840",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2000-01-01",
+                "id": "node/-4196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12254,
+                    60.365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4195",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "contact:email": "bhg.straume@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Straume",
+                "no-barnehage:nsrid": "1013384",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2005-11-28",
+                "id": "node/-4195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12254,
+                    60.365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4193",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:email": "monika.sorlie@fjell.kommune.no",
+                "contact:phone": "55 09 68 20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leirstaden barnehage",
+                "no-barnehage:nsrid": "1017133",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "start_date": "2006-09-01",
+                "id": "node/-4193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12535,
+                    60.3678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4185",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "aapen-bhg-Styrer@kfuk-kfum.no",
@@ -37,7 +110,7 @@
                 "operator": "Fjell Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2005-01-01",
-                "id": "node/-4224"
+                "id": "node/-4185"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +122,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4219",
+            "id": "node/-4180",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -62,7 +135,7 @@
                 "operator": "Fjell kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-4219"
+                "id": "node/-4180"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +147,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4218",
+            "id": "node/-4179",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -87,7 +160,7 @@
                 "operator": "Bergen Racketsenter AS",
                 "operator:type": "private",
                 "start_date": "1991-11-25",
-                "id": "node/-4218"
+                "id": "node/-4179"
             },
             "geometry": {
                 "type": "Point",

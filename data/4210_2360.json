@@ -3,7 +3,80 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4226",
+            "id": "node/-4208",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "contact:email": "tovesorensen@fjell.kommune.no",
+                "contact:phone": "55 09 68 40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ågotnes barnehage",
+                "no-barnehage:nsrid": "1018118",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-4208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01927,
+                    60.4031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4198",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:email": "naustvika.bhg@norlandiabarnehagenene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Naustvika barnehage",
+                "no-barnehage:nsrid": "1016454",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "start_date": "2003-01-01",
+                "id": "node/-4198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01843,
+                    60.4054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4191",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "contact:email": "kartveitpollen.bhg@norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kårtveitpollen barnehage",
+                "no-barnehage:nsrid": "1017266",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "start_date": "2006-07-27",
+                "id": "node/-4191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01927,
+                    60.4031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4187",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -17,7 +90,7 @@
                 "operator": "Fjell kommune",
                 "operator:type": "public",
                 "start_date": "2012-08-13",
-                "id": "node/-4226"
+                "id": "node/-4187"
             },
             "geometry": {
                 "type": "Point",

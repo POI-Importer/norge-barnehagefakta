@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5193",
+            "id": "node/-5206",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -16,7 +16,7 @@
                 "operator": "Vika barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-08-01",
-                "id": "node/-5193"
+                "id": "node/-5206"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5191",
+            "id": "node/-5204",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -40,7 +40,56 @@
                 "operator": "Namsos kommune",
                 "operator:type": "public",
                 "start_date": "2004-08-01",
-                "id": "node/-5191"
+                "id": "node/-5204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4956,
+                    64.4663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5199",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "12",
+                "contact:email": "Finn.R.Thorsen@sinot.no",
+                "contact:phone": "07763995",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Namsos",
+                "no-barnehage:nsrid": "1015993",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-5199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5117,
+                    64.4711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5198",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "adm@natur-idrettsbarnehagen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Natur & Idrettsbarnehagen Avd. Høknes",
+                "no-barnehage:nsrid": "1014261",
+                "operator": "Natur & Idrettsbarnehagen AS",
+                "operator:type": "private",
+                "start_date": "2010-02-01",
+                "id": "node/-5198"
             },
             "geometry": {
                 "type": "Point",
@@ -55,55 +104,6 @@
             "id": "node/-5186",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "12",
-                "contact:email": "Finn.R.Thorsen@sinot.no",
-                "contact:phone": "07763995",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Namsos",
-                "no-barnehage:nsrid": "1015993",
-                "operator": "Nord Studentsamskipnad",
-                "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-5186"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.5117,
-                    64.4711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5185",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "adm@natur-idrettsbarnehagen.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Natur & Idrettsbarnehagen Avd. Høknes",
-                "no-barnehage:nsrid": "1014261",
-                "operator": "Natur & Idrettsbarnehagen AS",
-                "operator:type": "private",
-                "start_date": "2010-02-01",
-                "id": "node/-5185"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.4956,
-                    64.4663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5173",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:email": "inger.flat@namsos.kommune.no",
                 "contact:phone": "476 43 939",
@@ -114,7 +114,7 @@
                 "operator": "Namsos kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5173"
+                "id": "node/-5186"
             },
             "geometry": {
                 "type": "Point",
