@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-276",
+            "id": "node/-936",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:phone": "69 26 04 54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heimdalenga barnehage",
+                "no-barnehage:nsrid": "1020799",
+                "operator": "Læringsverkstedet Heimdalenga AS",
+                "operator:type": "private",
+                "start_date": "2002-07-01",
+                "id": "node/-936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6982,
+                    59.41055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-275",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
@@ -15,7 +39,7 @@
                 "operator": "Rygge kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-276"
+                "id": "node/-275"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-274",
+            "id": "node/-273",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -39,7 +63,7 @@
                 "operator": "Rygge kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-274"
+                "id": "node/-273"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-272",
+            "id": "node/-271",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "ase.melkeraaen@rygge.kommune.no",
@@ -61,37 +85,13 @@
                 "operator": "Rygge kommune",
                 "operator:type": "public",
                 "start_date": "2009-09-01",
-                "id": "node/-272"
+                "id": "node/-271"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6927,
                     59.4199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-271",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "67",
-                "contact:phone": "69 26 04 54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Heimdalenga barnehage",
-                "no-barnehage:nsrid": "1020799",
-                "operator": "Heimdalenga Familiesenter AS",
-                "operator:type": "private",
-                "start_date": "2002-07-01",
-                "id": "node/-271"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6982,
-                    59.41055
                 ]
             }
         },

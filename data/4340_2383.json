@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1673",
+            "id": "node/-1676",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -15,7 +15,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2012-09-01",
-                "id": "node/-1673"
+                "id": "node/-1676"
             },
             "geometry": {
                 "type": "Point",
@@ -27,31 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1427",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "42",
-                "contact:email": "Tr@laringsverkstedet.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet Sørengkaia AS",
-                "no-barnehage:nsrid": "1025509",
-                "operator": "Læringsverkstedet Sørengkaia AS",
-                "operator:type": "private",
-                "start_date": "2014-10-09",
-                "id": "node/-1427"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.75823,
-                    59.90456
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1027",
+            "id": "node/-1030",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -64,13 +40,37 @@
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-1027"
+                "id": "node/-1030"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.7238,
                     59.90975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-956",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "contact:email": "Tr@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Sørengkaia AS",
+                "no-barnehage:nsrid": "1025509",
+                "operator": "Læringsverkstedet Sørengkaia AS",
+                "operator:type": "private",
+                "start_date": "2014-10-09",
+                "id": "node/-956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75823,
+                    59.90456
                 ]
             }
         }

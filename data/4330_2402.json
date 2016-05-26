@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2549",
+            "id": "node/-2553",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -16,6 +16,57 @@
                 "operator": "Holmestrand kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
+                "id": "node/-2553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3092,
+                    59.4863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2551",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:email": "mari.him@online.no",
+                "contact:phone": "33 05 12 21",
+                "contact:website": "http://www.montessoriskolen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Holmestrand Internasjonale Montesssoribarnehage Sa",
+                "no-barnehage:nsrid": "1020951",
+                "operator": "Holmestrand Internasjonale Montesssoribarnehage Sa",
+                "operator:type": "private",
+                "start_date": "2003-08-01",
+                "id": "node/-2551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32092,
+                    59.47699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2549",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:email": "elhan@holmestrand.kommune.no",
+                "contact:phone": "33 09 83 10",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gausetangen barnehage",
+                "no-barnehage:nsrid": "1016254",
+                "operator": "Holmestrand kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
                 "id": "node/-2549"
             },
             "geometry": {
@@ -31,57 +82,6 @@
             "id": "node/-2547",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "47",
-                "contact:email": "mari.him@online.no",
-                "contact:phone": "33 05 12 21",
-                "contact:website": "http://www.montessoriskolen.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Holmestrand Internasjonale Montesssoribarnehage Sa",
-                "no-barnehage:nsrid": "1020951",
-                "operator": "Holmestrand Internasjonale Montesssoribarnehage Sa",
-                "operator:type": "private",
-                "start_date": "2003-08-01",
-                "id": "node/-2547"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.32092,
-                    59.47699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2545",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "38",
-                "contact:email": "elhan@holmestrand.kommune.no",
-                "contact:phone": "33 09 83 10",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gausetangen barnehage",
-                "no-barnehage:nsrid": "1016254",
-                "operator": "Holmestrand kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-2545"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.3092,
-                    59.4863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2543",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "eikelund@barnehage.no",
                 "contact:phone": "33 09 90 50",
@@ -92,7 +92,7 @@
                 "operator": "Eikelund barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-09-28",
-                "id": "node/-2543"
+                "id": "node/-2547"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +104,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2541",
+            "id": "node/-2545",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -117,7 +117,7 @@
                 "operator": "Bmb barnehage",
                 "operator:type": "private",
                 "start_date": "1978-08-17",
-                "id": "node/-2541"
+                "id": "node/-2545"
             },
             "geometry": {
                 "type": "Point",
@@ -129,7 +129,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2540",
+            "id": "node/-2544",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -143,7 +143,7 @@
                 "operator": "Backers barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-12-01",
-                "id": "node/-2540"
+                "id": "node/-2544"
             },
             "geometry": {
                 "type": "Point",

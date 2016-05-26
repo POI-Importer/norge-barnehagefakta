@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3624",
+            "id": "node/-3630",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -16,7 +16,7 @@
                 "operator": "Sola kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3624"
+                "id": "node/-3630"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3618",
+            "id": "node/-3628",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Læringsverkstedet barnehage Avd Jåsund",
+                "no-barnehage:nsrid": "1026626",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2016-06-01",
+                "id": "node/-3628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574096,
+                    58.93618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -41,7 +61,7 @@
                 "operator": "Sola kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3618"
+                "id": "node/-3623"
             },
             "geometry": {
                 "type": "Point",
