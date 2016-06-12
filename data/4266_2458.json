@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3271",
+            "id": "node/-3288",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "trine.ruud@marnardal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Laudal Oppvekstsenter Avd Barnehage",
+                "no-barnehage:nsrid": "1018070",
+                "operator": "Marnardal kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-3288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.51347,
+                    58.2144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3287",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -15,7 +39,7 @@
                 "operator": "Marnardal kommune",
                 "operator:type": "public",
                 "start_date": "2003-12-23",
-                "id": "node/-3271"
+                "id": "node/-3287"
             },
             "geometry": {
                 "type": "Point",

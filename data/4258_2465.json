@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3272",
+            "id": "node/-3298",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:email": "sissel@spangereidnaturbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Spangereid Naturbarnehage AS",
+                "no-barnehage:nsrid": "1022304",
+                "operator": "Spangereid Naturbarnehage AS",
+                "operator:type": "private",
+                "start_date": "1995-02-23",
+                "id": "node/-3298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.155253,
+                    58.04505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3294",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -15,7 +39,7 @@
                 "operator": "Lindesnes kommune",
                 "operator:type": "public",
                 "start_date": "1999-08-01",
-                "id": "node/-3272"
+                "id": "node/-3294"
             },
             "geometry": {
                 "type": "Point",
