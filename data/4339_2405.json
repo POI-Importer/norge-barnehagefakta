@@ -3,7 +3,77 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-934",
+            "id": "node/-277",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "contact:email": "cathrine.hansen@rygge.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øreåsen barnehage",
+                "no-barnehage:nsrid": "1017521",
+                "operator": "Rygge kommune",
+                "operator:type": "public",
+                "start_date": "1988-04-01",
+                "id": "node/-277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6894,
+                    59.4209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-275",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:email": "cathrine.hansen@rygge.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solliskogen barnehage",
+                "no-barnehage:nsrid": "1017520",
+                "operator": "Rygge kommune",
+                "operator:type": "public",
+                "start_date": "1988-04-01",
+                "id": "node/-275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6931,
+                    59.4226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-273",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "ase.melkeraaen@rygge.kommune.no",
+                "contact:phone": "+47 69 70 85 58",
+                "name": "Rygge kommune Åpen barnehage",
+                "no-barnehage:nsrid": "1014136",
+                "operator": "Rygge kommune",
+                "operator:type": "public",
+                "start_date": "2009-09-01",
+                "id": "node/-273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6927,
+                    59.4199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-272",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -16,7 +86,7 @@
                 "operator": "Læringsverkstedet Heimdalenga AS",
                 "operator:type": "private",
                 "start_date": "2002-07-01",
-                "id": "node/-934"
+                "id": "node/-272"
             },
             "geometry": {
                 "type": "Point",
@@ -28,77 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-275",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "104",
-                "contact:email": "cathrine.hansen@rygge.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Øreåsen barnehage",
-                "no-barnehage:nsrid": "1017521",
-                "operator": "Rygge kommune",
-                "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-275"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6894,
-                    59.4209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-273",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "41",
-                "contact:email": "cathrine.hansen@rygge.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Solliskogen barnehage",
-                "no-barnehage:nsrid": "1017520",
-                "operator": "Rygge kommune",
-                "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-273"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6931,
-                    59.4226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-271",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "ase.melkeraaen@rygge.kommune.no",
-                "contact:phone": "+47 69 70 85 58",
-                "name": "Rygge kommune Åpen barnehage",
-                "no-barnehage:nsrid": "1014136",
-                "operator": "Rygge kommune",
-                "operator:type": "public",
-                "start_date": "2009-09-01",
-                "id": "node/-271"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6927,
-                    59.4199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-270",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -110,7 +110,7 @@
                 "operator": "Gubbeskogen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-09-16",
-                "id": "node/-270"
+                "id": "node/-271"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +122,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-265",
+            "id": "node/-266",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -135,7 +135,7 @@
                 "operator": "Stiftelsen barnehage Rygge",
                 "operator:type": "private",
                 "start_date": "1990-07-01",
-                "id": "node/-265"
+                "id": "node/-266"
             },
             "geometry": {
                 "type": "Point",

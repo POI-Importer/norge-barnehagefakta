@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5656",
+            "id": "node/-5673",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -16,7 +16,7 @@
                 "operator": "Arken barnehage AS",
                 "operator:type": "private",
                 "start_date": "1990-08-01",
-                "id": "node/-5656"
+                "id": "node/-5673"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5460",
+            "id": "node/-5477",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -42,7 +42,7 @@
                 "operator": "Vågønes barnehage AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-5460"
+                "id": "node/-5477"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5452",
+            "id": "node/-5469",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "firehbod@online.no",
@@ -65,7 +65,7 @@
                 "operator": "Stiftelsen Bodin 4h-Gård",
                 "operator:type": "private",
                 "start_date": "1999-11-09",
-                "id": "node/-5452"
+                "id": "node/-5469"
             },
             "geometry": {
                 "type": "Point",
@@ -77,7 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5448",
+            "id": "node/-5465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -90,7 +90,7 @@
                 "operator": "Skeidhaugen barnehage AS",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-5448"
+                "id": "node/-5465"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +102,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5439",
+            "id": "node/-5463",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:email": "postmaster@bamsebo.barnehage.no",
+                "contact:phone": "+47 75 53 73 72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsebo barnehage",
+                "no-barnehage:nsrid": "1019835",
+                "operator": "Samvirkeforetaket Befalsfruene Bodø Garnison Sa - Bamsebo barnehage",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-5463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4464,
+                    67.27803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5454",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -114,7 +139,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1996-09-01",
-                "id": "node/-5439"
+                "id": "node/-5454"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +151,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5438",
+            "id": "node/-5453",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -140,7 +165,7 @@
                 "operator": "Neståsen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5438"
+                "id": "node/-5453"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +177,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5425",
+            "id": "node/-5440",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -166,7 +191,7 @@
                 "operator": "Lille Frøbel AS",
                 "operator:type": "private",
                 "start_date": "2010-07-01",
-                "id": "node/-5425"
+                "id": "node/-5440"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +203,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5424",
+            "id": "node/-5439",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -192,7 +217,7 @@
                 "operator": "Lille Frøbel AS",
                 "operator:type": "private",
                 "start_date": "2004-11-01",
-                "id": "node/-5424"
+                "id": "node/-5439"
             },
             "geometry": {
                 "type": "Point",
@@ -204,7 +229,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5423",
+            "id": "node/-5438",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -218,7 +243,7 @@
                 "operator": "Lille Frøbel AS",
                 "operator:type": "private",
                 "start_date": "2004-05-03",
-                "id": "node/-5423"
+                "id": "node/-5438"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +255,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5418",
+            "id": "node/-5433",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -242,38 +267,13 @@
                 "operator": "Bodø kommune",
                 "operator:type": "public",
                 "start_date": "1991-01-01",
-                "id": "node/-5418"
+                "id": "node/-5433"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.4152,
                     67.284
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5402",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "contact:email": "postmaster@bamsebo.barnehage.no",
-                "contact:phone": "+47 75 53 73 72",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bamsebo barnehage",
-                "no-barnehage:nsrid": "1019835",
-                "operator": "Bamsebo barnehage",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-5402"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4464,
-                    67.27803
                 ]
             }
         }
