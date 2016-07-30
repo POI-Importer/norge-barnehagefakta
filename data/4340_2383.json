@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1676",
+            "id": "node/-1678",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -15,7 +15,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2012-09-01",
-                "id": "node/-1676"
+                "id": "node/-1678"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1428",
+            "id": "node/-1533",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Pioneer Public Properties Finland AS",
+                "no-barnehage:nsrid": "2000030",
+                "operator": "Pioneer Public Properties Finland AS",
+                "operator:type": "private",
+                "start_date": "2016-06-02",
+                "id": "node/-1533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73799,
+                    59.91068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1430",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -39,7 +59,7 @@
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
                 "start_date": "2014-10-09",
-                "id": "node/-1428"
+                "id": "node/-1430"
             },
             "geometry": {
                 "type": "Point",

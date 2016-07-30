@@ -3,27 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4577",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Togro Barn AS",
-                "no-barnehage:nsrid": "2000003",
-                "operator": "Togro Barn AS",
-                "operator:type": "private",
-                "start_date": "2016-04-12",
-                "id": "node/-4577"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.766115,
-                    63.12593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4574",
+            "id": "node/-4580",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -36,7 +16,7 @@
                 "operator": "Kristiansund kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4574"
+                "id": "node/-4580"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4572",
+            "id": "node/-4578",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -61,7 +41,7 @@
                 "operator": "Nøtteliten barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-4572"
+                "id": "node/-4578"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4559",
+            "id": "node/-4565",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -86,7 +66,7 @@
                 "operator": "Blåskjellet Barnepark Da",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-4559"
+                "id": "node/-4565"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4558",
+            "id": "node/-4564",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -111,13 +91,33 @@
                 "operator": "Arena Barn AS",
                 "operator:type": "private",
                 "start_date": "1998-12-29",
-                "id": "node/-4558"
+                "id": "node/-4564"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.75431,
                     63.1227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4563",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Arena Barn AS",
+                "no-barnehage:nsrid": "2000003",
+                "operator": "Arena Barn AS",
+                "operator:type": "private",
+                "start_date": "2016-04-12",
+                "id": "node/-4563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.766115,
+                    63.12593
                 ]
             }
         }

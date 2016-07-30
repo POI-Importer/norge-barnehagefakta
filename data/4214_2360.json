@@ -3,7 +3,58 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4270",
+            "id": "node/-4279",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:email": "ovrekleppebarnehage@hotmail.com",
+                "contact:phone": "+47 95170402",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ø Kleppe barnehage AS",
+                "no-barnehage:nsrid": "1022078",
+                "operator": "Ø. Kleppe barnehage AS",
+                "operator:type": "private",
+                "start_date": "2010-01-18",
+                "id": "node/-4279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.212466,
+                    60.41187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4276",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:email": "strusshamn@barnehage.no",
+                "contact:phone": "+47 56 14 18 74",
+                "contact:website": "http://strusshamnbarnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Strusshamn barnehage",
+                "no-barnehage:nsrid": "1020191",
+                "operator": "Strusshamn barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1995-06-02",
+                "id": "node/-4276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.190667,
+                    60.40614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4267",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "182",
@@ -17,7 +68,7 @@
                 "operator": "Du og Jeg Juvik AS",
                 "operator:type": "private",
                 "start_date": "2008-12-16",
-                "id": "node/-4270"
+                "id": "node/-4267"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +80,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4268",
+            "id": "node/-4265",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -42,39 +93,13 @@
                 "operator": "Askøy kommune",
                 "operator:type": "public",
                 "start_date": "1970-12-30",
-                "id": "node/-4268"
+                "id": "node/-4265"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.21889,
                     60.4133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4259",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "115",
-                "contact:email": "styrer@stongafjellet.espira.no",
-                "contact:phone": "+47 52 84 50 20",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Stongafjellet barnehage",
-                "no-barnehage:nsrid": "1021445",
-                "operator": "Espira Stongafjellet AS",
-                "operator:type": "private",
-                "start_date": "2006-05-09",
-                "id": "node/-4259"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.209748,
-                    60.40437
                 ]
             }
         }
