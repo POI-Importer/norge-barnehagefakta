@@ -31,6 +31,31 @@
             "id": "node/-4259",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "102",
+                "contact:email": "styrer@fridahuset.no",
+                "contact:website": "http://www.fridahuset.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fridahuset AS",
+                "no-barnehage:nsrid": "1021317",
+                "operator": "Fridahuset AS",
+                "operator:type": "private",
+                "start_date": "2005-09-12",
+                "id": "node/-4259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.220444,
+                    60.44662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4258",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "72",
                 "contact:email": "Nina.Beate.Nilsen@askoy.kommune.no",
                 "contact:phone": "+47 56155305",
@@ -41,7 +66,7 @@
                 "operator": "Askøy kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-4259"
+                "id": "node/-4258"
             },
             "geometry": {
                 "type": "Point",

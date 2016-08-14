@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3070",
+            "id": "node/-3068",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -15,55 +15,6 @@
                 "operator": "Mjølhusmoen Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "2010-02-25",
-                "id": "node/-3070"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.642127,
-                    58.50686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3069",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "24",
-                "contact:email": "rita.sparsas@froland.kommune.no",
-                "contact:phone": "+47 37235500",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kringletoppen barnehage Avd Tyrihans",
-                "no-barnehage:nsrid": "1012789",
-                "operator": "Froland kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-3069"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.64213,
-                    58.5069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3068",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "17",
-                "contact:email": "rita.sparsas@froland.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gårdsbarnehagen Ovelandsneset",
-                "no-barnehage:nsrid": "1013612",
-                "operator": "Froland kommune",
-                "operator:type": "public",
-                "start_date": "2013-08-01",
                 "id": "node/-3068"
             },
             "geometry": {
@@ -76,7 +27,56 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3064",
+            "id": "node/-3067",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:email": "rita.sparsas@froland.kommune.no",
+                "contact:phone": "+47 37235500",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kringletoppen barnehage Avd Tyrihans",
+                "no-barnehage:nsrid": "1012789",
+                "operator": "Froland kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-3067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.64213,
+                    58.5069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3066",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:email": "rita.sparsas@froland.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gårdsbarnehagen Ovelandsneset",
+                "no-barnehage:nsrid": "1013612",
+                "operator": "Froland kommune",
+                "operator:type": "public",
+                "start_date": "2013-08-01",
+                "id": "node/-3066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.642127,
+                    58.50686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3062",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -88,7 +88,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-3064"
+                "id": "node/-3062"
             },
             "geometry": {
                 "type": "Point",
