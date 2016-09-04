@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4465",
+            "id": "node/-4464",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -16,7 +16,7 @@
                 "operator": "Snøkrystall AS",
                 "operator:type": "private",
                 "start_date": "2006-10-31",
-                "id": "node/-4465"
+                "id": "node/-4464"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4461",
+            "id": "node/-4460",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "130",
@@ -40,31 +40,6 @@
                 "operator": "Eid kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-4461"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.99156,
-                    61.9063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4460",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "52",
-                "contact:email": "gb@eid.kommune.no",
-                "contact:phone": "+47 57861259",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gjerdane barnehage",
-                "no-barnehage:nsrid": "1025314",
-                "operator": "Eid kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-02",
                 "id": "node/-4460"
             },
             "geometry": {
@@ -77,7 +52,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4458",
+            "id": "node/-4459",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:email": "gb@eid.kommune.no",
+                "contact:phone": "+47 57861259",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjerdane barnehage",
+                "no-barnehage:nsrid": "1025314",
+                "operator": "Eid kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-02",
+                "id": "node/-4459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99156,
+                    61.9063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4457",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -90,7 +90,7 @@
                 "operator": "Eid barnehage AS",
                 "operator:type": "private",
                 "start_date": "1976-01-01",
-                "id": "node/-4458"
+                "id": "node/-4457"
             },
             "geometry": {
                 "type": "Point",

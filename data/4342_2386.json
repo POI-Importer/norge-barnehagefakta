@@ -128,12 +128,14 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
+                "contact:email": "mail@steffeneriksen.no",
                 "contact:phone": "+47 24 04 90 10",
+                "contact:website": "http://www.christianiabarnehaver.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Christiania Barnehave Høybråten AS",
+                "name": "Christiania Barnehave Bjørndal AS",
                 "no-barnehage:nsrid": "1020069",
-                "operator": "Christiania Barnehave Høybråten AS",
+                "operator": "Christiania Barnehave Bjørndal AS",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
                 "id": "node/-1117"
@@ -148,30 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1116",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "mail@steffeneriksen.no",
-                "contact:phone": "+47 24 04 90 10",
-                "contact:website": "http://www.christianiabarnehaver.no",
-                "name": "Christiania Barnehave Bjørndal AS",
-                "no-barnehage:nsrid": "2000026",
-                "operator": "Christiania Barnehave Bjørndal AS",
-                "operator:type": "private",
-                "start_date": "2016-06-27",
-                "id": "node/-1116"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.83814,
-                    59.82575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1088",
+            "id": "node/-1089",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -184,7 +163,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-03-01",
-                "id": "node/-1088"
+                "id": "node/-1089"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +175,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1087",
+            "id": "node/-1088",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -208,7 +187,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1087"
+                "id": "node/-1088"
             },
             "geometry": {
                 "type": "Point",

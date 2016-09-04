@@ -78,7 +78,28 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2564",
+            "id": "node/-2576",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "postmottak@tonsberg.kommune.no",
+                "name": "Klokkeråsen barnehage",
+                "no-barnehage:nsrid": "2000036",
+                "operator": "Tønsberg kommune",
+                "operator:type": "public",
+                "start_date": "2016-08-01",
+                "id": "node/-2576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44273,
+                    59.30482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2563",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -91,7 +112,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2564"
+                "id": "node/-2563"
             },
             "geometry": {
                 "type": "Point",

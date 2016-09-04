@@ -3,31 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2400",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "contact:email": "maya-finn@hotmail.com",
-                "contact:phone": "+47 32 78 50 11",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Åmot",
-                "no-barnehage:nsrid": "1020196",
-                "operator": "Strand barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-2400"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.903712,
-                    59.90251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-2397",
             "properties": {
                 "amenity": "kindergarten",
@@ -52,7 +27,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2387",
+            "id": "node/-2393",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:email": "maya-finn@hotmail.com",
+                "contact:phone": "+47 32 78 50 11",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Åmot",
+                "no-barnehage:nsrid": "1020196",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-2393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.903712,
+                    59.90251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2386",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -65,7 +65,7 @@
                 "operator": "Bårudåsen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-03-19",
-                "id": "node/-2387"
+                "id": "node/-2386"
             },
             "geometry": {
                 "type": "Point",
