@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5063",
+            "id": "node/-5061",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -17,7 +17,7 @@
                 "operator": "Tryllefløyten Musikkbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-04-11",
-                "id": "node/-5063"
+                "id": "node/-5061"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5062",
+            "id": "node/-5060",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -41,31 +41,6 @@
                 "operator": "Rissa kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-5062"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.95989,
-                    63.5837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5060",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "contact:email": "anne.kristin.utseth@rissa.kommune.no",
-                "contact:phone": "+47 73852809",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Høgåsmyra barnehage",
-                "no-barnehage:nsrid": "1018233",
-                "operator": "Rissa kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
                 "id": "node/-5060"
             },
             "geometry": {
@@ -78,7 +53,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5059",
+            "id": "node/-5058",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "contact:email": "anne.kristin.utseth@rissa.kommune.no",
+                "contact:phone": "+47 73852809",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgåsmyra barnehage",
+                "no-barnehage:nsrid": "1018233",
+                "operator": "Rissa kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95989,
+                    63.5837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5057",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -92,7 +92,7 @@
                 "operator": "Fosnaheim Barnehagelag Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5059"
+                "id": "node/-5057"
             },
             "geometry": {
                 "type": "Point",
