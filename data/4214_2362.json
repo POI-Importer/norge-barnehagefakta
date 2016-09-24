@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4034",
+            "id": "node/-4043",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -16,7 +16,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-4034"
+                "id": "node/-4043"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3942",
+            "id": "node/-3951",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -40,7 +40,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3942"
+                "id": "node/-3951"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3880",
+            "id": "node/-3922",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "Trine.Dalland@kidsabarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Sandgotna AS",
+                "no-barnehage:nsrid": "1022426",
+                "operator": "Kidsa Sandgotna AS",
+                "operator:type": "private",
+                "start_date": "2013-10-09",
+                "id": "node/-3922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.228222,
+                    60.36382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3879",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
@@ -65,7 +89,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1991-07-01",
-                "id": "node/-3880"
+                "id": "node/-3879"
             },
             "geometry": {
                 "type": "Point",

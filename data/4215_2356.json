@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3882",
+            "id": "node/-3926",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:email": "anne-grete.lund.bakke@kidsabarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Toppemyr",
+                "no-barnehage:nsrid": "1022410",
+                "operator": "Kidsa Toppemyr AS",
+                "operator:type": "private",
+                "start_date": "2011-04-01",
+                "id": "node/-3926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.270676,
+                    60.48591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3881",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -16,7 +40,7 @@
                 "operator": "Heimly barnehage",
                 "operator:type": "private",
                 "start_date": "1972-12-25",
-                "id": "node/-3882"
+                "id": "node/-3881"
             },
             "geometry": {
                 "type": "Point",
