@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4044",
+            "id": "node/-4040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "131",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2014-02-01",
-                "id": "node/-4044"
+                "id": "node/-4040"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4006",
+            "id": "node/-4002",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -40,39 +40,13 @@
                 "operator": "Stiftelsen Sjøsprøyten",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4006"
+                "id": "node/-4002"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.26436,
                     60.39174
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3933",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "inger-lise.stien@barnehagen.as",
-                "contact:phone": "+47 55 26 84 60",
-                "contact:website": "http://www.kjokkelvik-barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kjøkkelvik barnehage AS",
-                "no-barnehage:nsrid": "1021125",
-                "operator": "Kjøkkelvik barnehage AS",
-                "operator:type": "private",
-                "start_date": "2004-08-30",
-                "id": "node/-3933"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.233162,
-                    60.37889
                 ]
             }
         }

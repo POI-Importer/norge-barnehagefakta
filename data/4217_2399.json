@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4071",
+            "id": "node/-4067",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -16,7 +16,7 @@
                 "operator": "Sveio kommune",
                 "operator:type": "public",
                 "start_date": "1978-08-02",
-                "id": "node/-4071"
+                "id": "node/-4067"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4070",
+            "id": "node/-4066",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -40,56 +40,6 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "1997-08-01",
-                "id": "node/-4070"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.351801,
-                    59.5419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4069",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "65",
-                "contact:email": "dl.gjermundshaugen@bhg.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gjermundshaugen Fus barnehage AS",
-                "no-barnehage:nsrid": "1021637",
-                "operator": "Gjermundshaugen Fus barnehage AS",
-                "operator:type": "private",
-                "start_date": "2007-04-11",
-                "id": "node/-4069"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.33985,
-                    59.54228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4066",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "32",
-                "contact:email": "buabarnehage@epost.no",
-                "contact:phone": "+47 53 74 16 10",
-                "contact:website": "http://www.buabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bua barnehage og Sfo",
-                "no-barnehage:nsrid": "1019693",
-                "operator": "Bua Korttidsbarnehage",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
                 "id": "node/-4066"
             },
             "geometry": {
@@ -105,6 +55,56 @@
             "id": "node/-4065",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:email": "dl.gjermundshaugen@bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjermundshaugen Fus barnehage AS",
+                "no-barnehage:nsrid": "1021637",
+                "operator": "Gjermundshaugen Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2007-04-11",
+                "id": "node/-4065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33985,
+                    59.54228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4062",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:email": "buabarnehage@epost.no",
+                "contact:phone": "+47 53 74 16 10",
+                "contact:website": "http://www.buabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bua barnehage og Sfo",
+                "no-barnehage:nsrid": "1019693",
+                "operator": "Bua Korttidsbarnehage",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-4062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.351801,
+                    59.5419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4061",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "32",
                 "contact:email": "astrid_whagen@hotmail.com",
                 "contact:phone": "+47 53 74 13 11",
@@ -116,7 +116,7 @@
                 "operator": "Bråtveit Korttids barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4065"
+                "id": "node/-4061"
             },
             "geometry": {
                 "type": "Point",
