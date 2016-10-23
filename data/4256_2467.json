@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3301",
+            "id": "node/-3304",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -15,7 +15,31 @@
                 "operator": "Remehaugen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-08-01",
-                "id": "node/-3301"
+                "id": "node/-3304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051419,
+                    57.99112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3303",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "hesteskoen.barnehage@gmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hesteskoen barnehage AS",
+                "no-barnehage:nsrid": "1022061",
+                "operator": "Hesteskoen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2010-06-01",
+                "id": "node/-3303"
             },
             "geometry": {
                 "type": "Point",
@@ -30,15 +54,16 @@
             "id": "node/-3300",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "hesteskoen.barnehage@gmail.com",
+                "capacity": "10",
+                "contact:email": "ajorgensen@agder.no",
+                "contact:phone": "+47 958 04 064",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Hesteskoen barnehage AS",
-                "no-barnehage:nsrid": "1022061",
-                "operator": "Hesteskoen barnehage AS",
+                "name": "Barnas Naturbarnehage Da",
+                "no-barnehage:nsrid": "1022301",
+                "operator": "Barnas Naturbarnehage Da",
                 "operator:type": "private",
-                "start_date": "2010-06-01",
+                "start_date": "2012-08-01",
                 "id": "node/-3300"
             },
             "geometry": {
@@ -51,32 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3297",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "10",
-                "contact:email": "ajorgensen@agder.no",
-                "contact:phone": "+47 958 04 064",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnas Naturbarnehage Da",
-                "no-barnehage:nsrid": "1022301",
-                "operator": "Barnas Naturbarnehage Da",
-                "operator:type": "private",
-                "start_date": "2012-08-01",
-                "id": "node/-3297"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.051419,
-                    57.99112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3296",
+            "id": "node/-3299",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -88,7 +88,7 @@
                 "operator": "100%barn AS",
                 "operator:type": "private",
                 "start_date": "2010-06-04",
-                "id": "node/-3296"
+                "id": "node/-3299"
             },
             "geometry": {
                 "type": "Point",

@@ -3,31 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5008",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "102",
-                "contact:email": "ru2@trondheim.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Utleira barnehage",
-                "no-barnehage:nsrid": "1017216",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "start_date": "2006-12-01",
-                "id": "node/-5008"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.435,
-                    63.3899
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4977",
+            "id": "node/-4986",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Stubban barnehage",
@@ -35,13 +11,37 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2016-07-01",
-                "id": "node/-4977"
+                "id": "node/-4986"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.42691,
                     63.38923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4867",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "102",
+                "contact:email": "ru2@trondheim.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kastbrekka barnehage",
+                "no-barnehage:nsrid": "1017216",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "start_date": "2006-12-01",
+                "id": "node/-4867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.435,
+                    63.3899
                 ]
             }
         }

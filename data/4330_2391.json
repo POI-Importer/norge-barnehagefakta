@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2467",
+            "id": "node/-2470",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -17,13 +17,33 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "2009-10-01",
-                "id": "node/-2467"
+                "id": "node/-2470"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.3264,
                     59.7273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2461",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Plutten Familiebarnehage Sa",
+                "no-barnehage:nsrid": "2000055",
+                "operator": "Plutten Familiebarnehage Sa",
+                "operator:type": "private",
+                "start_date": "2016-08-11",
+                "id": "node/-2461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3166,
+                    59.72596
                 ]
             }
         }
