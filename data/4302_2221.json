@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5038",
+            "id": "node/-5037",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "johanne@labbetuss-bhg.no",
+                "contact:phone": "+47 72 45 03 30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Labbetuss barnehage Sa",
+                "no-barnehage:nsrid": "1019805",
+                "operator": "Labbetuss barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1989-01-01",
+                "id": "node/-5037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.063793,
+                    63.292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -16,7 +41,7 @@
                 "operator": "Hemne kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5038"
+                "id": "node/-5034"
             },
             "geometry": {
                 "type": "Point",
