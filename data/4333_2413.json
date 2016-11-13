@@ -3,7 +3,59 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2742",
+            "id": "node/-2706",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:email": "dl.smidsrod@bhg.no",
+                "contact:phone": "+47 33 50 17 00",
+                "contact:website": "http://www.smidsrød.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smidsrød Fus barnehage AS",
+                "no-barnehage:nsrid": "1021858",
+                "operator": "Smidsrød Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2008-08-06",
+                "id": "node/-2706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42336,
+                    59.23829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2703",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:email": "post@dataknerten.no",
+                "contact:phone": "+47 33 40 10 15",
+                "contact:website": "http://www.dataknerten.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Knerten barnehage",
+                "no-barnehage:nsrid": "1021683",
+                "operator": "Knerten Føynland AS",
+                "operator:type": "private",
+                "start_date": "2007-07-06",
+                "id": "node/-2703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44685,
+                    59.23482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2699",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -16,7 +68,7 @@
                 "operator": "Nøtterøy kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2742"
+                "id": "node/-2699"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +80,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2741",
+            "id": "node/-2698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -41,7 +93,7 @@
                 "operator": "Nøtterøy kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2741"
+                "id": "node/-2698"
             },
             "geometry": {
                 "type": "Point",
