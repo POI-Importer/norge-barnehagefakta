@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2501",
+            "id": "node/-2533",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -16,7 +16,7 @@
                 "operator": "Skånetoppen barnehage Da",
                 "operator:type": "private",
                 "start_date": "2006-05-01",
-                "id": "node/-2501"
+                "id": "node/-2533"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2490",
+            "id": "node/-2522",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -41,13 +41,34 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2490"
+                "id": "node/-2522"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.3784,
                     59.4242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2521",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "styrer@nykirke.espira.no",
+                "name": "Espira Nykirke barnehage",
+                "no-barnehage:nsrid": "1026617",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "start_date": "2016-05-01",
+                "id": "node/-2521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37416,
+                    59.42416
                 ]
             }
         }

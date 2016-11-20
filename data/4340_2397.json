@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-309",
+            "id": "node/-311",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -16,7 +16,7 @@
                 "operator": "Vestby kommune",
                 "operator:type": "public",
                 "start_date": "2006-05-01",
-                "id": "node/-309"
+                "id": "node/-311"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-301",
+            "id": "node/-303",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -41,13 +41,33 @@
                 "operator": "Vestby kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-301"
+                "id": "node/-303"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.761,
                     59.5957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-297",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Johnsrudhuset barnehage",
+                "no-barnehage:nsrid": "2000043",
+                "operator": "Elisabeth Lillemoen Teigen",
+                "operator:type": "private",
+                "start_date": "2016-08-15",
+                "id": "node/-297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7595,
+                    59.59958
                 ]
             }
         }

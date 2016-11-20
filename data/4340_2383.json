@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1653",
+            "id": "node/-1674",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -15,7 +15,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2012-09-01",
-                "id": "node/-1653"
+                "id": "node/-1674"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1406",
+            "id": "node/-1529",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Pioneer Public Properties V AS",
+                "no-barnehage:nsrid": "2000030",
+                "operator": "Pioneer Public Properties V AS",
+                "operator:type": "private",
+                "start_date": "2016-06-02",
+                "id": "node/-1529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73799,
+                    59.91068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1425",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -39,7 +59,7 @@
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
                 "start_date": "2014-10-09",
-                "id": "node/-1406"
+                "id": "node/-1425"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +71,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1015",
+            "id": "node/-1331",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kidsa Ospeli Eiendom AS",
+                "no-barnehage:nsrid": "2000048",
+                "operator": "Kidsa Ospeli Eiendom AS",
+                "operator:type": "private",
+                "start_date": "2016-08-08",
+                "id": "node/-1331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73794,
+                    59.91079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1023",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -65,7 +105,7 @@
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-1015"
+                "id": "node/-1023"
             },
             "geometry": {
                 "type": "Point",
