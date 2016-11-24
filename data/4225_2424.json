@@ -178,7 +178,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3481",
+            "id": "node/-3447",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "contact:email": "gunn.gausel@ras.rl.no",
+                "contact:phone": "+47 51 72 90 53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kanutten barnehage",
+                "no-barnehage:nsrid": "1012949",
+                "operator": "Rogaland A- Senter AS",
+                "operator:type": "private",
+                "start_date": "1992-01-01",
+                "id": "node/-3447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69045,
+                    58.9925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3424",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -192,38 +217,13 @@
                 "operator": "Espira Scala Tasta AS",
                 "operator:type": "private",
                 "start_date": "2005-05-13",
-                "id": "node/-3481"
+                "id": "node/-3424"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.670694,
                     58.99006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3445",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "13",
-                "contact:email": "gunn.gausel@ras.rl.no",
-                "contact:phone": "+47 51 72 90 53",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kanutten barnehage",
-                "no-barnehage:nsrid": "1012949",
-                "operator": "Rogaland A- Senter AS",
-                "operator:type": "private",
-                "start_date": "1992-01-01",
-                "id": "node/-3445"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.69045,
-                    58.9925
                 ]
             }
         },
