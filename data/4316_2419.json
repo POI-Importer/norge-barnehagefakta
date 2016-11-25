@@ -3,7 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2766",
+            "id": "node/-2781",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:email": "melkeveien@barnehage.no",
+                "contact:phone": "+47 35 51 15 53",
+                "contact:website": "http://www.melkeveien.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Melkeveien barnehage AS",
+                "no-barnehage:nsrid": "1022289",
+                "operator": "Melkeveien barnehage AS",
+                "operator:type": "private",
+                "start_date": "2012-06-14",
+                "id": "node/-2781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.686001,
+                    59.09113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2775",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -17,7 +43,7 @@
                 "operator": "Hovettunet barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2766"
+                "id": "node/-2775"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +55,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2764",
+            "id": "node/-2772",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "1",
@@ -42,13 +68,38 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2001-08-01",
-                "id": "node/-2764"
+                "id": "node/-2772"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.68296,
                     59.0868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2766",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:email": "liv.kvaran@porsgrunn.kommune.no",
+                "contact:phone": "+47 35 51 09 98",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brattås barnehage",
+                "no-barnehage:nsrid": "1013935",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1990-01-01",
+                "id": "node/-2766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67128,
+                    59.0969
                 ]
             }
         }

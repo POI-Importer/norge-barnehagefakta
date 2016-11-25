@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2813",
+            "id": "node/-2827",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -15,7 +15,7 @@
                 "operator": "Kongerød barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-02-26",
-                "id": "node/-2813"
+                "id": "node/-2827"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2783",
+            "id": "node/-2797",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -40,7 +40,7 @@
                 "operator": "Den Evangelisk Lutherske Frikirke Porsgrunn Menighet",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2783"
+                "id": "node/-2797"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2782",
+            "id": "node/-2796",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -64,7 +64,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2014-01-01",
-                "id": "node/-2782"
+                "id": "node/-2796"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2770",
+            "id": "node/-2784",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -89,7 +89,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2001-12-17",
-                "id": "node/-2770"
+                "id": "node/-2784"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2767",
+            "id": "node/-2776",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -114,7 +114,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2767"
+                "id": "node/-2776"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2765",
+            "id": "node/-2774",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -138,13 +138,85 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2765"
+                "id": "node/-2774"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.66419,
                     59.1487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2773",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "einar.svendsen@porsgrunn.kommune.no",
+                "contact:phone": "+47 35 55 23 80",
+                "contact:website": "http://www.hjerterommetbarnehage.no",
+                "name": "Hjerterommet Åpen barnehage",
+                "no-barnehage:nsrid": "1016051",
+                "operator": "Porsgrunn Sokn",
+                "operator:type": "private",
+                "start_date": "1995-02-23",
+                "id": "node/-2773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.646303,
+                    59.13852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2770",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:email": "anne.omnes@porsgrunn.kommune.no",
+                "contact:phone": "+47 35 55 22 65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frednes barnehage",
+                "no-barnehage:nsrid": "1018033",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-2770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64236,
+                    59.1335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2764",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:email": "post@dengodebarnehagen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akrobaten Telemark Idrettsbarnehage",
+                "no-barnehage:nsrid": "1014228",
+                "operator": "Norlandia Barnehagene Porsgrunn AS",
+                "operator:type": "private",
+                "start_date": "2010-07-27",
+                "id": "node/-2764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64683,
+                    59.1457
                 ]
             }
         }

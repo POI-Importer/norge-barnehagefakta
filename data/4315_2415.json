@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2822",
+            "id": "node/-2836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -15,7 +15,7 @@
                 "operator": "Det Evangelisk-Lutherske Kirkesamfunn i Telemark",
                 "operator:type": "private",
                 "start_date": "2005-08-08",
-                "id": "node/-2822"
+                "id": "node/-2836"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2807",
+            "id": "node/-2821",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -41,7 +41,7 @@
                 "operator": "Kapitelberget Natur - og Kulturbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-10-01",
-                "id": "node/-2807"
+                "id": "node/-2821"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2793",
+            "id": "node/-2807",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -66,7 +66,7 @@
                 "operator": "Bøle Misjonskirkes barnehage",
                 "operator:type": "private",
                 "start_date": "1993-09-01",
-                "id": "node/-2793"
+                "id": "node/-2807"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2785",
+            "id": "node/-2799",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -90,13 +90,38 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2785"
+                "id": "node/-2799"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.6502,
                     59.1792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2782",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:email": "post@minbarnehage.com",
+                "contact:phone": "+47 35 55 95 50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Min Barnehage, Øyekast AS",
+                "no-barnehage:nsrid": "1021496",
+                "operator": "Min Barnehage, Øyekast AS",
+                "operator:type": "private",
+                "start_date": "2006-07-10",
+                "id": "node/-2782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.629178,
+                    59.19574
                 ]
             }
         }

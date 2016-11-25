@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2861",
+            "id": "node/-2875",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -16,7 +16,7 @@
                 "operator": "Stokkevannet barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2000-09-13",
-                "id": "node/-2861"
+                "id": "node/-2875"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2853",
+            "id": "node/-2867",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -41,13 +41,38 @@
                 "operator": "Bamble kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-12",
-                "id": "node/-2853"
+                "id": "node/-2867"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.69414,
                     59.042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2767",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:email": "liv.kirsti.jorgensen@porsgrunn.kommune.no",
+                "contact:phone": "+47 95 23 46 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brevik Oppvekstsenter Avd Barnehage",
+                "no-barnehage:nsrid": "1015771",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "1999-09-01",
+                "id": "node/-2767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.69558,
+                    59.0559
                 ]
             }
         }
