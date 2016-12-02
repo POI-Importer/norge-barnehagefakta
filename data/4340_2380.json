@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1665",
+            "id": "node/-1664",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -16,7 +16,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-1665"
+                "id": "node/-1664"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1664",
+            "id": "node/-1663",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -40,7 +40,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1981-05-26",
-                "id": "node/-1664"
+                "id": "node/-1663"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1660",
+            "id": "node/-1659",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -64,7 +64,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1978-06-09",
-                "id": "node/-1660"
+                "id": "node/-1659"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1495",
+            "id": "node/-1494",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -88,7 +88,7 @@
                 "operator": "Nordberg Sokn",
                 "operator:type": "private",
                 "start_date": "1970-12-30",
-                "id": "node/-1495"
+                "id": "node/-1494"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1494",
+            "id": "node/-1493",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "129",
@@ -112,7 +112,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1494"
+                "id": "node/-1493"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +124,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1466",
+            "id": "node/-1465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -136,7 +136,7 @@
                 "operator": "Montessoribarnehagene AS",
                 "operator:type": "private",
                 "start_date": "2003-12-01",
-                "id": "node/-1466"
+                "id": "node/-1465"
             },
             "geometry": {
                 "type": "Point",
@@ -148,7 +148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1362",
+            "id": "node/-1361",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -160,7 +160,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1362"
+                "id": "node/-1361"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +172,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1348",
+            "id": "node/-1347",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -184,30 +184,6 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2003-08-01",
-                "id": "node/-1348"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.757,
-                    59.9584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1347",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "59",
-                "contact:email": "mari.hjelde@bna.oslo.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Korsvolltoppen barnehage",
-                "no-barnehage:nsrid": "1015634",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "start_date": "1996-01-01",
                 "id": "node/-1347"
             },
             "geometry": {
@@ -220,7 +196,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1269",
+            "id": "node/-1346",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:email": "mari.hjelde@bna.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Korsvolltoppen barnehage",
+                "no-barnehage:nsrid": "1015634",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1996-01-01",
+                "id": "node/-1346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.757,
+                    59.9584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1268",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -233,7 +233,7 @@
                 "operator": "Havnabakken barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-07-01",
-                "id": "node/-1269"
+                "id": "node/-1268"
             },
             "geometry": {
                 "type": "Point",
@@ -245,7 +245,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1257",
+            "id": "node/-1256",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -259,7 +259,7 @@
                 "operator": "Hansemyra Friluftsbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2006-02-28",
-                "id": "node/-1257"
+                "id": "node/-1256"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +271,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1253",
+            "id": "node/-1252",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -285,7 +285,7 @@
                 "operator": "Hamborgplassen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1253"
+                "id": "node/-1252"
             },
             "geometry": {
                 "type": "Point",
@@ -297,11 +297,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1037",
+            "id": "node/-1036",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
                 "contact:email": "anita.nymark@ulna.no",
+                "contact:phone": "+47 91737197",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Andromeda barnehage",
@@ -309,7 +310,7 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "2006-11-24",
-                "id": "node/-1037"
+                "id": "node/-1036"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2375",
+            "id": "node/-2374",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,31 +13,6 @@
                 "name": "Prestfoss barnehage",
                 "no-barnehage:nsrid": "1019613",
                 "operator": "Prestfoss barnehage",
-                "operator:type": "private",
-                "start_date": "1972-12-25",
-                "id": "node/-2375"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.635143,
-                    60.04473
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2374",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "53",
-                "contact:email": "post@nerstadbarnehage.no",
-                "contact:phone": "+47 32715457",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nerstad barnehage",
-                "no-barnehage:nsrid": "1019612",
-                "operator": "Nerstad barnehage",
                 "operator:type": "private",
                 "start_date": "1972-12-25",
                 "id": "node/-2374"
@@ -52,7 +27,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2371",
+            "id": "node/-2373",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:email": "post@nerstadbarnehage.no",
+                "contact:phone": "+47 32715457",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nerstad barnehage",
+                "no-barnehage:nsrid": "1019612",
+                "operator": "Nerstad barnehage",
+                "operator:type": "private",
+                "start_date": "1972-12-25",
+                "id": "node/-2373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.635143,
+                    60.04473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2370",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "9",
@@ -64,7 +64,7 @@
                 "operator": "Båsheim barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2371"
+                "id": "node/-2370"
             },
             "geometry": {
                 "type": "Point",
