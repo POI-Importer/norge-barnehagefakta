@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5498",
+            "id": "node/-5497",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -12,30 +12,6 @@
                 "min_age": "1",
                 "name": "Vik barnehage",
                 "no-barnehage:nsrid": "1013652",
-                "operator": "Sømna kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5498"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.2878,
-                    65.405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5497",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "10",
-                "contact:email": "ann-britt.johansen@somna.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sund barnehage",
-                "no-barnehage:nsrid": "1013653",
                 "operator": "Sømna kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
@@ -54,6 +30,30 @@
             "id": "node/-5496",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "10",
+                "contact:email": "ann-britt.johansen@somna.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sund barnehage",
+                "no-barnehage:nsrid": "1013653",
+                "operator": "Sømna kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2878,
+                    65.405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5495",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "42",
                 "contact:email": "ann-britt.johansen@somna.kommune.no",
                 "max_age": "5",
@@ -63,7 +63,7 @@
                 "operator": "Sømna kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5496"
+                "id": "node/-5495"
             },
             "geometry": {
                 "type": "Point",
