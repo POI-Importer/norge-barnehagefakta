@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1483",
+            "id": "node/-1334",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -15,7 +15,7 @@
                 "operator": "Oslo Røde Kors",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1483"
+                "id": "node/-1334"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +27,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1482",
+            "id": "node/-1333",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:email": "molleplassen@kanvas.no",
+                "contact:phone": "+47 45964757",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mølleplassen Kanvas-Barnehage",
@@ -39,256 +40,13 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-1482"
+                "id": "node/-1333"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6331,
                     59.9546
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-629",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "130",
-                "contact:email": "unny.varfjell@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Østerås barnehage",
-                "no-barnehage:nsrid": "1018341",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2008-04-01",
-                "id": "node/-629"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6075,
-                    59.9389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-587",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "45",
-                "contact:email": "annebill@online.no",
-                "contact:phone": "+47 67148067",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ruglandveien barnehage",
-                "no-barnehage:nsrid": "1019874",
-                "operator": "Ruglandsveien barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1988-04-01",
-                "id": "node/-587"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.62744,
-                    59.93422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-549",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "108",
-                "contact:email": "unn.mostad@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lønnås barnehage",
-                "no-barnehage:nsrid": "1012655",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-549"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.5991,
-                    59.9443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-539",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "23",
-                "contact:email": "Reetta@lijordet.no",
-                "contact:phone": "+47 67 14 00 94",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lijordet barnehage",
-                "no-barnehage:nsrid": "1019517",
-                "operator": "Eikeli-Lijordet Kvinne- og Familielag",
-                "operator:type": "private",
-                "start_date": "1976-12-24",
-                "id": "node/-539"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.61269,
-                    59.93685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-505",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "56",
-                "contact:email": "anne.huseby@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grini barnehage Avd Briskehaugen",
-                "no-barnehage:nsrid": "1012665",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "1976-12-24",
-                "id": "node/-505"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6212,
-                    59.9474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-503",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "grav.barnehage@baerum.kommune.no",
-                "contact:phone": "+47 67148131",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Grav barnehage Avdeling Øvrevoll",
-                "no-barnehage:nsrid": "1015528",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "1976-12-24",
-                "id": "node/-503"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6219,
-                    59.9342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-501",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "22",
-                "contact:email": "grav.barnehage@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grav barnehage Avd Veståsen",
-                "no-barnehage:nsrid": "1012662",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "1976-12-24",
-                "id": "node/-501"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6045,
-                    59.9357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-491",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "contact:email": "venke.brendmoe@baerum.kommune.no",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Fururabben barnehage Avd Ovenbakken Øvre",
-                "no-barnehage:nsrid": "1013175",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2005-01-01",
-                "id": "node/-491"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.607,
-                    59.9403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-490",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "9",
-                "contact:email": "venke.brendmoe@baerum.kommune.no",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Fururabben barnehage Avd Ovenbakken Nedre",
-                "no-barnehage:nsrid": "1018465",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2008-08-01",
-                "id": "node/-490"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.607,
-                    59.9403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-489",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "49",
-                "contact:email": "venke.brendmoe@baerum.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Fururabben barnehage Avd Eiksveien",
-                "no-barnehage:nsrid": "1025354",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-489"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6106,
-                    59.9404
                 ]
             }
         },

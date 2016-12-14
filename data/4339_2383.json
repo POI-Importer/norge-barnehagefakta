@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1688",
+            "id": "node/-1542",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -17,7 +17,7 @@
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
                 "start_date": "2010-09-14",
-                "id": "node/-1688"
+                "id": "node/-1542"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1476",
+            "id": "node/-1327",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -43,7 +43,7 @@
                 "operator": "Musehuset Norsk Folkemuseums barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1476"
+                "id": "node/-1327"
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +55,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1247",
+            "id": "node/-1096",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -67,7 +67,7 @@
                 "operator": "Hakkespetten barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-06-18",
-                "id": "node/-1247"
+                "id": "node/-1096"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +79,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1169",
+            "id": "node/-1019",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -93,7 +93,7 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "2014-11-01",
-                "id": "node/-1169"
+                "id": "node/-1019"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +105,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1101",
+            "id": "node/-951",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -119,7 +119,7 @@
                 "operator": "Else Hjort Barnehagestiftelse Bygdøylund barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-1101"
+                "id": "node/-951"
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +131,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1063",
+            "id": "node/-913",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -144,13 +144,33 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1063"
+                "id": "node/-913"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6803,
                     59.9005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-867",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "100 Meterskogen barnehage AS",
+                "no-barnehage:nsrid": "2000068",
+                "operator": "100 Meterskogen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2016-09-28",
+                "id": "node/-867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71956,
+                    59.90646
                 ]
             }
         }

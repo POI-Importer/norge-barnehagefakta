@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-749",
+            "id": "node/-597",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -16,7 +16,7 @@
                 "operator": "Fet kommune",
                 "operator:type": "public",
                 "start_date": "2006-08-15",
-                "id": "node/-749"
+                "id": "node/-597"
             },
             "geometry": {
                 "type": "Point",
@@ -28,15 +28,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-748",
+            "id": "node/-596",
             "properties": {
                 "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "3",
                 "name": "Nygård barnehage Avd Dalen",
                 "no-barnehage:nsrid": "2000015",
                 "operator": "Fet kommune",
                 "operator:type": "public",
                 "start_date": "2016-08-01",
-                "id": "node/-748"
+                "id": "node/-596"
             },
             "geometry": {
                 "type": "Point",

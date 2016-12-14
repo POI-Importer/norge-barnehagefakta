@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-693",
+            "id": "node/-539",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -16,7 +16,7 @@
                 "operator": "Vekstbarnehagen AS",
                 "operator:type": "private",
                 "start_date": "1990-04-01",
-                "id": "node/-693"
+                "id": "node/-539"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-687",
+            "id": "node/-532",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -41,7 +41,7 @@
                 "operator": "Stiftelsen Tertitten barnehage",
                 "operator:type": "private",
                 "start_date": "1978-09-22",
-                "id": "node/-687"
+                "id": "node/-532"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-685",
+            "id": "node/-530",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -66,7 +66,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-685"
+                "id": "node/-530"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-680",
+            "id": "node/-525",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -92,7 +92,7 @@
                 "operator": "Stiftelsen Rudolf Steinerbarnehagen i Asker",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-680"
+                "id": "node/-525"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +104,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-678",
+            "id": "node/-523",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -117,7 +117,7 @@
                 "operator": "Stiftelsen Regnbuen Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-678"
+                "id": "node/-523"
             },
             "geometry": {
                 "type": "Point",
@@ -129,32 +129,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-675",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:email": "nesbru@barnehage.no",
-                "contact:phone": "+47 66 84 79 24",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nesbru barnehage",
-                "no-barnehage:nsrid": "1019620",
-                "operator": "Nesbru Kvinne- og Familielag",
-                "operator:type": "private",
-                "start_date": "1982-01-01",
-                "id": "node/-675"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48986,
-                    59.85955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-670",
+            "id": "node/-516",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -167,7 +142,7 @@
                 "operator": "Mellom- Nes Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-02-18",
-                "id": "node/-670"
+                "id": "node/-516"
             },
             "geometry": {
                 "type": "Point",
@@ -179,11 +154,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-669",
+            "id": "node/-515",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
                 "contact:email": "bhg.bjorndalen@laringsverkstedet.no",
+                "contact:phone": "+47 37071537",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Bjørndalen",
@@ -191,7 +167,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2011-08-01",
-                "id": "node/-669"
+                "id": "node/-515"
             },
             "geometry": {
                 "type": "Point",
@@ -203,7 +179,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-662",
+            "id": "node/-508",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -216,7 +192,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "2001-08-01",
-                "id": "node/-662"
+                "id": "node/-508"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +204,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-660",
+            "id": "node/-506",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -241,7 +217,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1998-11-23",
-                "id": "node/-660"
+                "id": "node/-506"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +229,55 @@
         },
         {
             "type": "Feature",
-            "id": "node/-657",
+            "id": "node/-505",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:email": "ingrid.wold-olsen@asker.kommune.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hvalstad barnehage Greverudveien",
+                "no-barnehage:nsrid": "1025800",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "2015-01-01",
+                "id": "node/-505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46718,
+                    59.85272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-504",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:email": "anders.farstad@asker.kommune.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hval Gård barnehage Syverstadveien",
+                "no-barnehage:nsrid": "1025798",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "start_date": "2015-01-01",
+                "id": "node/-504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48329,
+                    59.84861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-501",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -265,7 +289,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1978-11-20",
-                "id": "node/-657"
+                "id": "node/-501"
             },
             "geometry": {
                 "type": "Point",

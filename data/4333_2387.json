@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-701",
+            "id": "node/-549",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -16,7 +16,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-701"
+                "id": "node/-549"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-700",
+            "id": "node/-548",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -41,7 +41,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "1978-11-20",
-                "id": "node/-700"
+                "id": "node/-548"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-648",
+            "id": "node/-535",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "barnehageporten@barnehage.no",
+                "contact:phone": "+47 66794019",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Storeborgen barnehage",
+                "no-barnehage:nsrid": "2000069",
+                "operator": "Barnehageporten AS",
+                "operator:type": "private",
+                "start_date": "2016-10-15",
+                "id": "node/-535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4291,
+                    59.81304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-491",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "113",
@@ -67,7 +91,7 @@
                 "operator": "Espira Gullhella AS",
                 "operator:type": "private",
                 "start_date": "2003-03-10",
-                "id": "node/-648"
+                "id": "node/-491"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +103,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-641",
+            "id": "node/-484",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -92,7 +116,7 @@
                 "operator": "Asker kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-03",
-                "id": "node/-641"
+                "id": "node/-484"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +128,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-636",
+            "id": "node/-479",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -118,7 +142,7 @@
                 "operator": "As Barnas Hus Gullhella",
                 "operator:type": "private",
                 "start_date": "1989-08-28",
-                "id": "node/-636"
+                "id": "node/-479"
             },
             "geometry": {
                 "type": "Point",
