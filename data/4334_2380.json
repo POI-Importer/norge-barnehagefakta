@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-592",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:email": "post@skogstua.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skogstua barnehage",
+                "no-barnehage:nsrid": "1017233",
+                "operator": "Skogstua Barnehager AS",
+                "operator:type": "private",
+                "start_date": "2006-08-21",
+                "id": "node/-592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4808,
+                    59.9575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-582",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "100",
+                "contact:email": "reddiken@kanvas.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Redikken Kanvas-Barnehage",
+                "no-barnehage:nsrid": "1017683",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "start_date": "2007-02-01",
+                "id": "node/-582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.474,
+                    59.9622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-545",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:email": "lommedalen.barnehage@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lommedalen barnehage Avd Krydsby",
+                "no-barnehage:nsrid": "1012660",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "1988-04-01",
+                "id": "node/-545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4814,
+                    59.9553
+                ]
+            }
+        }
+    ]
+}

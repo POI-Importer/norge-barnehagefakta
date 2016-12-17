@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1564",
+            "id": "node/-1764",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "contact:email": "anstra@online.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Voksenkollen Friluftsbarnehage",
+                "no-barnehage:nsrid": "1015042",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "start_date": "2011-08-01",
+                "id": "node/-1764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6645,
+                    59.9803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1721",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -16,7 +40,7 @@
                 "operator": "Turi Sletners Barnehave AS",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-1564"
+                "id": "node/-1721"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1545",
+            "id": "node/-1702",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -40,7 +64,7 @@
                 "operator": "Tommlekollen Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-07-03",
-                "id": "node/-1545"
+                "id": "node/-1702"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1038",
+            "id": "node/-1195",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -65,7 +89,7 @@
                 "operator": "Frognerseteren Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2013-02-15",
-                "id": "node/-1038"
+                "id": "node/-1195"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1225",
+            "id": "node/-1382",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -15,7 +15,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1225"
+                "id": "node/-1382"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1202",
+            "id": "node/-1359",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -39,13 +39,258 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2008-04-01",
-                "id": "node/-1202"
+                "id": "node/-1359"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6338,
                     59.9289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-630",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "administrasjon@ostheim.no",
+                "contact:phone": "+47 67 11 09 14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Østheim barnehage",
+                "no-barnehage:nsrid": "1020049",
+                "operator": "Østheim barnehage",
+                "operator:type": "private",
+                "start_date": "1992-08-01",
+                "id": "node/-630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.60966,
+                    59.92789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-605",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "vibeke.trebler@gmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Storenga barnehage og Storenga Familiebarnehage Sa Avd Barnehage",
+                "no-barnehage:nsrid": "1016667",
+                "operator": "Storenga barnehage og Storenga Familiebarnehage Sa",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6247,
+                    59.9205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-601",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "ronnaug@almeskogen.no",
+                "contact:phone": "+47 67 16 22 70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stiftelsen Almeskogen Steinerbarneh",
+                "no-barnehage:nsrid": "1016222",
+                "operator": "Stiftelsen Almeskogen Steinerbarnehage",
+                "operator:type": "private",
+                "start_date": "1992-08-01",
+                "id": "node/-601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6057,
+                    59.93
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-593",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "elisabeth.christensen@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skogveien barnehage Avd Skallum",
+                "no-barnehage:nsrid": "1013472",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "2009-05-01",
+                "id": "node/-593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5928,
+                    59.9139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-591",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:email": "skaubo@skaubo.no",
+                "contact:phone": "+47 67 14 14 25",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skaubo barnehage",
+                "no-barnehage:nsrid": "1014988",
+                "operator": "Skaubo AS",
+                "operator:type": "private",
+                "start_date": "1997-08-01",
+                "id": "node/-591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622,
+                    59.9283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-583",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:email": "dl.ringstabekk@bhg.no",
+                "contact:phone": "+47 67 58 95 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ringstabekk Fus barnehage AS",
+                "no-barnehage:nsrid": "1021908",
+                "operator": "Ringstabekk Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2008-11-18",
+                "id": "node/-583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.59336,
+                    59.9164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-529",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:email": "bente.lysaker@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jarenga barnehage",
+                "no-barnehage:nsrid": "1018329",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "2008-01-01",
+                "id": "node/-529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6247,
+                    59.9205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-527",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:email": "dl.jar@bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jar Fus barnehage AS",
+                "no-barnehage:nsrid": "1021386",
+                "operator": "Jar Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-10-01",
+                "id": "node/-527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6111,
+                    59.91956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-502",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:email": "grav.barnehage@baerum.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grav barnehage Avdeling Liom",
+                "no-barnehage:nsrid": "1012646",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "1976-01-01",
+                "id": "node/-502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6025,
+                    59.932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-492",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "7",
+                "contact:email": "styrer@gartnerveien.no",
+                "contact:phone": "+47 67102180",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gartnerveien barnehage og Habilitering",
+                "no-barnehage:nsrid": "1015532",
+                "operator": "Østre Bærum Sanitetsforening",
+                "operator:type": "private",
+                "start_date": "1977-01-01",
+                "id": "node/-492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5922,
+                    59.9135
                 ]
             }
         },
