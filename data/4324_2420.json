@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2692",
+            "id": "node/-2691",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -17,7 +17,7 @@
                 "operator": "Trollsteinen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-07-31",
-                "id": "node/-2692"
+                "id": "node/-2691"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2681",
+            "id": "node/-2680",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -42,31 +42,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "2007-01-01",
-                "id": "node/-2681"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.0443,
-                    59.0656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2669",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hovlandbanen barnehage",
-                "no-barnehage:nsrid": "1017739",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "start_date": "2007-01-01",
-                "id": "node/-2669"
+                "id": "node/-2680"
             },
             "geometry": {
                 "type": "Point",
@@ -81,15 +57,15 @@
             "id": "node/-2668",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "55",
                 "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Hovland barnehage",
-                "no-barnehage:nsrid": "1012804",
+                "name": "Hovlandbanen barnehage",
+                "no-barnehage:nsrid": "1017739",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
+                "start_date": "2007-01-01",
                 "id": "node/-2668"
             },
             "geometry": {
@@ -102,7 +78,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2662",
+            "id": "node/-2667",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hovland barnehage",
+                "no-barnehage:nsrid": "1012804",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "start_date": "1976-01-01",
+                "id": "node/-2667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0443,
+                    59.0656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2661",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "kjondal@me.com",
@@ -111,7 +111,7 @@
                 "operator": "Vineyard Kristne Felleskap Larvik",
                 "operator:type": "private",
                 "start_date": "2008-01-01",
-                "id": "node/-2662"
+                "id": "node/-2661"
             },
             "geometry": {
                 "type": "Point",
