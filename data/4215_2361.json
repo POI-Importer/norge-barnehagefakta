@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4051",
+            "id": "node/-4055",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "131",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2014-02-01",
-                "id": "node/-4051"
+                "id": "node/-4055"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4013",
+            "id": "node/-4017",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -40,7 +40,7 @@
                 "operator": "Stiftelsen Sjøsprøyten",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4013"
+                "id": "node/-4017"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3939",
+            "id": "node/-3944",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kjøkkelvik barnehage AS",
+                "no-barnehage:nsrid": "2000064",
+                "operator": "Kjøkkelvik barnehage AS",
+                "operator:type": "private",
+                "start_date": "2016-10-06",
+                "id": "node/-3944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233228,
+                    60.37881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -66,33 +86,13 @@
                 "operator": "Kjøkkelvik barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-08-30",
-                "id": "node/-3939"
+                "id": "node/-3943"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.233162,
                     60.37889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3938",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Kjøkkelvik barnehage AS",
-                "no-barnehage:nsrid": "2000064",
-                "operator": "Kjøkkelvik barnehage 2 AS",
-                "operator:type": "private",
-                "start_date": "2016-10-06",
-                "id": "node/-3938"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.233228,
-                    60.37881
                 ]
             }
         }
