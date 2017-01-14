@@ -3,30 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-275",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "104",
-                "contact:email": "cathrine.hansen@rygge.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rygge Kommunale barnehage",
-                "no-barnehage:nsrid": "1017521",
-                "operator": "Rygge kommune",
-                "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-275"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6894,
-                    59.4209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-273",
             "properties": {
                 "amenity": "kindergarten",
@@ -73,7 +49,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-268",
+            "id": "node/-270",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "contact:email": "cathrine.hansen@rygge.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rygge Kommunale barnehage",
+                "no-barnehage:nsrid": "1017521",
+                "operator": "Rygge kommune",
+                "operator:type": "public",
+                "start_date": "1988-04-01",
+                "id": "node/-270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6894,
+                    59.4209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-267",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -86,7 +86,7 @@
                 "operator": "Læringsverkstedet Heimdalenga AS",
                 "operator:type": "private",
                 "start_date": "2002-07-01",
-                "id": "node/-268"
+                "id": "node/-267"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-267",
+            "id": "node/-266",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -110,7 +110,7 @@
                 "operator": "Gubbeskogen Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-09-16",
-                "id": "node/-267"
+                "id": "node/-266"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +122,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-264",
+            "id": "node/-263",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -135,7 +135,7 @@
                 "operator": "Stiftelsen barnehage Rygge",
                 "operator:type": "private",
                 "start_date": "1990-07-01",
-                "id": "node/-264"
+                "id": "node/-263"
             },
             "geometry": {
                 "type": "Point",

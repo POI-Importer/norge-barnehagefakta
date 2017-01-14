@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1825",
+            "id": "node/-1832",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -16,7 +16,7 @@
                 "operator": "Hamar kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-1825"
+                "id": "node/-1832"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1818",
+            "id": "node/-1825",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -40,13 +40,37 @@
                 "operator": "Norsvin barnehage AS",
                 "operator:type": "private",
                 "start_date": "2009-01-01",
-                "id": "node/-1818"
+                "id": "node/-1825"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.0868,
                     60.8216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1822",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "gerd.eli.woldstad@hamar.kommune.no",
+                "contact:phone": "+47 62563369",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lundbo barnehage",
+                "no-barnehage:nsrid": "2000094",
+                "operator": "Hamar kommune",
+                "operator:type": "public",
+                "start_date": "2017-01-01",
+                "id": "node/-1822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07791,
+                    60.80428
                 ]
             }
         }
