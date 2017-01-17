@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1762",
+            "id": "node/-1764",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -15,7 +15,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1762"
+                "id": "node/-1764"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1761",
+            "id": "node/-1763",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -39,7 +39,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1761"
+                "id": "node/-1763"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1760",
+            "id": "node/-1762",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -63,7 +63,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1760"
+                "id": "node/-1762"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1759",
+            "id": "node/-1761",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -89,7 +89,7 @@
                 "operator": "Vestliskaret Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-12-13",
-                "id": "node/-1759"
+                "id": "node/-1761"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1758",
+            "id": "node/-1760",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -114,7 +114,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2006-04-19",
-                "id": "node/-1758"
+                "id": "node/-1760"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1757",
+            "id": "node/-1759",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -138,7 +138,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1757"
+                "id": "node/-1759"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1756",
+            "id": "node/-1758",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Vestli Familiebarnehage",
@@ -158,13 +158,37 @@
                 "operator": "Vestli Familiebarnehage Ghafoor",
                 "operator:type": "private",
                 "start_date": "2016-08-01",
-                "id": "node/-1756"
+                "id": "node/-1758"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.92998,
                     59.97396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1756",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:email": "tone.blix@bsr.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vesthellinga barnehage",
+                "no-barnehage:nsrid": "1017458",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "1979-01-01",
+                "id": "node/-1756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.934,
+                    59.9589
                 ]
             }
         },
