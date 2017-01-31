@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3583",
+            "id": "node/-3582",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -17,7 +17,7 @@
                 "operator": "Stiftelsen Soria Moria Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3583"
+                "id": "node/-3582"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3581",
+            "id": "node/-3580",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -41,38 +41,13 @@
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-3581"
+                "id": "node/-3580"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.28021,
                     59.4032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3580",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "64",
-                "contact:email": "studentbarnehagen@hsh.no",
-                "contact:phone": "+47 51 887517",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ssh Studentbarnehagen",
-                "no-barnehage:nsrid": "1016070",
-                "operator": "Studentsamskipnaden Stord/haugesund",
-                "operator:type": "private",
-                "start_date": "1994-07-28",
-                "id": "node/-3580"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28927,
-                    59.4102
                 ]
             }
         },
@@ -232,6 +207,31 @@
             "id": "node/-3551",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:email": "studentbarnehagen@hsh.no",
+                "contact:phone": "+47 51 887517",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagen Haugesund",
+                "no-barnehage:nsrid": "1016070",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "start_date": "1994-07-28",
+                "id": "node/-3551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28927,
+                    59.4102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3550",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "83",
                 "contact:email": "sa@anmba.no",
                 "contact:phone": "+47 52 72 54 00",
@@ -243,7 +243,7 @@
                 "operator": "Anna Nilssens Minne Sa",
                 "operator:type": "private",
                 "start_date": "2005-02-28",
-                "id": "node/-3551"
+                "id": "node/-3550"
             },
             "geometry": {
                 "type": "Point",

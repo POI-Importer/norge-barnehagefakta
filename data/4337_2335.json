@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2053",
+            "id": "node/-2052",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Nordby Gårdsbarnehage Biri AS",
@@ -11,31 +11,6 @@
                 "operator": "Nordby Gårdsbarnehage Biri AS",
                 "operator:type": "private",
                 "start_date": "2017-01-01",
-                "id": "node/-2053"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.62135,
-                    60.93963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2052",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:email": "osnugger@online.no",
-                "contact:phone": "+47 611-75614",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nordby Gård og barnehage",
-                "no-barnehage:nsrid": "1020383",
-                "operator": "Øystein Snuggerud",
-                "operator:type": "private",
-                "start_date": "1995-08-11",
                 "id": "node/-2052"
             },
             "geometry": {
@@ -48,7 +23,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2035",
+            "id": "node/-2051",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "osnugger@online.no",
+                "contact:phone": "+47 611-75614",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordby Gård og barnehage",
+                "no-barnehage:nsrid": "1020383",
+                "operator": "Øystein Snuggerud",
+                "operator:type": "private",
+                "start_date": "1995-08-11",
+                "id": "node/-2051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62135,
+                    60.93963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -61,7 +61,7 @@
                 "operator": "Diseth Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-12-18",
-                "id": "node/-2035"
+                "id": "node/-2034"
             },
             "geometry": {
                 "type": "Point",

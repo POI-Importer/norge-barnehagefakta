@@ -3,32 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4187",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "44",
-                "contact:email": "sigrun.rykkje@kvam.kommune.no",
-                "contact:phone": "+47 56 55 85 90",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tolomarka barnehage",
-                "no-barnehage:nsrid": "1025323",
-                "operator": "Kvam kommune",
-                "operator:type": "public",
-                "start_date": "1992-08-01",
-                "id": "node/-4187"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.16499,
-                    60.371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4181",
+            "id": "node/-4191",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "106",
@@ -42,13 +17,38 @@
                 "operator": "Kvam kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-4181"
+                "id": "node/-4191"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.19558,
                     60.386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4189",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:email": "sigrun.rykkje@kvam.kommune.no",
+                "contact:phone": "+47 56 55 85 90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tolomarka barnehage",
+                "no-barnehage:nsrid": "1025323",
+                "operator": "Kvam kommune",
+                "operator:type": "public",
+                "start_date": "1992-08-01",
+                "id": "node/-4189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.16499,
+                    60.371
                 ]
             }
         }

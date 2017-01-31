@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4742",
+            "id": "node/-4746",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -16,7 +16,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1979-02-19",
-                "id": "node/-4742"
+                "id": "node/-4746"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4737",
+            "id": "node/-4743",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:email": "hauglia@mobarn.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mobarn Hauglia barnehage",
+                "no-barnehage:nsrid": "1016216",
+                "operator": "Mobarn Sa",
+                "operator:type": "private",
+                "start_date": "1990-08-01",
+                "id": "node/-4743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.17332,
+                    62.8589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4738",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -41,37 +65,13 @@
                 "operator": "Haugtussa barnehage",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-4737"
+                "id": "node/-4738"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.172413,
                     62.85891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4736",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "33",
-                "contact:email": "hauglia@mobarn.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mobarn Hauglia barnehage",
-                "no-barnehage:nsrid": "1016216",
-                "operator": "Mobarn Sa",
-                "operator:type": "private",
-                "start_date": "1990-08-01",
-                "id": "node/-4736"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.17332,
-                    62.8589
                 ]
             }
         }
