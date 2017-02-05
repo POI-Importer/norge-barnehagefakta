@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3094",
+            "id": "node/-3088",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -16,7 +16,7 @@
                 "operator": "Ulna AS",
                 "operator:type": "private",
                 "start_date": "2002-06-21",
-                "id": "node/-3094"
+                "id": "node/-3088"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3091",
+            "id": "node/-3085",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -41,77 +41,7 @@
                 "operator": "Lillesand kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-3091"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37763,
-                    58.249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3090",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "70",
-                "contact:email": "dl.moglestu@bhg.no",
-                "contact:phone": "+47 37 27 29 15",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Møglestu Fus barnehage AS",
-                "no-barnehage:nsrid": "1021658",
-                "operator": "Møglestu Fus barnehage AS",
-                "operator:type": "private",
-                "start_date": "2007-05-10",
-                "id": "node/-3090"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.360476,
-                    58.26015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3089",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "75",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Kaldvell",
-                "no-barnehage:nsrid": "1013560",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "start_date": "2013-05-01",
-                "id": "node/-3089"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37763,
-                    58.249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3088",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "lene1904@online.no",
-                "name": "Kalvild Åpen barnehage",
-                "no-barnehage:nsrid": "1014245",
-                "operator": "Brunstad Kristelige Menighet Sørlandet",
-                "operator:type": "private",
-                "start_date": "2010-08-15",
-                "id": "node/-3088"
+                "id": "node/-3085"
             },
             "geometry": {
                 "type": "Point",
@@ -126,23 +56,23 @@
             "id": "node/-3084",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "67",
-                "contact:email": "solfrid.caroline.berg@lillesand.kommune.no",
-                "contact:phone": "+47 37 26 15 00",
+                "capacity": "70",
+                "contact:email": "dl.moglestu@bhg.no",
+                "contact:phone": "+47 37 27 29 15",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Borketun barnehage",
-                "no-barnehage:nsrid": "1016209",
-                "operator": "Lillesand kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
+                "name": "Møglestu Fus barnehage AS",
+                "no-barnehage:nsrid": "1021658",
+                "operator": "Møglestu Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2007-05-10",
                 "id": "node/-3084"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.35933,
-                    58.2454
+                    8.360476,
+                    58.26015
                 ]
             }
         },
@@ -151,16 +81,15 @@
             "id": "node/-3083",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
-                "contact:email": "hilde.tellefsen@lillesand.kommune.no",
-                "contact:phone": "+47 37 26 15 75",
+                "capacity": "75",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Blåbæråsen barnehage",
-                "no-barnehage:nsrid": "1014201",
-                "operator": "Lillesand kommune",
-                "operator:type": "public",
-                "start_date": "2010-08-01",
+                "name": "Læringsverkstedet barnehage Avd Kaldvell",
+                "no-barnehage:nsrid": "1013560",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2013-05-01",
                 "id": "node/-3083"
             },
             "geometry": {
@@ -176,6 +105,77 @@
             "id": "node/-3082",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "lene1904@online.no",
+                "name": "Kalvild Åpen barnehage",
+                "no-barnehage:nsrid": "1014245",
+                "operator": "Brunstad Kristelige Menighet Sørlandet",
+                "operator:type": "private",
+                "start_date": "2010-08-15",
+                "id": "node/-3082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37763,
+                    58.249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3078",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:email": "solfrid.caroline.berg@lillesand.kommune.no",
+                "contact:phone": "+47 37 26 15 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Borketun barnehage",
+                "no-barnehage:nsrid": "1016209",
+                "operator": "Lillesand kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-3078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.35933,
+                    58.2454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3077",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "contact:email": "hilde.tellefsen@lillesand.kommune.no",
+                "contact:phone": "+47 37 26 15 75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåbæråsen barnehage",
+                "no-barnehage:nsrid": "1014201",
+                "operator": "Lillesand kommune",
+                "operator:type": "public",
+                "start_date": "2010-08-01",
+                "id": "node/-3077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37763,
+                    58.249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3076",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "34",
                 "contact:email": "aashild@bergstobarnehage.no",
                 "contact:phone": "+47 37271445",
@@ -186,7 +186,7 @@
                 "operator": "Bergstø barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-3082"
+                "id": "node/-3076"
             },
             "geometry": {
                 "type": "Point",

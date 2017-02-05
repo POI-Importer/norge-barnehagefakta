@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5231",
+            "id": "node/-5225",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -16,7 +16,7 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-5231"
+                "id": "node/-5225"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5227",
+            "id": "node/-5221",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -40,7 +40,7 @@
                 "operator": "Skjefte barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-04-11",
-                "id": "node/-5227"
+                "id": "node/-5221"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5226",
+            "id": "node/-5220",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -65,31 +65,6 @@
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
                 "start_date": "2006-02-01",
-                "id": "node/-5226"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.503,
-                    64.011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5220",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "hilde.sivertsen@studentinord.no",
-                "contact:phone": "+47 91001147",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Steinkjer",
-                "no-barnehage:nsrid": "1015994",
-                "operator": "Nord Studentsamskipnad",
-                "operator:type": "private",
-                "start_date": "1992-01-01",
                 "id": "node/-5220"
             },
             "geometry": {
@@ -102,7 +77,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5208",
+            "id": "node/-5214",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "hilde.sivertsen@studentinord.no",
+                "contact:phone": "+47 91001147",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Steinkjer",
+                "no-barnehage:nsrid": "1015994",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "start_date": "1992-01-01",
+                "id": "node/-5214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503,
+                    64.011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5202",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -116,7 +116,7 @@
                 "operator": "Figga barnehage",
                 "operator:type": "private",
                 "start_date": "1995-01-19",
-                "id": "node/-5208"
+                "id": "node/-5202"
             },
             "geometry": {
                 "type": "Point",
