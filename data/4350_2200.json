@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5328",
+            "id": "node/-5325",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -16,7 +16,7 @@
                 "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
                 "operator:type": "private",
                 "start_date": "1971-12-29",
-                "id": "node/-5328"
+                "id": "node/-5325"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5326",
+            "id": "node/-5323",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -42,32 +42,7 @@
                 "operator": "Purktrøa Gårdsbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-05-19",
-                "id": "node/-5326"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.18688,
-                    63.70111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5316",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "post@kaarstuabarnehage.no",
-                "contact:phone": "+47 74 08 19 09",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kårstua barnehage AS",
-                "no-barnehage:nsrid": "1021428",
-                "operator": "Kårstua barnehage AS",
-                "operator:type": "private",
-                "start_date": "2006-04-01",
-                "id": "node/-5316"
+                "id": "node/-5323"
             },
             "geometry": {
                 "type": "Point",
@@ -82,6 +57,31 @@
             "id": "node/-5313",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "post@kaarstuabarnehage.no",
+                "contact:phone": "+47 74 08 19 09",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kårstua barnehage AS",
+                "no-barnehage:nsrid": "1021428",
+                "operator": "Kårstua barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-04-01",
+                "id": "node/-5313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18688,
+                    63.70111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5310",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "30",
                 "contact:email": "monika@hompetitten.com",
                 "contact:phone": "+47 74 08 05 00",
@@ -92,7 +92,7 @@
                 "operator": "Hompetitten barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-06-03",
-                "id": "node/-5313"
+                "id": "node/-5310"
             },
             "geometry": {
                 "type": "Point",
