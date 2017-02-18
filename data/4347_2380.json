@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-882",
+            "id": "node/-883",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -15,7 +15,7 @@
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-882"
+                "id": "node/-883"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-874",
+            "id": "node/-875",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "15",
+                "capacity": "14",
                 "contact:email": "solepytt@online.no",
                 "contact:phone": "+47 63 80 21 33",
                 "max_age": "5",
@@ -40,7 +40,7 @@
                 "operator": "Sølepytten barnehage Da",
                 "operator:type": "private",
                 "start_date": "2001-08-01",
-                "id": "node/-874"
+                "id": "node/-875"
             },
             "geometry": {
                 "type": "Point",
@@ -52,10 +52,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-864",
+            "id": "node/-865",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "181",
+                "capacity": "205",
                 "contact:email": "ninah@skedsmo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -64,7 +64,7 @@
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
                 "start_date": "2005-08-01",
-                "id": "node/-864"
+                "id": "node/-865"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-861",
+            "id": "node/-862",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -88,7 +88,7 @@
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-861"
+                "id": "node/-862"
             },
             "geometry": {
                 "type": "Point",
@@ -100,10 +100,34 @@
         },
         {
             "type": "Feature",
-            "id": "node/-849",
+            "id": "node/-856",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "155",
+                "contact:email": "lone@lillevolla.no",
+                "contact:phone": "+47 63 81 36 83",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Lille Volla Familiebarnehage AS",
+                "no-barnehage:nsrid": "1022207",
+                "operator": "Lille Volla Familiebarnehage AS",
+                "operator:type": "private",
+                "start_date": "2007-11-01",
+                "id": "node/-856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.03855,
+                    59.956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-850",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "157",
                 "contact:email": "stilund2@skedsmo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -112,7 +136,7 @@
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-849"
+                "id": "node/-850"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-843",
+            "id": "node/-844",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -136,7 +160,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2003-02-01",
-                "id": "node/-843"
+                "id": "node/-844"
             },
             "geometry": {
                 "type": "Point",
@@ -148,10 +172,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-842",
+            "id": "node/-843",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "131",
+                "capacity": "133",
                 "contact:email": "styrer@kunnskapsbyen.espira.no",
                 "contact:phone": "+47 52 84 50 20",
                 "contact:website": "http://www.espira.no",
@@ -162,7 +186,7 @@
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1996-12-17",
-                "id": "node/-842"
+                "id": "node/-843"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1481",
+            "id": "node/-1483",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "138",
+                "capacity": "151",
                 "contact:email": "dl.mib@idrettsbarnehage.no",
                 "contact:phone": "+47 95852300",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Munkebekken Idrettsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2013-01-09",
-                "id": "node/-1481"
+                "id": "node/-1483"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-834",
+            "id": "node/-835",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -41,7 +41,7 @@
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-834"
+                "id": "node/-835"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +53,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-831",
+            "id": "node/-832",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "27",
                 "contact:email": "styrer@taktogtone.com",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,7 +65,7 @@
                 "operator": "Takt og Tone Unni Sørenbye",
                 "operator:type": "private",
                 "start_date": "2008-02-01",
-                "id": "node/-831"
+                "id": "node/-832"
             },
             "geometry": {
                 "type": "Point",
@@ -77,10 +77,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-829",
+            "id": "node/-830",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "45",
+                "capacity": "36",
                 "contact:email": "idavollen.steinerbarnehage@gmail.com",
                 "contact:phone": "+47 67901222",
                 "max_age": "5",
@@ -90,7 +90,7 @@
                 "operator": "Stiftelsen Idavollen Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-829"
+                "id": "node/-830"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +102,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-823",
+            "id": "node/-824",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "45",
+                "capacity": "43",
                 "contact:email": "kari@regnbuenbarnehage.net",
                 "contact:phone": "+47 67 92 23 03",
                 "contact:website": "http://regnbuenbarnehage.net",
@@ -116,7 +116,7 @@
                 "operator": "Regnbuen barnehage Lørenskog",
                 "operator:type": "private",
                 "start_date": "2003-08-01",
-                "id": "node/-823"
+                "id": "node/-824"
             },
             "geometry": {
                 "type": "Point",
@@ -128,10 +128,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-822",
+            "id": "node/-823",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
+                "capacity": "82",
                 "contact:email": "gds@lorenskog.kommune.no",
                 "contact:phone": "+47 67 93 47 90",
                 "max_age": "5",
@@ -141,13 +141,36 @@
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-822"
+                "id": "node/-823"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.9406,
                     59.9231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-807",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "marianneolberg@hotmail.com",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hundremeterskogen Familiebarnehage Avd Nasse Nøff",
+                "no-barnehage:nsrid": "1020355",
+                "operator": "Hundremeterskogen Familiebarnehage avd Nasse Nøff Marianne O Knardahl",
+                "operator:type": "private",
+                "start_date": "2009-01-01",
+                "id": "node/-807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92895,
+                    59.91497
                 ]
             }
         }

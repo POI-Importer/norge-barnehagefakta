@@ -3,10 +3,34 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2543",
+            "id": "node/-2554",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "contact:email": "elin@svebergstua.no",
+                "contact:phone": "+47 33 07 82 62",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Svebergstua Familiebarnehage Elin Bugge Johansson",
+                "no-barnehage:nsrid": "1022047",
+                "operator": "Svebergstua Familiebarnehage Elin Bugge Johansson",
+                "operator:type": "private",
+                "start_date": "2001-08-01",
+                "id": "node/-2554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43536,
+                    59.44081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2547",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "87",
                 "contact:email": "hege.bogen@horten.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +39,7 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "2002-06-01",
-                "id": "node/-2543"
+                "id": "node/-2547"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +51,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2530",
+            "id": "node/-2534",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "60",
                 "contact:email": "marianne.bakka@horten.kommune.no",
                 "contact:phone": "+47 330  85 280",
                 "max_age": "5",
@@ -40,7 +64,7 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "1991-08-01",
-                "id": "node/-2530"
+                "id": "node/-2534"
             },
             "geometry": {
                 "type": "Point",

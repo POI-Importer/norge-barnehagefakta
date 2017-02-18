@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-384",
+            "id": "node/-385",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "91",
+                "capacity": "90",
                 "contact:email": "anita.b.moe@frogn.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "operator": "Frogn kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-384"
+                "id": "node/-385"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-383",
+            "id": "node/-384",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "43",
                 "contact:email": "hans.knudsen@frogn.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +39,7 @@
                 "operator": "Frogn kommune",
                 "operator:type": "public",
                 "start_date": "1990-08-15",
-                "id": "node/-383"
+                "id": "node/-384"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +51,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-382",
+            "id": "node/-383",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "36",
                 "contact:email": "marianne@tertitten.no",
                 "contact:phone": "+47 64 93 78 18",
                 "max_age": "5",
@@ -64,7 +64,7 @@
                 "operator": "Tertitten barnehage Ans",
                 "operator:type": "private",
                 "start_date": "1996-05-13",
-                "id": "node/-382"
+                "id": "node/-383"
             },
             "geometry": {
                 "type": "Point",
@@ -76,10 +76,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-379",
+            "id": "node/-380",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "23",
+                "capacity": "24",
                 "contact:email": "lillan@lindebakken.no",
                 "contact:phone": "+47 64 93 45 44",
                 "contact:website": "http://www.lindebakken.no",
@@ -90,7 +90,7 @@
                 "operator": "Lindebakken barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-379"
+                "id": "node/-380"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +102,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-376",
+            "id": "node/-377",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "64",
                 "contact:email": "sogstieika@barnehage.no",
                 "contact:phone": "+47 64 93 93 88",
                 "max_age": "5",
@@ -115,7 +115,7 @@
                 "operator": "Sogstieika barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1996-08-01",
-                "id": "node/-376"
+                "id": "node/-377"
             },
             "geometry": {
                 "type": "Point",
@@ -127,10 +127,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-373",
+            "id": "node/-374",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "85",
+                "capacity": "89",
                 "contact:email": "BREDE.FOSSHAUG@FROGN.KOMMUNE.NO",
                 "max_age": "5",
                 "min_age": "1",
@@ -139,7 +139,7 @@
                 "operator": "Frogn kommune",
                 "operator:type": "public",
                 "start_date": "1992-12-22",
-                "id": "node/-373"
+                "id": "node/-374"
             },
             "geometry": {
                 "type": "Point",
@@ -151,10 +151,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-369",
+            "id": "node/-370",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "28",
                 "contact:email": "skole@drobakmontessori.no",
                 "contact:phone": "+47 64 93 05 23",
                 "max_age": "5",
@@ -164,7 +164,7 @@
                 "operator": "Drøbak Montessori Stiftelse",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-369"
+                "id": "node/-370"
             },
             "geometry": {
                 "type": "Point",
@@ -176,10 +176,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-366",
+            "id": "node/-369",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "contact:email": "barbrowernerjakobsen@outlook.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Drøbak Familiebarnehage Koseklubben",
+                "no-barnehage:nsrid": "1020332",
+                "operator": "Drøbak Familiebarnehage Avd/koseklubben Barbro W Jakobsen",
+                "operator:type": "private",
+                "start_date": "2009-01-07",
+                "id": "node/-369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64432,
+                    59.65037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-367",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
                 "contact:email": "bjerkeveien@barnehage.no",
                 "contact:phone": "+47 64 90 90 25",
                 "contact:website": "http://bjerkeveien.barnehage.no",
@@ -190,7 +213,7 @@
                 "operator": "Bjerkeveien barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-06-14",
-                "id": "node/-366"
+                "id": "node/-367"
             },
             "geometry": {
                 "type": "Point",

@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1858",
+            "id": "node/-1862",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "86",
                 "contact:email": "marihona.styrerskogen@gmail.com",
                 "contact:phone": "+47 99640973",
                 "max_age": "5",
@@ -16,7 +16,27 @@
                 "operator": "Mari Østby-Deglum",
                 "operator:type": "private",
                 "start_date": "2004-03-01",
-                "id": "node/-1858"
+                "id": "node/-1862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.05809,
+                    60.84939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1861",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Marihøna Gårds- og Friluftsbarnehage AS",
+                "no-barnehage:nsrid": "2000106",
+                "operator": "Marihøna Gårds- og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "start_date": "2017-01-01",
+                "id": "node/-1861"
             },
             "geometry": {
                 "type": "Point",

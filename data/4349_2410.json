@@ -3,10 +3,34 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-90",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "lealarsen@yahoo.no",
+                "contact:phone": "+47 451 77 474",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kløverengen Familiebarnehage Hafslundsøy Lea Larsen",
+                "no-barnehage:nsrid": "1022185",
+                "operator": "Kløverengen Familiebarnehage Hafslundsøy Lea Larsen",
+                "operator:type": "private",
+                "start_date": "2011-05-01",
+                "id": "node/-90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14931,
+                    59.30066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-86",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "92",
+                "capacity": "96",
                 "contact:email": "tove-beate.larsen@sarpsborg.com",
                 "max_age": "5",
                 "min_age": "1",
@@ -30,7 +54,7 @@
             "id": "node/-78",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "49",
                 "contact:email": "mail@bergsvingen.no",
                 "contact:phone": "+47 69120770",
                 "max_age": "5",

@@ -3,10 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2545",
+            "id": "node/-2549",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "12",
                 "contact:email": "skaanetoppen@barnehage.no",
                 "contact:phone": "+47 957 09 048",
                 "max_age": "2",
@@ -16,7 +15,7 @@
                 "operator": "Skånetoppen barnehage Da",
                 "operator:type": "private",
                 "start_date": "2006-05-01",
-                "id": "node/-2545"
+                "id": "node/-2549"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2535",
+            "id": "node/-2539",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
                 "contact:email": "ronny.nesse@horten.kommune.no",
                 "contact:phone": "+47 97 55 03 20",
                 "max_age": "5",
@@ -41,7 +39,7 @@
                 "operator": "Horten kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2535"
+                "id": "node/-2539"
             },
             "geometry": {
                 "type": "Point",
@@ -53,16 +51,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2534",
+            "id": "node/-2538",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "69",
                 "contact:email": "styrer@nykirke.espira.no",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Espira Nykirke barnehage",
                 "no-barnehage:nsrid": "1026617",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2016-05-01",
-                "id": "node/-2534"
+                "id": "node/-2538"
             },
             "geometry": {
                 "type": "Point",

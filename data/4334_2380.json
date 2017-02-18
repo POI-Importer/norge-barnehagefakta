@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-589",
+            "id": "node/-590",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "19",
                 "contact:email": "post@skogstua.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "operator": "Skogstua Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2006-08-21",
-                "id": "node/-589"
+                "id": "node/-590"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-579",
+            "id": "node/-580",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "100",
+                "capacity": "105",
                 "contact:email": "reddiken@kanvas.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +39,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2007-02-01",
-                "id": "node/-579"
+                "id": "node/-580"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +51,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-542",
+            "id": "node/-564",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "contact:email": "raymond@familiebarnehage.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Nøtteliten Familiebarnehage Avd Krydsbyveien",
+                "no-barnehage:nsrid": "1016509",
+                "operator": "Nøtteliten Familiebarnehage Tina Frivåg",
+                "operator:type": "private",
+                "start_date": "2003-03-25",
+                "id": "node/-564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4835,
+                    59.95799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-543",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
                 "contact:email": "lommedalen.barnehage@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +86,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-542"
+                "id": "node/-543"
             },
             "geometry": {
                 "type": "Point",

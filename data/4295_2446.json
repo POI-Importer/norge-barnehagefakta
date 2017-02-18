@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3040",
+            "id": "node/-3048",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "27",
                 "contact:email": "post@svalestienbhg.no",
                 "contact:phone": "+47 41265579",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Svalestien barnehage AS",
                 "operator:type": "private",
                 "start_date": "2006-10-04",
-                "id": "node/-3040"
+                "id": "node/-3048"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3036",
+            "id": "node/-3044",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -42,7 +42,7 @@
                 "operator": "Stiftelsen Stjerneglimt Steinerbarnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3036"
+                "id": "node/-3044"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +54,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3028",
+            "id": "node/-3036",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "46",
                 "contact:email": "elin@soriamoriabarnehage.no",
                 "contact:website": "http://www.soriamoriabarnehage.no/",
                 "max_age": "5",
@@ -67,7 +67,7 @@
                 "operator": "Soria Moria barnehage Arendal AS",
                 "operator:type": "private",
                 "start_date": "2008-04-01",
-                "id": "node/-3028"
+                "id": "node/-3036"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +79,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3020",
+            "id": "node/-3028",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "43",
                 "contact:email": "kari.p@landboe.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -91,7 +91,7 @@
                 "operator": "Barbu Sokn",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-3020"
+                "id": "node/-3028"
             },
             "geometry": {
                 "type": "Point",
@@ -103,10 +103,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3012",
+            "id": "node/-3020",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "43",
                 "contact:email": "Lindebakken.barnehage@gmail.com",
                 "contact:phone": "+47 37 00 13 33",
                 "contact:website": "http://www.lindebakken.barnehage.no",
@@ -117,7 +117,7 @@
                 "operator": "Lindebakken barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-10-04",
-                "id": "node/-3012"
+                "id": "node/-3020"
             },
             "geometry": {
                 "type": "Point",
@@ -129,10 +129,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3005",
+            "id": "node/-3013",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "53",
                 "contact:email": "janne.andersen@arendal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -141,7 +141,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-01",
-                "id": "node/-3005"
+                "id": "node/-3013"
             },
             "geometry": {
                 "type": "Point",
@@ -153,10 +153,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2998",
+            "id": "node/-3006",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "70",
+                "capacity": "67",
                 "contact:email": "berit.songe@durapart.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -165,7 +165,7 @@
                 "operator": "Durapart AS",
                 "operator:type": "private",
                 "start_date": "2006-12-01",
-                "id": "node/-2998"
+                "id": "node/-3006"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +177,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2990",
+            "id": "node/-3003",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "relsiel@online.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bukkene Bruse barnehage",
+                "no-barnehage:nsrid": "1020678",
+                "operator": "Bukkene Bruse Rita Elsie Lunde",
+                "operator:type": "private",
+                "start_date": "2009-01-01",
+                "id": "node/-3003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.777997,
+                    58.47294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2998",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -189,7 +212,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2006-01-01",
-                "id": "node/-2990"
+                "id": "node/-2998"
             },
             "geometry": {
                 "type": "Point",

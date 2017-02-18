@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3782",
+            "id": "node/-3791",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "113",
+                "capacity": "118",
                 "contact:email": "dl.norheimbhg@haugnett.no",
                 "contact:phone": "+47 52 85 63 50",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Stiftelsen Norheim barnehage",
                 "operator:type": "private",
                 "start_date": "2003-08-01",
-                "id": "node/-3782"
+                "id": "node/-3791"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3577",
+            "id": "node/-3586",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "70",
                 "contact:email": "villduen@frisurf.no",
                 "contact:phone": "+47 52 71 66 03",
                 "contact:website": "http://www.villduen.barnehageside.no",
@@ -42,7 +42,7 @@
                 "operator": "Villduen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-3577"
+                "id": "node/-3586"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +54,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3576",
+            "id": "node/-3585",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "59",
                 "contact:email": "dl.vassbrekke@bhg.no",
                 "contact:phone": "+47 52 70 01 20",
                 "max_age": "5",
@@ -67,7 +67,7 @@
                 "operator": "Vassbrekke Fus Kulturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2007-03-09",
-                "id": "node/-3576"
+                "id": "node/-3585"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +79,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3570",
+            "id": "node/-3579",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "24",
+                "capacity": "26",
                 "contact:email": "rebekka@smabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -91,13 +91,36 @@
                 "operator": "Små Barnehager Sentrum AS",
                 "operator:type": "private",
                 "start_date": "2015-11-17",
-                "id": "node/-3570"
+                "id": "node/-3579"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.321547,
                     59.39939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3577",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "bente@smabarnehager.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Små Barnehager Haugesund Avd Brakahaug",
+                "no-barnehage:nsrid": "1015086",
+                "operator": "Små Barnehager Haugesund AS",
+                "operator:type": "private",
+                "start_date": "2011-01-01",
+                "id": "node/-3577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32155,
+                    59.3994
                 ]
             }
         }

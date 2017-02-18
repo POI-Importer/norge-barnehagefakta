@@ -3,9 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1748",
+            "id": "node/-1751",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "78",
                 "contact:email": "dl.vassenga@bhg.no",
                 "contact:website": "http://vassenga.bhg.no/",
                 "max_age": "5",
@@ -15,7 +16,7 @@
                 "operator": "Vassenga Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2016-05-01",
-                "id": "node/-1748"
+                "id": "node/-1751"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1691",
+            "id": "node/-1694",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -41,7 +42,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2007-11-01",
-                "id": "node/-1691"
+                "id": "node/-1694"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1690",
+            "id": "node/-1693",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -67,7 +68,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1690"
+                "id": "node/-1693"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +80,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1689",
+            "id": "node/-1692",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -93,7 +94,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1689"
+                "id": "node/-1692"
             },
             "geometry": {
                 "type": "Point",
@@ -105,36 +106,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1685",
+            "id": "node/-1617",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:email": "sorhellinga.barnehage@norlandia.com",
-                "contact:phone": "+47 22 26 45 35",
-                "contact:website": "http://www.sorhellinga.norlandiabarnehagene.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Norlandia Sørhellinga barnehage",
-                "no-barnehage:nsrid": "1017317",
-                "operator": "Norlandia Barnehagene Ii AS",
-                "operator:type": "private",
-                "start_date": "1971-12-29",
-                "id": "node/-1685"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.8333,
-                    59.912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1614",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "46",
                 "contact:email": "sisselirene.wang@bal.oslo.kommune.no",
                 "contact:phone": "+47 22 26 70 94",
                 "contact:website": "http://www.bydel-alna.oslo.kommune.no",
@@ -145,7 +120,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1614"
+                "id": "node/-1617"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +132,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1402",
+            "id": "node/-1520",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "contact:email": "sorhellinga.barnehage@norlandia.com",
+                "contact:phone": "+47 22 26 45 35",
+                "contact:website": "http://www.sorhellinga.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Sørhellinga barnehage",
+                "no-barnehage:nsrid": "1017317",
+                "operator": "Norlandia Barnehagene Ii AS",
+                "operator:type": "private",
+                "start_date": "1971-12-29",
+                "id": "node/-1520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8333,
+                    59.912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1404",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -171,7 +172,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1402"
+                "id": "node/-1404"
             },
             "geometry": {
                 "type": "Point",
@@ -183,10 +184,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1332",
+            "id": "node/-1334",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "42",
                 "contact:email": "eivor.pihl@bal.oslo.kommune.no",
                 "contact:phone": "+47 91134109",
                 "contact:website": "http://www.bydel-alna.oslo.kommune.no",
@@ -197,7 +198,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1332"
+                "id": "node/-1334"
             },
             "geometry": {
                 "type": "Point",
@@ -209,10 +210,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1274",
+            "id": "node/-1275",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "72",
+                "capacity": "73",
                 "contact:email": "haugerudhagan@estetiskebarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -221,7 +222,7 @@
                 "operator": "Haugerudhagan barnehage AS",
                 "operator:type": "private",
                 "start_date": "1993-11-01",
-                "id": "node/-1274"
+                "id": "node/-1275"
             },
             "geometry": {
                 "type": "Point",
@@ -233,10 +234,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1273",
+            "id": "node/-1274",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "5",
+                "capacity": "6",
                 "contact:email": "sisselirene.wang@bal.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
@@ -245,7 +246,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2015-12-01",
-                "id": "node/-1273"
+                "id": "node/-1274"
             },
             "geometry": {
                 "type": "Point",
@@ -257,10 +258,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1271",
+            "id": "node/-1272",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "72",
                 "contact:email": "benedikte.rostad@bal.oslo.kommune.no",
                 "contact:phone": "+47 23 42 05 40",
                 "contact:website": "http://www.bydel-alna.oslo.kommune.no",
@@ -271,7 +272,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1271"
+                "id": "node/-1272"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +284,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1188",
+            "id": "node/-1189",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -296,7 +297,7 @@
                 "operator": "Frelsesarmeen",
                 "operator:type": "private",
                 "start_date": "1979-01-01",
-                "id": "node/-1188"
+                "id": "node/-1189"
             },
             "geometry": {
                 "type": "Point",
@@ -308,10 +309,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1106",
+            "id": "node/-1107",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "73",
+                "capacity": "72",
                 "contact:email": "bryn@estetiskebarnehager.no",
                 "contact:phone": "+47 22720585",
                 "contact:website": "http://estetiskebarnehager.no",
@@ -322,7 +323,7 @@
                 "operator": "Bryn barnehage AS",
                 "operator:type": "private",
                 "start_date": "1993-05-01",
-                "id": "node/-1106"
+                "id": "node/-1107"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +335,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1040",
+            "id": "node/-1042",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "sisselirene.wang@bal.oslo.kommune.no",
@@ -343,7 +344,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2015-12-01",
-                "id": "node/-1040"
+                "id": "node/-1042"
             },
             "geometry": {
                 "type": "Point",

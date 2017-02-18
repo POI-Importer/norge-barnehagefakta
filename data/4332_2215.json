@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5003",
+            "id": "node/-5011",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -17,7 +17,7 @@
                 "operator": "Tempe barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-06-13",
-                "id": "node/-5003"
+                "id": "node/-5011"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4995",
+            "id": "node/-5003",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "66",
                 "contact:email": "jgx@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -41,7 +41,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-4995"
+                "id": "node/-5003"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +53,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4975",
+            "id": "node/-4983",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "24",
                 "contact:email": "post@solflata.no",
                 "contact:phone": "+47 73 93 27 68",
                 "contact:website": "http://www.solflata.no",
@@ -67,7 +67,7 @@
                 "operator": "Stiftelsen Barnas Beste",
                 "operator:type": "private",
                 "start_date": "1989-12-01",
-                "id": "node/-4975"
+                "id": "node/-4983"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +79,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4971",
+            "id": "node/-4979",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -91,7 +91,7 @@
                 "operator": "Stiftelsen Aurora",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-4971"
+                "id": "node/-4979"
             },
             "geometry": {
                 "type": "Point",
@@ -103,10 +103,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4961",
+            "id": "node/-4969",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "53",
                 "contact:email": "mari-ann-viken.larssen@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -115,7 +115,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2001-07-14",
-                "id": "node/-4961"
+                "id": "node/-4969"
             },
             "geometry": {
                 "type": "Point",
@@ -127,10 +127,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4927",
+            "id": "node/-4935",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "83",
+                "capacity": "86",
                 "contact:email": "jgx@trondheim.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -139,7 +139,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-4927"
+                "id": "node/-4935"
             },
             "geometry": {
                 "type": "Point",
@@ -151,10 +151,34 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4835",
+            "id": "node/-4859",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "contact:email": "hallsetlia@yahoo.no",
+                "contact:phone": "+47 72 55 20 98",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Gunn Hege Sollie",
+                "no-barnehage:nsrid": "1021015",
+                "operator": "Gunn Hege Sollie",
+                "operator:type": "private",
+                "start_date": "2005-11-19",
+                "id": "node/-4859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37813,
+                    63.39247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4843",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
                 "contact:email": "eier@fossegrendabarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -163,7 +187,7 @@
                 "operator": "Fossegrenda barnehage Roger Lørendal",
                 "operator:type": "private",
                 "start_date": "1994-01-01",
-                "id": "node/-4835"
+                "id": "node/-4843"
             },
             "geometry": {
                 "type": "Point",

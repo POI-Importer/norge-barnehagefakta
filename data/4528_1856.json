@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5827",
+            "id": "node/-5835",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "54",
                 "contact:email": "annalena.pedersen@tromso.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-5827"
+                "id": "node/-5835"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5826",
+            "id": "node/-5834",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -39,7 +39,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5826"
+                "id": "node/-5834"
             },
             "geometry": {
                 "type": "Point",
@@ -51,10 +51,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5789",
+            "id": "node/-5797",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "103",
+                "capacity": "99",
                 "contact:email": "marsvegen.barnehage@norlandiabanrehagene.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +63,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2014-06-01",
-                "id": "node/-5789"
+                "id": "node/-5797"
             },
             "geometry": {
                 "type": "Point",
@@ -75,10 +75,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5767",
+            "id": "node/-5775",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
                 "contact:email": "styrer@flaaklypabarnehage.no",
                 "contact:phone": "+47 77 68 86 60",
                 "max_age": "5",
@@ -88,7 +87,7 @@
                 "operator": "Flåklypa barnehage Ludvig Skoglund",
                 "operator:type": "private",
                 "start_date": "2003-10-13",
-                "id": "node/-5767"
+                "id": "node/-5775"
             },
             "geometry": {
                 "type": "Point",
@@ -100,10 +99,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5766",
+            "id": "node/-5774",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
                 "contact:email": "annalena.pedersen@tromso.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -112,7 +111,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "2005-12-15",
-                "id": "node/-5766"
+                "id": "node/-5774"
             },
             "geometry": {
                 "type": "Point",
@@ -124,10 +123,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5764",
+            "id": "node/-5772",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "65",
                 "contact:email": "gorill.nilsen@tromso.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -136,13 +135,37 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "2006-11-01",
-                "id": "node/-5764"
+                "id": "node/-5772"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     19.0108,
                     69.65
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5762",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "laarvid@online.no",
+                "contact:phone": "+47 77 63 96 06",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjørnehiet Fam barnehage Ans",
+                "no-barnehage:nsrid": "1020840",
+                "operator": "Bjørnehiet Fam barnehage Ans",
+                "operator:type": "private",
+                "start_date": "2002-08-15",
+                "id": "node/-5762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.01492,
+                    69.65518
                 ]
             }
         }

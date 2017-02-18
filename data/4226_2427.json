@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3535",
+            "id": "node/-3543",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "107",
+                "capacity": "108",
                 "contact:email": "beate.fahret@stavanger.kommune.no",
                 "contact:phone": "+47 51 58 01 44",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-3535"
+                "id": "node/-3543"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3534",
+            "id": "node/-3542",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "20",
+                "capacity": "15",
                 "contact:email": "villrosen@lyse.net",
                 "contact:phone": "+47 51 88 22 48",
                 "max_age": "5",
@@ -41,7 +41,7 @@
                 "operator": "Villrosen barnehage Judith Sørvik",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-3534"
+                "id": "node/-3542"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +53,34 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3490",
+            "id": "node/-3528",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "contact:email": "heidi@it-forlaget.no",
+                "contact:phone": "+47 51 88 49 55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørmarka Private Familibarnehage",
+                "no-barnehage:nsrid": "1021334",
+                "operator": "Sørmarka Familiebarnhage Heidi Kvelland",
+                "operator:type": "private",
+                "start_date": "2005-11-04",
+                "id": "node/-3528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.719192,
+                    58.92547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3498",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
                 "contact:email": "beth.erfjord@lyse.net",
                 "contact:phone": "+47 51 88 15 82",
                 "max_age": "5",
@@ -66,7 +90,7 @@
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "1972-12-26",
-                "id": "node/-3490"
+                "id": "node/-3498"
             },
             "geometry": {
                 "type": "Point",
@@ -78,10 +102,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3467",
+            "id": "node/-3475",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "231",
+                "capacity": "230",
                 "contact:email": "tove.erna.belland@stavanger.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -90,7 +114,7 @@
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "start_date": "2011-03-01",
-                "id": "node/-3467"
+                "id": "node/-3475"
             },
             "geometry": {
                 "type": "Point",
@@ -102,10 +126,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3437",
+            "id": "node/-3445",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "21",
                 "contact:email": "nta@nthp.net",
                 "contact:phone": "+47 51 88 12 80",
                 "max_age": "5",
@@ -115,7 +138,7 @@
                 "operator": "Delfinen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-09-01",
-                "id": "node/-3437"
+                "id": "node/-3445"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3430",
+            "id": "node/-3438",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -141,7 +164,7 @@
                 "operator": "Boganes barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1993-08-01",
-                "id": "node/-3430"
+                "id": "node/-3438"
             },
             "geometry": {
                 "type": "Point",

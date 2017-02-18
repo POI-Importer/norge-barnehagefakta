@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1684",
+            "id": "node/-1688",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "60",
                 "contact:email": "sorenga.barnehage@norlandia.com",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2012-09-01",
-                "id": "node/-1684"
+                "id": "node/-1688"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1538",
+            "id": "node/-1668",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Strekkoden barnehage",
+                "no-barnehage:nsrid": "2000103",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2017-01-01",
+                "id": "node/-1668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7621,
+                    59.90814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1541",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Pioneer Public Properties V AS",
@@ -35,7 +55,7 @@
                 "operator": "Pioneer Public Properties V AS",
                 "operator:type": "private",
                 "start_date": "2016-06-02",
-                "id": "node/-1538"
+                "id": "node/-1541"
             },
             "geometry": {
                 "type": "Point",
@@ -47,12 +67,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1435",
+            "id": "node/-1437",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "44",
                 "contact:email": "sorengkaia@laringsverkstedet.no",
-                "contact:phone": "+47 94025781",
+                "contact:phone": "+47 90542279",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Sørengkaia AS",
@@ -60,7 +80,7 @@
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
                 "start_date": "2014-10-09",
-                "id": "node/-1435"
+                "id": "node/-1437"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1339",
+            "id": "node/-1341",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Kidsa Ospeli Eiendom AS",
@@ -80,7 +100,7 @@
                 "operator": "Kidsa Ospeli Eiendom AS",
                 "operator:type": "private",
                 "start_date": "2016-08-08",
-                "id": "node/-1339"
+                "id": "node/-1341"
             },
             "geometry": {
                 "type": "Point",
@@ -92,10 +112,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1032",
+            "id": "node/-1034",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
+                "capacity": "43",
                 "contact:email": "siri.dybvig@akerbryggebarnehage.no",
                 "contact:phone": "+47 22 83 80 28",
                 "contact:website": "http://www.akerbryggebarnehage.no",
@@ -106,7 +126,7 @@
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-08-15",
-                "id": "node/-1032"
+                "id": "node/-1034"
             },
             "geometry": {
                 "type": "Point",

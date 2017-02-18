@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1900",
+            "id": "node/-1904",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
+                "capacity": "38",
                 "contact:email": "grethe@solvangbarnehage.net",
                 "contact:phone": "+47 62 57 32 50",
                 "max_age": "5",
@@ -16,7 +16,7 @@
                 "operator": "Solvang barnehage AS",
                 "operator:type": "private",
                 "start_date": "1998-08-03",
-                "id": "node/-1900"
+                "id": "node/-1904"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +28,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1891",
+            "id": "node/-1895",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "41",
+                "capacity": "44",
                 "contact:email": "solveigb@ywam.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -40,6 +40,30 @@
                 "operator": "Stiftelsen Ungdom i Oppdrag Barnehager",
                 "operator:type": "private",
                 "start_date": "2001-01-01",
+                "id": "node/-1895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1358,
+                    60.7472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1891",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:email": "malinm@ywam.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bekkelaget barnehage",
+                "no-barnehage:nsrid": "1018543",
+                "operator": "Stiftelsen Ungdom i Oppdrag Barnehager",
+                "operator:type": "private",
+                "start_date": "2008-12-01",
                 "id": "node/-1891"
             },
             "geometry": {
@@ -52,34 +76,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1887",
+            "id": "node/-1890",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "37",
-                "contact:email": "malinm@ywam.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bekkelaget barnehage",
-                "no-barnehage:nsrid": "1018543",
-                "operator": "Stiftelsen Ungdom i Oppdrag Barnehager",
-                "operator:type": "private",
-                "start_date": "2008-12-01",
-                "id": "node/-1887"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.1358,
-                    60.7472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1886",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
+                "capacity": "80",
                 "contact:email": "stig@barnasrett-barnehage.no",
                 "contact:phone": "+47 62 57 80 61",
                 "max_age": "5",
@@ -89,7 +89,7 @@
                 "operator": "Barnas Rett barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1886"
+                "id": "node/-1890"
             },
             "geometry": {
                 "type": "Point",

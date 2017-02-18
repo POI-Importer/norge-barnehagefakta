@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4103",
+            "id": "node/-4112",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "19",
                 "contact:email": "kjersti.karlsen@sklbb.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,13 +15,36 @@
                 "operator": "Solsikkene Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2005-08-01",
-                "id": "node/-4103"
+                "id": "node/-4112"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.42918,
                     59.7927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4104",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "mogm_fambarnehage@yahoo.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Monica og Maritas Familiebarnehage",
+                "no-barnehage:nsrid": "1021099",
+                "operator": "Monica og Maritas Familiebarnehage",
+                "operator:type": "private",
+                "start_date": "2004-07-24",
+                "id": "node/-4104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.429179,
+                    59.79271
                 ]
             }
         }

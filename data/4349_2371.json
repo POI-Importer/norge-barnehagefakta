@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-954",
+            "id": "node/-955",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "29",
+                "capacity": "28",
                 "contact:email": "kontor@laringsverkstedet.no",
                 "contact:phone": "+47 41 53 80 15",
                 "contact:website": "http://www.laringsverkstedet.no/olalokka",
@@ -17,7 +17,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "1992-10-05",
-                "id": "node/-954"
+                "id": "node/-955"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +29,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-935",
+            "id": "node/-936",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "14",
                 "contact:email": "per-lien@online.no",
                 "contact:phone": "+47 93860670",
                 "max_age": "5",
@@ -42,38 +42,13 @@
                 "operator": "Grenaderstubben barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-07-25",
-                "id": "node/-935"
+                "id": "node/-936"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.11873,
                     60.15856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-934",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "41",
-                "contact:email": "gardermoen.park@norlandiabarnehagene.no",
-                "contact:phone": "+47 63 97 99 97",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gardermoen Park barnehage",
-                "no-barnehage:nsrid": "1015677",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "start_date": "1998-05-01",
-                "id": "node/-934"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.1453,
-                    60.1657
                 ]
             }
         }
