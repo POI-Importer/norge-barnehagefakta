@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2970",
+            "id": "node/-2992",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ugland Gård barnehage AS",
+                "no-barnehage:nsrid": "2000118",
+                "operator": "Ugland Gård barnehage AS",
+                "operator:type": "private",
+                "start_date": "2017-01-30",
+                "id": "node/-2992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.60583,
+                    58.35995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2968",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -15,7 +35,7 @@
                 "operator": "Fjære barnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-04-12",
-                "id": "node/-2970"
+                "id": "node/-2968"
             },
             "geometry": {
                 "type": "Point",

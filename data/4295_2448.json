@@ -6,23 +6,18 @@
             "id": "node/-3039",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "53",
-                "contact:email": "ronnaug@soriamoriabarnehage.no",
-                "contact:phone": "+47 37 01 55 95",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 104",
-                "no-barnehage:nsrid": "1017015",
+                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 76",
+                "no-barnehage:nsrid": "2000115",
                 "operator": "Soria Moria barnehage Hisøy AS",
                 "operator:type": "private",
-                "start_date": "2005-10-20",
+                "start_date": "2017-02-13",
                 "id": "node/-3039"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.77294,
-                    58.445
+                    8.773932,
+                    58.44703
                 ]
             }
         },
@@ -32,12 +27,12 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
-                "contact:email": "grete@soriamoriabarnehage.no",
+                "contact:email": "kontor@laringsverkstedet.no",
                 "contact:phone": "+47 92212484",
                 "contact:website": "http://www.soriamoriabarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Soria Moria barnehage Hisøy Avd Sandvigveien 120",
+                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 120",
                 "no-barnehage:nsrid": "1015167",
                 "operator": "Soria Moria barnehage Hisøy AS",
                 "operator:type": "private",
@@ -54,7 +49,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3029",
+            "id": "node/-3037",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:email": "ronnaug@soriamoriabarnehage.no",
+                "contact:phone": "+47 37 01 55 95",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 104",
+                "no-barnehage:nsrid": "1017015",
+                "operator": "Soria Moria barnehage Hisøy AS",
+                "operator:type": "private",
+                "start_date": "2005-10-20",
+                "id": "node/-3037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77294,
+                    58.445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3028",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -67,7 +87,7 @@
                 "operator": "Portveien Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "1999-08-01",
-                "id": "node/-3029"
+                "id": "node/-3028"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +99,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3012",
+            "id": "node/-3011",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -91,7 +111,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2014-08-01",
-                "id": "node/-3012"
+                "id": "node/-3011"
             },
             "geometry": {
                 "type": "Point",
