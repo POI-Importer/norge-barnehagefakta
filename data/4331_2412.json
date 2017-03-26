@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2576",
+            "id": "node/-2698",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:email": "hilde.magnussen@velle.no",
+                "contact:phone": "+47 033365496",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sigridløkka barnehage",
+                "no-barnehage:nsrid": "1015502",
+                "operator": "Velle Utvikling AS",
+                "operator:type": "private",
+                "start_date": "1992-10-01",
+                "id": "node/-2698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3672,
+                    59.2586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2570",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -17,7 +42,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2576"
+                "id": "node/-2570"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2652",
+            "id": "node/-2646",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -17,7 +17,7 @@
                 "operator": "Trollsteinen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-07-31",
-                "id": "node/-2652"
+                "id": "node/-2646"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2641",
+            "id": "node/-2635",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -42,7 +42,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "2007-01-01",
-                "id": "node/-2641"
+                "id": "node/-2635"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2629",
+            "id": "node/-2623",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
@@ -65,30 +65,7 @@
                 "operator": "Larvik kommune",
                 "operator:type": "public",
                 "start_date": "2007-01-01",
-                "id": "node/-2629"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.0443,
-                    59.0656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2628",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hovland barnehage",
-                "no-barnehage:nsrid": "1012804",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-2628"
+                "id": "node/-2623"
             },
             "geometry": {
                 "type": "Point",
@@ -103,13 +80,36 @@
             "id": "node/-2622",
             "properties": {
                 "amenity": "kindergarten",
+                "contact:email": "line.engelstad.jacobsen@larvik.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hovland barnehage",
+                "no-barnehage:nsrid": "1012804",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "start_date": "1976-01-01",
+                "id": "node/-2622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0443,
+                    59.0656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2616",
+            "properties": {
+                "amenity": "kindergarten",
                 "contact:email": "kjondal@me.com",
                 "name": "Gullskatt Åpen barnehage",
                 "no-barnehage:nsrid": "1018372",
                 "operator": "Vineyard Kristne Felleskap Larvik",
                 "operator:type": "private",
                 "start_date": "2008-01-01",
-                "id": "node/-2622"
+                "id": "node/-2616"
             },
             "geometry": {
                 "type": "Point",

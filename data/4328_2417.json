@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2703",
+            "id": "node/-2711",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:email": "hanne@barnehagedrift.no",
+                "contact:phone": "+47 33 44 79 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Veraåsen barnehage AS",
+                "no-barnehage:nsrid": "1022013",
+                "operator": "Veraåsen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2009-12-10",
+                "id": "node/-2711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21659,
+                    59.13131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2708",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -16,7 +41,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2703"
+                "id": "node/-2708"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +53,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2700",
+            "id": "node/-2705",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:email": "til@sverstadbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sverstad barnehage AS",
+                "no-barnehage:nsrid": "1021467",
+                "operator": "Sverstad barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-06-19",
+                "id": "node/-2705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.23149,
+                    59.13977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2702",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -41,7 +90,7 @@
                 "operator": "Solvang barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-2700"
+                "id": "node/-2702"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +102,57 @@
         },
         {
             "type": "Feature",
+            "id": "node/-2692",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "contact:email": "k.rassa@hotmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prestekragen barnehage AS",
+                "no-barnehage:nsrid": "1016446",
+                "operator": "Prestekragen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2002-10-29",
+                "id": "node/-2692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2373,
+                    59.1358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-2691",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:email": "pingeline@barnehage.no",
+                "contact:phone": "+47 33 47 74 14",
+                "contact:website": "http://pingeline.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Pingeline barnehage",
+                "no-barnehage:nsrid": "1020059",
+                "operator": "Pingeline barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1991-08-01",
+                "id": "node/-2691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19991,
+                    59.13149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2685",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -66,7 +165,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "2008-04-01",
-                "id": "node/-2691"
+                "id": "node/-2685"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +177,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2687",
+            "id": "node/-2681",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -90,7 +189,7 @@
                 "operator": "Krokusen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-05-09",
-                "id": "node/-2687"
+                "id": "node/-2681"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +201,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2681",
+            "id": "node/-2675",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -115,7 +214,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-2681"
+                "id": "node/-2675"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +226,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2667",
+            "id": "node/-2661",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "138",
@@ -141,7 +240,7 @@
                 "operator": "Espira Åbol AS",
                 "operator:type": "private",
                 "start_date": "2008-06-04",
-                "id": "node/-2667"
+                "id": "node/-2661"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +252,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2664",
+            "id": "node/-2658",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -166,7 +265,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2664"
+                "id": "node/-2658"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +277,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2663",
+            "id": "node/-2657",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -191,7 +290,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2663"
+                "id": "node/-2657"
             },
             "geometry": {
                 "type": "Point",
@@ -203,7 +302,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2661",
+            "id": "node/-2655",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -216,7 +315,7 @@
                 "operator": "Barnas Have AS",
                 "operator:type": "private",
                 "start_date": "1991-08-09",
-                "id": "node/-2661"
+                "id": "node/-2655"
             },
             "geometry": {
                 "type": "Point",
