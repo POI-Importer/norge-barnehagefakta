@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2604",
+            "id": "node/-2609",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -15,7 +15,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "2007-11-01",
-                "id": "node/-2604"
+                "id": "node/-2609"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2600",
+            "id": "node/-2605",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -40,7 +40,7 @@
                 "operator": "Tønsbergkirkenes Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-2600"
+                "id": "node/-2605"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2598",
+            "id": "node/-2603",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "131",
@@ -64,7 +64,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "2006-08-01",
-                "id": "node/-2598"
+                "id": "node/-2603"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2597",
+            "id": "node/-2602",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -89,7 +89,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2597"
+                "id": "node/-2602"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2594",
+            "id": "node/-2599",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "165",
@@ -114,7 +114,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "2006-09-01",
-                "id": "node/-2594"
+                "id": "node/-2599"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2588",
+            "id": "node/-2593",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -139,7 +139,7 @@
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2588"
+                "id": "node/-2593"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +151,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2587",
+            "id": "node/-2592",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "b-torsvo@online.no",
@@ -163,7 +163,7 @@
                 "operator": "Nøtteliten barnehage Tønsberg Sa",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-2587"
+                "id": "node/-2592"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +175,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2573",
+            "id": "node/-2578",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -187,13 +187,39 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2008-08-01",
-                "id": "node/-2573"
+                "id": "node/-2578"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.4546,
                     59.2698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2571",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "ingerlise@kattekleiv.no",
+                "contact:phone": "+47 90968719",
+                "contact:website": "http://www.kattekleiv.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Belmar barnehage AS",
+                "no-barnehage:nsrid": "1021847",
+                "operator": "Belmar barnehage AS",
+                "operator:type": "private",
+                "start_date": "2008-05-22",
+                "id": "node/-2571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41671,
+                    59.27085
                 ]
             }
         }
