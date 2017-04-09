@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4051",
+            "id": "node/-4049",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -17,7 +17,7 @@
                 "operator": "Tryllefløyten Steinerbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-04-30",
-                "id": "node/-4051"
+                "id": "node/-4049"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4042",
+            "id": "node/-4040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -41,7 +41,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2007-08-28",
-                "id": "node/-4042"
+                "id": "node/-4040"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4036",
+            "id": "node/-4034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -66,7 +66,7 @@
                 "operator": "Spiren barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-02-19",
-                "id": "node/-4036"
+                "id": "node/-4034"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4008",
+            "id": "node/-4006",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -91,7 +91,7 @@
                 "operator": "Studentsamskipnaden på Vestlandet",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4008"
+                "id": "node/-4006"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +103,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3993",
+            "id": "node/-3991",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -116,7 +116,7 @@
                 "operator": "Studentsamskipnaden på Vestlandet",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3993"
+                "id": "node/-3991"
             },
             "geometry": {
                 "type": "Point",
@@ -128,7 +128,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3991",
+            "id": "node/-3989",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -140,7 +140,7 @@
                 "operator": "Himmelbarna barnehage AS",
                 "operator:type": "private",
                 "start_date": "2015-02-12",
-                "id": "node/-3991"
+                "id": "node/-3989"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +152,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3973",
+            "id": "node/-3971",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -166,7 +166,7 @@
                 "operator": "Løvstakken barnehage AS",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-3973"
+                "id": "node/-3971"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +178,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3878",
+            "id": "node/-3879",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -191,13 +191,33 @@
                 "operator": "Studentsamskipnaden på Vestlandet",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-3878"
+                "id": "node/-3879"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.35191,
                     60.3479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3878",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fantoft barnehage",
+                "no-barnehage:nsrid": "2000125",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "start_date": "2017-02-01",
+                "id": "node/-3878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.353357,
+                    60.34549
                 ]
             }
         },
