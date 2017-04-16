@@ -96,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3945",
+            "id": "node/-3947",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -108,7 +108,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2005-09-01",
-                "id": "node/-3945"
+                "id": "node/-3947"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3931",
+            "id": "node/-3933",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -133,7 +133,7 @@
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3931"
+                "id": "node/-3933"
             },
             "geometry": {
                 "type": "Point",
@@ -145,7 +145,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3917",
+            "id": "node/-3919",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -157,7 +157,7 @@
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2010-10-29",
-                "id": "node/-3917"
+                "id": "node/-3919"
             },
             "geometry": {
                 "type": "Point",
@@ -169,7 +169,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3890",
+            "id": "node/-3892",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -181,13 +181,64 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3890"
+                "id": "node/-3892"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.22574,
                     60.3771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3889",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:email": "frid@godvikbhg.no",
+                "contact:phone": "+47 55266201",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Godvik barnehage",
+                "no-barnehage:nsrid": "1019639",
+                "operator": "Godvik Sanitetsforening",
+                "operator:type": "private",
+                "start_date": "1977-09-15",
+                "id": "node/-3889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.204453,
+                    60.37626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3887",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:email": "leder.festerasen@gnistbarnehager.no",
+                "contact:phone": "+47 40 00 65 96",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist Barnehager Festeråsen AS",
+                "no-barnehage:nsrid": "1025934",
+                "operator": "Gnist Barnehager Festeråsen AS",
+                "operator:type": "private",
+                "start_date": "2015-05-01",
+                "id": "node/-3887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.224202,
+                    60.38693
                 ]
             }
         }
