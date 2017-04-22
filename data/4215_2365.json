@@ -3,6 +3,31 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3962",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "contact:email": "gro@liland-barnehage.no",
+                "contact:phone": "+47 55 11 26 52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liland barnehage AS",
+                "no-barnehage:nsrid": "1021263",
+                "operator": "Liland barnehage AS",
+                "operator:type": "private",
+                "start_date": "2005-06-17",
+                "id": "node/-3962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244808,
+                    60.28527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3927",
             "properties": {
                 "amenity": "kindergarten",
