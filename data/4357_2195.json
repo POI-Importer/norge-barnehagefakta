@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5354",
+            "id": "node/-5347",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -15,81 +15,7 @@
                 "operator": "Verdal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5354"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.4816,
-                    63.7933
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5349",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "74",
-                "contact:email": "LISBETH.STORHOLMEN@VERDAL.KOMMUNE.NO",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Reinsholm barnehage",
-                "no-barnehage:nsrid": "1016906",
-                "operator": "Verdal kommune",
-                "operator:type": "public",
-                "start_date": "1976-12-24",
-                "id": "node/-5349"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.4937,
-                    63.7932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5346",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "49",
-                "contact:phone": "+47 91 34 17 80",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Maritvold barnehage",
-                "no-barnehage:nsrid": "1022113",
-                "operator": "Verdal kommune",
-                "operator:type": "public",
-                "start_date": "1992-01-01",
-                "id": "node/-5346"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.48875,
-                    63.79578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5344",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "139",
-                "contact:email": "knottene@laringsverkstedet.no",
-                "contact:phone": "+47 74 07 24 48",
-                "contact:website": "http://laringsverkstedet.no/knottene",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Knøttene",
-                "no-barnehage:nsrid": "1015449",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-5344"
+                "id": "node/-5347"
             },
             "geometry": {
                 "type": "Point",
@@ -104,40 +30,66 @@
             "id": "node/-5342",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "lekekroken@barnehage.no",
+                "capacity": "74",
+                "contact:email": "LISBETH.STORHOLMEN@VERDAL.KOMMUNE.NO",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Lekekroken barnehage AS",
-                "no-barnehage:nsrid": "1021571",
-                "operator": "Lekekroken barnehage AS",
-                "operator:type": "private",
-                "start_date": "2006-09-30",
+                "name": "Reinsholm barnehage",
+                "no-barnehage:nsrid": "1016906",
+                "operator": "Verdal kommune",
+                "operator:type": "public",
+                "start_date": "1976-12-24",
                 "id": "node/-5342"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.4815,
-                    63.79515
+                    11.4937,
+                    63.7932
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-5341",
+            "id": "node/-5339",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:email": "berit.gronning@verdal.kommune.no",
+                "capacity": "49",
+                "contact:phone": "+47 91 34 17 80",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kanutten barnehage",
-                "no-barnehage:nsrid": "1013760",
+                "name": "Maritvold barnehage",
+                "no-barnehage:nsrid": "1022113",
                 "operator": "Verdal kommune",
                 "operator:type": "public",
+                "start_date": "1992-01-01",
+                "id": "node/-5339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48875,
+                    63.79578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5337",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "139",
+                "contact:email": "knottene@laringsverkstedet.no",
+                "contact:phone": "+47 74 07 24 48",
+                "contact:website": "http://laringsverkstedet.no/knottene",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Knøttene",
+                "no-barnehage:nsrid": "1015449",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5341"
+                "id": "node/-5337"
             },
             "geometry": {
                 "type": "Point",
@@ -149,7 +101,55 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5338",
+            "id": "node/-5335",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "lekekroken@barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lekekroken barnehage AS",
+                "no-barnehage:nsrid": "1021571",
+                "operator": "Lekekroken barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-09-30",
+                "id": "node/-5335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4815,
+                    63.79515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5334",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:email": "berit.gronning@verdal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kanutten barnehage",
+                "no-barnehage:nsrid": "1013760",
+                "operator": "Verdal kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-02",
+                "id": "node/-5334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4816,
+                    63.7933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5331",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -161,7 +161,7 @@
                 "operator": "Elvegården barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-06-25",
-                "id": "node/-5338"
+                "id": "node/-5331"
             },
             "geometry": {
                 "type": "Point",
