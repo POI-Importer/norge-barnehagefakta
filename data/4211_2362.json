@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4243",
+            "id": "node/-4147",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -16,7 +16,7 @@
                 "operator": "Liatunet barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-06-01",
-                "id": "node/-4243"
+                "id": "node/-4147"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4237",
+            "id": "node/-4141",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -40,37 +40,13 @@
                 "operator": "Havhesten Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "1996-04-02",
-                "id": "node/-4237"
+                "id": "node/-4141"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.082615,
                     60.35739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4231",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "Solveig.Melstveit@fjell.kommune.no",
-                "contact:phone": "+47 55 09 78 54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ekerhovd barnehage",
-                "no-barnehage:nsrid": "1015961",
-                "operator": "Fjell kommune",
-                "operator:type": "public",
-                "start_date": "1990-08-01",
-                "id": "node/-4231"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.081392,
-                    60.35096
                 ]
             }
         }

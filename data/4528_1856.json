@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5828",
+            "id": "node/-5710",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -15,7 +15,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-5828"
+                "id": "node/-5710"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5827",
+            "id": "node/-5709",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -39,7 +39,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5827"
+                "id": "node/-5709"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5790",
+            "id": "node/-5705",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tindfoten Fus barnehage AS",
+                "no-barnehage:nsrid": "1026359",
+                "operator": "Tindfoten Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2015-12-01",
+                "id": "node/-5705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00722,
+                    69.65257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5672",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
@@ -63,7 +86,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2014-06-01",
-                "id": "node/-5790"
+                "id": "node/-5672"
             },
             "geometry": {
                 "type": "Point",
@@ -75,31 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5768",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "styrer@flaaklypabarnehage.no",
-                "contact:phone": "+47 77 68 86 60",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Flåklypa barnehage Ludvig Skoglund",
-                "no-barnehage:nsrid": "1020996",
-                "operator": "Flåklypa barnehage Ludvig Skoglund",
-                "operator:type": "private",
-                "start_date": "2003-10-13",
-                "id": "node/-5768"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.00634,
-                    69.65244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5767",
+            "id": "node/-5649",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -111,7 +110,7 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "2005-12-15",
-                "id": "node/-5767"
+                "id": "node/-5649"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +122,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5765",
+            "id": "node/-5647",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -135,37 +134,13 @@
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
                 "start_date": "2006-11-01",
-                "id": "node/-5765"
+                "id": "node/-5647"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     19.0108,
                     69.65
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5755",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "laarvid@online.no",
-                "contact:phone": "+47 77 63 96 06",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bjørnehiet Fam barnehage Ans",
-                "no-barnehage:nsrid": "1020840",
-                "operator": "Bjørnehiet Fam barnehage Ans",
-                "operator:type": "private",
-                "start_date": "2002-08-15",
-                "id": "node/-5755"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.01492,
-                    69.65518
                 ]
             }
         }

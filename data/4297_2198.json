@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5063",
+            "id": "node/-4957",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -16,13 +16,58 @@
                 "operator": "Sistranda Kystbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-07-01",
-                "id": "node/-5063"
+                "id": "node/-4957"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.834004,
                     63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4956",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "britt@rabbenbarnehage.no",
+                "contact:phone": "+47 48075072",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben Barnehagedrift AS",
+                "no-barnehage:nsrid": "1022343",
+                "operator": "Rabben Barnehagedrift AS",
+                "operator:type": "private",
+                "start_date": "2013-01-10",
+                "id": "node/-4956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4951",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kysthaven Åpen barnehage",
+                "no-barnehage:nsrid": "1014258",
+                "operator": "Frøya kommune",
+                "operator:type": "public",
+                "start_date": "2011-01-01",
+                "id": "node/-4951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834,
+                    63.7255
                 ]
             }
         }

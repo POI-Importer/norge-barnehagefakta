@@ -3,19 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3033",
+            "id": "node/-2978",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "25",
-                "contact:email": "solsikkenbhg@solsikkenbhg.no",
+                "capacity": "47",
+                "contact:email": "dl.vippa@bhg.no",
+                "contact:phone": "+47 48270150",
+                "contact:website": "http://vippa.bhg.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Solsikken barnehage AS",
-                "no-barnehage:nsrid": "1020611",
-                "operator": "Solsikken barnehage AS",
+                "name": "Vippa Fus barnehage AS",
+                "no-barnehage:nsrid": "1022322",
+                "operator": "Vippa Fus barnehage AS",
                 "operator:type": "private",
-                "start_date": "2000-01-11",
-                "id": "node/-3033"
+                "start_date": "2012-11-01",
+                "id": "node/-2978"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +29,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3023",
+            "id": "node/-2960",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:email": "solsikkenbhg@solsikkenbhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solsikken barnehage AS",
+                "no-barnehage:nsrid": "1020611",
+                "operator": "Solsikken barnehage AS",
+                "operator:type": "private",
+                "start_date": "2000-01-11",
+                "id": "node/-2960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.700518,
+                    58.4151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2949",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -41,7 +67,7 @@
                 "operator": "Nedenesåsen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-08-01",
-                "id": "node/-3023"
+                "id": "node/-2949"
             },
             "geometry": {
                 "type": "Point",
