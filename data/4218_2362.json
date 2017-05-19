@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3970",
+            "id": "node/-3981",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -16,7 +16,7 @@
                 "operator": "Vår Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1999-01-01",
-                "id": "node/-3970"
+                "id": "node/-3981"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3956",
+            "id": "node/-3967",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "jan.frode.sandvik@bergen.kirken.no",
@@ -38,7 +38,7 @@
                 "operator": "Ulriken Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2011-06-01",
-                "id": "node/-3956"
+                "id": "node/-3967"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3941",
+            "id": "node/-3952",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "ase.christiansen@skbb.no",
@@ -59,7 +59,7 @@
                 "operator": "Stiftelsen Kirkens Bymisjon i Bergen",
                 "operator:type": "private",
                 "start_date": "2011-09-15",
-                "id": "node/-3941"
+                "id": "node/-3952"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3933",
+            "id": "node/-3944",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -83,13 +83,37 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3933"
+                "id": "node/-3944"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.36388,
                     60.3582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3895",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:email": "janne.hovi@bergen.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mannsverk barnehage",
+                "no-barnehage:nsrid": "1016681",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "start_date": "1976-01-01",
+                "id": "node/-3895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3662,
+                    60.3537
                 ]
             }
         },
