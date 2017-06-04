@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-1847",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "112",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 62572706",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Nerby",
+                "no-barnehage:nsrid": "1015933",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-1847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1946,
+                    60.7155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1840",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:email": "kathrine.hanssveeen@stange.kommune.no",
+                "contact:phone": "+47 62 58 82 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Enerhaugen barnehage",
+                "no-barnehage:nsrid": "1017569",
+                "operator": "Stange kommune",
+                "operator:type": "public",
+                "start_date": "1988-04-01",
+                "id": "node/-1840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1846,
+                    60.7156
+                ]
+            }
+        }
+    ]
+}
