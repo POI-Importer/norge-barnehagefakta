@@ -3,31 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3716",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "101",
-                "contact:email": "akra.s.bhg@haugnett.no",
-                "contact:phone": "+47 52 81 69 84",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kirketunet barnehage",
-                "no-barnehage:nsrid": "1015563",
-                "operator": "Åkra Sokn",
-                "operator:type": "private",
-                "start_date": "1988-01-01",
-                "id": "node/-3716"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.19525,
-                    59.2565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-3702",
             "properties": {
                 "amenity": "kindergarten",
@@ -78,7 +53,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3690",
+            "id": "node/-3695",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:email": "akra.s.bhg@haugnett.no",
+                "contact:phone": "+47 52 81 69 84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirketunet barnehage",
+                "no-barnehage:nsrid": "1015563",
+                "operator": "Åkra Sokn",
+                "operator:type": "private",
+                "start_date": "1988-01-01",
+                "id": "node/-3695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.19525,
+                    59.2565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3689",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "112",
@@ -92,7 +92,7 @@
                 "operator": "Espira Tjøsvoll AS",
                 "operator:type": "private",
                 "start_date": "2008-01-18",
-                "id": "node/-3690"
+                "id": "node/-3689"
             },
             "geometry": {
                 "type": "Point",
