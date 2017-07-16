@@ -54,32 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2960",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "contact:website": "http://www.soriamoriabarnehage.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soria Moria barnehage Avd Longum Park",
-                "no-barnehage:nsrid": "1014104",
-                "operator": "Soria Moria barnehage Arendal AS",
-                "operator:type": "private",
-                "start_date": "2008-04-01",
-                "id": "node/-2960"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.76341,
-                    58.4876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2952",
+            "id": "node/-2957",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -91,13 +66,38 @@
                 "operator": "Barbu Sokn",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-2952"
+                "id": "node/-2957"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.77658,
                     58.4712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2947",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:website": "http://www.soriamoriabarnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Longum Naturbarnehage",
+                "no-barnehage:nsrid": "1014104",
+                "operator": "Soria Moria barnehage Arendal AS",
+                "operator:type": "private",
+                "start_date": "2008-04-01",
+                "id": "node/-2947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76341,
+                    58.4876
                 ]
             }
         },

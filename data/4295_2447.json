@@ -102,33 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2961",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "86",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "contact:phone": "+47 37 01 55 95",
-                "contact:website": "http://www.soriamoriabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soria Moria barnehage Arendal AS Avd Rådhusgaten",
-                "no-barnehage:nsrid": "1013413",
-                "operator": "Soria Moria barnehage Arendal AS",
-                "operator:type": "private",
-                "start_date": "2007-02-09",
-                "id": "node/-2961"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.76615,
-                    58.4576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2946",
+            "id": "node/-2951",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -141,13 +115,39 @@
                 "operator": "Matilda AS",
                 "operator:type": "private",
                 "start_date": "2009-08-01",
-                "id": "node/-2946"
+                "id": "node/-2951"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.75603,
                     58.459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2949",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "86",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 37 01 55 95",
+                "contact:website": "http://www.soriamoriabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Tyholmen Naturbarnehage",
+                "no-barnehage:nsrid": "1013413",
+                "operator": "Soria Moria barnehage Arendal AS",
+                "operator:type": "private",
+                "start_date": "2007-02-09",
+                "id": "node/-2949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76615,
+                    58.4576
                 ]
             }
         },

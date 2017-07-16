@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3981",
+            "id": "node/-3989",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "123",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2007-10-01",
-                "id": "node/-3981"
+                "id": "node/-3989"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3977",
+            "id": "node/-3985",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -40,7 +40,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-3977"
+                "id": "node/-3985"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3957",
+            "id": "node/-3965",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -65,7 +65,7 @@
                 "operator": "Tveitevannet barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3957"
+                "id": "node/-3965"
             },
             "geometry": {
                 "type": "Point",
@@ -77,32 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3949",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "8",
-                "contact:email": "storetveit-menighet@barnehage.no",
-                "contact:phone": "+47 55201487",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Storetveit Menighets barnehage V/henny Aalvik",
-                "no-barnehage:nsrid": "1019516",
-                "operator": "Storetveit Menighets barnehage",
-                "operator:type": "private",
-                "start_date": "1979-01-01",
-                "id": "node/-3949"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.344502,
-                    60.3511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3934",
+            "id": "node/-3943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -115,7 +90,7 @@
                 "operator": "Slettebakken Menighets barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3934"
+                "id": "node/-3943"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3892",
+            "id": "node/-3901",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -139,7 +114,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-3892"
+                "id": "node/-3901"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +126,59 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3870",
+            "id": "node/-3894",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:email": "laabarne@online.no",
+                "contact:phone": "+47 55 27 04 96",
+                "contact:website": "http://laavenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Låven barnehage",
+                "no-barnehage:nsrid": "1020058",
+                "operator": "Låven barnehage",
+                "operator:type": "private",
+                "start_date": "1992-08-01",
+                "id": "node/-3894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34165,
+                    60.34993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3891",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "bruas@bgnett.no",
+                "contact:phone": "+47 55 29 89 10",
+                "contact:website": "http://www.bruas.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løbergstien barnehage AS",
+                "no-barnehage:nsrid": "1020534",
+                "operator": "Løbergstien barnehage AS",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-3891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.339868,
+                    60.36063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3871",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
@@ -165,7 +192,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2007-09-01",
-                "id": "node/-3870"
+                "id": "node/-3871"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +204,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3869",
+            "id": "node/-3870",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -189,7 +216,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2011-08-01",
-                "id": "node/-3869"
+                "id": "node/-3870"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +228,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3856",
+            "id": "node/-3857",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -213,7 +240,7 @@
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2010-10-29",
-                "id": "node/-3856"
+                "id": "node/-3857"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +252,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3846",
+            "id": "node/-3847",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -237,7 +264,7 @@
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2011-04-01",
-                "id": "node/-3846"
+                "id": "node/-3847"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +276,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3829",
+            "id": "node/-3830",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -262,7 +289,7 @@
                 "operator": "Stiftelsen International School Of Bergen",
                 "operator:type": "private",
                 "start_date": "1975-08-01",
-                "id": "node/-3829"
+                "id": "node/-3830"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +301,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3809",
+            "id": "node/-3810",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -286,7 +313,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1977-09-15",
-                "id": "node/-3809"
+                "id": "node/-3810"
             },
             "geometry": {
                 "type": "Point",
@@ -298,7 +325,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3801",
+            "id": "node/-3802",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "fridalenapenbhg@gmail.com",
@@ -307,7 +334,7 @@
                 "operator": "Fridalen Sokn",
                 "operator:type": "private",
                 "start_date": "2005-05-01",
-                "id": "node/-3801"
+                "id": "node/-3802"
             },
             "geometry": {
                 "type": "Point",
@@ -319,7 +346,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3800",
+            "id": "node/-3801",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -331,7 +358,7 @@
                 "operator": "Bergen Racketsenter AS",
                 "operator:type": "private",
                 "start_date": "2007-04-16",
-                "id": "node/-3800"
+                "id": "node/-3801"
             },
             "geometry": {
                 "type": "Point",
@@ -343,12 +370,12 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3781",
+            "id": "node/-3782",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
                 "contact:email": "styrer@gronnestolen.espira.no",
-                "contact:phone": "+47 52 84 50 20",
+                "contact:phone": "+47 55612030",
                 "contact:website": "http://www.espira.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -357,7 +384,7 @@
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
                 "start_date": "2010-07-01",
-                "id": "node/-3781"
+                "id": "node/-3782"
             },
             "geometry": {
                 "type": "Point",

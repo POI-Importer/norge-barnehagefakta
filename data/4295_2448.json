@@ -3,58 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2963",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "contact:phone": "+47 92212484",
-                "contact:website": "http://www.soriamoriabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 120",
-                "no-barnehage:nsrid": "1015167",
-                "operator": "Soria Moria barnehage Hisøy AS",
-                "operator:type": "private",
-                "start_date": "2012-10-05",
-                "id": "node/-2963"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.77438,
-                    58.4446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2962",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "53",
-                "contact:email": "ronnaug@soriamoriabarnehage.no",
-                "contact:phone": "+47 37 01 55 95",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soria Moria barnehage Hisøy AS Avd Sandvigveien 104",
-                "no-barnehage:nsrid": "1017015",
-                "operator": "Soria Moria barnehage Hisøy AS",
-                "operator:type": "private",
-                "start_date": "2005-10-20",
-                "id": "node/-2962"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.77294,
-                    58.445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2953",
+            "id": "node/-2958",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -67,13 +16,64 @@
                 "operator": "Portveien Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "1999-08-01",
-                "id": "node/-2953"
+                "id": "node/-2958"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.74603,
                     58.4333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2948",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 92212484",
+                "contact:website": "http://www.soriamoriabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Slaabervig Naturbarnehage",
+                "no-barnehage:nsrid": "1015167",
+                "operator": "Soria Moria barnehage Hisøy AS",
+                "operator:type": "private",
+                "start_date": "2012-10-05",
+                "id": "node/-2948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77438,
+                    58.4446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2946",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 37 01 55 95",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Helsviga Naturbarnehage",
+                "no-barnehage:nsrid": "1017015",
+                "operator": "Soria Moria barnehage Hisøy AS",
+                "operator:type": "private",
+                "start_date": "2005-10-20",
+                "id": "node/-2946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77294,
+                    58.445
                 ]
             }
         },

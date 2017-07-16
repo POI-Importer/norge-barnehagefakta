@@ -3,6 +3,32 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3686",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:email": "100prosent@barn.li",
+                "contact:phone": "+47 21 08 80 88",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Lindesnes AS",
+                "no-barnehage:nsrid": "1022073",
+                "operator": "Espira Lindesnes AS",
+                "operator:type": "private",
+                "start_date": "2010-06-04",
+                "id": "node/-3686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051419,
+                    57.99112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3238",
             "properties": {
                 "amenity": "kindergarten",
@@ -43,32 +69,6 @@
                 "operator:type": "private",
                 "start_date": "2012-08-01",
                 "id": "node/-3235"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.051419,
-                    57.99112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3234",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "100prosent@barn.li",
-                "contact:phone": "+47 21 08 80 88",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Lindesnes AS",
-                "no-barnehage:nsrid": "1022073",
-                "operator": "100%barn AS",
-                "operator:type": "private",
-                "start_date": "2010-06-04",
-                "id": "node/-3234"
             },
             "geometry": {
                 "type": "Point",
