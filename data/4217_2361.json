@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3961",
+            "id": "node/-3956",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -16,7 +16,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3961"
+                "id": "node/-3956"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3953",
+            "id": "node/-3948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -42,7 +42,7 @@
                 "operator": "Starefossen barnehage",
                 "operator:type": "private",
                 "start_date": "2008-03-01",
-                "id": "node/-3953"
+                "id": "node/-3948"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3948",
+            "id": "node/-3943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -66,7 +66,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2014-02-01",
-                "id": "node/-3948"
+                "id": "node/-3943"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3931",
+            "id": "node/-3926",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -91,7 +91,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-3931"
+                "id": "node/-3926"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +103,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3927",
+            "id": "node/-3922",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -115,7 +115,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1995-01-01",
-                "id": "node/-3927"
+                "id": "node/-3922"
             },
             "geometry": {
                 "type": "Point",
@@ -127,31 +127,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3921",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:email": "katrine.hausberg@bergen.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nygårdsparken barnehage",
-                "no-barnehage:nsrid": "1017892",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "start_date": "2007-10-01",
-                "id": "node/-3921"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.32757,
-                    60.3834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3920",
+            "id": "node/-3916",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -163,84 +139,13 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1992-07-01",
-                "id": "node/-3920"
+                "id": "node/-3916"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.33352,
                     60.3753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3919",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "41",
-                "contact:email": "styrernubben@bgds.no",
-                "contact:phone": "+47 55 01 80 98",
-                "contact:website": "http://www.nubb1.barnehage.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nubben barnehage",
-                "no-barnehage:nsrid": "1021719",
-                "operator": "Nubben barnehage AS",
-                "operator:type": "private",
-                "start_date": "2007-10-11",
-                "id": "node/-3919"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.349478,
-                    60.38552
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3916",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "contact:email": "nordasgrenda.barnehage@bkkfiber.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nordås Selegrend barnehage",
-                "no-barnehage:nsrid": "1019690",
-                "operator": "Nordås Selegrend Borettslag",
-                "operator:type": "private",
-                "start_date": "2010-01-01",
-                "id": "node/-3916"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.325762,
-                    60.3888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3913",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "salem@nlmbhg.no",
-                "name": "Nlm Barnehagene AS Avd Salem Åpen Barnehage",
-                "no-barnehage:nsrid": "1018575",
-                "operator": "Nlm-Barnehagene AS",
-                "operator:type": "private",
-                "start_date": "2009-01-29",
-                "id": "node/-3913"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.32045,
-                    60.3909
                 ]
             }
         },
