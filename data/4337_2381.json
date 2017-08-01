@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1449",
+            "id": "node/-1451",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -15,7 +15,7 @@
                 "operator": "Oslo Røde Kors",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1449"
+                "id": "node/-1451"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1448",
+            "id": "node/-1450",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -41,7 +41,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-1448"
+                "id": "node/-1450"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-617",
+            "id": "node/-618",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "130",
@@ -65,7 +65,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2008-04-01",
-                "id": "node/-617"
+                "id": "node/-618"
             },
             "geometry": {
                 "type": "Point",
@@ -77,7 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-577",
+            "id": "node/-578",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -90,7 +90,7 @@
                 "operator": "Ruglandsveien barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1988-04-01",
-                "id": "node/-577"
+                "id": "node/-578"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-540",
+            "id": "node/-541",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -114,7 +114,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-540"
+                "id": "node/-541"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-530",
+            "id": "node/-531",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -139,7 +139,7 @@
                 "operator": "Eikeli-Lijordet Kvinne- og Familielag",
                 "operator:type": "private",
                 "start_date": "1976-12-24",
-                "id": "node/-530"
+                "id": "node/-531"
             },
             "geometry": {
                 "type": "Point",
@@ -151,7 +151,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-497",
+            "id": "node/-498",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -163,7 +163,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-497"
+                "id": "node/-498"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +175,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-495",
+            "id": "node/-496",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -188,7 +188,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-495"
+                "id": "node/-496"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +200,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-493",
+            "id": "node/-494",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -212,7 +212,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-493"
+                "id": "node/-494"
             },
             "geometry": {
                 "type": "Point",
@@ -224,7 +224,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-484",
+            "id": "node/-485",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -236,6 +236,30 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "2005-01-01",
+                "id": "node/-485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.607,
+                    59.9403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-484",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "9",
+                "contact:email": "venke.brendmoe@baerum.kommune.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Fururabben barnehage Avd Ovenbakken Nedre",
+                "no-barnehage:nsrid": "1018465",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "start_date": "2008-08-01",
                 "id": "node/-484"
             },
             "geometry": {
@@ -251,30 +275,6 @@
             "id": "node/-483",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "9",
-                "contact:email": "venke.brendmoe@baerum.kommune.no",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Fururabben barnehage Avd Ovenbakken Nedre",
-                "no-barnehage:nsrid": "1018465",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "start_date": "2008-08-01",
-                "id": "node/-483"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.607,
-                    59.9403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-482",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "46",
                 "contact:email": "venke.brendmoe@baerum.kommune.no",
                 "max_age": "5",
@@ -284,7 +284,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-482"
+                "id": "node/-483"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +296,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-470",
+            "id": "node/-471",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -310,7 +310,7 @@
                 "operator": "Eiksmarka Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "1997-08-31",
-                "id": "node/-470"
+                "id": "node/-471"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +322,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-469",
+            "id": "node/-470",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "105",
@@ -334,7 +334,7 @@
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-469"
+                "id": "node/-470"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +346,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-468",
+            "id": "node/-469",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -359,7 +359,7 @@
                 "operator": "Eikebo barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1988-01-01",
-                "id": "node/-468"
+                "id": "node/-469"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +371,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-452",
+            "id": "node/-453",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -383,7 +383,7 @@
                 "operator": "Theas Bærum AS",
                 "operator:type": "private",
                 "start_date": "1997-08-01",
-                "id": "node/-452"
+                "id": "node/-453"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-963",
+            "id": "node/-965",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -17,13 +17,35 @@
                 "operator": "Tomteråsen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1997-08-31",
-                "id": "node/-963"
+                "id": "node/-965"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.37049,
                     60.10844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-959",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:website": "http://www.laringsverkstedet.no",
+                "name": "Læringsverkstedet barnehage Avd Øvre Neskollen",
+                "no-barnehage:nsrid": "2000145",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2017-07-01",
+                "id": "node/-959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3608,
+                    60.0918
                 ]
             }
         }
