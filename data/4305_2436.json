@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2886",
+            "id": "node/-2888",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -17,7 +17,7 @@
                 "operator": "Risør kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2886"
+                "id": "node/-2888"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2885",
+            "id": "node/-2887",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -42,7 +42,7 @@
                 "operator": "Tjenna barnehage AS",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-2885"
+                "id": "node/-2887"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +54,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2884",
+            "id": "node/-2886",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -66,6 +66,28 @@
                 "operator": "Lekeslottet barnehage Risør AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
+                "id": "node/-2886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.223167,
+                    58.71938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2884",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "i.lillehammer@risor.kirken.no",
+                "contact:phone": "+47 37 15 13 51",
+                "name": "Frydendal barnehage",
+                "no-barnehage:nsrid": "1019777",
+                "operator": "Frydendal barnehage",
+                "operator:type": "private",
+                "start_date": "2008-01-01",
                 "id": "node/-2884"
             },
             "geometry": {
@@ -78,29 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2882",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "i.lillehammer@risor.kirken.no",
-                "contact:phone": "+47 37 15 13 51",
-                "name": "Frydendal barnehage",
-                "no-barnehage:nsrid": "1019777",
-                "operator": "Frydendal barnehage",
-                "operator:type": "private",
-                "start_date": "2008-01-01",
-                "id": "node/-2882"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.223167,
-                    58.71938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2881",
+            "id": "node/-2883",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -113,7 +113,7 @@
                 "operator": "Frydenborg barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2881"
+                "id": "node/-2883"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +125,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2879",
+            "id": "node/-2881",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -139,7 +139,7 @@
                 "operator": "Amandus barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1990-01-15",
-                "id": "node/-2879"
+                "id": "node/-2881"
             },
             "geometry": {
                 "type": "Point",

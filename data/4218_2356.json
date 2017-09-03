@@ -3,7 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3835",
+            "id": "node/-3939",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "sofus@barnehage.no",
+                "contact:phone": "+47 55 24 85 26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sofusbarnehagen AS",
+                "no-barnehage:nsrid": "1022344",
+                "operator": "Sofusbarnehagen AS",
+                "operator:type": "private",
+                "start_date": "1995-12-30",
+                "id": "node/-3939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381577,
+                    60.49678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3833",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
@@ -16,7 +41,7 @@
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
                 "start_date": "1992-01-04",
-                "id": "node/-3835"
+                "id": "node/-3833"
             },
             "geometry": {
                 "type": "Point",

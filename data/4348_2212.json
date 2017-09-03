@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5164",
+            "id": "node/-5171",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -15,7 +15,31 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5164"
+                "id": "node/-5171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1143,
+                    63.4639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5158",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:email": "laila.skjei@stjordal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hegra barnehage",
+                "no-barnehage:nsrid": "1017480",
+                "operator": "Stjørdal kommune",
+                "operator:type": "public",
+                "start_date": "1983-09-01",
+                "id": "node/-5158"
             },
             "geometry": {
                 "type": "Point",
@@ -30,30 +54,6 @@
             "id": "node/-5151",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "81",
-                "contact:email": "laila.skjei@stjordal.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hegra barnehage",
-                "no-barnehage:nsrid": "1017480",
-                "operator": "Stjørdal kommune",
-                "operator:type": "public",
-                "start_date": "1983-09-01",
-                "id": "node/-5151"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.1143,
-                    63.4639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5144",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "21",
                 "contact:email": "toril.irene.rodde@stjordal.kommune.no",
                 "max_age": "5",
@@ -63,7 +63,7 @@
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "start_date": "1990-01-01",
-                "id": "node/-5144"
+                "id": "node/-5151"
             },
             "geometry": {
                 "type": "Point",
