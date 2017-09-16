@@ -3,32 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5734",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "gunn.tove.c@gmail.com",
-                "contact:phone": "+47 77721717",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Bygdestua",
-                "no-barnehage:nsrid": "1019961",
-                "operator": "Bygdestua barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-5734"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.51606,
-                    68.81888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5730",
+            "id": "node/-5755",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -40,13 +15,38 @@
                 "operator": "Harstad kommune / Hársttáid Suohkan",
                 "operator:type": "public",
                 "start_date": "2015-08-14",
-                "id": "node/-5730"
+                "id": "node/-5755"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     16.50313,
                     68.81976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5749",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "gunn.tove.c@gmail.com",
+                "contact:phone": "+47 77721717",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Bygdestua",
+                "no-barnehage:nsrid": "1019961",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-5749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51606,
+                    68.81888
                 ]
             }
         }

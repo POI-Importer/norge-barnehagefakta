@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4352",
+            "id": "node/-4355",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -16,7 +16,31 @@
                 "operator": "Førde kommune",
                 "operator:type": "public",
                 "start_date": "2004-08-01",
-                "id": "node/-4352"
+                "id": "node/-4355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15876,
+                    61.4181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4347",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "sbr@forde.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Holsen Skule og barnehage Avd Barnehage",
+                "no-barnehage:nsrid": "1018524",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "start_date": "2008-01-01",
+                "id": "node/-4347"
             },
             "geometry": {
                 "type": "Point",
@@ -31,30 +55,6 @@
             "id": "node/-4344",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
-                "contact:email": "sbr@forde.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Holsen Skule og barnehage Avd Barnehage",
-                "no-barnehage:nsrid": "1018524",
-                "operator": "Førde kommune",
-                "operator:type": "public",
-                "start_date": "2008-01-01",
-                "id": "node/-4344"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.15876,
-                    61.4181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4341",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "9",
                 "contact:email": "aase.leknes@forde.kommune.no",
                 "max_age": "5",
@@ -64,7 +64,7 @@
                 "operator": "Førde kommune",
                 "operator:type": "public",
                 "start_date": "2006-11-01",
-                "id": "node/-4341"
+                "id": "node/-4344"
             },
             "geometry": {
                 "type": "Point",

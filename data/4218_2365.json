@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3973",
+            "id": "node/-3976",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1994-08-01",
-                "id": "node/-3973"
+                "id": "node/-3976"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3794",
+            "id": "node/-3796",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -41,13 +41,33 @@
                 "operator": "Fanatunet barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-10-10",
-                "id": "node/-3794"
+                "id": "node/-3796"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.37937,
                     60.3035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3788",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Eventus Birk barnehage AS",
+                "no-barnehage:nsrid": "2000152",
+                "operator": "Eventus Birk barnehage AS",
+                "operator:type": "private",
+                "start_date": "2017-08-01",
+                "id": "node/-3788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.377565,
+                    60.30049
                 ]
             }
         }

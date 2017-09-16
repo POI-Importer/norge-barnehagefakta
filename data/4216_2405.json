@@ -3,6 +3,31 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3502",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:email": "studentbarnehagen@hsh.no",
+                "contact:phone": "+47 51 887517",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentbarnehagen i Haugesund",
+                "no-barnehage:nsrid": "1016070",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "start_date": "1994-07-28",
+                "id": "node/-3502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28927,
+                    59.4102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3501",
             "properties": {
                 "amenity": "kindergarten",
@@ -207,31 +232,6 @@
             "id": "node/-3469",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "59",
-                "contact:email": "studentbarnehagen@hsh.no",
-                "contact:phone": "+47 51 887517",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentbarnehagen i Haugesund",
-                "no-barnehage:nsrid": "1016070",
-                "operator": "Studentsamskipnaden på Vestlandet",
-                "operator:type": "private",
-                "start_date": "1994-07-28",
-                "id": "node/-3469"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28927,
-                    59.4102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3468",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "85",
                 "contact:email": "sa@anmba.no",
                 "contact:phone": "+47 52 72 54 00",
@@ -243,7 +243,7 @@
                 "operator": "Anna Nilssens Minne Sa",
                 "operator:type": "private",
                 "start_date": "2005-02-28",
-                "id": "node/-3468"
+                "id": "node/-3469"
             },
             "geometry": {
                 "type": "Point",

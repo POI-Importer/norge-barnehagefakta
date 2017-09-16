@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5008",
+            "id": "node/-5012",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -15,7 +15,7 @@
                 "operator": "Oppdal Kristne Senter",
                 "operator:type": "private",
                 "start_date": "1993-08-01",
-                "id": "node/-5008"
+                "id": "node/-5012"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5007",
+            "id": "node/-5011",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -40,7 +40,57 @@
                 "operator": "Torshaug Private barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-5007"
+                "id": "node/-5011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5010",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:email": "stolen.barnehage@oppdal.com",
+                "contact:phone": "+47 72 42 09 72",
+                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stølen Private barnehage Sa",
+                "no-barnehage:nsrid": "1019657",
+                "operator": "Stølen Private barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1988-01-01",
+                "id": "node/-5010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5008",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:email": "post@midtbygda-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Midtbygda barnehage Sa",
+                "no-barnehage:nsrid": "1019628",
+                "operator": "Midtbygda barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1982-01-01",
+                "id": "node/-5008"
             },
             "geometry": {
                 "type": "Point",
@@ -55,42 +105,41 @@
             "id": "node/-5006",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
-                "contact:email": "stolen.barnehage@oppdal.com",
-                "contact:phone": "+47 72 42 09 72",
-                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "capacity": "46",
+                "contact:email": "tove.borseth@oppdal.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stølen Private barnehage Sa",
-                "no-barnehage:nsrid": "1019657",
-                "operator": "Stølen Private barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1988-01-01",
+                "name": "Høgmo barnehage",
+                "no-barnehage:nsrid": "1016117",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
                 "id": "node/-5006"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.6912,
-                    62.59431
+                    9.69742,
+                    62.5997
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-5004",
+            "id": "node/-5003",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "36",
-                "contact:email": "post@midtbygda-barnehage.no",
+                "capacity": "25",
+                "contact:email": "drivdalenbhg@oppdal.com",
+                "contact:phone": "+47 72 42 41 41",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Midtbygda barnehage Sa",
-                "no-barnehage:nsrid": "1019628",
-                "operator": "Midtbygda barnehage Sa",
+                "name": "Drivdalen barnehage",
+                "no-barnehage:nsrid": "1019817",
+                "operator": "Drivdalen Yngre Helselag",
                 "operator:type": "private",
-                "start_date": "1982-01-01",
-                "id": "node/-5004"
+                "start_date": "1989-01-02",
+                "id": "node/-5003"
             },
             "geometry": {
                 "type": "Point",
@@ -105,55 +154,6 @@
             "id": "node/-5002",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:email": "tove.borseth@oppdal.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Høgmo barnehage",
-                "no-barnehage:nsrid": "1016117",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5002"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.69742,
-                    62.5997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4999",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "contact:email": "drivdalenbhg@oppdal.com",
-                "contact:phone": "+47 72 42 41 41",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Drivdalen barnehage",
-                "no-barnehage:nsrid": "1019817",
-                "operator": "Drivdalen Yngre Helselag",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-4999"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6912,
-                    62.59431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4998",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "12",
                 "contact:email": "bjerkehagen@oppdal.com",
                 "contact:phone": "+47 97078987",
@@ -164,7 +164,7 @@
                 "operator": "Bjerkehagen Friluftsbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "1994-08-01",
-                "id": "node/-4998"
+                "id": "node/-5002"
             },
             "geometry": {
                 "type": "Point",

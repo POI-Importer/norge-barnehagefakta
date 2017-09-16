@@ -3,32 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2957",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "35",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "contact:phone": "+47 37 03 36 00",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet Portveien His",
-                "no-barnehage:nsrid": "1015908",
-                "operator": "Portveien Barnehagedrift AS",
-                "operator:type": "private",
-                "start_date": "1999-08-01",
-                "id": "node/-2957"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.74603,
-                    58.4333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2947",
+            "id": "node/-2948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -42,13 +17,38 @@
                 "operator": "Soria Moria barnehage Hisøy AS",
                 "operator:type": "private",
                 "start_date": "2012-10-05",
-                "id": "node/-2947"
+                "id": "node/-2948"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.77438,
                     58.4446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2947",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 37 03 36 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Portveien His",
+                "no-barnehage:nsrid": "1015908",
+                "operator": "Portveien Barnehagedrift AS",
+                "operator:type": "private",
+                "start_date": "1999-08-01",
+                "id": "node/-2947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74603,
+                    58.4333
                 ]
             }
         },
