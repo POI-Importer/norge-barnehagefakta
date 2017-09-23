@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5826",
+            "id": "node/-5825",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -16,31 +16,6 @@
                 "operator": "Balsfjord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5826"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.9587,
-                    69.3196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5825",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "8",
-                "contact:email": "an.magritt.asplund@balsfjord.kommune.no",
-                "contact:phone": "+47 77 72 33 54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Malangseidet barnehage",
-                "no-barnehage:nsrid": "1013165",
-                "operator": "Balsfjord kommune",
-                "operator:type": "public",
-                "start_date": "2004-01-01",
                 "id": "node/-5825"
             },
             "geometry": {
@@ -53,7 +28,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5822",
+            "id": "node/-5824",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "8",
+                "contact:email": "an.magritt.asplund@balsfjord.kommune.no",
+                "contact:phone": "+47 77 72 33 54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Malangseidet barnehage",
+                "no-barnehage:nsrid": "1013165",
+                "operator": "Balsfjord kommune",
+                "operator:type": "public",
+                "start_date": "2004-01-01",
+                "id": "node/-5824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9587,
+                    69.3196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5821",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "5",
@@ -66,7 +66,7 @@
                 "operator": "Balsfjord kommune",
                 "operator:type": "public",
                 "start_date": "1995-05-01",
-                "id": "node/-5822"
+                "id": "node/-5821"
             },
             "geometry": {
                 "type": "Point",
