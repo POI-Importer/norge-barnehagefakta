@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4138",
+            "id": "node/-4133",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -15,32 +15,7 @@
                 "operator": "Storebø Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-08-31",
-                "id": "node/-4138"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.231794,
-                    60.09295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4137",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "63",
-                "contact:email": "adrivenes@yahoo.no",
-                "contact:phone": "+47 55 08 53 50",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sol-Li barnehage AS",
-                "no-barnehage:nsrid": "1022401",
-                "operator": "Sol-Li barnehage AS",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-4137"
+                "id": "node/-4133"
             },
             "geometry": {
                 "type": "Point",
@@ -55,6 +30,31 @@
             "id": "node/-4132",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "adrivenes@yahoo.no",
+                "contact:phone": "+47 55 08 53 50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sol-Li barnehage AS",
+                "no-barnehage:nsrid": "1022401",
+                "operator": "Sol-Li barnehage AS",
+                "operator:type": "private",
+                "start_date": "1989-01-02",
+                "id": "node/-4132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.231794,
+                    60.09295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4127",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "27",
                 "contact:email": "eva@hoppensprett.no",
                 "contact:phone": "+47 55082196",
@@ -66,7 +66,7 @@
                 "operator": "Haugland Gards- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-11-22",
-                "id": "node/-4132"
+                "id": "node/-4127"
             },
             "geometry": {
                 "type": "Point",
