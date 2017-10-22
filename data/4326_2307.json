@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2050",
+            "id": "node/-2052",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -16,13 +16,33 @@
                 "operator": "Ringebu kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-2050"
+                "id": "node/-2052"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.1389,
                     61.5296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2042",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Anne Margrethe'S Familiebarnehage AS",
+                "no-barnehage:nsrid": "2000165",
+                "operator": "Anne Margrethe'S Familiebarnehage AS",
+                "operator:type": "private",
+                "start_date": "2017-08-15",
+                "id": "node/-2042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.13698,
+                    61.53445
                 ]
             }
         }

@@ -6,42 +6,17 @@
             "id": "node/-4886",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "fjaeba@online.no",
-                "contact:phone": "+47 97731355",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Stiftelsen Fjæraskogen barnehage",
-                "no-barnehage:nsrid": "1020149",
-                "operator": "Stiftelsen Fjæraskogen barnehage",
-                "operator:type": "private",
-                "start_date": "1993-12-01",
-                "id": "node/-4886"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48151,
-                    63.43788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4885",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "rotnissen@steinerbarnehage.no",
                 "contact:phone": "+47 73 91 32 44",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Steinerbarnehagen Rotnissen",
+                "name": "Stiftelsen Steinerbarnehagen Rotnissen",
                 "no-barnehage:nsrid": "1021049",
                 "operator": "Stiftelsen Steinerbarnehagen Rotnissen",
                 "operator:type": "private",
                 "start_date": "1992-01-01",
-                "id": "node/-4885"
+                "id": "node/-4886"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +28,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4791",
+            "id": "node/-4882",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:email": "fjaeba@online.no",
+                "contact:phone": "+47 97731355",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stiftelsen Fjæraskogen barnehage",
+                "no-barnehage:nsrid": "1020149",
+                "operator": "Stiftelsen Fjæraskogen barnehage",
+                "operator:type": "private",
+                "start_date": "1993-12-01",
+                "id": "node/-4882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48151,
+                    63.43788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4788",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -65,7 +65,7 @@
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
                 "start_date": "2006-07-01",
-                "id": "node/-4791"
+                "id": "node/-4788"
             },
             "geometry": {
                 "type": "Point",
