@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3935",
+            "id": "node/-3938",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-3935"
+                "id": "node/-3938"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3899",
+            "id": "node/-3912",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -41,13 +41,38 @@
                 "operator": "Myren Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2015-06-29",
-                "id": "node/-3899"
+                "id": "node/-3912"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.187306,
                     60.3433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3905",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:email": "solfrid.wergeland@mathopenbhg.no",
+                "contact:phone": "+47 91636717",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mathopen barnehage AS",
+                "no-barnehage:nsrid": "1022229",
+                "operator": "Mathopen barnehage AS",
+                "operator:type": "private",
+                "start_date": "2011-11-22",
+                "id": "node/-3905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203382,
+                    60.33669
                 ]
             }
         },

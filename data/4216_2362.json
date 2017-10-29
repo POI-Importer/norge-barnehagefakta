@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3976",
+            "id": "node/-3979",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "9",
@@ -16,7 +16,7 @@
                 "operator": "Ørnehaugen barnehage V/turid Svendsen",
                 "operator:type": "private",
                 "start_date": "1995-09-14",
-                "id": "node/-3976"
+                "id": "node/-3979"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3929",
+            "id": "node/-3932",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -41,7 +41,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1993-01-01",
-                "id": "node/-3929"
+                "id": "node/-3932"
             },
             "geometry": {
                 "type": "Point",
@@ -53,31 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3903",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "contact:email": "vibeke.wirsching@bergen.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nebbestølen barnehage",
-                "no-barnehage:nsrid": "1016688",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-3903"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.29113,
-                    60.3528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3895",
+            "id": "node/-3908",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -90,7 +66,7 @@
                 "operator": "Minken barnehage AS",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-3895"
+                "id": "node/-3908"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3888",
+            "id": "node/-3899",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -114,13 +90,35 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2009-10-01",
-                "id": "node/-3888"
+                "id": "node/-3899"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.29172,
                     60.3535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3888",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "fyllingsdalen.menighet@bergen.kirken.no",
+                "contact:website": "http://bergen.kirken.no/fyllingsdalen",
+                "name": "Liten og Stor Åpen barnehage",
+                "no-barnehage:nsrid": "1020415",
+                "operator": "Fyllingsdalen Sokn",
+                "operator:type": "private",
+                "start_date": "2010-09-01",
+                "id": "node/-3888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296362,
+                    60.35293
                 ]
             }
         },

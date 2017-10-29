@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3980",
+            "id": "node/-3983",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "kari71@start.no",
@@ -14,13 +14,39 @@
                 "operator": "Fana Kfuk-Kfum",
                 "operator:type": "private",
                 "start_date": "2008-01-28",
-                "id": "node/-3980"
+                "id": "node/-3983"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.34838,
                     60.26334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3894",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 55 91 50 75",
+                "contact:website": "http://www.kultur.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Kvernabekken",
+                "no-barnehage:nsrid": "1021626",
+                "operator": "Læringsverkstedet Kvernabekken barnehage AS",
+                "operator:type": "private",
+                "start_date": "1996-09-01",
+                "id": "node/-3894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.358906,
+                    60.26585
                 ]
             }
         },

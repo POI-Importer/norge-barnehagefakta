@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3957",
+            "id": "node/-3960",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -17,7 +17,7 @@
                 "operator": "Tryllefløyten Steinerbarnehage Sa",
                 "operator:type": "private",
                 "start_date": "2004-04-30",
-                "id": "node/-3957"
+                "id": "node/-3960"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3950",
+            "id": "node/-3953",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -41,7 +41,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "2007-08-28",
-                "id": "node/-3950"
+                "id": "node/-3953"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3944",
+            "id": "node/-3947",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -66,7 +66,7 @@
                 "operator": "Spiren barnehage AS",
                 "operator:type": "private",
                 "start_date": "2003-02-19",
-                "id": "node/-3944"
+                "id": "node/-3947"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3918",
+            "id": "node/-3921",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -91,7 +91,7 @@
                 "operator": "Studentsamskipnaden på Vestlandet",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-3918"
+                "id": "node/-3921"
             },
             "geometry": {
                 "type": "Point",
@@ -103,32 +103,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3904",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "51",
-                "contact:email": "linda.birkeland@sib.no",
-                "contact:phone": "+47 55 28 19 80",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nerigard barnehage",
-                "no-barnehage:nsrid": "1016852",
-                "operator": "Studentsamskipnaden på Vestlandet",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-3904"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.36085,
-                    60.3443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3902",
+            "id": "node/-3915",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -140,13 +115,39 @@
                 "operator": "Himmelbarna barnehage AS",
                 "operator:type": "private",
                 "start_date": "2015-02-12",
-                "id": "node/-3902"
+                "id": "node/-3915"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.320234,
                     60.33898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3898",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:email": "lovstakkenbarnehage@live.no",
+                "contact:phone": "+47 55 12 42 42",
+                "contact:website": "http://www.lovstakkenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løvstakken barnehage AS",
+                "no-barnehage:nsrid": "1022386",
+                "operator": "Løvstakken barnehage AS",
+                "operator:type": "private",
+                "start_date": "1990-01-01",
+                "id": "node/-3898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31884,
+                    60.3373
                 ]
             }
         },
