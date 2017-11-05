@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3965",
+            "id": "node/-3970",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -15,7 +15,7 @@
                 "operator": "Bergen kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3965"
+                "id": "node/-3970"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3924",
+            "id": "node/-3929",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -39,7 +39,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "2001-11-01",
-                "id": "node/-3924"
+                "id": "node/-3929"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3906",
+            "id": "node/-3913",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "contact:email": "nesttun.barnehage@indrem.no",
+                "contact:phone": "+47 55 10 07 24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nesttun Indremisjons barnehage",
+                "no-barnehage:nsrid": "1019615",
+                "operator": "Nesttun Indremisjon",
+                "operator:type": "private",
+                "start_date": "1972-12-26",
+                "id": "node/-3913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.363014,
+                    60.31019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3901",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -64,7 +89,7 @@
                 "operator": "Midtunbråtet barnehage AS",
                 "operator:type": "private",
                 "start_date": "2012-10-01",
-                "id": "node/-3906"
+                "id": "node/-3901"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3790",
+            "id": "node/-3785",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "160",
@@ -90,7 +115,7 @@
                 "operator": "Espira Solknatten AS",
                 "operator:type": "private",
                 "start_date": "2007-01-06",
-                "id": "node/-3790"
+                "id": "node/-3785"
             },
             "geometry": {
                 "type": "Point",
