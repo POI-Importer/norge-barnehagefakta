@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1708",
+            "id": "node/-1709",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -15,7 +15,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1708"
+                "id": "node/-1709"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +323,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1324",
+            "id": "node/-1323",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -336,7 +336,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1324"
+                "id": "node/-1323"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +520,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1148",
+            "id": "node/-1149",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -533,7 +533,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1982-01-01",
-                "id": "node/-1148"
+                "id": "node/-1149"
             },
             "geometry": {
                 "type": "Point",
@@ -545,7 +545,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1146",
+            "id": "node/-1147",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -558,7 +558,7 @@
                 "operator": "Fossekallen barnehage",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1146"
+                "id": "node/-1147"
             },
             "geometry": {
                 "type": "Point",
@@ -570,7 +570,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1028",
+            "id": "node/-1029",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -583,6 +583,30 @@
                 "operator": "Barnas barnehage Lunden AS",
                 "operator:type": "private",
                 "start_date": "2004-03-15",
+                "id": "node/-1029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64433,
+                    59.94939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1028",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:email": "andersh@barnasbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas barnehage Arnebråtveien AS",
+                "no-barnehage:nsrid": "1021040",
+                "operator": "Barnas barnehage Arnebråtveien AS",
+                "operator:type": "private",
+                "start_date": "2008-09-15",
                 "id": "node/-1028"
             },
             "geometry": {
@@ -598,30 +622,6 @@
             "id": "node/-1027",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "67",
-                "contact:email": "andersh@barnasbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnas barnehage Arnebråtveien AS",
-                "no-barnehage:nsrid": "1021040",
-                "operator": "Barnas barnehage Arnebråtveien AS",
-                "operator:type": "private",
-                "start_date": "2008-09-15",
-                "id": "node/-1027"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.64433,
-                    59.94939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1026",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "24",
                 "contact:email": "andersh@barnasbarnehage.no",
                 "contact:phone": "+47 22149252",
@@ -632,7 +632,7 @@
                 "operator": "Barnas barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1026"
+                "id": "node/-1027"
             },
             "geometry": {
                 "type": "Point",

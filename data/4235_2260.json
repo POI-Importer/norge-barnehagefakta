@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4598",
+            "id": "node/-4594",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -16,32 +16,7 @@
                 "operator": "Skjong barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-4598"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.108403,
-                    62.5108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4596",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "contact:email": "myra@barnehage.no",
-                "contact:phone": "+47 70 18 12 51",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Myra barnehage",
-                "no-barnehage:nsrid": "1019655",
-                "operator": "Myra barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1988-01-01",
-                "id": "node/-4596"
+                "id": "node/-4594"
             },
             "geometry": {
                 "type": "Point",
@@ -56,6 +31,31 @@
             "id": "node/-4592",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "myra@barnehage.no",
+                "contact:phone": "+47 70 18 12 51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myra barnehage",
+                "no-barnehage:nsrid": "1019655",
+                "operator": "Myra barnehage Sa",
+                "operator:type": "private",
+                "start_date": "1988-01-01",
+                "id": "node/-4592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.108403,
+                    62.5108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4588",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "post@daggrybarnehage.no",
                 "contact:phone": "+47 70182497",
@@ -66,7 +66,7 @@
                 "operator": "Sunnmøre Indremisjon",
                 "operator:type": "private",
                 "start_date": "1978-12-24",
-                "id": "node/-4592"
+                "id": "node/-4588"
             },
             "geometry": {
                 "type": "Point",

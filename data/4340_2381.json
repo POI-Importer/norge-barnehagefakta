@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1721",
+            "id": "node/-1722",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -15,7 +15,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1721"
+                "id": "node/-1722"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1715",
+            "id": "node/-1716",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -39,7 +39,7 @@
                 "operator": "Amigos barnehage Limited",
                 "operator:type": "private",
                 "start_date": "1978-12-11",
-                "id": "node/-1715"
+                "id": "node/-1716"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1705",
+            "id": "node/-1706",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -63,13 +63,38 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1705"
+                "id": "node/-1706"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.7351,
                     59.9367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1691",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "post@Ullevalslettabhg.no",
+                "contact:phone": "+47 22234845",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ullevålsletta barnehage",
+                "no-barnehage:nsrid": "1019936",
+                "operator": "Stiftelsen Ullevålsletta barnehage",
+                "operator:type": "private",
+                "start_date": "1982-01-01",
+                "id": "node/-1691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73318,
+                    59.95073
                 ]
             }
         },
@@ -148,7 +173,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1628",
+            "id": "node/-1627",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -161,7 +186,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1996-08-01",
-                "id": "node/-1628"
+                "id": "node/-1627"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +198,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1627",
+            "id": "node/-1626",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -186,7 +211,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1978-06-09",
-                "id": "node/-1627"
+                "id": "node/-1626"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +223,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1622",
+            "id": "node/-1621",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -210,7 +235,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1978-06-09",
-                "id": "node/-1622"
+                "id": "node/-1621"
             },
             "geometry": {
                 "type": "Point",
@@ -222,7 +247,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1621",
+            "id": "node/-1620",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -234,7 +259,7 @@
                 "operator": "Studentsamskipnaden i Oslo og Akershus",
                 "operator:type": "private",
                 "start_date": "1978-06-09",
-                "id": "node/-1621"
+                "id": "node/-1620"
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +271,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1611",
+            "id": "node/-1610",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -260,38 +285,13 @@
                 "operator": "Stiftelsen Nvh-Barnehagen",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1611"
+                "id": "node/-1610"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.73815,
                     59.93427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1605",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "contact:email": "post@Ullevalslettabhg.no",
-                "contact:phone": "+47 22234845",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ullevålsletta barnehage",
-                "no-barnehage:nsrid": "1019936",
-                "operator": "Stiftelsen Ullevålsletta barnehage",
-                "operator:type": "private",
-                "start_date": "1982-01-01",
-                "id": "node/-1605"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.73318,
-                    59.95073
                 ]
             }
         },
@@ -685,7 +685,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1352",
+            "id": "node/-1351",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -697,7 +697,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1998-09-01",
-                "id": "node/-1352"
+                "id": "node/-1351"
             },
             "geometry": {
                 "type": "Point",
@@ -806,7 +806,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1135",
+            "id": "node/-1136",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -818,7 +818,7 @@
                 "operator": "Fagerborg Sokn",
                 "operator:type": "private",
                 "start_date": "1970-12-30",
-                "id": "node/-1135"
+                "id": "node/-1136"
             },
             "geometry": {
                 "type": "Point",
@@ -830,7 +830,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1109",
+            "id": "node/-1110",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -844,7 +844,7 @@
                 "operator": "Eikenøtten barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1978-12-15",
-                "id": "node/-1109"
+                "id": "node/-1110"
             },
             "geometry": {
                 "type": "Point",
@@ -856,7 +856,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1104",
+            "id": "node/-1105",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -868,7 +868,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1104"
+                "id": "node/-1105"
             },
             "geometry": {
                 "type": "Point",
@@ -880,7 +880,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1091",
+            "id": "node/-1092",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -894,7 +894,7 @@
                 "operator": "Damplassen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1091"
+                "id": "node/-1092"
             },
             "geometry": {
                 "type": "Point",
@@ -906,7 +906,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1089",
+            "id": "node/-1090",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -920,7 +920,7 @@
                 "operator": "Collettløkka barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2001-07-01",
-                "id": "node/-1089"
+                "id": "node/-1090"
             },
             "geometry": {
                 "type": "Point",
@@ -932,7 +932,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1074",
+            "id": "node/-1075",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -946,7 +946,7 @@
                 "operator": "Bukken Bruse barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1982-01-01",
-                "id": "node/-1074"
+                "id": "node/-1075"
             },
             "geometry": {
                 "type": "Point",
@@ -958,7 +958,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1059",
+            "id": "node/-1060",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "94",
@@ -972,7 +972,7 @@
                 "operator": "Blindern Barnestuer Sa",
                 "operator:type": "private",
                 "start_date": "1970-12-30",
-                "id": "node/-1059"
+                "id": "node/-1060"
             },
             "geometry": {
                 "type": "Point",
@@ -984,7 +984,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1054",
+            "id": "node/-1055",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -996,7 +996,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2010-04-06",
-                "id": "node/-1054"
+                "id": "node/-1055"
             },
             "geometry": {
                 "type": "Point",
@@ -1008,7 +1008,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1053",
+            "id": "node/-1054",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -1020,7 +1020,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1053"
+                "id": "node/-1054"
             },
             "geometry": {
                 "type": "Point",
@@ -1032,7 +1032,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1052",
+            "id": "node/-1053",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -1044,7 +1044,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1994-12-15",
-                "id": "node/-1052"
+                "id": "node/-1053"
             },
             "geometry": {
                 "type": "Point",
@@ -1056,7 +1056,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1051",
+            "id": "node/-1052",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -1068,7 +1068,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1051"
+                "id": "node/-1052"
             },
             "geometry": {
                 "type": "Point",
@@ -1080,7 +1080,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1043",
+            "id": "node/-1044",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "95",
@@ -1092,7 +1092,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2009-01-01",
-                "id": "node/-1043"
+                "id": "node/-1044"
             },
             "geometry": {
                 "type": "Point",
@@ -1104,7 +1104,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1042",
+            "id": "node/-1043",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -1116,7 +1116,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2011-09-01",
-                "id": "node/-1042"
+                "id": "node/-1043"
             },
             "geometry": {
                 "type": "Point",
@@ -1128,7 +1128,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1041",
+            "id": "node/-1042",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -1140,7 +1140,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2007-01-01",
-                "id": "node/-1041"
+                "id": "node/-1042"
             },
             "geometry": {
                 "type": "Point",
@@ -1152,7 +1152,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1039",
+            "id": "node/-1040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -1164,7 +1164,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2000-08-01",
-                "id": "node/-1039"
+                "id": "node/-1040"
             },
             "geometry": {
                 "type": "Point",
@@ -1176,7 +1176,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1022",
+            "id": "node/-1023",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -1190,7 +1190,7 @@
                 "operator": "Bakkehaugen barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-1022"
+                "id": "node/-1023"
             },
             "geometry": {
                 "type": "Point",
@@ -1202,7 +1202,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1020",
+            "id": "node/-1021",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -1214,7 +1214,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1997-09-01",
-                "id": "node/-1020"
+                "id": "node/-1021"
             },
             "geometry": {
                 "type": "Point",

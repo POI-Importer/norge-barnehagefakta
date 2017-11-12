@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1730",
+            "id": "node/-1731",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -17,7 +17,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2008-11-01",
-                "id": "node/-1730"
+                "id": "node/-1731"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1700",
+            "id": "node/-1701",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -41,7 +41,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2001-07-21",
-                "id": "node/-1700"
+                "id": "node/-1701"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1697",
+            "id": "node/-1698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -65,13 +65,37 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2011-01-01",
-                "id": "node/-1697"
+                "id": "node/-1698"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.857,
                     59.9446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1697",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:email": "nina.brodtkorb@bbj.oslo.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Utforskeren barnehage - Hus B",
+                "no-barnehage:nsrid": "1013502",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "start_date": "2011-01-01",
+                "id": "node/-1697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8574,
+                    59.9448
                 ]
             }
         },
@@ -84,36 +108,12 @@
                 "contact:email": "nina.brodtkorb@bbj.oslo.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Utforskeren barnehage - Hus B",
-                "no-barnehage:nsrid": "1013502",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "start_date": "2011-01-01",
-                "id": "node/-1696"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.8574,
-                    59.9448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1695",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "54",
-                "contact:email": "nina.brodtkorb@bbj.oslo.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
                 "name": "Utforskeren barnehage - Hus A",
                 "no-barnehage:nsrid": "1018469",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "2008-08-01",
-                "id": "node/-1695"
+                "id": "node/-1696"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1614",
+            "id": "node/-1613",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -162,7 +162,7 @@
                 "operator": "Stjerneblokkveien Private barnehage AS",
                 "operator:type": "private",
                 "start_date": "1970-12-30",
-                "id": "node/-1614"
+                "id": "node/-1613"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +423,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1143",
+            "id": "node/-1144",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -435,7 +435,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1971-12-29",
-                "id": "node/-1143"
+                "id": "node/-1144"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +447,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1067",
+            "id": "node/-1068",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -459,7 +459,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1979-01-01",
-                "id": "node/-1067"
+                "id": "node/-1068"
             },
             "geometry": {
                 "type": "Point",
