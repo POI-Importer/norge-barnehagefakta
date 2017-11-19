@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5189",
+            "id": "node/-5187",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -15,55 +15,6 @@
                 "operator": "Frosta kommune",
                 "operator:type": "public",
                 "start_date": "1998-12-01",
-                "id": "node/-5189"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7608,
-                    63.5837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5188",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "40",
-                "contact:email": "gaardbhg@online.no",
-                "contact:phone": "+47 74 80 72 74",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Juberg Gårdsbarnehage AS",
-                "no-barnehage:nsrid": "1022248",
-                "operator": "Juberg Gårdsbarnehage AS",
-                "operator:type": "private",
-                "start_date": "1995-02-23",
-                "id": "node/-5188"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.76082,
-                    63.58368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5187",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "anne.grethe.goa.lovrod@frosta.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Folkheim barnehage",
-                "no-barnehage:nsrid": "1018269",
-                "operator": "Frosta kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
                 "id": "node/-5187"
             },
             "geometry": {
@@ -79,6 +30,55 @@
             "id": "node/-5186",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "gaardbhg@online.no",
+                "contact:phone": "+47 74 80 72 74",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Juberg Gårdsbarnehage AS",
+                "no-barnehage:nsrid": "1022248",
+                "operator": "Juberg Gårdsbarnehage AS",
+                "operator:type": "private",
+                "start_date": "1995-02-23",
+                "id": "node/-5186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76082,
+                    63.58368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5185",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "anne.grethe.goa.lovrod@frosta.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Folkheim barnehage",
+                "no-barnehage:nsrid": "1018269",
+                "operator": "Frosta kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7608,
+                    63.5837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5184",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "53",
                 "contact:email": "svanhild.opheim@frosta.kommune.no",
                 "max_age": "5",
@@ -88,7 +88,7 @@
                 "operator": "Frosta kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5186"
+                "id": "node/-5184"
             },
             "geometry": {
                 "type": "Point",
