@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2731",
+            "id": "node/-2739",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "126",
@@ -17,7 +17,7 @@
                 "operator": "Urdarbrønnen Sa",
                 "operator:type": "private",
                 "start_date": "2001-09-30",
-                "id": "node/-2731"
+                "id": "node/-2739"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2720",
+            "id": "node/-2728",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -41,7 +41,7 @@
                 "operator": "Nystrand barnehage AS",
                 "operator:type": "private",
                 "start_date": "2008-01-01",
-                "id": "node/-2720"
+                "id": "node/-2728"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2717",
+            "id": "node/-2724",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -66,13 +66,37 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2717"
+                "id": "node/-2724"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.67181,
                     59.1086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2712",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:email": "styrer@eplehagen-bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eplehagen Barnehagen",
+                "no-barnehage:nsrid": "1020838",
+                "operator": "Grenland Folkehøgskoles barnehage AS",
+                "operator:type": "private",
+                "start_date": "2002-12-16",
+                "id": "node/-2712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.685811,
+                    59.11467
                 ]
             }
         }

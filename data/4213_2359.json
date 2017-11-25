@@ -3,31 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4188",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "73",
-                "contact:email": "soltun@laringsverkstedet.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Soltun",
-                "no-barnehage:nsrid": "1021950",
-                "operator": "Læringsverkstedet Soltun barnehage AS",
-                "operator:type": "private",
-                "start_date": "1996-08-29",
-                "id": "node/-4188"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.14942,
-                    60.42597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4185",
+            "id": "node/-4198",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -41,13 +17,37 @@
                 "operator": "Du og Jeg Krokåsfeltet Nord AS",
                 "operator:type": "private",
                 "start_date": "2000-03-20",
-                "id": "node/-4185"
+                "id": "node/-4198"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.18544,
                     60.4264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4197",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:email": "soltun@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Soltun",
+                "no-barnehage:nsrid": "1021950",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "1996-08-29",
+                "id": "node/-4197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14942,
+                    60.42597
                 ]
             }
         }

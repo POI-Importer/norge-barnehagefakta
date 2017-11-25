@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2778",
+            "id": "node/-2787",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -15,7 +15,7 @@
                 "operator": "Pinsekirken Tabernaklet Skien",
                 "operator:type": "private",
                 "start_date": "1990-01-01",
-                "id": "node/-2778"
+                "id": "node/-2787"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,55 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2770",
+            "id": "node/-2775",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "118",
+                "contact:phone": "+47 35 90 52 70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Harmonien Banrehage",
+                "no-barnehage:nsrid": "1022042",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2010-03-22",
+                "id": "node/-2775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.622944,
+                    59.20261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2774",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:phone": "+47 35 58 88 30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Gustavas Hage barnehage",
+                "no-barnehage:nsrid": "1021878",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2008-10-13",
+                "id": "node/-2774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.615241,
+                    59.20959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2773",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -40,7 +88,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1980-01-24",
-                "id": "node/-2770"
+                "id": "node/-2773"
             },
             "geometry": {
                 "type": "Point",
@@ -52,31 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2758",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "118",
-                "contact:phone": "+47 35 90 52 70",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Harmonien barnehage",
-                "no-barnehage:nsrid": "1022042",
-                "operator": "Harmonien barnehage AS",
-                "operator:type": "private",
-                "start_date": "2010-03-22",
-                "id": "node/-2758"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.622944,
-                    59.20261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2757",
+            "id": "node/-2764",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -88,7 +112,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1998-03-23",
-                "id": "node/-2757"
+                "id": "node/-2764"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +124,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2748",
+            "id": "node/-2755",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -112,7 +136,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2748"
+                "id": "node/-2755"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2742",
+            "id": "node/-2749",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -138,7 +162,7 @@
                 "operator": "Brekke barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2742"
+                "id": "node/-2749"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +174,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2739",
+            "id": "node/-2746",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -162,7 +186,7 @@
                 "operator": "Stiftelsen Betanien Hospital Skien",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2739"
+                "id": "node/-2746"
             },
             "geometry": {
                 "type": "Point",
@@ -174,31 +198,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2738",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "47",
-                "contact:phone": "+47 35 58 88 30",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gustavas Hage barnehage",
-                "no-barnehage:nsrid": "1021878",
-                "operator": "Barnehagen Gustavas Hage AS",
-                "operator:type": "private",
-                "start_date": "2008-10-13",
-                "id": "node/-2738"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.615241,
-                    59.20959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2735",
+            "id": "node/-2743",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -210,7 +210,7 @@
                 "operator": "Skien kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-2735"
+                "id": "node/-2743"
             },
             "geometry": {
                 "type": "Point",

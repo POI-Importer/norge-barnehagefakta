@@ -3,30 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2649",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "92",
-                "contact:phone": "+47 33 44 79 00",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Veraåsen barnehage",
-                "no-barnehage:nsrid": "1022013",
-                "operator": "Veraåsen barnehage AS",
-                "operator:type": "private",
-                "start_date": "2009-12-10",
-                "id": "node/-2649"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.21659,
-                    59.13131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-2646",
             "properties": {
                 "amenity": "kindergarten",
@@ -136,7 +112,7 @@
                 "min_age": "1",
                 "name": "Pingeline barnehage",
                 "no-barnehage:nsrid": "1020059",
-                "operator": "Pingeline barnehage Sa",
+                "operator": "Pingeline barnehage AS",
                 "operator:type": "private",
                 "start_date": "1991-08-01",
                 "id": "node/-2630"
@@ -176,7 +152,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2620",
+            "id": "node/-2622",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:phone": "+47 33 44 79 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Veraåsen barnehage",
+                "no-barnehage:nsrid": "1022013",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2009-12-10",
+                "id": "node/-2622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21659,
+                    59.13131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2619",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -188,7 +188,7 @@
                 "operator": "Krokusen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-05-09",
-                "id": "node/-2620"
+                "id": "node/-2619"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +200,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2614",
+            "id": "node/-2613",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -213,7 +213,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1993-08-01",
-                "id": "node/-2614"
+                "id": "node/-2613"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +225,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2600",
+            "id": "node/-2599",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "138",
@@ -239,7 +239,7 @@
                 "operator": "Espira Åbol AS",
                 "operator:type": "private",
                 "start_date": "2008-06-04",
-                "id": "node/-2600"
+                "id": "node/-2599"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +251,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2597",
+            "id": "node/-2596",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -264,7 +264,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-2597"
+                "id": "node/-2596"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +276,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2596",
+            "id": "node/-2595",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -289,7 +289,7 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-2596"
+                "id": "node/-2595"
             },
             "geometry": {
                 "type": "Point",
@@ -301,7 +301,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2594",
+            "id": "node/-2593",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -314,7 +314,7 @@
                 "operator": "Barnas Have AS",
                 "operator:type": "private",
                 "start_date": "1991-08-09",
-                "id": "node/-2594"
+                "id": "node/-2593"
             },
             "geometry": {
                 "type": "Point",

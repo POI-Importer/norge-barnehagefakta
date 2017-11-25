@@ -3,33 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2942",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "kontor@laringsverkstedet.no",
-                "contact:phone": "+47 92212484",
-                "contact:website": "http://www.soriamoriabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Slaabervig Naturbarnehage",
-                "no-barnehage:nsrid": "1015167",
-                "operator": "Soria Moria barnehage Hisøy AS",
-                "operator:type": "private",
-                "start_date": "2012-10-05",
-                "id": "node/-2942"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.77438,
-                    58.4446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2941",
+            "id": "node/-2952",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -42,7 +16,7 @@
                 "operator": "Portveien Barnehagedrift AS",
                 "operator:type": "private",
                 "start_date": "1999-08-01",
-                "id": "node/-2941"
+                "id": "node/-2952"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +28,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2939",
+            "id": "node/-2949",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "kontor@laringsverkstedet.no",
+                "contact:phone": "+47 92212484",
+                "contact:website": "http://www.soriamoriabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Slaabervig Naturbarnehage",
+                "no-barnehage:nsrid": "1015167",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2012-10-05",
+                "id": "node/-2949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77438,
+                    58.4446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2947",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -64,10 +64,10 @@
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Helsviga Naturbarnehage",
                 "no-barnehage:nsrid": "1017015",
-                "operator": "Soria Moria barnehage Hisøy AS",
+                "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2005-10-20",
-                "id": "node/-2939"
+                "id": "node/-2947"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +79,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2929",
+            "id": "node/-2938",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -91,7 +91,7 @@
                 "operator": "Arendal kommune",
                 "operator:type": "public",
                 "start_date": "2014-08-01",
-                "id": "node/-2929"
+                "id": "node/-2938"
             },
             "geometry": {
                 "type": "Point",

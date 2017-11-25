@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5144",
+            "id": "node/-5156",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Wiw AS",
+                "no-barnehage:nsrid": "2000181",
+                "operator": "Wiw AS",
+                "operator:type": "private",
+                "start_date": "2017-07-01",
+                "id": "node/-5156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.49067,
+                    64.47126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5155",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -17,7 +37,7 @@
                 "operator": "Vika barnehage AS",
                 "operator:type": "private",
                 "start_date": "1995-08-01",
-                "id": "node/-5144"
+                "id": "node/-5155"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5142",
+            "id": "node/-5153",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -41,7 +61,7 @@
                 "operator": "Namsos kommune",
                 "operator:type": "public",
                 "start_date": "2004-08-01",
-                "id": "node/-5142"
+                "id": "node/-5153"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5140",
+            "id": "node/-5151",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -64,7 +84,7 @@
                 "operator": "Namsos kommune",
                 "operator:type": "public",
                 "start_date": "2016-08-08",
-                "id": "node/-5140"
+                "id": "node/-5151"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5136",
+            "id": "node/-5147",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -88,7 +108,7 @@
                 "operator": "Natur & Idrettsbarnehagen AS",
                 "operator:type": "private",
                 "start_date": "2010-02-01",
-                "id": "node/-5136"
+                "id": "node/-5147"
             },
             "geometry": {
                 "type": "Point",
