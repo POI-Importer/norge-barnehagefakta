@@ -51,34 +51,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1715",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "67",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Vestskrenten Idrettsbarnehage",
-                "no-barnehage:nsrid": "1025493",
-                "operator": "Oksenøya Idrettsbarnehage AS",
-                "operator:type": "private",
-                "start_date": "2014-08-06",
-                "id": "node/-1715"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.78361,
-                    59.83259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1613",
+            "id": "node/-1614",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
-                "contact:email": "storeljan.st@barnehage.no",
+                "contact:email": "styrer@storeljan.no",
                 "contact:phone": "+47 22623010",
                 "contact:website": "http://www.storeljan.barnehage.no",
                 "max_age": "5",
@@ -88,7 +65,7 @@
                 "operator": "Store Ljan barnehage Sa",
                 "operator:type": "private",
                 "start_date": "1991-01-01",
-                "id": "node/-1613"
+                "id": "node/-1614"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1566",
+            "id": "node/-1568",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -112,7 +89,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1566"
+                "id": "node/-1568"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1467",
+            "id": "node/-1468",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -136,7 +113,7 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1467"
+                "id": "node/-1468"
             },
             "geometry": {
                 "type": "Point",
@@ -148,7 +125,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1462",
+            "id": "node/-1463",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -160,13 +137,36 @@
                 "operator": "Oslo kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-1462"
+                "id": "node/-1463"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.7907,
                     59.8313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1388",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Vestskrenten Idrettsbarnehage",
+                "no-barnehage:nsrid": "1025493",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2014-08-06",
+                "id": "node/-1388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78361,
+                    59.83259
                 ]
             }
         },

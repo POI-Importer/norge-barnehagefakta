@@ -28,31 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-108",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "164",
-                "contact:phone": "+47 69879900",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Store Tune Gård barnehage",
-                "no-barnehage:nsrid": "1021389",
-                "operator": "Store Tune Gård barnehage AS",
-                "operator:type": "private",
-                "start_date": "2006-02-08",
-                "id": "node/-108"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.07758,
-                    59.29364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-98",
+            "id": "node/-99",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -65,13 +41,37 @@
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-98"
+                "id": "node/-99"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.1116,
                     59.2991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-94",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "164",
+                "contact:phone": "+47 69879900",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Store Tune Gård barnehage",
+                "no-barnehage:nsrid": "1021389",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2006-02-08",
+                "id": "node/-94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07758,
+                    59.29364
                 ]
             }
         },
