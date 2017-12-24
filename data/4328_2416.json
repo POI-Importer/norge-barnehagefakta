@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2618",
+            "id": "node/-2623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -17,13 +17,38 @@
                 "operator": "Løkka barnehage Sandefjord AS",
                 "operator:type": "private",
                 "start_date": "2008-05-01",
-                "id": "node/-2618"
+                "id": "node/-2623"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.2166,
                     59.1642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2610",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "100",
+                "contact:email": "post@hunsrod-bhg.no",
+                "contact:phone": "+47 33 42 75 80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hunsrød Fevang barnehage Sa Avd Hunsrødgrenda",
+                "no-barnehage:nsrid": "1020612",
+                "operator": "Hunsrød-Fevang barnehage Sa",
+                "operator:type": "private",
+                "start_date": "2000-08-01",
+                "id": "node/-2610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21495,
+                    59.17185
                 ]
             }
         }
