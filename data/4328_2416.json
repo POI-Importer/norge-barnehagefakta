@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2623",
+            "id": "node/-2625",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -17,7 +17,7 @@
                 "operator": "Løkka barnehage Sandefjord AS",
                 "operator:type": "private",
                 "start_date": "2008-05-01",
-                "id": "node/-2623"
+                "id": "node/-2625"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2610",
+            "id": "node/-2612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "100",
@@ -42,13 +42,33 @@
                 "operator": "Hunsrød-Fevang barnehage Sa",
                 "operator:type": "private",
                 "start_date": "2000-08-01",
-                "id": "node/-2610"
+                "id": "node/-2612"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.21495,
                     59.17185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2597",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Brunstad Kristelige Menighet Sandefjord",
+                "no-barnehage:nsrid": "2000202",
+                "operator": "Brunstad Kristelige Menighet Sandefjord",
+                "operator:type": "private",
+                "start_date": "2016-01-01",
+                "id": "node/-2597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21627,
+                    59.16434
                 ]
             }
         }

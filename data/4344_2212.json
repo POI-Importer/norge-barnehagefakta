@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5173",
+            "id": "node/-5174",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -16,7 +16,7 @@
                 "operator": "Stjørdal Kvinne & Familielag",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-5173"
+                "id": "node/-5174"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5169",
+            "id": "node/-5170",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -39,7 +39,33 @@
                 "operator": "Sagatun barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-07-01",
-                "id": "node/-5169"
+                "id": "node/-5170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9176,
+                    63.4678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5158",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:email": "leder.husbyasen@gnistbarnehager.no",
+                "contact:phone": "+47 40 00 65 96",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist Barnehager Husbyåsen AS",
+                "no-barnehage:nsrid": "1021873",
+                "operator": "Gnist Barnehager Husbyåsen AS",
+                "operator:type": "private",
+                "start_date": "2008-09-23",
+                "id": "node/-5158"
             },
             "geometry": {
                 "type": "Point",
@@ -54,32 +80,6 @@
             "id": "node/-5157",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
-                "contact:email": "leder.husbyasen@gnistbarnehager.no",
-                "contact:phone": "+47 40 00 65 96",
-                "contact:website": "http://www.gnistbarnehager.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gnist Barnehager Husbyåsen AS",
-                "no-barnehage:nsrid": "1021873",
-                "operator": "Gnist Barnehager Husbyåsen AS",
-                "operator:type": "private",
-                "start_date": "2008-09-23",
-                "id": "node/-5157"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9176,
-                    63.4678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5156",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "60",
                 "contact:email": "gsprang@online.no",
                 "contact:phone": "+47 93010028",
@@ -90,7 +90,7 @@
                 "operator": "Geitspranget Naturbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-03-01",
-                "id": "node/-5156"
+                "id": "node/-5157"
             },
             "geometry": {
                 "type": "Point",
