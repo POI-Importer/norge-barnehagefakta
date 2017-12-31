@@ -3,32 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2727",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "61",
-                "contact:email": "tippen@barnehage.no",
-                "contact:phone": "+47 35 51 26 31",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tippen barnehage",
-                "no-barnehage:nsrid": "1019720",
-                "operator": "Tippen barnehage Sa",
-                "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-2727"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.648074,
-                    59.11438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2725",
+            "id": "node/-2735",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -41,7 +16,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-02",
-                "id": "node/-2725"
+                "id": "node/-2735"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +28,57 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2716",
+            "id": "node/-2734",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "contact:email": "skogtoppen@barnehage.no",
+                "contact:phone": "+47 35 51 55 90",
+                "contact:website": "http://www.skogtoppenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skogtoppen barnehage AS",
+                "no-barnehage:nsrid": "1022189",
+                "operator": "Skogtoppen barnehage AS",
+                "operator:type": "private",
+                "start_date": "1994-08-01",
+                "id": "node/-2734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.665745,
+                    59.11452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2727",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Min Barnehage, Øyekast AS",
+                "no-barnehage:nsrid": "2000189",
+                "operator": "Min Barnehage, Øyekast AS",
+                "operator:type": "private",
+                "start_date": "2018-01-01",
+                "id": "node/-2727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.640857,
+                    59.12784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2715",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
+                "contact:email": "guro.aslaksen@grepgreland.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grep Rønningen barnehage",
@@ -64,7 +86,7 @@
                 "operator": "Grep Grenland AS",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2716"
+                "id": "node/-2715"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2714",
+            "id": "node/-2713",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -88,7 +110,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2007-11-01",
-                "id": "node/-2714"
+                "id": "node/-2713"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4131",
+            "id": "node/-4145",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -15,7 +15,7 @@
                 "operator": "Storebø Fus barnehage AS",
                 "operator:type": "private",
                 "start_date": "2011-08-31",
-                "id": "node/-4131"
+                "id": "node/-4145"
             },
             "geometry": {
                 "type": "Point",
@@ -27,12 +27,13 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4130",
+            "id": "node/-4144",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
-                "contact:email": "adrivenes@yahoo.no",
+                "contact:email": "solli.barnehage@yahoo.no",
                 "contact:phone": "+47 55 08 53 50",
+                "contact:website": "http://www.solli.barnehageside.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sol-Li barnehage AS",
@@ -40,7 +41,7 @@
                 "operator": "Sol-Li barnehage AS",
                 "operator:type": "private",
                 "start_date": "1989-01-02",
-                "id": "node/-4130"
+                "id": "node/-4144"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +53,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4125",
+            "id": "node/-4143",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sol-Li barnehage Ann-Elen Waage Drivenes",
+                "no-barnehage:nsrid": "2000201",
+                "operator": "Sol-Li barnehage Ann-Elen Waage Drivenes",
+                "operator:type": "private",
+                "start_date": "2016-01-01",
+                "id": "node/-4143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230229,
+                    60.09341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4138",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -66,7 +87,7 @@
                 "operator": "Haugland Gards- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-11-22",
-                "id": "node/-4125"
+                "id": "node/-4138"
             },
             "geometry": {
                 "type": "Point",
