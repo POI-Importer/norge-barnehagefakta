@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3237",
+            "id": "node/-3235",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -17,32 +17,6 @@
                 "operator": "Remehaugen barnehage AS",
                 "operator:type": "private",
                 "start_date": "2004-08-01",
-                "id": "node/-3237"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.051419,
-                    57.99112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3235",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "82",
-                "contact:email": "Styrer@lindesnes.espira.no",
-                "contact:phone": "+47 21 08 80 88",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Lindesnes AS",
-                "no-barnehage:nsrid": "1022073",
-                "operator": "Espira Lindesnes AS",
-                "operator:type": "private",
-                "start_date": "2010-06-04",
                 "id": "node/-3235"
             },
             "geometry": {
@@ -58,6 +32,32 @@
             "id": "node/-3233",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:email": "Styrer@lindesnes.espira.no",
+                "contact:phone": "+47 21 08 80 88",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Lindesnes AS",
+                "no-barnehage:nsrid": "1022073",
+                "operator": "Espira Lindesnes AS",
+                "operator:type": "private",
+                "start_date": "2010-06-04",
+                "id": "node/-3233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051419,
+                    57.99112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3231",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "12",
                 "contact:email": "ajorgensen@agder.no",
                 "contact:phone": "+47 958 04 064",
@@ -68,7 +68,7 @@
                 "operator": "Barnas Naturbarnehage Da",
                 "operator:type": "private",
                 "start_date": "2012-08-01",
-                "id": "node/-3233"
+                "id": "node/-3231"
             },
             "geometry": {
                 "type": "Point",
