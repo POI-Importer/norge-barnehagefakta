@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2770",
+            "id": "node/-2771",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "100",
@@ -15,7 +15,7 @@
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "start_date": "2008-02-26",
-                "id": "node/-2770"
+                "id": "node/-2771"
             },
             "geometry": {
                 "type": "Point",
@@ -27,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2736",
+            "id": "node/-2737",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
+                "contact:email": "mlvestun@frisurf.no",
                 "contact:phone": "+47 35 51 55 08",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vest-Tun barnehage AS",
+                "name": "Vest-Tun barnehage",
                 "no-barnehage:nsrid": "1015940",
                 "operator": "Den Evangelisk Lutherske Frikirke Porsgrunn Menighet",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2736"
+                "id": "node/-2737"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +52,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2728",
+            "id": "node/-2736",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:email": "trine.larsen@porsgrunn.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestsiden barnehage",
+                "no-barnehage:nsrid": "1019583",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "start_date": "2014-01-01",
+                "id": "node/-2736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.634799,
+                    59.14537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2724",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -64,7 +89,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "2001-12-17",
-                "id": "node/-2728"
+                "id": "node/-2724"
             },
             "geometry": {
                 "type": "Point",
@@ -76,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2726",
+            "id": "node/-2722",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -89,7 +114,7 @@
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "start_date": "2010-07-27",
-                "id": "node/-2726"
+                "id": "node/-2722"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2718",
+            "id": "node/-2714",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -114,7 +139,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2718"
+                "id": "node/-2714"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +151,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2716",
+            "id": "node/-2712",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -138,7 +163,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2716"
+                "id": "node/-2712"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +175,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2715",
+            "id": "node/-2711",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "mm226@kirken.no",
@@ -161,7 +186,7 @@
                 "operator": "Porsgrunn Sokn",
                 "operator:type": "private",
                 "start_date": "1995-02-23",
-                "id": "node/-2715"
+                "id": "node/-2711"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +198,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2712",
+            "id": "node/-2708",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -186,7 +211,7 @@
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2712"
+                "id": "node/-2708"
             },
             "geometry": {
                 "type": "Point",

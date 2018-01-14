@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5270",
+            "id": "node/-5271",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -16,7 +16,32 @@
                 "operator": "Grong kommune",
                 "operator:type": "public",
                 "start_date": "1992-01-01",
-                "id": "node/-5270"
+                "id": "node/-5271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3149,
+                    64.4654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5269",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:email": "ingri.gartland@grong.kommune.no",
+                "contact:phone": "+47 74 33 17 47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ekker barnehage",
+                "no-barnehage:nsrid": "1013640",
+                "operator": "Grong kommune",
+                "operator:type": "public",
+                "start_date": "1989-01-01",
+                "id": "node/-5269"
             },
             "geometry": {
                 "type": "Point",
@@ -32,31 +57,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
-                "contact:email": "ingri.gartland@grong.kommune.no",
-                "contact:phone": "+47 74 33 17 47",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ekker barnehage",
-                "no-barnehage:nsrid": "1013640",
-                "operator": "Grong kommune",
-                "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-5268"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.3149,
-                    64.4654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5267",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "34",
                 "contact:email": "monika.sether@grong.kommune.no",
                 "contact:phone": "+47 74 33 08 23",
                 "max_age": "5",
@@ -66,7 +66,7 @@
                 "operator": "Grong kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-5267"
+                "id": "node/-5268"
             },
             "geometry": {
                 "type": "Point",
