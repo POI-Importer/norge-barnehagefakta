@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3248",
+            "id": "node/-3249",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -16,7 +16,7 @@
                 "operator": "Sangfuglen barnehage R Limmesand",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-3248"
+                "id": "node/-3249"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3247",
+            "id": "node/-3248",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -41,7 +41,31 @@
                 "operator": "Lyngdal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3247"
+                "id": "node/-3248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.07044,
+                    58.1379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3246",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:email": "rom@laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage Avd Rom barnehage",
+                "no-barnehage:nsrid": "1013171",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "start_date": "2004-08-18",
+                "id": "node/-3246"
             },
             "geometry": {
                 "type": "Point",
@@ -56,15 +80,16 @@
             "id": "node/-3245",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
-                "contact:email": "rom@laringsverkstedet.no",
+                "capacity": "102",
+                "contact:email": "bergeheim@laringsverkstedet.no",
+                "contact:phone": "+47 38 33 42 11",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Rom barnehage",
-                "no-barnehage:nsrid": "1013171",
+                "name": "Læringsverkstedet barnehage Avd Bergeheim",
+                "no-barnehage:nsrid": "1014196",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "start_date": "2004-08-18",
+                "start_date": "2010-08-01",
                 "id": "node/-3245"
             },
             "geometry": {
@@ -80,31 +105,6 @@
             "id": "node/-3244",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "102",
-                "contact:email": "bergeheim@laringsverkstedet.no",
-                "contact:phone": "+47 38 33 42 11",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage Avd Bergeheim",
-                "no-barnehage:nsrid": "1014196",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "start_date": "2010-08-01",
-                "id": "node/-3244"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.07044,
-                    58.1379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3243",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "108",
                 "contact:email": "nancy.smesland@lyngdal.kommune.no",
                 "contact:phone": "+47 38 33 07 50",
@@ -115,7 +115,7 @@
                 "operator": "Lyngdal kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-3243"
+                "id": "node/-3244"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +127,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3241",
+            "id": "node/-3242",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "lindakvavik@hotmail.com",
@@ -136,7 +136,7 @@
                 "operator": "Frikirken Lyngdal Menighet",
                 "operator:type": "private",
                 "start_date": "2010-12-01",
-                "id": "node/-3241"
+                "id": "node/-3242"
             },
             "geometry": {
                 "type": "Point",
@@ -148,7 +148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3240",
+            "id": "node/-3241",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -162,7 +162,7 @@
                 "operator": "Lyngdal Pinsemenighet",
                 "operator:type": "private",
                 "start_date": "1992-08-01",
-                "id": "node/-3240"
+                "id": "node/-3241"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +174,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3239",
+            "id": "node/-3240",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -187,7 +187,7 @@
                 "operator": "Eplehagen barnehage Lyngdal AS",
                 "operator:type": "private",
                 "start_date": "2004-03-16",
-                "id": "node/-3239"
+                "id": "node/-3240"
             },
             "geometry": {
                 "type": "Point",

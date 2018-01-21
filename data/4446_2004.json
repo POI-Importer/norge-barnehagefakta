@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5526",
+            "id": "node/-5527",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -16,7 +16,33 @@
                 "operator": "Medås Gårdsbarnehage AS",
                 "operator:type": "private",
                 "start_date": "1999-08-15",
-                "id": "node/-5526"
+                "id": "node/-5527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39163,
+                    67.25919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5525",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:email": "lisa@kvitrebarnehage.no",
+                "contact:phone": "+47 75 64 99 55",
+                "contact:website": "http://www.kvitrebarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvitre barnehage AS",
+                "no-barnehage:nsrid": "1021468",
+                "operator": "Kvitre barnehage AS",
+                "operator:type": "private",
+                "start_date": "2006-06-07",
+                "id": "node/-5525"
             },
             "geometry": {
                 "type": "Point",
@@ -31,32 +57,6 @@
             "id": "node/-5524",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "24",
-                "contact:email": "lisa@kvitrebarnehage.no",
-                "contact:phone": "+47 75 64 99 55",
-                "contact:website": "http://www.kvitrebarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvitre barnehage AS",
-                "no-barnehage:nsrid": "1021468",
-                "operator": "Kvitre barnehage AS",
-                "operator:type": "private",
-                "start_date": "2006-06-07",
-                "id": "node/-5524"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.39163,
-                    67.25919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5523",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "22",
                 "contact:email": "hilde.moen@fauske.kommune.no",
                 "contact:phone": "+47 75 60 41 20",
@@ -67,7 +67,7 @@
                 "operator": "Fauske kommune",
                 "operator:type": "public",
                 "start_date": "1976-01-01",
-                "id": "node/-5523"
+                "id": "node/-5524"
             },
             "geometry": {
                 "type": "Point",

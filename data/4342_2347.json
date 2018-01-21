@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2081",
+            "id": "node/-2078",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -15,7 +15,7 @@
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
                 "start_date": "1988-04-01",
-                "id": "node/-2081"
+                "id": "node/-2078"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2080",
+            "id": "node/-2077",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -40,30 +40,6 @@
                 "operator": "Steinerbarnehagen",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2080"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.81325,
-                    60.67467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2077",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "92",
-                "contact:email": "dl.lena@bhg.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lena Fus barnehage AS",
-                "no-barnehage:nsrid": "1022366",
-                "operator": "Lena Fus barnehage AS",
-                "operator:type": "private",
-                "start_date": "2013-04-04",
                 "id": "node/-2077"
             },
             "geometry": {
@@ -79,6 +55,30 @@
             "id": "node/-2074",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:email": "dl.lena@bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lena Fus barnehage AS",
+                "no-barnehage:nsrid": "1022366",
+                "operator": "Lena Fus barnehage AS",
+                "operator:type": "private",
+                "start_date": "2013-04-04",
+                "id": "node/-2074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81325,
+                    60.67467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2071",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "70",
                 "contact:email": "gunn.irene.odegardstuen@ostre-toten.kommune.no",
                 "max_age": "5",
@@ -88,7 +88,7 @@
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
                 "start_date": "1976-12-24",
-                "id": "node/-2074"
+                "id": "node/-2071"
             },
             "geometry": {
                 "type": "Point",

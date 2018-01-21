@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2999",
+            "id": "node/-3000",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -16,7 +16,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2999"
+                "id": "node/-3000"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2998",
+            "id": "node/-2999",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -40,6 +40,30 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "2013-08-01",
+                "id": "node/-2999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.642127,
+                    58.50686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2998",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:email": "post@frolandmusikkbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Froland Musikkbarnehage",
+                "no-barnehage:nsrid": "1022035",
+                "operator": "Froland Musikkbarnehage AS",
+                "operator:type": "private",
+                "start_date": "2010-02-25",
                 "id": "node/-2998"
             },
             "geometry": {
@@ -52,31 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2997",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "contact:email": "post@frolandmusikkbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Froland Musikkbarnehage",
-                "no-barnehage:nsrid": "1022035",
-                "operator": "Froland Musikkbarnehage AS",
-                "operator:type": "private",
-                "start_date": "2010-02-25",
-                "id": "node/-2997"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.642127,
-                    58.50686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2994",
+            "id": "node/-2995",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -88,7 +88,7 @@
                 "operator": "Froland kommune",
                 "operator:type": "public",
                 "start_date": "1992-08-01",
-                "id": "node/-2994"
+                "id": "node/-2995"
             },
             "geometry": {
                 "type": "Point",
