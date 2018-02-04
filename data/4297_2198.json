@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4969",
+            "id": "node/-4968",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -16,31 +16,6 @@
                 "operator": "Sistranda Kystbarnehage AS",
                 "operator:type": "private",
                 "start_date": "2002-07-01",
-                "id": "node/-4969"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.834004,
-                    63.72554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4968",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "63",
-                "contact:email": "britt@rabbenbarnehage.no",
-                "contact:phone": "+47 48075072",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rabben Barnehagedrift AS",
-                "no-barnehage:nsrid": "1022343",
-                "operator": "Rabben Barnehagedrift AS",
-                "operator:type": "private",
-                "start_date": "2013-01-10",
                 "id": "node/-4968"
             },
             "geometry": {
@@ -53,7 +28,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4963",
+            "id": "node/-4967",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "britt@rabbenbarnehage.no",
+                "contact:phone": "+47 48075072",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben Barnehagedrift AS",
+                "no-barnehage:nsrid": "1022343",
+                "operator": "Rabben Barnehagedrift AS",
+                "operator:type": "private",
+                "start_date": "2013-01-10",
+                "id": "node/-4967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4962",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "birgit.ballack@froya.kommune.no",
@@ -63,7 +63,7 @@
                 "operator": "Frøya kommune",
                 "operator:type": "public",
                 "start_date": "2011-01-01",
-                "id": "node/-4963"
+                "id": "node/-4962"
             },
             "geometry": {
                 "type": "Point",
