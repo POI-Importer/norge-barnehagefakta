@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2645",
+            "id": "node/-2585",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -16,7 +16,7 @@
                 "operator": "Villa Villekulla barnehage AS",
                 "operator:type": "private",
                 "start_date": "2005-10-01",
-                "id": "node/-2645"
+                "id": "node/-2585"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2643",
+            "id": "node/-2583",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -41,7 +41,7 @@
                 "operator": "Sandefjord Kirkelige Fellesråd",
                 "operator:type": "private",
                 "start_date": "1989-01-01",
-                "id": "node/-2643"
+                "id": "node/-2583"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2641",
+            "id": "node/-2581",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -66,7 +66,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2641"
+                "id": "node/-2581"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2627",
+            "id": "node/-2567",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "anne.haukaas@sandefjord.kommune.no",
@@ -88,7 +88,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1997-03-01",
-                "id": "node/-2627"
+                "id": "node/-2567"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +100,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2626",
+            "id": "node/-2566",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -113,7 +113,7 @@
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
                 "start_date": "1989-01-01",
-                "id": "node/-2626"
+                "id": "node/-2566"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +125,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2602",
+            "id": "node/-2554",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "post@lahellebarnehage.no",
+                "contact:phone": "+47 33 47 28 00",
+                "contact:website": "http://lahelle.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lahelle barnehage Horieh Yegani-Behambari",
+                "no-barnehage:nsrid": "1021164",
+                "operator": "Lahelle barnehage Horieh Yegani-Behambari",
+                "operator:type": "private",
+                "start_date": "2005-08-01",
+                "id": "node/-2554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28245,
+                    59.11787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2542",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -138,38 +164,13 @@
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
                 "start_date": "1992-11-01",
-                "id": "node/-2602"
+                "id": "node/-2542"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.2711,
                     59.1275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2601",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "26",
-                "contact:email": "post@gapahuken.info",
-                "contact:phone": "+47 33 47 25 99",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gapahuken barnehage AS",
-                "no-barnehage:nsrid": "1021042",
-                "operator": "Gapahuken barnehage AS",
-                "operator:type": "private",
-                "start_date": "2000-08-01",
-                "id": "node/-2601"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.25491,
-                    59.11331
                 ]
             }
         }
