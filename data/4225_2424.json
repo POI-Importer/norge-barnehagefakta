@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3377",
+            "id": "node/-3323",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -16,8 +16,7 @@
                 "no-barnehage:nsrid": "1012917",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-3377"
+                "id": "node/-3323"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +28,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3376",
+            "id": "node/-3322",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "64",
                 "contact:email": "tone.ditlevsen@stavanger.kommune.no",
                 "contact:phone": "+47 51913430",
                 "max_age": "5",
@@ -41,8 +40,7 @@
                 "no-barnehage:nsrid": "1012910",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-3376"
+                "id": "node/-3322"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +52,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3366",
+            "id": "node/-3312",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "72",
                 "contact:email": "bhg.trollberget@laringsverkstedet.no",
                 "contact:phone": "+47 63 94 62 50",
                 "max_age": "5",
@@ -66,8 +64,7 @@
                 "no-barnehage:nsrid": "1021735",
                 "operator": "Trollberget AS",
                 "operator:type": "private",
-                "start_date": "1999-01-01",
-                "id": "node/-3366"
+                "id": "node/-3312"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +76,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3365",
+            "id": "node/-3311",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "32",
+                "capacity": "28",
                 "contact:email": "eli.mundheim@stavanger.kommune.no",
                 "contact:phone": "+47 51 91 32 25",
                 "contact:website": "http://www.minbarnehage.no/triade",
@@ -92,8 +89,7 @@
                 "no-barnehage:nsrid": "1012920",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1965-12-31",
-                "id": "node/-3365"
+                "id": "node/-3311"
             },
             "geometry": {
                 "type": "Point",
@@ -105,20 +101,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3364",
+            "id": "node/-3310",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "69",
                 "contact:email": "eli.mundheim@stavanger.kommune.no",
                 "contact:phone": "+47 51913200",
+                "contact:website": "http://www.minbarnehage.no/triade",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Triade barnehage Avdeling Smietunet",
                 "no-barnehage:nsrid": "1016073",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1994-08-19",
-                "id": "node/-3364"
+                "id": "node/-3310"
             },
             "geometry": {
                 "type": "Point",
@@ -130,10 +126,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3361",
+            "id": "node/-3307",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "36",
+                "capacity": "29",
                 "contact:email": "inger.haraldsen@stavanger.kommune.no",
                 "contact:phone": "+47 51 54 22 62",
                 "max_age": "5",
@@ -142,8 +138,7 @@
                 "no-barnehage:nsrid": "1012914",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-3361"
+                "id": "node/-3307"
             },
             "geometry": {
                 "type": "Point",
@@ -155,10 +150,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3360",
+            "id": "node/-3306",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "65",
                 "contact:email": "karin.egebakken@stavanger.kommune.no",
                 "contact:phone": "+47 51913240",
                 "max_age": "5",
@@ -167,8 +162,7 @@
                 "no-barnehage:nsrid": "1016074",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1993-08-01",
-                "id": "node/-3360"
+                "id": "node/-3306"
             },
             "geometry": {
                 "type": "Point",
@@ -180,10 +174,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3311",
+            "id": "node/-3305",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "90",
+                "contact:phone": "+47 51558800",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tastarustå barnehage AS",
+                "no-barnehage:nsrid": "1026043",
+                "operator": "Tastarustå barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.689776,
+                    58.98413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3257",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
                 "contact:email": "gunn.gausel@ras.rl.no",
                 "contact:phone": "+47 51 72 90 53",
                 "max_age": "5",
@@ -192,8 +209,7 @@
                 "no-barnehage:nsrid": "1012949",
                 "operator": "Rogaland A- Senter AS",
                 "operator:type": "private",
-                "start_date": "1992-01-01",
-                "id": "node/-3311"
+                "id": "node/-3257"
             },
             "geometry": {
                 "type": "Point",
@@ -205,10 +221,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3288",
+            "id": "node/-3235",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "94",
+                "capacity": "93",
                 "contact:email": "silje@scalabarnehagene.no",
                 "contact:phone": "+47 21 08 80 88",
                 "contact:website": "http://www.espira.no",
@@ -218,8 +234,7 @@
                 "no-barnehage:nsrid": "1021235",
                 "operator": "Espira Scala Tasta AS",
                 "operator:type": "private",
-                "start_date": "2005-05-13",
-                "id": "node/-3288"
+                "id": "node/-3235"
             },
             "geometry": {
                 "type": "Point",
@@ -231,10 +246,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3286",
+            "id": "node/-3233",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "70",
                 "contact:email": "styrer@rodknappen.espira.no",
                 "contact:phone": "+47 21 08 80 88",
                 "contact:website": "http://www.rodknappen.espira.no",
@@ -244,8 +259,7 @@
                 "no-barnehage:nsrid": "1022002",
                 "operator": "Espira Rødknappen AS",
                 "operator:type": "private",
-                "start_date": "1993-07-01",
-                "id": "node/-3286"
+                "id": "node/-3233"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +271,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3283",
+            "id": "node/-3230",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -270,8 +284,7 @@
                 "no-barnehage:nsrid": "1020585",
                 "operator": "Dusavik barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-3283"
+                "id": "node/-3230"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +296,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3278",
+            "id": "node/-3225",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -296,8 +309,7 @@
                 "no-barnehage:nsrid": "1019942",
                 "operator": "Byhaugen barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-3278"
+                "id": "node/-3225"
             },
             "geometry": {
                 "type": "Point",
@@ -309,30 +321,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3277",
+            "id": "node/-3212",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Byfjordparken barnehage AS",
-                "no-barnehage:nsrid": "2000194",
-                "operator": "Byfjordparken barnehage AS",
-                "operator:type": "private",
-                "start_date": "2017-11-14",
-                "id": "node/-3277"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.710641,
-                    58.98199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3264",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "62",
                 "contact:email": "gro.ytre-arne@stavanger.kommune.no",
                 "contact:phone": "+47 51 53 82 50",
                 "max_age": "5",
@@ -341,8 +333,7 @@
                 "no-barnehage:nsrid": "1015529",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "start_date": "1977-10-10",
-                "id": "node/-3264"
+                "id": "node/-3212"
             },
             "geometry": {
                 "type": "Point",
@@ -354,7 +345,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3258",
+            "id": "node/-3206",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -367,8 +358,7 @@
                 "no-barnehage:nsrid": "1020126",
                 "operator": "Bamsebu barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1993-12-20",
-                "id": "node/-3258"
+                "id": "node/-3206"
             },
             "geometry": {
                 "type": "Point",

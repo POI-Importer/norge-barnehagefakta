@@ -3,46 +3,25 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2049",
+            "id": "node/-2006",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "44",
                 "contact:email": "ringebu.barnehage@ringebu.kommune.no",
                 "contact:phone": "+47 61 28 47 50",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "Ringebu barnehage",
                 "no-barnehage:nsrid": "1017468",
                 "operator": "Ringebu kommune",
                 "operator:type": "public",
-                "start_date": "1982-01-01",
-                "id": "node/-2049"
+                "id": "node/-2006"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.1389,
                     61.5296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2039",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Anne Margrethe'S Familiebarnehage AS",
-                "no-barnehage:nsrid": "2000165",
-                "operator": "Anne Margrethe'S Familiebarnehage AS",
-                "operator:type": "private",
-                "start_date": "2017-08-15",
-                "id": "node/-2039"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.13698,
-                    61.53445
                 ]
             }
         }

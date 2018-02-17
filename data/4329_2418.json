@@ -3,20 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2585",
+            "id": "node/-2541",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
-                "contact:email": "villavillekulla@barnehage.no",
-                "contact:phone": "+47 33 45 16 00",
+                "capacity": "25",
+                "contact:email": "villavillekulla.barnehage@gmail.com",
+                "contact:phone": "+47 91773983",
+                "contact:website": "http://villavillekulla.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Villa Villekulla barnehage AS",
                 "no-barnehage:nsrid": "1021959",
                 "operator": "Villa Villekulla barnehage AS",
                 "operator:type": "private",
-                "start_date": "2005-10-01",
-                "id": "node/-2585"
+                "id": "node/-2541"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2583",
+            "id": "node/-2539",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -40,8 +40,7 @@
                 "no-barnehage:nsrid": "1015939",
                 "operator": "Sandefjord Kirkelige Fellesråd",
                 "operator:type": "private",
-                "start_date": "1989-01-01",
-                "id": "node/-2583"
+                "id": "node/-2539"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +52,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2581",
+            "id": "node/-2537",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "52",
                 "contact:email": "vardenlia.barnehage@sandefjord.kommune.no",
                 "contact:phone": "+47 33 41 79 50",
                 "max_age": "5",
@@ -65,8 +64,7 @@
                 "no-barnehage:nsrid": "1012856",
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-2581"
+                "id": "node/-2537"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2567",
+            "id": "node/-2523",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "anne.haukaas@sandefjord.kommune.no",
@@ -87,8 +85,7 @@
                 "no-barnehage:nsrid": "1015583",
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
-                "start_date": "1997-03-01",
-                "id": "node/-2567"
+                "id": "node/-2523"
             },
             "geometry": {
                 "type": "Point",
@@ -100,10 +97,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2566",
+            "id": "node/-2522",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "50",
                 "contact:email": "hege.reielsen@sandefjord.kommune.no",
                 "contact:phone": "+47 33 41 79 50",
                 "max_age": "5",
@@ -112,8 +109,7 @@
                 "no-barnehage:nsrid": "1012853",
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
-                "start_date": "1989-01-01",
-                "id": "node/-2566"
+                "id": "node/-2522"
             },
             "geometry": {
                 "type": "Point",
@@ -125,10 +121,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2554",
+            "id": "node/-2510",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "42",
                 "contact:email": "post@lahellebarnehage.no",
                 "contact:phone": "+47 33 47 28 00",
                 "contact:website": "http://lahelle.barnehage.no",
@@ -138,8 +134,7 @@
                 "no-barnehage:nsrid": "1021164",
                 "operator": "Lahelle barnehage Horieh Yegani-Behambari",
                 "operator:type": "private",
-                "start_date": "2005-08-01",
-                "id": "node/-2554"
+                "id": "node/-2510"
             },
             "geometry": {
                 "type": "Point",
@@ -151,10 +146,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2542",
+            "id": "node/-2493",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "53",
                 "contact:email": "gjekstad@kanvas.no",
                 "contact:phone": "+47 22 40 58 40",
                 "max_age": "5",
@@ -163,14 +158,37 @@
                 "no-barnehage:nsrid": "1015477",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "start_date": "1992-11-01",
-                "id": "node/-2542"
+                "id": "node/-2493"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.2711,
                     59.1275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2492",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:email": "post@gapahuken.info",
+                "contact:phone": "+47 33 47 25 99",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gapahuken barnehage AS",
+                "no-barnehage:nsrid": "1021042",
+                "operator": "Gapahuken barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.25491,
+                    59.11331
                 ]
             }
         }

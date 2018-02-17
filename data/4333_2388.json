@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-684",
+            "id": "node/-668",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "56",
                 "contact:email": "merete.bjertnes@asker.kommune.no",
                 "contact:phone": "+47 66907100",
                 "max_age": "5",
@@ -15,8 +15,7 @@
                 "no-barnehage:nsrid": "1012765",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "start_date": "1992-08-01",
-                "id": "node/-684"
+                "id": "node/-668"
             },
             "geometry": {
                 "type": "Point",
@@ -28,34 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-683",
+            "id": "node/-667",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "36",
-                "contact:email": "merete.bjertnes@asker.kommune.no",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Vikingjordet barnehage Åmotveien",
-                "no-barnehage:nsrid": "1025803",
-                "operator": "Asker kommune",
-                "operator:type": "public",
-                "start_date": "2015-01-01",
-                "id": "node/-683"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.43076,
-                    59.78477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-682",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "18",
                 "contact:email": "merete.bjertnes@asker.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
@@ -63,8 +38,7 @@
                 "no-barnehage:nsrid": "1025802",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "start_date": "2015-01-01",
-                "id": "node/-682"
+                "id": "node/-667"
             },
             "geometry": {
                 "type": "Point",
@@ -76,10 +50,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-642",
+            "id": "node/-637",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kistefossdammen barnehage",
+                "no-barnehage:nsrid": "2000102",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "id": "node/-637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43252,
+                    59.78484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-629",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
                 "contact:email": "merete.bjertnes@asker.kommune.no",
                 "max_age": "5",
                 "min_age": "3",
@@ -87,8 +83,7 @@
                 "no-barnehage:nsrid": "1025799",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "start_date": "2015-01-01",
-                "id": "node/-642"
+                "id": "node/-629"
             },
             "geometry": {
                 "type": "Point",
@@ -100,10 +95,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-641",
+            "id": "node/-628",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "50",
                 "contact:email": "merete.bjertnes@asker.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -111,8 +106,7 @@
                 "no-barnehage:nsrid": "1012760",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-641"
+                "id": "node/-628"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1997",
+            "id": "node/-1955",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -15,8 +15,7 @@
                 "no-barnehage:nsrid": "1025318",
                 "operator": "Vardal Sanitetsforening",
                 "operator:type": "private",
-                "start_date": "1989-01-01",
-                "id": "node/-1997"
+                "id": "node/-1955"
             },
             "geometry": {
                 "type": "Point",
@@ -28,10 +27,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1994",
+            "id": "node/-1952",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "76",
                 "contact:email": "monsbhg@online.no",
                 "contact:phone": "+47 61 13 09 80",
                 "max_age": "5",
@@ -40,8 +39,7 @@
                 "no-barnehage:nsrid": "1020907",
                 "operator": "Monssveen barnehage Sa",
                 "operator:type": "private",
-                "start_date": "2003-03-25",
-                "id": "node/-1994"
+                "id": "node/-1952"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +51,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1990",
+            "id": "node/-1948",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "78",
                 "contact:email": "sidsel.martinsen@gjovik.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -64,39 +62,13 @@
                 "no-barnehage:nsrid": "1017208",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "start_date": "2006-08-01",
-                "id": "node/-1990"
+                "id": "node/-1948"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6787,
                     60.8047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1980",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "15",
-                "contact:email": "l-fystro@frisurf.no",
-                "contact:phone": "+47 61 17 68 75",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Eik Naturbarnehage",
-                "no-barnehage:nsrid": "1021490",
-                "operator": "Liv Dorthea Skaaren-Fystro",
-                "operator:type": "private",
-                "start_date": "2006-08-15",
-                "id": "node/-1980"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.64833,
-                    60.80481
                 ]
             }
         }

@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-618",
+            "id": "node/-604",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "56",
                 "contact:email": "karin.svendsen@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -14,8 +14,7 @@
                 "no-barnehage:nsrid": "1012678",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-618"
+                "id": "node/-604"
             },
             "geometry": {
                 "type": "Point",
@@ -27,10 +26,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-595",
+            "id": "node/-599",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "23",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vøyen Fus barnehage AS",
+                "no-barnehage:nsrid": "1026487",
+                "operator": "Vøyen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47878,
+                    59.90674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-580",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
                 "contact:email": "hilde.asenden@baerum.kommune.no",
                 "contact:phone": "+47 92203165",
                 "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/stavi-barnehage",
@@ -40,8 +61,7 @@
                 "no-barnehage:nsrid": "1012649",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-595"
+                "id": "node/-580"
             },
             "geometry": {
                 "type": "Point",
@@ -53,10 +73,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-539",
+            "id": "node/-526",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "41",
                 "contact:email": "marihona@barnehage.no",
                 "contact:phone": "+47 67 15 05 33",
                 "max_age": "5",
@@ -65,8 +85,7 @@
                 "no-barnehage:nsrid": "1020459",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1994-08-01",
-                "id": "node/-539"
+                "id": "node/-526"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-529",
+            "id": "node/-516",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -90,8 +109,7 @@
                 "no-barnehage:nsrid": "1020257",
                 "operator": "Lille-Jong barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1994-08-01",
-                "id": "node/-529"
+                "id": "node/-516"
             },
             "geometry": {
                 "type": "Point",
@@ -103,10 +121,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-517",
+            "id": "node/-504",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "32",
                 "contact:email": "kirkerudbakken@kbfb.no",
                 "contact:phone": "+47 67 13 33 48",
                 "contact:website": "http://www.kbfb.no",
@@ -116,8 +134,7 @@
                 "no-barnehage:nsrid": "1019832",
                 "operator": "Kirkerudbakken Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "start_date": "1989-01-02",
-                "id": "node/-517"
+                "id": "node/-504"
             },
             "geometry": {
                 "type": "Point",
@@ -129,10 +146,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-470",
+            "id": "node/-458",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "59",
                 "contact:email": "annelene.berntsen@baerum.kommune.no",
                 "contact:phone": "+47 67504010",
                 "contact:website": "http://www.baerum.kommune.no",
@@ -142,8 +159,7 @@
                 "no-barnehage:nsrid": "1013177",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "2005-01-01",
-                "id": "node/-470"
+                "id": "node/-458"
             },
             "geometry": {
                 "type": "Point",
@@ -155,10 +171,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-443",
+            "id": "node/-433",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "26",
                 "contact:email": "est@arba.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -166,8 +182,7 @@
                 "no-barnehage:nsrid": "1014909",
                 "operator": "Arba AS",
                 "operator:type": "private",
-                "start_date": "1995-08-01",
-                "id": "node/-443"
+                "id": "node/-433"
             },
             "geometry": {
                 "type": "Point",

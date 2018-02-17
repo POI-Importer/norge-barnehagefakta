@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1635",
+            "id": "node/-1601",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "59",
                 "contact:email": "sorenga.barnehage@norlandia.com",
                 "max_age": "5",
                 "min_age": "1",
@@ -14,8 +14,7 @@
                 "no-barnehage:nsrid": "1015157",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "start_date": "2012-09-01",
-                "id": "node/-1635"
+                "id": "node/-1601"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +26,42 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1388",
+            "id": "node/-1581",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Strekkoden barnehage",
+                "no-barnehage:nsrid": "2000103",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7621,
+                    59.90814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1362",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
                 "contact:email": "sorengkaia@laringsverkstedet.no",
-                "contact:phone": "+47 90542279",
+                "contact:phone": "+47 37071620",
+                "contact:website": "http://laringsverkstedet.no/barnehage/sorengkaia",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Sørengkaia AS",
                 "no-barnehage:nsrid": "1025509",
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
-                "start_date": "2014-10-09",
-                "id": "node/-1388"
+                "id": "node/-1362"
             },
             "geometry": {
                 "type": "Point",
@@ -52,10 +73,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1001",
+            "id": "node/-981",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "44",
                 "contact:email": "siri.dybvig@akerbryggebarnehage.no",
                 "contact:phone": "+47 22 83 80 28",
                 "contact:website": "http://www.akerbryggebarnehage.no",
@@ -65,8 +86,7 @@
                 "no-barnehage:nsrid": "1019882",
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1989-08-15",
-                "id": "node/-1001"
+                "id": "node/-981"
             },
             "geometry": {
                 "type": "Point",

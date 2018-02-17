@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3009",
+            "id": "node/-2962",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "23",
                 "contact:email": "styrer@rakkerungan.no",
                 "contact:phone": "+47 38021130",
                 "contact:website": "http://www.rakkerungan.no",
@@ -16,8 +16,7 @@
                 "no-barnehage:nsrid": "1013015",
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
-                "start_date": "2004-05-01",
-                "id": "node/-3009"
+                "id": "node/-2962"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +28,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2980",
+            "id": "node/-2940",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Krohns barnehage AS",
+                "no-barnehage:nsrid": "1025930",
+                "operator": "Krohns barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.103993,
+                    58.18179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2932",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -41,8 +62,7 @@
                 "no-barnehage:nsrid": "1012864",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "start_date": "1991-01-01",
-                "id": "node/-2980"
+                "id": "node/-2932"
             },
             "geometry": {
                 "type": "Point",
@@ -54,7 +74,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2978",
+            "id": "node/-2930",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "esteinsland@gmail.com",
@@ -62,8 +82,7 @@
                 "no-barnehage:nsrid": "1013446",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
-                "start_date": "2003-01-01",
-                "id": "node/-2978"
+                "id": "node/-2930"
             },
             "geometry": {
                 "type": "Point",

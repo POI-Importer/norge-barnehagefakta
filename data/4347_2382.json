@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-752",
+            "id": "node/-735",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -16,8 +16,7 @@
                 "no-barnehage:nsrid": "1019922",
                 "operator": "Tangen barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1990-01-22",
-                "id": "node/-752"
+                "id": "node/-735"
             },
             "geometry": {
                 "type": "Point",
@@ -29,10 +28,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-750",
+            "id": "node/-733",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "98",
+                "capacity": "94",
                 "contact:email": "per.olaf.steinsland@ralingen.kommune.no",
                 "contact:phone": "+47 006835100",
                 "max_age": "5",
@@ -41,8 +40,7 @@
                 "no-barnehage:nsrid": "1025370",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-750"
+                "id": "node/-733"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +52,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-743",
+            "id": "node/-726",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "59",
+                "contact:email": "post@espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Tristilbakken barnehage",
+                "no-barnehage:nsrid": "2000126",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07234,
+                    59.92092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-725",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
                 "contact:email": "jane.ukkestad@ralingen.kommune.no",
                 "contact:phone": "+47 006835100",
                 "max_age": "5",
@@ -66,8 +87,7 @@
                 "no-barnehage:nsrid": "1012826",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-743"
+                "id": "node/-725"
             },
             "geometry": {
                 "type": "Point",
@@ -79,10 +99,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-741",
+            "id": "node/-723",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "51",
                 "contact:email": "blystadlia.skole@ralingen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -90,8 +110,7 @@
                 "no-barnehage:nsrid": "1025444",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "start_date": "2014-08-01",
-                "id": "node/-741"
+                "id": "node/-723"
             },
             "geometry": {
                 "type": "Point",

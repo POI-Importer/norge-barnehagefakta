@@ -3,15 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-271",
+            "id": "node/-265",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Voldskogen barnehage",
                 "no-barnehage:nsrid": "2000150",
                 "operator": "Rygge kommune",
                 "operator:type": "public",
-                "start_date": "2017-08-15",
-                "id": "node/-271"
+                "id": "node/-265"
             },
             "geometry": {
                 "type": "Point",
@@ -23,20 +25,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-263",
+            "id": "node/-257",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "62",
                 "contact:email": "kontor@laringsverkstedet.no",
                 "contact:phone": "+47 69 26 03 30",
+                "contact:website": "http://www.laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Halmstad",
                 "no-barnehage:nsrid": "1016320",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "start_date": "2002-12-31",
-                "id": "node/-263"
+                "id": "node/-257"
             },
             "geometry": {
                 "type": "Point",

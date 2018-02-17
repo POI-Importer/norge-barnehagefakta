@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-610",
+            "id": "node/-595",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -16,8 +16,7 @@
                 "no-barnehage:nsrid": "1020000",
                 "operator": "Tøffe barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1991-10-01",
-                "id": "node/-610"
+                "id": "node/-595"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-594",
+            "id": "node/-579",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -42,8 +41,7 @@
                 "no-barnehage:nsrid": "1019648",
                 "operator": "Strand barnehage Sa",
                 "operator:type": "private",
-                "start_date": "1988-01-01",
-                "id": "node/-594"
+                "id": "node/-579"
             },
             "geometry": {
                 "type": "Point",
@@ -55,10 +53,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-593",
+            "id": "node/-578",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "143",
+                "capacity": "139",
                 "contact:email": "storoya.barnehage@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -66,8 +64,7 @@
                 "no-barnehage:nsrid": "1018564",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "2009-01-01",
-                "id": "node/-593"
+                "id": "node/-578"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +76,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-586",
+            "id": "node/-571",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -91,8 +88,7 @@
                 "no-barnehage:nsrid": "1020313",
                 "operator": "Stiftelsen Stabekktunet barnehage",
                 "operator:type": "private",
-                "start_date": "1995-02-22",
-                "id": "node/-586"
+                "id": "node/-571"
             },
             "geometry": {
                 "type": "Point",
@@ -104,10 +100,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-581",
+            "id": "node/-566",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "55",
                 "contact:email": "toril.mork@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -115,8 +111,7 @@
                 "no-barnehage:nsrid": "1012674",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "1988-04-01",
-                "id": "node/-581"
+                "id": "node/-566"
             },
             "geometry": {
                 "type": "Point",
@@ -128,21 +123,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-548",
+            "id": "node/-535",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "67",
+                "capacity": "109",
                 "contact:email": "sjoflyhavna.barnehage@norlandia.com",
                 "contact:phone": "+47 91907990",
                 "contact:website": "http://sjoflyhavna.norlandiabarnehagene.no",
-                "max_age": "2",
+                "max_age": "5",
                 "min_age": "1",
                 "name": "Norlandia Sjøflyhavna AS Avd barnehage",
                 "no-barnehage:nsrid": "1026201",
                 "operator": "Norlandia Sjøflyhavna AS",
                 "operator:type": "private",
-                "start_date": "2015-07-01",
-                "id": "node/-548"
+                "id": "node/-535"
             },
             "geometry": {
                 "type": "Point",
@@ -154,18 +148,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-537",
+            "id": "node/-524",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "96",
+                "capacity": "99",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Jar Idrettsbarnehage",
                 "no-barnehage:nsrid": "1022339",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "start_date": "2013-01-16",
-                "id": "node/-537"
+                "id": "node/-524"
             },
             "geometry": {
                 "type": "Point",
@@ -177,18 +170,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-535",
+            "id": "node/-522",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "147",
+                "capacity": "153",
+                "contact:email": "fornebuidrett@laringsverkstedet.no",
+                "contact:phone": "+47 91302388",
+                "contact:website": "http://www.laringsverkstdet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Avd Forneu Idrettsbarnehage",
                 "no-barnehage:nsrid": "1025942",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "start_date": "2015-05-01",
-                "id": "node/-535"
+                "id": "node/-522"
             },
             "geometry": {
                 "type": "Point",
@@ -200,10 +195,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-534",
+            "id": "node/-521",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "100",
+                "capacity": "98",
                 "contact:email": "lysakeridrett@idrettsbarnehage.no",
                 "contact:phone": "+47 45268002",
                 "max_age": "5",
@@ -212,8 +207,7 @@
                 "no-barnehage:nsrid": "1022099",
                 "operator": "Lysaker Idrettsbarnehage AS",
                 "operator:type": "private",
-                "start_date": "2010-08-23",
-                "id": "node/-534"
+                "id": "node/-521"
             },
             "geometry": {
                 "type": "Point",
@@ -225,10 +219,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-509",
+            "id": "node/-496",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "111",
+                "capacity": "116",
                 "contact:email": "gunn.ardal@baerum.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -236,8 +230,7 @@
                 "no-barnehage:nsrid": "1018349",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "2008-01-01",
-                "id": "node/-509"
+                "id": "node/-496"
             },
             "geometry": {
                 "type": "Point",
@@ -249,18 +242,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-477",
+            "id": "node/-466",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "23",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forneburingen barnehage Avd Kilentunet",
                 "no-barnehage:nsrid": "1025353",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "start_date": "1976-01-01",
-                "id": "node/-477"
+                "id": "node/-466"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +264,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-446",
+            "id": "node/-465",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Forneburingen barnehage",
+                "no-barnehage:nsrid": "1026459",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61135,
+                    59.89443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-436",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -285,8 +299,7 @@
                 "no-barnehage:nsrid": "1020960",
                 "operator": "Barnehagen Vier Sa",
                 "operator:type": "private",
-                "start_date": "2003-09-02",
-                "id": "node/-446"
+                "id": "node/-436"
             },
             "geometry": {
                 "type": "Point",

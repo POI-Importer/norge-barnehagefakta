@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3896",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -16,8 +16,7 @@
                 "no-barnehage:nsrid": "1021720",
                 "operator": "Østre Nattlandsfjellet barnehage Ans",
                 "operator:type": "private",
-                "start_date": "2007-10-22",
-                "id": "node/-3896"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3846",
+            "id": "node/-3785",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -41,8 +40,7 @@
                 "no-barnehage:nsrid": "1016089",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "start_date": "1990-01-01",
-                "id": "node/-3846"
+                "id": "node/-3785"
             },
             "geometry": {
                 "type": "Point",
@@ -54,10 +52,34 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3820",
+            "id": "node/-3760",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
+                "capacity": "24",
+                "contact:email": "nattland.oppveksttun.barnehage@bergen.kommune.no",
+                "contact:phone": "+47 53030600",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nattland Oppveksttun Avd barnehage",
+                "no-barnehage:nsrid": "2000093",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-3760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372806,
+                    60.33665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3759",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
                 "contact:email": "kristine.halvorsen@bergen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -65,8 +87,7 @@
                 "no-barnehage:nsrid": "1016717",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "start_date": "1989-01-02",
-                "id": "node/-3820"
+                "id": "node/-3759"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +99,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3776",
+            "id": "node/-3714",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -90,8 +111,7 @@
                 "no-barnehage:nsrid": "1015486",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-3776"
+                "id": "node/-3714"
             },
             "geometry": {
                 "type": "Point",
@@ -103,10 +123,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3773",
+            "id": "node/-3711",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "89",
+                "capacity": "87",
                 "contact:email": "Tone.Spjell@kidsabarnehager.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -114,8 +134,7 @@
                 "no-barnehage:nsrid": "1014237",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "start_date": "2010-10-29",
-                "id": "node/-3773"
+                "id": "node/-3711"
             },
             "geometry": {
                 "type": "Point",
@@ -127,10 +146,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3693",
+            "id": "node/-3632",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "84",
+                "capacity": "86",
                 "contact:email": "styrer@rambjora.espi.no",
                 "contact:phone": "+47 55 27 99 00",
                 "contact:website": "http://www.espira.rambjora.no",
@@ -140,8 +159,7 @@
                 "no-barnehage:nsrid": "1021058",
                 "operator": "Espira Rambjøra AS",
                 "operator:type": "private",
-                "start_date": "2004-04-19",
-                "id": "node/-3693"
+                "id": "node/-3632"
             },
             "geometry": {
                 "type": "Point",
@@ -153,10 +171,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3692",
+            "id": "node/-3631",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "84",
+                "capacity": "83",
                 "contact:email": "styrer@helldalsasen.espira.no",
                 "contact:phone": "+47 52 84 50 20",
                 "contact:website": "http://www.espira.no",
@@ -166,8 +184,7 @@
                 "no-barnehage:nsrid": "1020881",
                 "operator": "Espira Helldalsåsen AS",
                 "operator:type": "private",
-                "start_date": "2003-01-29",
-                "id": "node/-3692"
+                "id": "node/-3631"
             },
             "geometry": {
                 "type": "Point",
@@ -179,10 +196,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3688",
+            "id": "node/-3627",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "57",
                 "contact:email": "eplekarten@steinerbarnehage.no",
                 "contact:phone": "+47 55 61 38 30",
                 "max_age": "5",
@@ -191,8 +208,7 @@
                 "no-barnehage:nsrid": "1019872",
                 "operator": "Eplekarten Steinerbarnehage Sa",
                 "operator:type": "private",
-                "start_date": "1990-01-01",
-                "id": "node/-3688"
+                "id": "node/-3627"
             },
             "geometry": {
                 "type": "Point",

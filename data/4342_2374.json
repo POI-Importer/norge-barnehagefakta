@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-887",
+            "id": "node/-868",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "101",
+                "capacity": "104",
                 "contact:email": "jorunn@varingskollenbhg.no",
                 "contact:phone": "+47 67 05 11 30",
                 "contact:website": "http://www.varingskollen.no",
@@ -16,38 +16,13 @@
                 "no-barnehage:nsrid": "1020795",
                 "operator": "Varingskollen barnehage Sa",
                 "operator:type": "private",
-                "start_date": "2002-08-31",
-                "id": "node/-887"
+                "id": "node/-868"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.84938,
                     60.10617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-874",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "elengese@online.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Oterstien barnehage",
-                "no-barnehage:nsrid": "1022328",
-                "operator": "Oterstien barnehage AS",
-                "operator:type": "private",
-                "start_date": "2004-06-01",
-                "id": "node/-874"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.84363,
-                    60.10611
                 ]
             }
         }

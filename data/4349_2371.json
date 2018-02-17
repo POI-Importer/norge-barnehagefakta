@@ -3,32 +3,12 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-933",
+            "id": "node/-905",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Norlandia Voksentoppen barnehage AS",
-                "no-barnehage:nsrid": "2000159",
-                "operator": "Norlandia Voksentoppen barnehage AS",
-                "operator:type": "private",
-                "start_date": "2017-06-26",
-                "id": "node/-933"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.13646,
-                    60.16691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-925",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "27",
                 "contact:email": "kontor@laringsverkstedet.no",
-                "contact:phone": "+47 41 53 80 15",
+                "contact:phone": "+47 415 38 015",
                 "contact:website": "http://www.laringsverkstedet.no/olalokka",
                 "max_age": "5",
                 "min_age": "1",
@@ -36,39 +16,13 @@
                 "no-barnehage:nsrid": "1015471",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "start_date": "1992-10-05",
-                "id": "node/-925"
+                "id": "node/-905"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.1353,
                     60.1613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-907",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "14",
-                "contact:email": "per-lien@online.no",
-                "contact:phone": "+47 93860670",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grenaderstubben barnehage AS",
-                "no-barnehage:nsrid": "1022270",
-                "operator": "Grenaderstubben barnehage AS",
-                "operator:type": "private",
-                "start_date": "2005-07-25",
-                "id": "node/-907"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.11873,
-                    60.15856
                 ]
             }
         }
