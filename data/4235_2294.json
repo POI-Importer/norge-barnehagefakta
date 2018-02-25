@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4240",
+            "id": "node/-4241",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -14,7 +14,31 @@
                 "no-barnehage:nsrid": "1020742",
                 "operator": "Nordstranda barnehage",
                 "operator:type": "private",
-                "id": "node/-4240"
+                "id": "node/-4241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.146067,
+                    61.80537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4237",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "contact:email": "bakkelidgrenda.barnehage@yahoo.no",
+                "contact:phone": "+47 476 61 220",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bakkelidgrenda barnehage Else Lundestad Bakkelid",
+                "no-barnehage:nsrid": "1021864",
+                "operator": "Bakkelidgrenda barnehage Else Lundestad Bakkelid",
+                "operator:type": "private",
+                "id": "node/-4237"
             },
             "geometry": {
                 "type": "Point",
@@ -29,30 +53,6 @@
             "id": "node/-4236",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "22",
-                "contact:email": "bakkelidgrenda.barnehage@yahoo.no",
-                "contact:phone": "+47 476 61 220",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bakkelidgrenda barnehage Else Lundestad Bakkelid",
-                "no-barnehage:nsrid": "1021864",
-                "operator": "Bakkelidgrenda barnehage Else Lundestad Bakkelid",
-                "operator:type": "private",
-                "id": "node/-4236"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.146067,
-                    61.80537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4235",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "26",
                 "contact:email": "gunnsvendsen@gmail.com",
                 "contact:phone": "+47 57866220",
@@ -62,7 +62,7 @@
                 "no-barnehage:nsrid": "1020569",
                 "operator": "Stiftinga Austrheim barnehage",
                 "operator:type": "private",
-                "id": "node/-4235"
+                "id": "node/-4236"
             },
             "geometry": {
                 "type": "Point",
