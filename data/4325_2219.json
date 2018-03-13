@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3342",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "styrer@barnehage.fredly.fhs.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fredly barnehage",
+                "no-barnehage:nsrid": "1016865",
+                "operator": "Stiftelsen Fredly Folkehøgskole",
+                "operator:type": "private",
+                "id": "node/-3342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0692,
+                    63.3267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3341",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "129",
+                "contact:email": "randi.paulsen@skaun.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Børsa barnehage",
+                "no-barnehage:nsrid": "1017024",
+                "operator": "Skaun kommune",
+                "operator:type": "public",
+                "id": "node/-3341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0692,
+                    63.3267
+                ]
+            }
+        }
+    ]
+}

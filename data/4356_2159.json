@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3212",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:email": "vestbyen.barnehage@namsos.kommune.no",
+                "contact:phone": "+47 480 38 850",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestbyen barnehage",
+                "no-barnehage:nsrid": "1014683",
+                "operator": "Namsos kommune",
+                "operator:type": "public",
+                "id": "node/-3212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4626,
+                    64.4748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3200",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:email": "gullvika.naturbarnehage@gmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gullvika Naturbarnehage AS",
+                "no-barnehage:nsrid": "1021656",
+                "operator": "Gullvika Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46694,
+                    64.4765
+                ]
+            }
+        }
+    ]
+}

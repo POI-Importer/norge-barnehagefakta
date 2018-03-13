@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3394",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:email": "wenche.soraunet@stjordal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skatval barnehage",
+                "no-barnehage:nsrid": "1018266",
+                "operator": "Stjørdal kommune",
+                "operator:type": "public",
+                "id": "node/-3394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8267,
+                    63.5099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3376",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fagerhaug barnehage",
+                "no-barnehage:nsrid": "1016408",
+                "operator": "Fagerhaug barnehage Stjørdal AS",
+                "operator:type": "private",
+                "id": "node/-3376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8165,
+                    63.511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3370",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "gerd@aglo.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Aglo barnehage Eventyrhuset",
+                "no-barnehage:nsrid": "1026310",
+                "operator": "Aglo Opplæringssenter",
+                "operator:type": "private",
+                "id": "node/-3370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85214,
+                    63.51008
+                ]
+            }
+        }
+    ]
+}

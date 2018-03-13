@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2588",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "contact:email": "bente@trollsteinen.no",
+                "contact:phone": "+47 33 11 66 52",
+                "contact:website": "http://www.trollsteinen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollsteinen barnehage Sa",
+                "no-barnehage:nsrid": "1019982",
+                "operator": "Trollsteinen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.05164,
+                    59.07812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2577",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:email": "jane.holhjem@larvik.kommune.no",
+                "contact:phone": "+47 45391184",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sentrumssatellitten barnehage",
+                "no-barnehage:nsrid": "1017831",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0443,
+                    59.0656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2558",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "kjondal@me.com",
+                "name": "Gullskatt Åpen barnehage",
+                "no-barnehage:nsrid": "1018372",
+                "operator": "Vineyard Kristne Felleskap Larvik",
+                "operator:type": "private",
+                "id": "node/-2558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0528,
+                    59.065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2554",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "117",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fagerli barnehage",
+                "no-barnehage:nsrid": "1026375",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04303,
+                    59.07053
+                ]
+            }
+        }
+    ]
+}

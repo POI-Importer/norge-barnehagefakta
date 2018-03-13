@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4872",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:email": "monika.engen@roros.kommune.no",
+                "contact:phone": "+47 72410429",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øya barnehage",
+                "no-barnehage:nsrid": "1016877",
+                "operator": "Røros kommune",
+                "operator:type": "public",
+                "id": "node/-4872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3751,
+                    62.5712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4870",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "post@stenbrottet.no",
+                "contact:phone": "+47 72412933",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stenbråttet barnehage Sa",
+                "no-barnehage:nsrid": "1019738",
+                "operator": "Stenbråttet barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.37564,
+                    62.564
+                ]
+            }
+        }
+    ]
+}

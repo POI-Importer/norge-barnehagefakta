@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3388",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:email": "post@maurtuabarnehage.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtua Bhg AS",
+                "no-barnehage:nsrid": "1022393",
+                "operator": "Maurtua Bhg AS",
+                "operator:type": "private",
+                "id": "node/-3388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.97612,
+                    63.40368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3387",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:email": "anita.kirknes@stjordal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lånke barnehage",
+                "no-barnehage:nsrid": "1017396",
+                "operator": "Stjørdal kommune",
+                "operator:type": "public",
+                "id": "node/-3387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9761,
+                    63.4037
+                ]
+            }
+        }
+    ]
+}

@@ -3,6 +3,31 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-2645",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:email": "olaug.pladsen@faerder.kirken.no",
+                "contact:phone": "+47 47 97 49 39",
+                "contact:website": "http://teiekirkes.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Teie Kirkes barnehage",
+                "no-barnehage:nsrid": "1016036",
+                "operator": "Færder Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-2645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4169,
+                    59.2512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-2481",
             "properties": {
                 "amenity": "kindergarten",

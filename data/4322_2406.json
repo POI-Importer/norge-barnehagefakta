@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2584",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:email": "anne.sjulstad@lardal.kommune.no",
+                "contact:phone": "+47 33155920",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svarstad barnehage",
+                "no-barnehage:nsrid": "1015539",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.97253,
+                    59.3995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2564",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "Gjermundskaug@hotmail.com",
+                "contact:phone": "+47 33 12 91 00",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hem barnehage V/sidsel Berg Sjulstad",
+                "no-barnehage:nsrid": "1020114",
+                "operator": "Hem barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.969854,
+                    59.399
+                ]
+            }
+        }
+    ]
+}

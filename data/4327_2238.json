@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3322",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:email": "inger.strom@midtre-gauldal.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soknedal Oppvekstområde Avd barnehage",
+                "no-barnehage:nsrid": "1013961",
+                "operator": "Midtre Gauldal kommune",
+                "operator:type": "public",
+                "id": "node/-3322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1886,
+                    62.9511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3319",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:email": "skjerveli@hotmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hauka Villmarksbarnehage",
+                "no-barnehage:nsrid": "1020503",
+                "operator": "Hauka Villmarksbarnehage",
+                "operator:type": "private",
+                "id": "node/-3319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18859,
+                    62.95115
+                ]
+            }
+        }
+    ]
+}

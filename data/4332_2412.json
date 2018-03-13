@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2647",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "94",
+                "contact:email": "marion.kolpus@tiriltoppen.no",
+                "contact:phone": "+47 33 30 40 50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tiriltoppen barnehage Nøtterøy AS",
+                "no-barnehage:nsrid": "1020650",
+                "operator": "Tiriltoppen barnehage Nøtterøy AS",
+                "operator:type": "private",
+                "id": "node/-2647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4015,
+                    59.25135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2646",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "109",
+                "contact:email": "marit.fyhn@notteroy.kommune.no",
+                "contact:phone": "+47 97134005",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Teiehøyden barnehage",
+                "no-barnehage:nsrid": "1016931",
+                "operator": "Færder kommune",
+                "operator:type": "public",
+                "id": "node/-2646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4105,
+                    59.2523
+                ]
+            }
+        }
+    ]
+}

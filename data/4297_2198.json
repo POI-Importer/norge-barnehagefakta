@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3252",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:email": "e-helme@online.no",
+                "contact:phone": "+47 72 44 92 96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sistranda Kystbarnehage AS",
+                "no-barnehage:nsrid": "1020818",
+                "operator": "Sistranda Kystbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3251",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "contact:email": "britt@rabbenbarnehage.no",
+                "contact:phone": "+47 48075072",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben Barnehagedrift AS",
+                "no-barnehage:nsrid": "1022343",
+                "operator": "Rabben Barnehagedrift AS",
+                "operator:type": "private",
+                "id": "node/-3251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3246",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "birgit.ballack@froya.kommune.no",
+                "contact:phone": "+47 72449296",
+                "name": "Kysthaven Åpen barnehage",
+                "no-barnehage:nsrid": "1014258",
+                "operator": "Frøya kommune",
+                "operator:type": "public",
+                "id": "node/-3246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834,
+                    63.7255
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2935",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:email": "hege.hansen@trondheim.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ilsvika barnehage",
+                "no-barnehage:nsrid": "1017830",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3552,
+                    63.4319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2934",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:email": "monica.torsetnes@trondheim.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Iladalen barnehage",
+                "no-barnehage:nsrid": "1017810",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3659,
+                    63.4311
+                ]
+            }
+        }
+    ]
+}

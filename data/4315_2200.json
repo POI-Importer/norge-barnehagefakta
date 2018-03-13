@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3964",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "mhona@broadpark.no",
+                "contact:phone": "+47 907 20 761",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Marihøna Musikk og Friluftsbarnehage",
+                "no-barnehage:nsrid": "1021660",
+                "operator": "Marihøna Musikk- og Friluftsbarnehage Ann-Elisabeth Svines Hustad",
+                "operator:type": "private",
+                "id": "node/-3964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.663109,
+                    63.6884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3963",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "136",
+                "contact:email": "hege.hunshamar@orland.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Futura barnehage",
+                "no-barnehage:nsrid": "1016113",
+                "operator": "Ørland kommune",
+                "operator:type": "public",
+                "id": "node/-3963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66311,
+                    63.6884
+                ]
+            }
+        }
+    ]
+}

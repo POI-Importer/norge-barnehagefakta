@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3074",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "12",
+                "contact:email": "barnehage@tjonnstuggu.no",
+                "contact:phone": "+47 990 46 445",
+                "contact:website": "http://www.tjonnstuggu.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjønnstuggu Friluftsbarnehage",
+                "no-barnehage:nsrid": "1020979",
+                "operator": "Reppe Foreldrelag",
+                "operator:type": "private",
+                "id": "node/-3074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.55719,
+                    63.4159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2905",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:email": "fykenborg@barnehage.no",
+                "contact:phone": "+47 73 57 25 76",
+                "contact:website": "http://fykenborgbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fykenborg barnehage Sa",
+                "no-barnehage:nsrid": "1019915",
+                "operator": "Fykenborg barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.55874,
+                    63.42012
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3269",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "heggli@nlmbhg.no",
+                "contact:phone": "+47 72 53 11 95",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nlm Barnehagene AS Avd Heggli Barnehage",
+                "no-barnehage:nsrid": "1015550",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-3269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2193,
+                    63.9685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3268",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:email": "AnnKristin.Dolmseth@afjord.kommune.no",
+                "contact:phone": "+47 72 53 16 90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maribo barnehage",
+                "no-barnehage:nsrid": "1025337",
+                "operator": "Åfjord kommune",
+                "operator:type": "public",
+                "id": "node/-3268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2176,
+                    63.9677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3267",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:email": "Synnove.Stegali@afjord.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "By barnehage",
+                "no-barnehage:nsrid": "1012591",
+                "operator": "Åfjord kommune",
+                "operator:type": "public",
+                "id": "node/-3267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2189,
+                    63.9674
+                ]
+            }
+        }
+    ]
+}

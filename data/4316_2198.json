@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3966",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "contact:email": "teletunet.barnehage@gmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Teletunet barnehage AS",
+                "no-barnehage:nsrid": "1021425",
+                "operator": "Teletunet barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.686926,
+                    63.72522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3962",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:email": "marita.steen@orland.kommune.no",
+                "contact:phone": "+47 72521050",
+                "contact:website": "http://www.orland.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Borgen barnehage",
+                "no-barnehage:nsrid": "1014686",
+                "operator": "Ørland kommune",
+                "operator:type": "public",
+                "id": "node/-3962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6901,
+                    63.7272
+                ]
+            }
+        }
+    ]
+}

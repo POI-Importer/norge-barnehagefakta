@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3013",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "akarais@mangfoldhuset.no",
+                "contact:phone": "+47 451 22 218",
+                "contact:website": "http://trondheim.mangfoldhuset.no",
+                "name": "Ravnkloa Åpen barnehage",
+                "no-barnehage:nsrid": "1025562",
+                "operator": "Mangfoldhuset Trondheim",
+                "operator:type": "private",
+                "id": "node/-3013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39417,
+                    63.4333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2991",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:email": "oyvind.svendsen@trondheim.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nedre Elvehavn barnehage",
+                "no-barnehage:nsrid": "1017798",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4128,
+                    63.4365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2988",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:email": "vigdis-sather.halsli@trondheim.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Møllenberg barnehage",
+                "no-barnehage:nsrid": "1018218",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4119,
+                    63.4309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2974",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:email": "rmj@asylselskapet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løkkan barnehage",
+                "no-barnehage:nsrid": "1014781",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-2974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3814,
+                    63.4311
+                ]
+            }
+        }
+    ]
+}

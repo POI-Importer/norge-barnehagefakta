@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2588",
+            "id": "node/-2681",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "126",
@@ -16,7 +16,7 @@
                 "no-barnehage:nsrid": "1020718",
                 "operator": "Urdarbrønnen Sa",
                 "operator:type": "private",
-                "id": "node/-2588"
+                "id": "node/-2681"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2583",
+            "id": "node/-2670",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1021748",
                 "operator": "Nystrand barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2583"
+                "id": "node/-2670"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2571",
+            "id": "node/-2666",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:email": "wenche.larsen@porsgrunn.kommune.no",
+                "contact:phone": "+47 35 56 54 20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lyngvegen barnehage",
+                "no-barnehage:nsrid": "1018036",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67181,
+                    59.1086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2654",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -62,7 +86,7 @@
                 "no-barnehage:nsrid": "1020838",
                 "operator": "Grenland Folkehøgskoles barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2571"
+                "id": "node/-2654"
             },
             "geometry": {
                 "type": "Point",

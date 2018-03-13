@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3434",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "7",
+                "contact:email": "susanna.valkeapaa@snasa.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Suaja Maanagierte",
+                "no-barnehage:nsrid": "1013208",
+                "operator": "Snåsa kommune",
+                "operator:type": "public",
+                "id": "node/-3434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3622,
+                    64.2481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3432",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:email": "liv.ella.omli@snasa.kommune.no",
+                "contact:phone": "+47 74 12 70 59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Snåsa barnehage Avd Vinjebakken",
+                "no-barnehage:nsrid": "1014938",
+                "operator": "Snåsa kommune",
+                "operator:type": "public",
+                "id": "node/-3432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3778,
+                    64.2457
+                ]
+            }
+        }
+    ]
+}

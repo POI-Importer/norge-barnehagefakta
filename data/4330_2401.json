@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2612",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:email": "anne.gry.hansen@holmestrand.kommune.no",
+                "contact:phone": "+47 33064242",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kleiverud barnehage",
+                "no-barnehage:nsrid": "1016252",
+                "operator": "Holmestrand kommune",
+                "operator:type": "public",
+                "id": "node/-2612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2846,
+                    59.5108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2607",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:email": "post@gaupasbarnehage.no",
+                "contact:phone": "+47 33055810",
+                "contact:website": "http://www.gaupas.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gaupås barnehage Sa",
+                "no-barnehage:nsrid": "1020017",
+                "operator": "Gaupås barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2867,
+                    59.50114
+                ]
+            }
+        }
+    ]
+}
