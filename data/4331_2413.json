@@ -3,6 +3,31 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-2535",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:email": "postmottak@sandefjord.kommune.no",
+                "contact:phone": "+47 33 29 56 50",
+                "contact:website": "http://www.sandefjord.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trekanten barnehage",
+                "no-barnehage:nsrid": "1018029",
+                "operator": "Sandefjord kommune",
+                "operator:type": "public",
+                "id": "node/-2535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33204,
+                    59.22783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-2484",
             "properties": {
                 "amenity": "kindergarten",
