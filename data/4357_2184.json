@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3175",
+            "id": "node/-3192",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1017344",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3175"
+                "id": "node/-3192"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3172",
+            "id": "node/-3189",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "112",
@@ -39,7 +39,54 @@
                 "no-barnehage:nsrid": "1017109",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3172"
+                "id": "node/-3189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503,
+                    64.011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3187",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:email": "janneaunan@hotmail.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjefte barnehage AS",
+                "no-barnehage:nsrid": "1021213",
+                "operator": "Skjefte barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51205,
+                    64.0126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3182",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "contact:email": "hilde.sivertsen@studentinord.no",
+                "contact:phone": "+47 91001147",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Steinkjer",
+                "no-barnehage:nsrid": "1015994",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "id": "node/-3182"
             },
             "geometry": {
                 "type": "Point",
@@ -54,53 +101,6 @@
             "id": "node/-3170",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "33",
-                "contact:email": "janneaunan@hotmail.com",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skjefte barnehage AS",
-                "no-barnehage:nsrid": "1021213",
-                "operator": "Skjefte barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3170"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.51205,
-                    64.0126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3165",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "19",
-                "contact:email": "hilde.sivertsen@studentinord.no",
-                "contact:phone": "+47 91001147",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nord Studentsamskipnad Avd Studentbarnehagen Steinkjer",
-                "no-barnehage:nsrid": "1015994",
-                "operator": "Nord Studentsamskipnad",
-                "operator:type": "private",
-                "id": "node/-3165"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.503,
-                    64.011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3153",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:email": "post@figgabarnehage.no",
                 "contact:phone": "+47 92694909",
@@ -111,7 +111,7 @@
                 "no-barnehage:nsrid": "1020619",
                 "operator": "Figga barnehage",
                 "operator:type": "private",
-                "id": "node/-3153"
+                "id": "node/-3170"
             },
             "geometry": {
                 "type": "Point",

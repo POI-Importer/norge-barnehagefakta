@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5379",
+            "id": "node/-5389",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020199",
                 "operator": "Stiftelsen Vestvikheia barnehage",
                 "operator:type": "private",
-                "id": "node/-5379"
+                "id": "node/-5389"
             },
             "geometry": {
                 "type": "Point",
@@ -27,31 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5373",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "77",
-                "contact:email": "line@barnehagensmatroll.no",
-                "contact:phone": "+47 75 12 18 88",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Småtroll Barnehagen Ba",
-                "no-barnehage:nsrid": "1019976",
-                "operator": "Barnehagen Småtroll Ba",
-                "operator:type": "private",
-                "id": "node/-5373"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.16174,
-                    66.31915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5370",
+            "id": "node/-5381",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -63,13 +39,37 @@
                 "no-barnehage:nsrid": "1020601",
                 "operator": "Røverreiret barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5370"
+                "id": "node/-5381"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.18353,
                     66.31783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5370",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:email": "line@barnehagensmatroll.no",
+                "contact:phone": "+47 75 12 18 88",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Småtroll Barnehagen Ba",
+                "no-barnehage:nsrid": "1019976",
+                "operator": "Barnehagen Småtroll Ba",
+                "operator:type": "private",
+                "id": "node/-5370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16174,
+                    66.31915
                 ]
             }
         }
