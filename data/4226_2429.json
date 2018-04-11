@@ -3,6 +3,30 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3800",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "225",
+                "contact:email": "anne.may.jonassen@sandnes.kommune.no",
+                "contact:phone": "+47 51664382",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varatun barnehage",
+                "no-barnehage:nsrid": "1025372",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73501,
+                    58.8652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3788",
             "properties": {
                 "amenity": "kindergarten",
