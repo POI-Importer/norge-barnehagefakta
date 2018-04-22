@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4443",
+            "id": "node/-4441",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
                 "contact:email": "dagligleder@onbhg.no",
                 "contact:phone": "+47 55 28 69 50",
                 "contact:website": "http://www.onbhg.barnehage.no",
+                "doNotImportAddress": "Østre Nattlandsfjellet 4 5098 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Østre Nattlandsfjellet barnehage",
                 "no-barnehage:nsrid": "1021720",
                 "operator": "Østre Nattlandsfjellet barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-4443"
+                "id": "node/-4441"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4392",
+            "id": "node/-4390",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
                 "contact:email": "Robert.kvinge2@bergen.kommune.no",
                 "contact:phone": "+47 55 105560",
+                "doNotImportAddress": "Sanddalsbotn 54 5221 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sandalsbotn barnehage",
                 "no-barnehage:nsrid": "1016089",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4392"
+                "id": "node/-4390"
             },
             "geometry": {
                 "type": "Point",
@@ -52,19 +54,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4367",
+            "id": "node/-4365",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
                 "contact:email": "nattland.oppveksttun.barnehage@bergen.kommune.no",
                 "contact:phone": "+47 53030600",
+                "doNotImportAddress": "Merkurvegen 30 5099 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nattland oppveksttun avd. barnehage",
                 "no-barnehage:nsrid": "2000093",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4367"
+                "id": "node/-4365"
             },
             "geometry": {
                 "type": "Point",
@@ -76,18 +79,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4366",
+            "id": "node/-4364",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
                 "contact:email": "kristine.halvorsen@bergen.kommune.no",
+                "doNotImportAddress": "Nattlandsrinden 71 5098 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Natlandsfjellet barnehage",
                 "no-barnehage:nsrid": "1016717",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4366"
+                "id": "node/-4364"
             },
             "geometry": {
                 "type": "Point",
@@ -99,19 +103,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4321",
+            "id": "node/-4319",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
                 "contact:email": "kjenndalslia@kanvas.no",
                 "contact:phone": "+47 22 40 58 40",
+                "doNotImportAddress": "Kjenndalslia 27 5225 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kjenndalslia Kanvas-barnehage",
                 "no-barnehage:nsrid": "1015486",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-4321"
+                "id": "node/-4319"
             },
             "geometry": {
                 "type": "Point",
@@ -123,18 +128,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4318",
+            "id": "node/-4316",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "87",
                 "contact:email": "Tone.Spjell@kidsabarnehager.no",
+                "doNotImportAddress": "Øvre Sædalsvegen 80 5099 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Øvre Sædal",
                 "no-barnehage:nsrid": "1014237",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4318"
+                "id": "node/-4316"
             },
             "geometry": {
                 "type": "Point",
@@ -146,20 +152,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4239",
+            "id": "node/-4237",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
-                "contact:email": "styrer@rambjora.espi.no",
                 "contact:phone": "+47 55 27 99 00",
                 "contact:website": "http://www.espira.rambjora.no",
+                "doNotImportAddress": "Kattuglebrotet 3 5099 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Espira Rambjøra barnehage",
                 "no-barnehage:nsrid": "1021058",
                 "operator": "Espira Rambjøra AS",
                 "operator:type": "private",
-                "id": "node/-4239"
+                "id": "node/-4237"
             },
             "geometry": {
                 "type": "Point",
@@ -171,20 +177,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4238",
+            "id": "node/-4236",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
                 "contact:email": "styrer@helldalsasen.espira.no",
                 "contact:phone": "+47 52 84 50 20",
                 "contact:website": "http://www.espira.no",
+                "doNotImportAddress": "Sanddalsringen 260 5225 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Espira Helldalsåsen barnehage",
                 "no-barnehage:nsrid": "1020881",
                 "operator": "Espira Helldalsåsen AS",
                 "operator:type": "private",
-                "id": "node/-4238"
+                "id": "node/-4236"
             },
             "geometry": {
                 "type": "Point",
@@ -196,19 +203,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4234",
+            "id": "node/-4232",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
                 "contact:email": "eplekarten@steinerbarnehage.no",
                 "contact:phone": "+47 55 61 38 30",
+                "doNotImportAddress": "Øvre Sædalsvegen 247 5099 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eplekarten Steinerbarnehage",
                 "no-barnehage:nsrid": "1019872",
                 "operator": "Eplekarten Steinerbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4234"
+                "id": "node/-4232"
             },
             "geometry": {
                 "type": "Point",

@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-497",
+            "id": "node/-496",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
                 "contact:email": "hosle.barnehage@baerum.kommune.no",
+                "doNotImportAddress": "Bispeveien 69 1362 HOSLE",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Hosle barnehage avd. Klubbhuset",
                 "no-barnehage:nsrid": "1018612",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-497"
+                "id": "node/-496"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-496",
+            "id": "node/-495",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
                 "contact:email": "hosle.barnehage@baerum.kommune.no",
                 "contact:phone": "+47 67165030",
+                "doNotImportAddress": "Granåsen 11 1362 HOSLE",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hosle barnehage avd. Hosle",
                 "no-barnehage:nsrid": "1013176",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-496"
+                "id": "node/-495"
             },
             "geometry": {
                 "type": "Point",
@@ -55,6 +57,7 @@
                 "amenity": "kindergarten",
                 "capacity": "109",
                 "contact:email": "hanne@barnehagenvaar.no",
+                "doNotImportAddress": "Berta Bråtens Vei 6 1362 HOSLE",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnehagenvår Hosletoppen",

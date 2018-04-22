@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4315",
+            "id": "node/-4313",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
                 "contact:email": "anne-grete.lund.bakke@kidsabarnehager.no",
+                "doNotImportAddress": "Nordre Toppe 3 5136 MJØLKERÅEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Toppemyr",
                 "no-barnehage:nsrid": "1022410",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4315"
+                "id": "node/-4313"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4274",
+            "id": "node/-4272",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
-                "contact:email": "heimly.bhg@barnehage.no",
+                "contact:email": "barnehage@heimly.org",
                 "contact:phone": "+47 55 18 02 44",
+                "doNotImportAddress": "Marikollen 7 5136 MJØLKERÅEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heimly barnehage",
                 "no-barnehage:nsrid": "1020319",
                 "operator": "Heimly barnehage",
                 "operator:type": "private",
-                "id": "node/-4274"
+                "id": "node/-4272"
             },
             "geometry": {
                 "type": "Point",

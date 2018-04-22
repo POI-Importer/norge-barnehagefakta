@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3288",
+            "id": "node/-3286",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
                 "contact:email": "taagvollan.barnehage@oppdal.com",
+                "doNotImportAddress": "Tågvollan 7340 OPPDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tågvollan barnehage",
                 "no-barnehage:nsrid": "1015509",
                 "operator": "Oppdal Kristne Senter",
                 "operator:type": "private",
-                "id": "node/-3288"
+                "id": "node/-3286"
             },
             "geometry": {
                 "type": "Point",
@@ -26,44 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3287",
+            "id": "node/-3285",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "kristian.nitter@gmail.com",
                 "contact:phone": "+47 72 42 31 09",
+                "doNotImportAddress": "Skarsem 7340 OPPDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Torshaug private barnehage",
                 "no-barnehage:nsrid": "1020097",
                 "operator": "Torshaug Private barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3287"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6912,
-                    62.59431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3286",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "stolen.barnehage@oppdal.com",
-                "contact:phone": "+47 72 42 09 72",
-                "contact:website": "http://www.stolenprivate.barnehageside.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Stølen private barnehage",
-                "no-barnehage:nsrid": "1019657",
-                "operator": "Stølen Private barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3286"
+                "id": "node/-3285"
             },
             "geometry": {
                 "type": "Point",
@@ -78,14 +55,17 @@
             "id": "node/-3284",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "44",
-                "contact:email": "post@midtbygda-barnehage.no",
+                "capacity": "18",
+                "contact:email": "stolen.barnehage@oppdal.com",
+                "contact:phone": "+47 72 42 09 72",
+                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "doNotImportAddress": "Rute 4 7340 OPPDAL",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Midtbygda barnehage",
-                "no-barnehage:nsrid": "1019628",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
+                "name": "Stølen private barnehage",
+                "no-barnehage:nsrid": "1019657",
+                "operator": "Stølen Private barnehage Sa",
+                "operator:type": "private",
                 "id": "node/-3284"
             },
             "geometry": {
@@ -101,39 +81,16 @@
             "id": "node/-3282",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "40",
-                "contact:email": "tove.borseth@oppdal.kommune.no",
+                "capacity": "44",
+                "contact:email": "post@midtbygda-barnehage.no",
+                "doNotImportAddress": "Vognill 7340 OPPDAL",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Høgmo barnehage",
-                "no-barnehage:nsrid": "1016117",
+                "name": "Midtbygda barnehage",
+                "no-barnehage:nsrid": "1019628",
                 "operator": "Oppdal kommune",
                 "operator:type": "public",
                 "id": "node/-3282"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.69742,
-                    62.5997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3279",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:email": "drivdalenbhg@oppdal.com",
-                "contact:phone": "+47 94179778",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Drivdalen barnehage",
-                "no-barnehage:nsrid": "1019817",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "id": "node/-3279"
             },
             "geometry": {
                 "type": "Point",
@@ -145,19 +102,69 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3278",
+            "id": "node/-3280",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "tove.borseth@oppdal.kommune.no",
+                "doNotImportAddress": "Gorsetvegen 15 7340 OPPDAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgmo barnehage",
+                "no-barnehage:nsrid": "1016117",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.69742,
+                    62.5997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3277",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:email": "drivdalenbhg@oppdal.com",
+                "contact:phone": "+47 94179778",
+                "doNotImportAddress": "Driva 7340 OPPDAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Drivdalen barnehage",
+                "no-barnehage:nsrid": "1019817",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3276",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
                 "contact:email": "bjerkehagen@oppdal.com",
                 "contact:phone": "+47 97078987",
+                "doNotImportAddress": "Luvegen 5 7340 OPPDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjerkehagen friluftsbarnehage",
                 "no-barnehage:nsrid": "1020259",
                 "operator": "Bjerkehagen Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3278"
+                "id": "node/-3276"
             },
             "geometry": {
                 "type": "Point",

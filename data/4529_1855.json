@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5589",
+            "id": "node/-5587",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "gorill.nilsen@tromso.kommune.no",
+                "doNotImportAddress": "Siriusvegen 52 9024 TOMASJORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lunheim barnehage",
                 "no-barnehage:nsrid": "1012718",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5589"
+                "id": "node/-5587"
             },
             "geometry": {
                 "type": "Point",
@@ -26,17 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5575",
+            "id": "node/-5573",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "112",
+                "doNotImportAddress": "Uranusvegen 18 9024 TOMASJORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Isbjørnen barnehage i",
                 "no-barnehage:nsrid": "1020526",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-5575"
+                "id": "node/-5573"
             },
             "geometry": {
                 "type": "Point",

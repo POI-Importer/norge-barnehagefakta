@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-942",
+            "id": "node/-940",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
                 "contact:email": "svarverud.barnehage@nes-ak.kommune.no",
+                "doNotImportAddress": "Svarverudvegen 109 2150 ÅRNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Svarverud barnehage",
                 "no-barnehage:nsrid": "1017364",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-942"
+                "id": "node/-940"
             },
             "geometry": {
                 "type": "Point",
@@ -26,15 +27,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-938",
+            "id": "node/-936",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "anne.lise.bruteig@nes-ak.kommune.no",
+                "doNotImportAddress": "Seterstøavegen 2b 2150 ÅRNES",
                 "name": "Nes kommune familiens Hus åpen barnehage",
                 "no-barnehage:nsrid": "1016966",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-938"
+                "id": "node/-936"
             },
             "geometry": {
                 "type": "Point",
@@ -46,20 +48,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-933",
+            "id": "node/-931",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
                 "contact:email": "husmo@barnehage.no",
                 "contact:phone": "+47 63 91 00 95",
                 "contact:website": "http://www.husmobarnehage.no",
+                "doNotImportAddress": "Møllertorget 18b 2150 ÅRNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Husmo barnehage",
                 "no-barnehage:nsrid": "1020309",
                 "operator": "Husmo barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-933"
+                "id": "node/-931"
             },
             "geometry": {
                 "type": "Point",

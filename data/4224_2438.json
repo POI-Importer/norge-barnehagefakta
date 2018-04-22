@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3995",
+            "id": "node/-3993",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "gsh@ha.kommune.no",
                 "contact:phone": "+47 51799470",
+                "doNotImportAddress": "Lyngvegen 12 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vibereiret barnehage",
                 "no-barnehage:nsrid": "1016916",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3995"
+                "id": "node/-3993"
             },
             "geometry": {
                 "type": "Point",
@@ -27,19 +28,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3993",
+            "id": "node/-3991",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
                 "contact:email": "post.urhei.barnehage@ha.kommune.no",
                 "contact:phone": "+47 51791630",
+                "doNotImportAddress": "Urheitræet 2 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Urhei barnehage",
                 "no-barnehage:nsrid": "1017474",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3993"
+                "id": "node/-3991"
             },
             "geometry": {
                 "type": "Point",
@@ -51,38 +53,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3989",
+            "id": "node/-3987",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
                 "contact:email": "seme@ha.kommune.no",
+                "doNotImportAddress": "Store Ring 55 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rosktoppen barnehage",
                 "no-barnehage:nsrid": "1018527",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3989"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.65661,
-                    58.6577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3987",
-            "properties": {
-                "amenity": "kindergarten",
-                "contact:email": "gunnstokka@hotmail.com",
-                "contact:phone": "+47 51 43 49 58",
-                "name": "Noas Ark Open barnehage",
-                "no-barnehage:nsrid": "1015909",
-                "operator": "Hå Kyrkjelege Fellesråd",
-                "operator:type": "private",
                 "id": "node/-3987"
             },
             "geometry": {
@@ -95,20 +77,43 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3986",
+            "id": "node/-3985",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "gunnstokka@hotmail.com",
+                "contact:phone": "+47 51 43 49 58",
+                "doNotImportAddress": "Store Ring 53 4365 NÆRBØ",
+                "name": "Noas Ark Open barnehage",
+                "no-barnehage:nsrid": "1015909",
+                "operator": "Hå Kyrkjelege Fellesråd",
+                "operator:type": "private",
+                "id": "node/-3985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.65661,
+                    58.6577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3984",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
                 "contact:email": "tryggheim.narbo@nlmbhg.no",
                 "contact:phone": "+47 51 43 45 80",
                 "contact:website": "http://tryggheim.skyl.no/",
+                "doNotImportAddress": "Tryggheimvegen 20 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "NLM barnehagene avd. Tryggheim barnehage Nærbø",
                 "no-barnehage:nsrid": "1025304",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-3986"
+                "id": "node/-3984"
             },
             "geometry": {
                 "type": "Point",
@@ -120,18 +125,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3984",
+            "id": "node/-3982",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "88",
                 "contact:email": "erue@ha.kommune.no",
+                "doNotImportAddress": "Motlandshagen 5 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Motlandsmarka barnehage",
                 "no-barnehage:nsrid": "1026296",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3984"
+                "id": "node/-3982"
             },
             "geometry": {
                 "type": "Point",
@@ -143,20 +149,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3982",
+            "id": "node/-3980",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
                 "contact:email": "styrer@skjeraberget.espira.no",
                 "contact:phone": "+47 52 84 50 20",
                 "contact:website": "http://www.espira.no",
+                "doNotImportAddress": "Skjeraberget 20 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Espira Skjeaberget barnehage",
                 "no-barnehage:nsrid": "1020832",
                 "operator": "Espira Skjeraberget AS",
                 "operator:type": "private",
-                "id": "node/-3982"
+                "id": "node/-3980"
             },
             "geometry": {
                 "type": "Point",
@@ -168,19 +175,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3981",
+            "id": "node/-3979",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:email": "post.breidablikk.barnehage@ha.kommune.no",
                 "contact:phone": "+47 51791830",
+                "doNotImportAddress": "Parkvegen 7 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Breidablikk kulturbarnehage",
                 "no-barnehage:nsrid": "1014724",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3981"
+                "id": "node/-3979"
             },
             "geometry": {
                 "type": "Point",
@@ -192,18 +200,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3980",
+            "id": "node/-3978",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
                 "contact:email": "halldismartine.brattgjerd@ha.kommune.no",
+                "doNotImportAddress": "Gudmestadvegen 24 4365 NÆRBØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjorhaug barnehage",
                 "no-barnehage:nsrid": "1014046",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3980"
+                "id": "node/-3978"
             },
             "geometry": {
                 "type": "Point",

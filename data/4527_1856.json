@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5627",
+            "id": "node/-5625",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
                 "contact:email": "trollbakken.barnehage@tromso.kommune.no",
                 "contact:phone": "+47 95168905",
+                "doNotImportAddress": "Trollbakken 11 9009 TROMSØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trollbakken barnehage",
                 "no-barnehage:nsrid": "1025357",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5627"
+                "id": "node/-5625"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5591",
+            "id": "node/-5589",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
                 "contact:email": "haugenstykket@laringsverkstedet.no",
                 "contact:phone": "+47 95220629",
                 "contact:website": "http://laringsverkstedet.no/barnehage/haugenstykket",
+                "doNotImportAddress": "Jonas Lies Gate 36 9009 TROMSØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Haugenstykket",
                 "no-barnehage:nsrid": "1025451",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-5591"
+                "id": "node/-5589"
             },
             "geometry": {
                 "type": "Point",

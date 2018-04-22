@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3072",
+            "id": "node/-3070",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
                 "contact:email": "tildra@barnehage.no",
                 "contact:phone": "+47 72 89 85 10",
                 "contact:website": "http://www.tildra.barnehage.no",
+                "doNotImportAddress": "Torvtaket 1 7092 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tildra barnehage",
                 "no-barnehage:nsrid": "1020254",
                 "operator": "Småbarnsforeldrenes barnehage Heimdal Sa",
                 "operator:type": "private",
-                "id": "node/-3072"
+                "id": "node/-3070"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2934",
+            "id": "node/-2932",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
                 "contact:email": "trine.thorsoe@trondheim.kommune.no",
+                "doNotImportAddress": "Hølbekken 60 7092 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hårstad barnehage",
                 "no-barnehage:nsrid": "1017822",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2934"
+                "id": "node/-2932"
             },
             "geometry": {
                 "type": "Point",

@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3300",
+            "id": "node/-3298",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
                 "contact:email": "ashild@tripptrapptresko.no",
                 "contact:phone": "+47 37 27 16 63",
                 "contact:website": "http://www.tripptrapptresko.no",
+                "doNotImportAddress": "Høvåg Sentrum 4770 HØVÅG",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tripp-trapp-tresko",
                 "no-barnehage:nsrid": "1022261",
                 "operator": "Tripp-Trapp-Tresko AS",
                 "operator:type": "private",
-                "id": "node/-3300"
+                "id": "node/-3298"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3295",
+            "id": "node/-3293",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
                 "contact:email": "hovagbhg@broadpark.no",
+                "doNotImportAddress": "Herredshuset 4770 HØVÅG",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Høvåg barnehage",
                 "no-barnehage:nsrid": "1021133",
                 "operator": "Høvåg Herredshus",
                 "operator:type": "private",
-                "id": "node/-3295"
+                "id": "node/-3293"
             },
             "geometry": {
                 "type": "Point",

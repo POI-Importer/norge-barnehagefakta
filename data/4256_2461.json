@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3708",
+            "id": "node/-3706",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "rag-limm@online.no",
                 "contact:phone": "+47 38346004",
+                "doNotImportAddress": "Måkeveien 3 4580 LYNGDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sangfuglen barnehage",
                 "no-barnehage:nsrid": "1020085",
                 "operator": "Sangfuglen barnehage R Limmesand",
                 "operator:type": "private",
-                "id": "node/-3708"
+                "id": "node/-3706"
             },
             "geometry": {
                 "type": "Point",
@@ -27,67 +28,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3707",
+            "id": "node/-3705",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
                 "contact:email": "diane.fredbo@lyngdal.kommune.no",
                 "contact:phone": "+47 38 33 41 62",
+                "doNotImportAddress": "Nygårdsveien 2 4580 LYNGDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nygård barnehage",
                 "no-barnehage:nsrid": "1018074",
                 "operator": "Lyngdal kommune",
                 "operator:type": "public",
-                "id": "node/-3707"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.07044,
-                    58.1379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3705",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "65",
-                "contact:email": "rom@laringsverkstedet.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Rom barnehage",
-                "no-barnehage:nsrid": "1013171",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
                 "id": "node/-3705"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.07044,
-                    58.1379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3704",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "115",
-                "contact:email": "bergeheim@laringsverkstedet.no",
-                "contact:phone": "+47 37071510",
-                "contact:website": "http://laringsverkstedet.no/barnehage/bergeheim",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Bergeheim",
-                "no-barnehage:nsrid": "1014196",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3704"
             },
             "geometry": {
                 "type": "Point",
@@ -102,16 +56,67 @@
             "id": "node/-3703",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:email": "rom@laringsverkstedet.no",
+                "doNotImportAddress": "Hagenveien 4580 LYNGDAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Rom barnehage",
+                "no-barnehage:nsrid": "1013171",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.07044,
+                    58.1379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3702",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "contact:email": "bergeheim@laringsverkstedet.no",
+                "contact:phone": "+47 37071510",
+                "contact:website": "http://laringsverkstedet.no/barnehage/bergeheim",
+                "doNotImportAddress": "Strandeveien 5 4580 LYNGDAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Bergeheim",
+                "no-barnehage:nsrid": "1014196",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.07044,
+                    58.1379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3701",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "112",
                 "contact:email": "nancy.smesland@lyngdal.kommune.no",
                 "contact:phone": "+47 38 33 07 50",
+                "doNotImportAddress": "Gamle Myrvei 1 4580 LYNGDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lyngtua barnehage",
                 "no-barnehage:nsrid": "1012504",
                 "operator": "Lyngdal kommune",
                 "operator:type": "public",
-                "id": "node/-3703"
+                "id": "node/-3701"
             },
             "geometry": {
                 "type": "Point",
@@ -123,15 +128,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3701",
+            "id": "node/-3699",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "lindakvavik@hotmail.com",
+                "doNotImportAddress": "Alleen 4580 LYNGDAL",
                 "name": "Frikirken åpen barnehage",
                 "no-barnehage:nsrid": "1014242",
                 "operator": "Frikirken Lyngdal Menighet",
                 "operator:type": "private",
-                "id": "node/-3701"
+                "id": "node/-3699"
             },
             "geometry": {
                 "type": "Point",
@@ -143,20 +149,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3700",
+            "id": "node/-3698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
                 "contact:email": "filadelfia.barnehage@gmail.com",
                 "contact:phone": "+47 38 34 60 77",
                 "contact:website": "http://www.filadelfialyngdal.no",
+                "doNotImportAddress": "Stasjonsgata 30 4580 LYNGDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Filadelfia barnehage",
                 "no-barnehage:nsrid": "1019889",
                 "operator": "Lyngdal Pinsemenighet",
                 "operator:type": "private",
-                "id": "node/-3700"
+                "id": "node/-3698"
             },
             "geometry": {
                 "type": "Point",
@@ -168,19 +175,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3699",
+            "id": "node/-3697",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
                 "contact:email": "pedagog@eplehagenlyngdal.no",
                 "contact:phone": "+47 38 34 71 18",
+                "doNotImportAddress": "Flekkefjordveien 36 4580 LYNGDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eplehagen barnehage Lyngdal",
                 "no-barnehage:nsrid": "1022092",
                 "operator": "Eplehagen barnehage Lyngdal AS",
                 "operator:type": "private",
-                "id": "node/-3699"
+                "id": "node/-3697"
             },
             "geometry": {
                 "type": "Point",

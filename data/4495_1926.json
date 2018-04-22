@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5289",
+            "id": "node/-5287",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
                 "contact:email": "stineh@hoppensprett.no",
                 "contact:phone": "+47 76 95 25 80",
+                "doNotImportAddress": "Bjørkvangveien 2 8530 BJERKVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjørkvang barnehage",
                 "no-barnehage:nsrid": "1020245",
                 "operator": "Hoppensprett Narvik AS",
                 "operator:type": "private",
-                "id": "node/-5289"
+                "id": "node/-5287"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5288",
+            "id": "node/-5286",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
                 "contact:email": "lill-tove.jansson@narvik.kommune.no",
+                "doNotImportAddress": "Kjerranveien 34 8530 BJERKVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjerkvik barnehage",
                 "no-barnehage:nsrid": "1013649",
                 "operator": "Narvik kommune",
                 "operator:type": "public",
-                "id": "node/-5288"
+                "id": "node/-5286"
             },
             "geometry": {
                 "type": "Point",

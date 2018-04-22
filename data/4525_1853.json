@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5633",
+            "id": "node/-5631",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
                 "contact:email": "Trine.Kielland@tusseladden.com",
                 "contact:phone": "+47 77 75 30 20",
                 "contact:website": "http://tusseladden.com",
+                "doNotImportAddress": "Slettavegen 60 9101 KVALØYSLETTA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tusseladden friluftsbarnehage",
                 "no-barnehage:nsrid": "1015553",
                 "operator": "Tusseladden Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5633"
+                "id": "node/-5631"
             },
             "geometry": {
                 "type": "Point",
@@ -28,17 +29,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5609",
+            "id": "node/-5607",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
+                "doNotImportAddress": "Ryllikvegen 55 9102 KVALØYSLETTA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Slettaelva barnehage",
                 "no-barnehage:nsrid": "1012725",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5609"
+                "id": "node/-5607"
             },
             "geometry": {
                 "type": "Point",

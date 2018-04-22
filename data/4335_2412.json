@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2480",
+            "id": "node/-2478",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
                 "contact:email": "teieby@online.no",
                 "contact:phone": "+47 97423059",
+                "doNotImportAddress": "Gabriel Christiansens Gate 3 3127 TØNSBERG",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Teie Hageby barnehage",
                 "no-barnehage:nsrid": "1020344",
                 "operator": "Stiftelsen Teie Hageby barnehage",
                 "operator:type": "private",
-                "id": "node/-2480"
+                "id": "node/-2478"
             },
             "geometry": {
                 "type": "Point",
@@ -27,17 +28,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2454",
+            "id": "node/-2452",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
+                "doNotImportAddress": "Gråbrødregaten 21 3110 TØNSBERG",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Haugar barnehage",
                 "no-barnehage:nsrid": "1015552",
                 "operator": "Tønsbergkirkenes Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-2454"
+                "id": "node/-2452"
             },
             "geometry": {
                 "type": "Point",

@@ -3,44 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2066",
+            "id": "node/-2064",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
                 "contact:email": "bingfage@online.no",
                 "contact:phone": "+47 61 32 52 22",
+                "doNotImportAddress": "Belternvegen 29 2742 GRUA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Myllatoppen barnehage",
                 "no-barnehage:nsrid": "1021812",
                 "operator": "Myllatoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-2066"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.66339,
-                    60.25959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2061",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:email": "lene.1970@live.no",
-                "contact:phone": "+47 930 95 793",
-                "contact:website": "http://www.gruabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grua barnehage",
-                "no-barnehage:nsrid": "1022408",
-                "operator": "Grua barnehage Lene Nordberg",
-                "operator:type": "private",
-                "id": "node/-2061"
+                "id": "node/-2064"
             },
             "geometry": {
                 "type": "Point",
@@ -55,16 +31,43 @@
             "id": "node/-2059",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:email": "lene.1970@live.no",
+                "contact:phone": "+47 930 95 793",
+                "contact:website": "http://www.gruabarnehage.no",
+                "doNotImportAddress": "Hadelandsvegen 1691 2742 GRUA",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grua barnehage",
+                "no-barnehage:nsrid": "1022408",
+                "operator": "Grua barnehage Lene Nordberg",
+                "operator:type": "private",
+                "id": "node/-2059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66339,
+                    60.25959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2057",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "34",
                 "contact:email": "lml@lunner.kommune.no",
                 "contact:phone": "+47 61 32 53 24",
+                "doNotImportAddress": " 2742 GRUA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gamleskolen barnehage",
                 "no-barnehage:nsrid": "1014770",
                 "operator": "Lunner kommune",
                 "operator:type": "public",
-                "id": "node/-2059"
+                "id": "node/-2057"
             },
             "geometry": {
                 "type": "Point",

@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4453",
+            "id": "node/-4451",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
                 "contact:email": "anette@smaafolkbarnehage.no",
                 "contact:phone": "+47 53 75 51 10",
                 "contact:website": "http://www.smaafolkbarnehage.no",
+                "doNotImportAddress": "Nedre Grindheim 5590 ETNE",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Småfolk barnehage",
                 "no-barnehage:nsrid": "1021437",
                 "operator": "Småfolk barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4453"
+                "id": "node/-4451"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4450",
+            "id": "node/-4448",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
                 "contact:email": "gerd.toril.lindevik@etne.kommune.no",
+                "doNotImportAddress": " 5590 ETNE",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Enge barnehage",
                 "no-barnehage:nsrid": "1018102",
                 "operator": "Etne kommune",
                 "operator:type": "public",
-                "id": "node/-4450"
+                "id": "node/-4448"
             },
             "geometry": {
                 "type": "Point",

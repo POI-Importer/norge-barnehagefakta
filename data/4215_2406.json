@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4169",
+            "id": "node/-4167",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
                 "contact:email": "svp@karmoy.kommune.no",
                 "contact:phone": "+47 52812134",
                 "contact:website": "http://storesund.vigilo.no/web/index",
+                "doNotImportAddress": "Bjørgevegen 100 4260 TORVASTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Storesund barnehage",
                 "no-barnehage:nsrid": "1016873",
                 "operator": "Karmøy kommune",
                 "operator:type": "public",
-                "id": "node/-4169"
+                "id": "node/-4167"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4163",
+            "id": "node/-4161",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "post@smabarnehager.no",
                 "contact:phone": "+47 95813986",
+                "doNotImportAddress": "Torvastadvegen 275 4260 TORVASTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Små barnehager avd. Torvastad",
                 "no-barnehage:nsrid": "1014031",
                 "operator": "Små Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4163"
+                "id": "node/-4161"
             },
             "geometry": {
                 "type": "Point",

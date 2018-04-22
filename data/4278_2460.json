@@ -3,36 +3,15 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3578",
+            "id": "node/-3576",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "168",
+                "doNotImportAddress": "Hånesveien 101 4635 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solkollen barnehage Hånes",
                 "no-barnehage:nsrid": "1022098",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3578"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.029471,
-                    58.14982
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3576",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "103",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Solkollen barnehage Flekkerøy",
-                "no-barnehage:nsrid": "1022068",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
                 "id": "node/-3576"
@@ -50,16 +29,40 @@
             "id": "node/-3574",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "103",
+                "doNotImportAddress": "Marviksveien 140 4632 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solkollen barnehage Flekkerøy",
+                "no-barnehage:nsrid": "1022068",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.029471,
+                    58.14982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3572",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "17",
                 "contact:email": "beathe.moberg@kristiansand.kommune.no",
                 "contact:phone": "+47 38 10 33 88",
+                "doNotImportAddress": "Gyldenløves Gate 70 4614 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sløyden barnehage",
                 "no-barnehage:nsrid": "1016056",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3574"
+                "id": "node/-3572"
             },
             "geometry": {
                 "type": "Point",
@@ -71,19 +74,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3570",
+            "id": "node/-3568",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "216",
                 "contact:email": "anne.hagen@kristiansand.kommune.no",
                 "contact:phone": "+47 38 10 35 30",
+                "doNotImportAddress": "Teglverksveien 54 4632 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Roligheden barnehage",
                 "no-barnehage:nsrid": "1016172",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3570"
+                "id": "node/-3568"
             },
             "geometry": {
                 "type": "Point",
@@ -95,20 +99,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3563",
+            "id": "node/-3561",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "114",
                 "contact:email": "presteheia@laringsverkstedet.no",
                 "contact:phone": "+47 63 94 62 50",
                 "contact:website": "http://www.laringsverkstedet.no/presteheia",
+                "doNotImportAddress": "Presteheia 14 4633 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Presteheia barnehage",
                 "no-barnehage:nsrid": "1020835",
                 "operator": "Presteheia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3563"
+                "id": "node/-3561"
             },
             "geometry": {
                 "type": "Point",
@@ -120,20 +125,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3548",
+            "id": "node/-3546",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
                 "contact:email": "bispegra@laringsverkstedet.no",
                 "contact:phone": "+47 37 07 15 69",
                 "contact:website": "http://laringsverkstedet.no/barnehage/bispegra",
+                "doNotImportAddress": "Bispegra 28 4632 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Bispegra",
                 "no-barnehage:nsrid": "1015979",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3548"
+                "id": "node/-3546"
             },
             "geometry": {
                 "type": "Point",
@@ -145,20 +151,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-3545",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
                 "contact:email": "kristin@lundbarnehage.no",
                 "contact:phone": "+47 042906630",
                 "contact:website": "http://www.lundbarnehage.no",
+                "doNotImportAddress": "Marviksveien 5 4631 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lund barnehage",
                 "no-barnehage:nsrid": "1021960",
                 "operator": "Lund barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3547"
+                "id": "node/-3545"
             },
             "geometry": {
                 "type": "Point",
@@ -170,18 +177,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3541",
+            "id": "node/-3539",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:phone": "+47 38 10 35 10",
+                "doNotImportAddress": "Kongsgård Alle 33b 4631 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kongsgård barnehagesenter",
                 "no-barnehage:nsrid": "1015716",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3541"
+                "id": "node/-3539"
             },
             "geometry": {
                 "type": "Point",
@@ -193,18 +201,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3530",
+            "id": "node/-3528",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "130",
                 "contact:email": "sigrid.nyhus@sia.no",
+                "doNotImportAddress": "Kaserneveien 4 4630 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hokus Pokus barnehage Kristiansand",
                 "no-barnehage:nsrid": "1014939",
                 "operator": "Studentsamskipnaden i Agder",
                 "operator:type": "private",
-                "id": "node/-3530"
+                "id": "node/-3528"
             },
             "geometry": {
                 "type": "Point",
@@ -216,20 +225,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3515",
+            "id": "node/-3513",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "143",
                 "contact:email": "bhg.eidet@laringsverkstedet.no",
                 "contact:phone": "+47 63 94 62 50",
                 "contact:website": "http://laringsverkstedet.no/barnehage/eidet",
+                "doNotImportAddress": "Justnesskauen 41 4634 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eidet barnehage",
                 "no-barnehage:nsrid": "1021900",
                 "operator": "Eidet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3515"
+                "id": "node/-3513"
             },
             "geometry": {
                 "type": "Point",
@@ -241,19 +251,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3510",
+            "id": "node/-3508",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
                 "contact:email": "blamann@steinerbarnehage.no",
                 "contact:phone": "+47 38 09 55 03",
+                "doNotImportAddress": "Tryms Vei 13 4631 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Blåmann Steinerbarnehage",
                 "no-barnehage:nsrid": "1020477",
                 "operator": "Blåmann Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-3510"
+                "id": "node/-3508"
             },
             "geometry": {
                 "type": "Point",
@@ -265,19 +276,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3505",
+            "id": "node/-3503",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
                 "contact:email": "maren.kristine.blomstrom@kristiansand.kommune.no",
                 "contact:phone": "+47 38 10 35 20",
+                "doNotImportAddress": "Johan Øydegards Vei 12 4632 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bamsebo barnehage",
                 "no-barnehage:nsrid": "1014830",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3505"
+                "id": "node/-3503"
             },
             "geometry": {
                 "type": "Point",

@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-567",
+            "id": "node/-565",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
                 "contact:email": "skarva-barnehage@hotmail.com",
                 "contact:phone": "+47 91997926",
                 "contact:website": "http://www.skarva-barnehage.no",
+                "doNotImportAddress": "Skarvaveien 101-103 1350 LOMMEDALEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skarva grendehus avd. barnehage",
                 "no-barnehage:nsrid": "1020048",
                 "operator": "Skarva barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-567"
+                "id": "node/-565"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-485",
+            "id": "node/-484",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "contact:email": "barnehagen@gulltoppen.no",
                 "contact:phone": "+47 41 27 70 47",
+                "doNotImportAddress": "Gullhaugveien 133 1354 BÆRUMS VERK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gulltoppen barnehage",
                 "no-barnehage:nsrid": "1020166",
                 "operator": "Gulltoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-485"
+                "id": "node/-484"
             },
             "geometry": {
                 "type": "Point",
@@ -52,18 +54,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-484",
+            "id": "node/-483",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
                 "contact:email": "gullhaug.barnehage@baerum.kommune.no",
+                "doNotImportAddress": "Gullhaugveien 133c 1354 BÆRUMS VERK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gullhaug barnehage",
                 "no-barnehage:nsrid": "1012647",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-484"
+                "id": "node/-483"
             },
             "geometry": {
                 "type": "Point",
@@ -75,19 +78,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-481",
+            "id": "node/-480",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:email": "post@grindaberget.no",
                 "contact:phone": "+47 67 87 65 40",
+                "doNotImportAddress": "Grindaberget 1 1354 BÆRUMS VERK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grindaberget barnehage",
                 "no-barnehage:nsrid": "1020281",
                 "operator": "Grindaberget barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-481"
+                "id": "node/-480"
             },
             "geometry": {
                 "type": "Point",
@@ -105,6 +109,7 @@
                 "capacity": "14",
                 "contact:email": "janne@rosenlind.no",
                 "contact:phone": "+47 67 13 91 52",
+                "doNotImportAddress": "Otto Rykkinds Vei 7 1349 RYKKINN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnelåven Janne Rosenlind",

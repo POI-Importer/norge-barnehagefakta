@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2404",
+            "id": "node/-2402",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
                 "contact:email": "postmottak@kanabarnehage.no",
                 "contact:phone": "+47 32 79 36 65",
+                "doNotImportAddress": "Aaslyveien 4 3483 KANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kana barnehage",
                 "no-barnehage:nsrid": "1020455",
                 "operator": "Stiftelsen Kana",
                 "operator:type": "private",
-                "id": "node/-2404"
+                "id": "node/-2402"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2400",
+            "id": "node/-2398",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
                 "contact:email": "grybro@hurum.kommune.no",
+                "doNotImportAddress": "Folkestadveien 4 3483 KANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Folkestad barnehage",
                 "no-barnehage:nsrid": "1015050",
                 "operator": "Hurum kommune",
                 "operator:type": "public",
-                "id": "node/-2400"
+                "id": "node/-2398"
             },
             "geometry": {
                 "type": "Point",

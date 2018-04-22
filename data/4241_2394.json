@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4114",
+            "id": "node/-4112",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
                 "contact:email": "marit-helen.holland@sauda.kommune.no",
                 "contact:phone": "+47 52 78 27 53",
+                "doNotImportAddress": "Rustå 27 A 4200 SAUDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rustå barnehage",
                 "no-barnehage:nsrid": "1018097",
                 "operator": "Sauda kommune",
                 "operator:type": "public",
-                "id": "node/-4114"
+                "id": "node/-4112"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4112",
+            "id": "node/-4110",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
                 "contact:email": "laila.stodle@brakamoen-barnehage.no",
                 "contact:phone": "+47 52 78 56 10",
                 "contact:website": "http://brakamoen-barnehage.no",
+                "doNotImportAddress": "Andersengja 17 4200 SAUDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Brakamoen barnehage",
                 "no-barnehage:nsrid": "1019991",
                 "operator": "Brakamoen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4112"
+                "id": "node/-4110"
             },
             "geometry": {
                 "type": "Point",

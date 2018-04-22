@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4119",
+            "id": "node/-4117",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
                 "contact:email": "utsyn@barnehage.no",
                 "contact:phone": "+47 51 71 22 98",
+                "doNotImportAddress": "Judaberg 4160 FINNØY",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "NLM barnehagene avd. Utsyn barnehage Finnøy",
                 "no-barnehage:nsrid": "1016202",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4119"
+                "id": "node/-4117"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4118",
+            "id": "node/-4116",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
                 "contact:email": "hagatoppen@finnoy.kommune.no",
+                "doNotImportAddress": "Judaberg 4160 FINNØY",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hagatoppen barnehage",
                 "no-barnehage:nsrid": "1017769",
                 "operator": "Finnøy kommune",
                 "operator:type": "public",
-                "id": "node/-4118"
+                "id": "node/-4116"
             },
             "geometry": {
                 "type": "Point",

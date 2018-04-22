@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5221",
+            "id": "node/-5219",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "bsu@levanger.kommune.no",
                 "contact:phone": "+47 74053999",
+                "doNotImportAddress": " 7630 ÅSEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Åsen barnehage",
                 "no-barnehage:nsrid": "1018271",
                 "operator": "Levanger kommune",
                 "operator:type": "public",
-                "id": "node/-5221"
+                "id": "node/-5219"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5198",
+            "id": "node/-5196",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
                 "contact:email": "post@brusebarnehage.no",
                 "contact:phone": "+47 74 05 65 51",
                 "contact:website": "http://bruse.barnehage.no",
+                "doNotImportAddress": "Hammerøyvegen 4 7630 ÅSEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bruse barnehage",
                 "no-barnehage:nsrid": "1019741",
                 "operator": "Bruse barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5198"
+                "id": "node/-5196"
             },
             "geometry": {
                 "type": "Point",

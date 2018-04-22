@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5774",
+            "id": "node/-5772",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
-                "contact:email": "kjersti.nymoen@vardo.komunne.no",
+                "doNotImportAddress": "Peder Holts Gate 4 9950 VARDØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vardø barnehage",
                 "no-barnehage:nsrid": "1014265",
                 "operator": "Vardø kommune",
                 "operator:type": "public",
-                "id": "node/-5774"
+                "id": "node/-5772"
             },
             "geometry": {
                 "type": "Point",
@@ -26,20 +26,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5773",
+            "id": "node/-5771",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
                 "contact:email": "post@sentrumbhg.no",
                 "contact:phone": "+47 78 94 49 78",
                 "contact:website": "http://www.sentrum.barnehageside.no",
+                "doNotImportAddress": "Peder Holts Gate 4 9950 VARDØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sentrumbarnehage",
                 "no-barnehage:nsrid": "1020961",
                 "operator": "Sentrumbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5773"
+                "id": "node/-5771"
             },
             "geometry": {
                 "type": "Point",

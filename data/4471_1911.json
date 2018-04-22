@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5656",
+            "id": "node/-5654",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
                 "contact:email": "hilde.olsen@harstad.kommune.no",
+                "doNotImportAddress": "Fagerliveien 24 9406 HARSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heggen barnehager avd. Utsikten",
                 "no-barnehage:nsrid": "1026101",
                 "operator": "Harstad kommune / Hársttáid Suohkan",
                 "operator:type": "public",
-                "id": "node/-5656"
+                "id": "node/-5654"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5645",
+            "id": "node/-5643",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:email": "post@bjornebaasen.no",
                 "contact:phone": "+47 77 00 15 25",
+                "doNotImportAddress": "Bjørnebåsen 4 9406 HARSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjørnebåsen barnehage",
                 "no-barnehage:nsrid": "1020235",
                 "operator": "Bjørnebåsen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5645"
+                "id": "node/-5643"
             },
             "geometry": {
                 "type": "Point",

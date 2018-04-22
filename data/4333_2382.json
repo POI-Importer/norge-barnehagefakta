@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-584",
+            "id": "node/-582",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
                 "contact:email": "stavi@baerum.kommune.no",
+                "doNotImportAddress": "Ringeriksveien 238 1340 SKUI",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ståvi barnehage avd. Skui",
                 "no-barnehage:nsrid": "1012669",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-584"
+                "id": "node/-582"
             },
             "geometry": {
                 "type": "Point",
@@ -26,20 +27,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-447",
+            "id": "node/-446",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
                 "contact:email": "wibeke@berghoff.no",
                 "contact:phone": "+47 67 13 04 23",
                 "contact:website": "http://berghoff.no",
+                "doNotImportAddress": "Berghoffveien 43 1340 SKUI",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Berghoff barnehage",
                 "no-barnehage:nsrid": "1019786",
                 "operator": "Stiftelsen Berghoff barnehage",
                 "operator:type": "private",
-                "id": "node/-447"
+                "id": "node/-446"
             },
             "geometry": {
                 "type": "Point",

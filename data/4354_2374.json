@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-943",
+            "id": "node/-941",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
                 "contact:email": "tomterasen@barnehage.no",
                 "contact:phone": "+47 63 90 89 41",
                 "contact:website": "http://tomterasen.barnehage.no",
+                "doNotImportAddress": "Tomteråsvegen 10 2165 HVAM",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tomteråsen barnehage",
                 "no-barnehage:nsrid": "1020489",
                 "operator": "Tomteråsen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-943"
+                "id": "node/-941"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-937",
+            "id": "node/-935",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
                 "contact:email": "kontor@laringsverkstedet.no",
                 "contact:website": "http://www.laringsverkstedet.no/barnehage/neskollen",
+                "doNotImportAddress": "Hvamsvegen 680 2165 HVAM",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Øvre Neskollen",
                 "no-barnehage:nsrid": "2000145",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-937"
+                "id": "node/-935"
             },
             "geometry": {
                 "type": "Point",

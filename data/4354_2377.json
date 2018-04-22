@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-936",
+            "id": "node/-934",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "haga@laringsverkstedet.no",
                 "contact:phone": "+47 37071530",
                 "contact:website": "http://www.laringsverkstedet.no/haga",
+                "doNotImportAddress": "Stranda 7 1929 AULI",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Haga",
                 "no-barnehage:nsrid": "1015576",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-936"
+                "id": "node/-934"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-934",
+            "id": "node/-932",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
                 "contact:email": "post@korsdalen.no",
                 "contact:phone": "+47 63 90 65 80",
+                "doNotImportAddress": "Grendehusvegen 2 1929 AULI",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Korsdalen barnehage avd. grendehusvegen",
                 "no-barnehage:nsrid": "1015980",
                 "operator": "Korsdalen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-934"
+                "id": "node/-932"
             },
             "geometry": {
                 "type": "Point",
@@ -52,18 +54,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-927",
+            "id": "node/-925",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "eva.heidi.hammeren@nes-ak.kommune.no",
+                "doNotImportAddress": "Grendehusvegen 1 1929 AULI",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Auli barnehage",
                 "no-barnehage:nsrid": "1013782",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-927"
+                "id": "node/-925"
             },
             "geometry": {
                 "type": "Point",

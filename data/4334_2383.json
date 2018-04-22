@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-607",
+            "id": "node/-605",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
                 "contact:email": "aas.barnehage@baerum.kommune.no",
+                "doNotImportAddress": "Lars Jongs Vei 52 1341 SLEPENDEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ås barnehage avd. Vestre Jong",
                 "no-barnehage:nsrid": "1012678",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-607"
+                "id": "node/-605"
             },
             "geometry": {
                 "type": "Point",
@@ -26,17 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-602",
+            "id": "node/-600",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
+                "doNotImportAddress": "Skuiveien 137 1339 VØYENENGA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vøyen FUS barnehage",
                 "no-barnehage:nsrid": "1026487",
                 "operator": "Vøyen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-602"
+                "id": "node/-600"
             },
             "geometry": {
                 "type": "Point",
@@ -48,20 +50,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-583",
+            "id": "node/-581",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
                 "contact:email": "stavi@baerum.kommune.no",
                 "contact:phone": "+47 92203165",
                 "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/stavi-barnehage",
+                "doNotImportAddress": "Borkenveien 45 1339 VØYENENGA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ståvi barnehage avd. Borkenhagen",
                 "no-barnehage:nsrid": "1012649",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-583"
+                "id": "node/-581"
             },
             "geometry": {
                 "type": "Point",
@@ -73,19 +76,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-528",
+            "id": "node/-527",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
                 "contact:email": "marihona@barnehage.no",
                 "contact:phone": "+47 67 15 05 33",
+                "doNotImportAddress": "Åses Vei 75 1336 SANDVIKA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Marihøna barnehage",
                 "no-barnehage:nsrid": "1020459",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-528"
+                "id": "node/-527"
             },
             "geometry": {
                 "type": "Point",
@@ -97,19 +101,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-518",
+            "id": "node/-517",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
                 "contact:email": "styrer@lillejong.no",
                 "contact:website": "http://www.lillejong.no",
+                "doNotImportAddress": "Lars Jongs Vei 52 1341 SLEPENDEN",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Lille-jong barnehage",
                 "no-barnehage:nsrid": "1020257",
                 "operator": "Lille-Jong barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-518"
+                "id": "node/-517"
             },
             "geometry": {
                 "type": "Point",
@@ -121,20 +126,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-506",
+            "id": "node/-505",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
                 "contact:email": "kirkerudbakken@kbfb.no",
                 "contact:phone": "+47 67 13 33 48",
                 "contact:website": "http://www.kbfb.no",
+                "doNotImportAddress": "Borkenveien 41 1339 VØYENENGA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kirkerudbakken barnehage",
                 "no-barnehage:nsrid": "1019832",
                 "operator": "Kirkerudbakken Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-506"
+                "id": "node/-505"
             },
             "geometry": {
                 "type": "Point",
@@ -146,20 +152,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-460",
+            "id": "node/-459",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "emmahjorth.barnehage@baerum.kommune.no",
                 "contact:phone": "+47 67504010",
                 "contact:website": "http://www.baerum.kommune.no",
+                "doNotImportAddress": "Tokes Vei 4 1336 SANDVIKA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Emma Hjorth barnehage",
                 "no-barnehage:nsrid": "1013177",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-460"
+                "id": "node/-459"
             },
             "geometry": {
                 "type": "Point",
@@ -176,6 +183,7 @@
                 "amenity": "kindergarten",
                 "capacity": "26",
                 "contact:email": "est@arba.no",
+                "doNotImportAddress": "Tobias Kupfers Vei 2 1336 SANDVIKA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Arba avd. Kløverbakken barnehage",

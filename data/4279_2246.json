@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5100",
+            "id": "node/-5098",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
                 "contact:email": "liedgarden.barnehage@nessetpost.no",
                 "contact:phone": "+47 71 23 43 03",
                 "contact:website": "http://www.liedgarden.barnehage.no",
+                "doNotImportAddress": "Nedre Liedgardsveg 16 6460 EIDSVÅG I ROMSDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Liedgarden barnehage",
                 "no-barnehage:nsrid": "1021231",
                 "operator": "Liedgarden barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5100"
+                "id": "node/-5098"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5097",
+            "id": "node/-5095",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "eidsvag.barnehage@nesset.kommune.no",
+                "doNotImportAddress": " 6460 EIDSVÅG I ROMSDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eidsvåg barnehage",
                 "no-barnehage:nsrid": "1018195",
                 "operator": "Nesset kommune",
                 "operator:type": "public",
-                "id": "node/-5097"
+                "id": "node/-5095"
             },
             "geometry": {
                 "type": "Point",

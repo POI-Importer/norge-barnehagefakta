@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2056",
+            "id": "node/-2054",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
                 "contact:email": "stortjba@online.no",
+                "doNotImportAddress": "Prestensrud 3520 JEVNAKER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stortjernet barnehage",
                 "no-barnehage:nsrid": "1021365",
                 "operator": "Stortjernet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2056"
+                "id": "node/-2054"
             },
             "geometry": {
                 "type": "Point",
@@ -26,17 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2052",
+            "id": "node/-2050",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
+                "doNotImportAddress": "Nordby 3520 JEVNAKER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mari Bjertnæs Nordby gardsbarnehage",
                 "no-barnehage:nsrid": "1021291",
                 "operator": "Mari Bjertnæs Nordby Gardsbarnehage",
                 "operator:type": "private",
-                "id": "node/-2052"
+                "id": "node/-2050"
             },
             "geometry": {
                 "type": "Point",

@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1577",
+            "id": "node/-1575",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
                 "contact:email": "styrer@stillabhg.no",
                 "contact:phone": "+47 22 15 66 53",
+                "doNotImportAddress": "Kjelsåsveien 156c 0491 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stilla barnehage",
                 "no-barnehage:nsrid": "1019712",
                 "operator": "Stilla barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1577"
+                "id": "node/-1575"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1417",
+            "id": "node/-1415",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
                 "contact:email": "Myrertoppen.bhg@norlandiacare.no",
+                "doNotImportAddress": "Myrerskogveien 38 0495 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Myrertoppen barnehage",
                 "no-barnehage:nsrid": "1015633",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1417"
+                "id": "node/-1415"
             },
             "geometry": {
                 "type": "Point",
@@ -50,20 +52,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1416",
+            "id": "node/-1414",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:email": "myrer@kanvas.no",
                 "contact:phone": "+47 48398092",
                 "contact:website": "http://myrer.kanvas.no/",
+                "doNotImportAddress": "Nordstjerneveien 4 0494 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Myrer Kanvas-barnehage",
                 "no-barnehage:nsrid": "1016793",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-1416"
+                "id": "node/-1414"
             },
             "geometry": {
                 "type": "Point",
@@ -75,18 +78,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1278",
+            "id": "node/-1276",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
                 "contact:email": "kristin.uhre@bna.oslo.kommune.no",
+                "doNotImportAddress": "Asbjørnsens Vei 3 0494 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kjelsås skole barnehage",
                 "no-barnehage:nsrid": "1017917",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1278"
+                "id": "node/-1276"
             },
             "geometry": {
                 "type": "Point",
@@ -98,18 +102,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1210",
+            "id": "node/-1208",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
                 "contact:email": "britt-inger.stav@bna.oslo.kommune.no",
+                "doNotImportAddress": "Myrerveien 14 0494 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Haugensjordet barnehage",
                 "no-barnehage:nsrid": "1017426",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1210"
+                "id": "node/-1208"
             },
             "geometry": {
                 "type": "Point",
@@ -121,18 +126,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1177",
+            "id": "node/-1175",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
                 "contact:email": "hege.trampe-kindt@bna.oslo.kommune.no",
+                "doNotImportAddress": "Lachmanns Vei 41 0495 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gulldalen barnehage",
                 "no-barnehage:nsrid": "1015632",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1177"
+                "id": "node/-1175"
             },
             "geometry": {
                 "type": "Point",
@@ -144,19 +150,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1151",
+            "id": "node/-1149",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "contact:email": "furulunden.barnehage@live.no",
                 "contact:phone": "+47 22 22 05 33",
+                "doNotImportAddress": "Myrerveien 4 0494 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Furulunden kortidsbarnehage",
                 "no-barnehage:nsrid": "1020075",
                 "operator": "Furulunden Korttidsbarnehage Ans",
                 "operator:type": "private",
-                "id": "node/-1151"
+                "id": "node/-1149"
             },
             "geometry": {
                 "type": "Point",
@@ -168,15 +175,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1130",
+            "id": "node/-1128",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "trude.elisabeth@online.no",
+                "doNotImportAddress": "Myrerveien 40 0494 OSLO",
                 "name": "Foreldreforeningen Regnbuen åpen barnehage",
                 "no-barnehage:nsrid": "1020675",
                 "operator": "Foreldreforeningen Regnbuen Åpen barnehage",
                 "operator:type": "private",
-                "id": "node/-1130"
+                "id": "node/-1128"
             },
             "geometry": {
                 "type": "Point",
@@ -188,18 +196,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1102",
+            "id": "node/-1100",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
                 "contact:email": "lill.e.kristiansen@bna.oslo.kommune.no",
+                "doNotImportAddress": "Neptunveien 28 0493 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Engebråten barnehage",
                 "no-barnehage:nsrid": "1017918",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1102"
+                "id": "node/-1100"
             },
             "geometry": {
                 "type": "Point",

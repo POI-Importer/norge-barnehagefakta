@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4439",
+            "id": "node/-4437",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
                 "contact:email": "kari.nesvaag@gmail.com",
                 "contact:phone": "+47 55 28 72 31",
+                "doNotImportAddress": "Joachim Lampes Vei 10 5089 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vår barnehager",
                 "no-barnehage:nsrid": "1020552",
                 "operator": "Vår Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4439"
+                "id": "node/-4437"
             },
             "geometry": {
                 "type": "Point",
@@ -27,17 +28,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4425",
+            "id": "node/-4423",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "jan.frode.sandvik@bergen.kirken.no",
                 "contact:phone": "+47 55593271",
                 "contact:website": "http://www.kfuk-kfum.no/bjorgvin/ulriken",
+                "doNotImportAddress": "Kanonhaugen 25 5097 BERGEN",
                 "name": "Ulriken Kfuk-kfum åpen barnehage",
                 "no-barnehage:nsrid": "1014295",
                 "operator": "Ulriken Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-4425"
+                "id": "node/-4423"
             },
             "geometry": {
                 "type": "Point",
@@ -49,15 +51,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4411",
+            "id": "node/-4409",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "ase.christiansen@skbb.no",
+                "doNotImportAddress": "Joachim Lampes Vei 5 5089 BERGEN",
                 "name": "Språkstien åpen barnehage Slettebakken",
                 "no-barnehage:nsrid": "1015031",
                 "operator": "Stiftelsen Kirkens Bymisjon i Bergen",
                 "operator:type": "private",
-                "id": "node/-4411"
+                "id": "node/-4409"
             },
             "geometry": {
                 "type": "Point",
@@ -69,18 +72,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4403",
+            "id": "node/-4401",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
                 "contact:email": "laila.fitje@bergen.kommune.no",
+                "doNotImportAddress": "Kristofer Jansons Vei 31 5089 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sletten barnehage",
                 "no-barnehage:nsrid": "1016683",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4403"
+                "id": "node/-4401"
             },
             "geometry": {
                 "type": "Point",
@@ -92,18 +96,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4352",
+            "id": "node/-4350",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
                 "contact:email": "janne.hovi@bergen.kommune.no",
+                "doNotImportAddress": "Mannsverk 8 5094 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mannsverk barnehage",
                 "no-barnehage:nsrid": "1016681",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4352"
+                "id": "node/-4350"
             },
             "geometry": {
                 "type": "Point",
@@ -115,18 +120,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4298",
+            "id": "node/-4296",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
                 "contact:email": "erleveien@kidsabarnehager.no",
+                "doNotImportAddress": "Erleveien 51 5097 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kidsa Erleveien",
                 "no-barnehage:nsrid": "1022145",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4298"
+                "id": "node/-4296"
             },
             "geometry": {
                 "type": "Point",
@@ -138,17 +144,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4280",
+            "id": "node/-4278",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
                 "contact:email": "geba@helse-bergen.no",
+                "doNotImportAddress": "Haukelandsveien 38 5096 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Helse Bergen Hf Vognstølen barnehage",
+                "name": "Helse Bergen HF Vognstølen barnehage",
                 "no-barnehage:nsrid": "1015604",
                 "operator": "Helse Bergen Hf",
-                "id": "node/-4280"
+                "id": "node/-4278"
             },
             "geometry": {
                 "type": "Point",
@@ -160,20 +167,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4228",
+            "id": "node/-4226",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
                 "contact:email": "intbarn@broadpark.no",
                 "contact:phone": "+47 55270642",
                 "contact:website": "http://www.internasjonale.barnehage.no",
+                "doNotImportAddress": "Sollien 129 5096 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Den Internasjonale barnehage i Bergen avd. Sollien",
                 "no-barnehage:nsrid": "1016870",
                 "operator": "Den Internasjonale Kvinnegruppen i Bergen",
                 "operator:type": "private",
-                "id": "node/-4228"
+                "id": "node/-4226"
             },
             "geometry": {
                 "type": "Point",
@@ -185,18 +193,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4213",
+            "id": "node/-4211",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
                 "contact:phone": "+47 55291420",
+                "doNotImportAddress": "Birkeveien 25 5093 BERGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Birken barnehage",
                 "no-barnehage:nsrid": "1019907",
                 "operator": "Birken barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4213"
+                "id": "node/-4211"
             },
             "geometry": {
                 "type": "Point",

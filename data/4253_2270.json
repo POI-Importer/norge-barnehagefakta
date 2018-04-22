@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5033",
+            "id": "node/-5031",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "gro@tusenfrydbarnehage.no",
                 "contact:phone": "+47 70 26 12 07",
                 "contact:website": "http://www.tusenfrydbarnehage.no",
+                "doNotImportAddress": "Bjørnestien 24 6200 STRANDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tusenfryd barnehage Stranda",
                 "no-barnehage:nsrid": "1020266",
                 "operator": "Tusenfryd barnehage Stranda Sa",
                 "operator:type": "private",
-                "id": "node/-5033"
+                "id": "node/-5031"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5032",
+            "id": "node/-5030",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
                 "contact:email": "trollhaugen@barnehage.no",
                 "contact:phone": "+47 70 26 47 00",
+                "doNotImportAddress": "Dalevegen 165 6200 STRANDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trollhaugen barnehage Stranda",
                 "no-barnehage:nsrid": "1020096",
                 "operator": "Trollhaugen barnehage Stranda Sa",
                 "operator:type": "private",
-                "id": "node/-5032"
+                "id": "node/-5030"
             },
             "geometry": {
                 "type": "Point",

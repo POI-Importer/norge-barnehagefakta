@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1695",
+            "id": "node/-1693",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
                 "contact:email": "oraker@barnehage.no",
                 "contact:phone": "+47 951 82 902",
                 "contact:website": "http://oraker.barnehage.no",
+                "doNotImportAddress": "Vestveien 12 0284 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Øraker barnehage",
                 "no-barnehage:nsrid": "1019871",
                 "operator": "Øraker barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1695"
+                "id": "node/-1693"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1317",
+            "id": "node/-1315",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "astri.kleppan@bun.oslo.kommune.no",
+                "doNotImportAddress": "Sponhoggbakken 3 0284 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lilleaker barnehage",
                 "no-barnehage:nsrid": "1017297",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1317"
+                "id": "node/-1315"
             },
             "geometry": {
                 "type": "Point",
@@ -51,19 +53,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1296",
+            "id": "node/-1294",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
                 "contact:email": "unn-sissel.lundlie@bun.oslo.kommune.no",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/kvernkallen-barnehage/",
+                "doNotImportAddress": "Kvernkallveien 11 0382 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kvernkallen barnehage",
                 "no-barnehage:nsrid": "1018378",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1296"
+                "id": "node/-1294"
             },
             "geometry": {
                 "type": "Point",
@@ -75,19 +78,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-605",
+            "id": "node/-603",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
                 "contact:email": "administrasjon@ostheim.no",
                 "contact:phone": "+47 67 11 09 14",
+                "doNotImportAddress": "Bjerkelundsveien 31 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Østheim barnehage",
                 "no-barnehage:nsrid": "1020049",
                 "operator": "Østheim barnehage",
                 "operator:type": "private",
-                "id": "node/-605"
+                "id": "node/-603"
             },
             "geometry": {
                 "type": "Point",
@@ -99,18 +103,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-579",
+            "id": "node/-577",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
                 "contact:email": "post@storenga.no",
+                "doNotImportAddress": "Storengveien 3 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Storenga barnehage og Storenga familiebarnehage avd. barnehage",
                 "no-barnehage:nsrid": "1016667",
                 "operator": "Storenga barnehage og Storenga Familiebarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-579"
+                "id": "node/-577"
             },
             "geometry": {
                 "type": "Point",
@@ -122,19 +127,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-575",
+            "id": "node/-573",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "ronnaug@almeskogen.no",
                 "contact:phone": "+47 67 16 22 70",
+                "doNotImportAddress": "Grav Gårdsvei 10 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiftelsen Almeskogen Steinerbarnehage",
                 "no-barnehage:nsrid": "1016222",
                 "operator": "Stiftelsen Almeskogen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-575"
+                "id": "node/-573"
             },
             "geometry": {
                 "type": "Point",
@@ -146,19 +152,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-568",
+            "id": "node/-566",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
                 "contact:email": "skaubo@skaubo.no",
                 "contact:phone": "+47 67 14 14 25",
+                "doNotImportAddress": "Ruglandveien 1 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skaubo barnehage",
                 "no-barnehage:nsrid": "1014988",
                 "operator": "Skaubo AS",
                 "operator:type": "private",
-                "id": "node/-568"
+                "id": "node/-566"
             },
             "geometry": {
                 "type": "Point",
@@ -170,19 +177,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-563",
+            "id": "node/-561",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
                 "contact:email": "dl.ringstabekk@bhg.no",
                 "contact:phone": "+47 67 58 95 00",
+                "doNotImportAddress": "Gamle Ringeriksvei 21a 1356 BEKKESTUA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ringstabekk FUS barnehage",
                 "no-barnehage:nsrid": "1021908",
                 "operator": "Ringstabekk Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-563"
+                "id": "node/-561"
             },
             "geometry": {
                 "type": "Point",
@@ -194,19 +202,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-503",
+            "id": "node/-502",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
                 "contact:email": "jarenga.barnehage@baerum.kommune.no",
                 "contact:phone": "+47 90150179",
+                "doNotImportAddress": "Storengveien 3 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jarenga barnehage",
                 "no-barnehage:nsrid": "1018329",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-503"
+                "id": "node/-502"
             },
             "geometry": {
                 "type": "Point",
@@ -218,18 +227,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-502",
+            "id": "node/-501",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
                 "contact:email": "dl.jar@bhg.no",
+                "doNotImportAddress": "Trudvangveien 15 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jar FUS barnehage",
                 "no-barnehage:nsrid": "1021386",
                 "operator": "Jar Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-502"
+                "id": "node/-501"
             },
             "geometry": {
                 "type": "Point",
@@ -241,20 +251,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-479",
+            "id": "node/-478",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
                 "contact:email": "grav.barnehage@baerum.kommune.no",
                 "contact:phone": "+47 67872700",
                 "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/grav-barnehage/",
+                "doNotImportAddress": "Fagertunveien 120 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grav barnehage avd. Liom",
                 "no-barnehage:nsrid": "1012646",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-479"
+                "id": "node/-478"
             },
             "geometry": {
                 "type": "Point",
@@ -266,19 +277,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-471",
+            "id": "node/-470",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "8",
                 "contact:email": "styrer@gartnerveien.no",
                 "contact:phone": "+47 67102180",
+                "doNotImportAddress": "Gartnerveien 8 1356 BEKKESTUA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gartnerveien barnehage og Habilitering",
                 "no-barnehage:nsrid": "1015532",
                 "operator": "Østre Bærum Sanitetsforening",
                 "operator:type": "private",
-                "id": "node/-471"
+                "id": "node/-470"
             },
             "geometry": {
                 "type": "Point",
@@ -297,6 +309,7 @@
                 "contact:email": "postmaster@aktivitetsbarnehagen.no",
                 "contact:phone": "+47 93479815",
                 "contact:website": "http://aktivitetsbarnehagen.barnehage.no/Hjem",
+                "doNotImportAddress": "Skogveien 64a 1368 STABEKK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Aktivitetsbarnehagen",

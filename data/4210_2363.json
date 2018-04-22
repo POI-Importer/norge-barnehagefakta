@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4624",
+            "id": "node/-4622",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
                 "contact:email": "janita.sjovold@fjell.kommune.no",
                 "contact:phone": "+47 55 09 68 76",
+                "doNotImportAddress": "Våtemyrvegen 2 5357 FJELL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ulveseth barnehage avd. Fjell",
                 "no-barnehage:nsrid": "1014714",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4624"
+                "id": "node/-4622"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4623",
+            "id": "node/-4621",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
                 "contact:email": "ulven.naturbarnehage@norlandia.com",
                 "contact:phone": "+47 40 55 76 11",
                 "contact:website": "http://ulven.norlandiabarnehagene.no/",
+                "doNotImportAddress": "Halsvardtjørna 27 5357 FJELL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ulven naturbarnehage",
                 "no-barnehage:nsrid": "1013274",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4623"
+                "id": "node/-4621"
             },
             "geometry": {
                 "type": "Point",

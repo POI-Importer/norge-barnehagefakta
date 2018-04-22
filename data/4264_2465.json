@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3625",
+            "id": "node/-3623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "wibekke@vallegaard-bhg.no",
                 "contact:phone": "+47 38 26 10 14",
+                "doNotImportAddress": "Valleveien 8 4513 MANDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Valle gård barnehage",
                 "no-barnehage:nsrid": "1020194",
                 "operator": "Valle Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3625"
+                "id": "node/-3623"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3622",
+            "id": "node/-3620",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
                 "contact:email": "nina.kristoffersen@mandal.kommune.no",
+                "doNotImportAddress": "Rundveien 11 4513 MANDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skjebstad barnehage",
                 "no-barnehage:nsrid": "1018064",
                 "operator": "Mandal kommune",
                 "operator:type": "public",
-                "id": "node/-3622"
+                "id": "node/-3620"
             },
             "geometry": {
                 "type": "Point",

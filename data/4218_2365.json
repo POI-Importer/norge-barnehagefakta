@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4434",
+            "id": "node/-4432",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
                 "contact:email": "Vallalia.barnehage@bergen.kommune.no",
+                "doNotImportAddress": "Vallalia 3 5227 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vallalia barnehage",
                 "no-barnehage:nsrid": "1016226",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4434"
+                "id": "node/-4432"
             },
             "geometry": {
                 "type": "Point",
@@ -26,20 +27,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4252",
+            "id": "node/-4250",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
                 "contact:email": "post@fanatunet.no",
                 "contact:phone": "+47 55 92 22 00",
                 "contact:website": "http://www.fanatunet.no",
+                "doNotImportAddress": "Birkelandsbotn 55 5226 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fanatunet barnehage",
                 "no-barnehage:nsrid": "1020749",
                 "operator": "Fanatunet barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4252"
+                "id": "node/-4250"
             },
             "geometry": {
                 "type": "Point",
@@ -51,20 +53,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4244",
+            "id": "node/-4242",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
                 "contact:email": "birk@eventusbarnehage.no",
                 "contact:phone": "+47 48997262",
                 "contact:website": "http://eventus.barnehage.no",
+                "doNotImportAddress": "Osvegen 72 5227 NESTTUN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eventus Birk barnehage friluftsbarnehage",
                 "no-barnehage:nsrid": "2000152",
                 "operator": "Eventus Birk barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4244"
+                "id": "node/-4242"
             },
             "geometry": {
                 "type": "Point",

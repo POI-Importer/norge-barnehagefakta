@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2022",
+            "id": "node/-2020",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
                 "contact:email": "ann.kristin.brudal@gausdal.kommune.no",
                 "contact:phone": "+47 61 22 09 79",
+                "doNotImportAddress": "Kornhaug 13 2656 FOLLEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kornhaug barnehage",
                 "no-barnehage:nsrid": "1017956",
                 "operator": "Gausdal kommune",
                 "operator:type": "public",
-                "id": "node/-2022"
+                "id": "node/-2020"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2020",
+            "id": "node/-2018",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
                 "contact:email": "dl.follebu@bhg.no",
+                "doNotImportAddress": "Kornhaug 2 2656 FOLLEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Follebu barnehage",
                 "no-barnehage:nsrid": "1021737",
                 "operator": "Follebu Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2020"
+                "id": "node/-2018"
             },
             "geometry": {
                 "type": "Point",

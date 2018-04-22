@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4700",
+            "id": "node/-4698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
                 "contact:email": "frode@solhaugenbhg.no",
                 "contact:phone": "+47 56 36 20 60",
                 "contact:website": "http://www.solhaugen.barnehage.no",
+                "doNotImportAddress": "Storbruhaugen 14 5955 LINDÅS",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solhaugen barnehage",
                 "no-barnehage:nsrid": "1020700",
                 "operator": "Solhaugen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4700"
+                "id": "node/-4698"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4693",
+            "id": "node/-4691",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
                 "contact:email": "hamo@lindas.kommune.no",
                 "contact:phone": "+47 56 37 50 62",
+                "doNotImportAddress": "Kolås 2 5955 LINDÅS",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kolås barnehage",
                 "no-barnehage:nsrid": "1016100",
                 "operator": "Lindås kommune",
                 "operator:type": "public",
-                "id": "node/-4693"
+                "id": "node/-4691"
             },
             "geometry": {
                 "type": "Point",

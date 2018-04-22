@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1986",
+            "id": "node/-1984",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
                 "contact:email": "anbrub@online.no",
                 "contact:phone": "+47 930 94 217",
+                "doNotImportAddress": "Rådyrvegen 17 2640 VINSTRA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vestsida kulturbarnehage",
                 "no-barnehage:nsrid": "1021760",
                 "operator": "Vestsida Kulturbarnehage Brubak",
                 "operator:type": "private",
-                "id": "node/-1986"
+                "id": "node/-1984"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1982",
+            "id": "node/-1980",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:email": "sentrumbhg@yahoo.no",
+                "doNotImportAddress": "Nedregata 72 2640 VINSTRA",
                 "max_age": "2",
                 "min_age": "1",
                 "name": "Sentrum barnehage",
                 "no-barnehage:nsrid": "1025466",
                 "operator": "Sentrum barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1982"
+                "id": "node/-1980"
             },
             "geometry": {
                 "type": "Point",

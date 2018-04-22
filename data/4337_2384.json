@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-571",
+            "id": "node/-569",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
                 "contact:email": "snaroya@skaubo.no",
                 "contact:phone": "+47 67532217",
                 "contact:website": "http://www.snaroyabarnehage.no",
+                "doNotImportAddress": "Snarøyveien 147 1367 SNARØYA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Snarøya barnehage",
                 "no-barnehage:nsrid": "1015527",
                 "operator": "Skaubo AS",
                 "operator:type": "private",
-                "id": "node/-571"
+                "id": "node/-569"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-536",
+            "id": "node/-534",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "94",
                 "contact:email": "nansenparken.barnehage@baerum.kommune.no",
+                "doNotImportAddress": "Forneburingen 202 1364 FORNEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nansenparken barnehage",
                 "no-barnehage:nsrid": "1012650",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-536"
+                "id": "node/-534"
             },
             "geometry": {
                 "type": "Point",
@@ -51,19 +53,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-466",
+            "id": "node/-465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
                 "contact:email": "flaklypa@barnehage.no",
                 "contact:phone": "+47 67 12 51 73",
+                "doNotImportAddress": "Fürstveien 46 1367 SNARØYA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Flåklypa barnehage",
                 "no-barnehage:nsrid": "1020391",
                 "operator": "Snarøya Kvinne- og Familielag",
                 "operator:type": "private",
-                "id": "node/-466"
+                "id": "node/-465"
             },
             "geometry": {
                 "type": "Point",

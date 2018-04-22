@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-722",
+            "id": "node/-720",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
                 "contact:email": "ann.noraker@fet.kommune.no",
                 "contact:phone": "+47 63 88 70 40",
+                "doNotImportAddress": "Åserudveien 1 1900 FETSUND",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ramstadskogen barnehage",
                 "no-barnehage:nsrid": "1017765",
                 "operator": "Fet kommune",
                 "operator:type": "public",
-                "id": "node/-722"
+                "id": "node/-720"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-718",
+            "id": "node/-716",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "135",
                 "contact:email": "ostersund@laringsverkstedet.no",
                 "contact:phone": "+47 37071631",
                 "contact:website": "http://laringsverkstedet.no/barnehage/ostersund",
+                "doNotImportAddress": "Kirkeveien 93 1900 FETSUND",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. idrettsbarnehage Østersund",
                 "no-barnehage:nsrid": "1016000",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-718"
+                "id": "node/-716"
             },
             "geometry": {
                 "type": "Point",
@@ -52,15 +54,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-717",
+            "id": "node/-715",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "kjellaugsolemdal@gmail.com",
+                "doNotImportAddress": "Kringenveien 1 1900 FETSUND",
                 "name": "Kringen åpen barnehage",
                 "no-barnehage:nsrid": "1020721",
                 "operator": "Fetsund Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-717"
+                "id": "node/-715"
             },
             "geometry": {
                 "type": "Point",
@@ -72,19 +75,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-715",
+            "id": "node/-713",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
                 "contact:email": "leder@fetsund-barnehage.no",
                 "contact:phone": "+47 63 88 51 31",
+                "doNotImportAddress": "Faldalsveien 20 1900 FETSUND",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fetsund barnehage",
                 "no-barnehage:nsrid": "1020558",
                 "operator": "Fetsund barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-715"
+                "id": "node/-713"
             },
             "geometry": {
                 "type": "Point",

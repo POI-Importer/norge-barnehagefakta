@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4166",
+            "id": "node/-4164",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
                 "contact:email": "dl.steinhaugane@bhg.no",
                 "contact:phone": "+47 53 83 33 49",
+                "doNotImportAddress": "Stølane 1 5541 KOLNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Steinhaugane FUS friluftsbarnehage",
                 "no-barnehage:nsrid": "1021162",
                 "operator": "Steinhaugane Fus Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4166"
+                "id": "node/-4164"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4153",
+            "id": "node/-4151",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
                 "contact:email": "kolnes.barnehage@karmoy.kommune.no",
                 "contact:phone": "+47 52 81 23 40",
                 "contact:website": "http://kolnes.vigilo.no/web/",
+                "doNotImportAddress": "Stølane 40 5541 KOLNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kolnes barnehage",
                 "no-barnehage:nsrid": "1014928",
                 "operator": "Karmøy kommune",
                 "operator:type": "public",
-                "id": "node/-4153"
+                "id": "node/-4151"
             },
             "geometry": {
                 "type": "Point",
@@ -52,20 +54,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4149",
+            "id": "node/-4147",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
                 "contact:email": "styrer@arhaug.espira.no",
                 "contact:phone": "+47 52 84 50 20",
                 "contact:website": "http://www.espira.no",
+                "doNotImportAddress": "Eikjevegen 255 5541 KOLNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Espira Århaug barnehage",
                 "no-barnehage:nsrid": "1021216",
                 "operator": "Espira Århaug AS",
                 "operator:type": "private",
-                "id": "node/-4149"
+                "id": "node/-4147"
             },
             "geometry": {
                 "type": "Point",

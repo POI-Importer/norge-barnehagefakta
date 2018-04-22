@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4481",
+            "id": "node/-4479",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
                 "contact:email": "skogatufto.barnehage@stord.kommune.no",
+                "doNotImportAddress": "Storasletto 65 5411 STORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skogatufto barnehage",
                 "no-barnehage:nsrid": "1017370",
                 "operator": "Stord kommune",
                 "operator:type": "public",
-                "id": "node/-4481"
+                "id": "node/-4479"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4475",
+            "id": "node/-4473",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
                 "contact:email": "naustba@online.no",
                 "contact:phone": "+47 53 41 30 56",
+                "doNotImportAddress": "Kjøtteinsvegen 188 5411 STORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Naustvågen barnehage",
                 "no-barnehage:nsrid": "1020643",
                 "operator": "Naustvågen barnehage",
                 "operator:type": "private",
-                "id": "node/-4475"
+                "id": "node/-4473"
             },
             "geometry": {
                 "type": "Point",

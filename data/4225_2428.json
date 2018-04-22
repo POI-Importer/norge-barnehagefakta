@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4076",
+            "id": "node/-4074",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "177",
                 "contact:email": "post@tchnorway.no",
                 "contact:phone": "+47 47 77 70 55",
                 "contact:website": "http://www.tchnorway.no",
+                "doNotImportAddress": "Åsenvegen 100 4055 SOLA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "The Childrens House barnehage",
                 "no-barnehage:nsrid": "1019733",
                 "operator": "The Childrens House",
                 "operator:type": "private",
-                "id": "node/-4076"
+                "id": "node/-4074"
             },
             "geometry": {
                 "type": "Point",
@@ -28,20 +29,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4052",
+            "id": "node/-4050",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "even-bhg@lyse.net",
                 "contact:phone": "+47 51 64 05 55",
                 "contact:website": "http://www.eventyrberget.no",
+                "doNotImportAddress": "Varabergtunet 2 4051 SOLA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eventyrberget foreldrelagsbarnehage",
                 "no-barnehage:nsrid": "1020699",
                 "operator": "Eventyrberget Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4052"
+                "id": "node/-4050"
             },
             "geometry": {
                 "type": "Point",
@@ -53,19 +55,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3872",
+            "id": "node/-3870",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:email": "kari.langholm@stavanger.kommune.no",
                 "contact:phone": "+47 51 91 31 40",
+                "doNotImportAddress": "Godesetkroken 2 4034 STAVANGER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mariamarka barnehage avd. Soria Moria",
                 "no-barnehage:nsrid": "1015454",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3872"
+                "id": "node/-3870"
             },
             "geometry": {
                 "type": "Point",
@@ -77,19 +80,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3871",
+            "id": "node/-3869",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
                 "contact:email": "mona.mjolsnes.knutsen@stavanger.kommune.no",
                 "contact:phone": "+47 51 80 17 65",
+                "doNotImportAddress": "Slettmyrveien 10 4034 STAVANGER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mariamarka barnehage",
                 "no-barnehage:nsrid": "1016075",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3871"
+                "id": "node/-3869"
             },
             "geometry": {
                 "type": "Point",
@@ -101,15 +105,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3839",
+            "id": "node/-3837",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "carine@kristentjeneste.no",
+                "doNotImportAddress": "Lagerveien 21 4033 STAVANGER",
                 "name": "Forus Åpne barnehage",
                 "no-barnehage:nsrid": "1016495",
                 "operator": "Stiftelsen Kristen Tjeneste",
                 "operator:type": "private",
-                "id": "node/-3839"
+                "id": "node/-3837"
             },
             "geometry": {
                 "type": "Point",
@@ -121,20 +126,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3838",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
                 "contact:email": "forus@laringsverkstedet.no",
                 "contact:phone": "+47 51636465",
                 "contact:website": "http://laringsverkstedet.no/barnehage/forus",
+                "doNotImportAddress": "Kontorveien 9 4033 STAVANGER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forus private barnehage",
                 "no-barnehage:nsrid": "1020190",
                 "operator": "Forus Private barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3838"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
@@ -146,18 +152,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3793",
+            "id": "node/-3791",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
                 "contact:email": "dl.svanholmen@kanvas.no",
+                "doNotImportAddress": "Svanholmen 8 4313 SANDNES",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Svanholmen Kanvas-barnehage",
                 "no-barnehage:nsrid": "1016069",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3793"
+                "id": "node/-3791"
             },
             "geometry": {
                 "type": "Point",

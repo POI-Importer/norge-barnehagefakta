@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-911",
+            "id": "node/-909",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
                 "contact:email": "kontor@laringsverkstedet.no",
                 "contact:phone": "+47 41538050",
                 "contact:website": "http://www.laringsverkstedet.no/solhellinga",
+                "doNotImportAddress": "Nedre Solhellinga 2 2067 JESSHEIM",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Solhellinga",
                 "no-barnehage:nsrid": "1017855",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-911"
+                "id": "node/-909"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-904",
+            "id": "node/-902",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
                 "contact:email": "ellen.knudsen@ulna.no",
                 "contact:phone": "+47 98120610",
+                "doNotImportAddress": "Kverndalsvegen 10 2067 JESSHEIM",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kverndalen barnehage",
                 "no-barnehage:nsrid": "1018600",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-904"
+                "id": "node/-902"
             },
             "geometry": {
                 "type": "Point",

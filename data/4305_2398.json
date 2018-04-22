@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2752",
+            "id": "node/-2750",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
                 "contact:email": "ingerlise@kattekleiv.no",
+                "doNotImportAddress": "Trolldalsvegen 6 3676 NOTODDEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trolldalen gårdsbarnehage",
                 "no-barnehage:nsrid": "1012983",
                 "operator": "Kattekleiv barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2752"
+                "id": "node/-2750"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2739",
+            "id": "node/-2737",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
                 "contact:email": "barnehage@betesdaheddal.no",
                 "contact:phone": "+47 35 02 07 10",
+                "doNotImportAddress": "Heddalsvegen 350 3676 NOTODDEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Betesda barnehage",
                 "no-barnehage:nsrid": "1020204",
                 "operator": "Betesda barnehage",
                 "operator:type": "private",
-                "id": "node/-2739"
+                "id": "node/-2737"
             },
             "geometry": {
                 "type": "Point",

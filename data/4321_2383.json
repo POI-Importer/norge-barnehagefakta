@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2300",
+            "id": "node/-2298",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:email": "nordbraten@modum.kommune.no",
+                "doNotImportAddress": "Setersbergveien 50 3340 ÅMOT",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nordbråten barnehage",
                 "no-barnehage:nsrid": "1014700",
                 "operator": "Modum kommune",
                 "operator:type": "public",
-                "id": "node/-2300"
+                "id": "node/-2298"
             },
             "geometry": {
                 "type": "Point",
@@ -26,20 +27,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2296",
+            "id": "node/-2294",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
                 "contact:email": "amot@laringsverkstedet.no",
                 "contact:phone": "+47 37071591",
                 "contact:website": "http://laringsverkstedet.no/barnehage/amot",
+                "doNotImportAddress": "Strandgata 37 3340 ÅMOT",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Åmot",
                 "no-barnehage:nsrid": "1020196",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2296"
+                "id": "node/-2294"
             },
             "geometry": {
                 "type": "Point",
@@ -51,19 +53,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2289",
+            "id": "node/-2287",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
                 "contact:email": "post@barudasenbarnehage.no",
                 "contact:phone": "+47 32 78 72 40",
+                "doNotImportAddress": "Stadionveien 7 3340 ÅMOT",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bårudåsen barnehage",
                 "no-barnehage:nsrid": "1021029",
                 "operator": "Bårudåsen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2289"
+                "id": "node/-2287"
             },
             "geometry": {
                 "type": "Point",

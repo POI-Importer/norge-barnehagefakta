@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3564",
+            "id": "node/-3562",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
                 "contact:email": "styrer@rakkerungan.no",
                 "contact:phone": "+47 38021130",
                 "contact:website": "http://www.rakkerungan.no",
+                "doNotImportAddress": "Kirsebærveien 10a 4635 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rakkerungan barnehage",
                 "no-barnehage:nsrid": "1013015",
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
-                "id": "node/-3564"
+                "id": "node/-3562"
             },
             "geometry": {
                 "type": "Point",
@@ -28,17 +29,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3542",
+            "id": "node/-3540",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
+                "doNotImportAddress": "Gneistoppen 20 4656 HAMRESANDEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Krohns barnehage",
                 "no-barnehage:nsrid": "1025930",
                 "operator": "Krohns barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3542"
+                "id": "node/-3540"
             },
             "geometry": {
                 "type": "Point",
@@ -50,19 +52,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3534",
+            "id": "node/-3532",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
                 "contact:email": "elfrid.jortveit@kristiansand.kommune.no",
                 "contact:phone": "+47 38 10 36 00",
+                "doNotImportAddress": "Jordbærveien 1 4635 KRISTIANSAND S",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jordbærveien barnehage",
                 "no-barnehage:nsrid": "1012864",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3534"
+                "id": "node/-3532"
             },
             "geometry": {
                 "type": "Point",
@@ -74,15 +77,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3532",
+            "id": "node/-3530",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "esteinsland@gmail.com",
+                "doNotImportAddress": "Øvre Brattbakken 5 4635 KRISTIANSAND S",
                 "name": "Hånes Åpne barnehage",
                 "no-barnehage:nsrid": "1013446",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3532"
+                "id": "node/-3530"
             },
             "geometry": {
                 "type": "Point",

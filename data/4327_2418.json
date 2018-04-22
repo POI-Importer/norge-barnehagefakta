@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2510",
+            "id": "node/-2508",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:email": "krokenskogen@kanvas.no",
+                "doNotImportAddress": "Lauras Vei 3 3244 SANDEFJORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Krokenskogen Kanvas-barnehage",
                 "no-barnehage:nsrid": "1015707",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2510"
+                "id": "node/-2508"
             },
             "geometry": {
                 "type": "Point",
@@ -26,20 +27,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2494",
+            "id": "node/-2492",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
                 "contact:email": "post@furustad-barnehage.no",
                 "contact:phone": "+47 033459112",
                 "contact:website": "http://www.furustad-barnehage.no",
+                "doNotImportAddress": "Furustadveien 61 3232 SANDEFJORD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Furustad barnehage",
                 "no-barnehage:nsrid": "1019903",
                 "operator": "Furustad barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2494"
+                "id": "node/-2492"
             },
             "geometry": {
                 "type": "Point",

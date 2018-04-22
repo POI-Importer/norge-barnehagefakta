@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-973",
+            "id": "node/-971",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
                 "contact:email": "Anita.Hakvag@nannestad.kommune.no",
                 "contact:phone": "+47 66 10 53 70",
+                "doNotImportAddress": "Prestmosvegen 3 2030 NANNESTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Midtbygda barnehage",
                 "no-barnehage:nsrid": "1017549",
                 "operator": "Nannestad kommune",
                 "operator:type": "public",
-                "id": "node/-973"
+                "id": "node/-971"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-966",
+            "id": "node/-964",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
                 "contact:email": "bjerketun@online.no",
                 "contact:phone": "+47 98 28 59 90",
                 "contact:website": "http://www.minbarnehage.no/bjerketun",
+                "doNotImportAddress": "Åsvegen 814 2032 MAURA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjerketun barnehage",
                 "no-barnehage:nsrid": "1020879",
                 "operator": "Bjerketun barnehage Eva B Aas",
                 "operator:type": "private",
-                "id": "node/-966"
+                "id": "node/-964"
             },
             "geometry": {
                 "type": "Point",

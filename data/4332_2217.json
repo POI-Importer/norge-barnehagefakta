@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3077",
+            "id": "node/-3075",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
                 "contact:email": "berit.ryggvik@trondheim.kommune.no",
+                "doNotImportAddress": "Tonstadgrenda 31 7091 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tonstad barnehage",
                 "no-barnehage:nsrid": "1013758",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3077"
+                "id": "node/-3075"
             },
             "geometry": {
                 "type": "Point",
@@ -26,17 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3073",
+            "id": "node/-3071",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "eli_romstad@hotmail.com",
                 "contact:phone": "+47 41 22 27 55",
                 "contact:website": "http://www.facebook.com/Tiller-%C3%A5pen-barnehage-431880970164822/",
+                "doNotImportAddress": "Romemyra 66 7091 TILLER",
                 "name": "Tiller åpen barnehage",
                 "no-barnehage:nsrid": "1016882",
                 "operator": "Tiller Sokn",
                 "operator:type": "private",
-                "id": "node/-3073"
+                "id": "node/-3071"
             },
             "geometry": {
                 "type": "Point",
@@ -48,18 +50,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3032",
+            "id": "node/-3030",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
                 "contact:email": "ella-marie.ingdal@trondheim.kommune.no",
+                "doNotImportAddress": "Lykkmarka 63 7081 SJETNEMARKA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sjetne barnehage",
                 "no-barnehage:nsrid": "1016842",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3032"
+                "id": "node/-3030"
             },
             "geometry": {
                 "type": "Point",
@@ -71,18 +74,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3021",
+            "id": "node/-3019",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "rfh@trondheim.kommune.no",
+                "doNotImportAddress": "Romemyra 70 7091 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Romemyra barnehage",
                 "no-barnehage:nsrid": "1012524",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3021"
+                "id": "node/-3019"
             },
             "geometry": {
                 "type": "Point",
@@ -94,18 +98,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3020",
+            "id": "node/-3018",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
                 "contact:email": "lisbeth.jorgensen@trondheim.kommune.no",
+                "doNotImportAddress": "Rognbudalen 78 7092 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rognbudalen barnehage",
                 "no-barnehage:nsrid": "1018222",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3020"
+                "id": "node/-3018"
             },
             "geometry": {
                 "type": "Point",
@@ -117,18 +122,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3010",
+            "id": "node/-3008",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
                 "contact:email": "kristin.hoe@ou.trondheim.kommune.no",
+                "doNotImportAddress": "Ivar Reitens Veg 6 7091 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Porsmyra barnehage",
                 "no-barnehage:nsrid": "1017829",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3010"
+                "id": "node/-3008"
             },
             "geometry": {
                 "type": "Point",
@@ -140,18 +146,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2983",
+            "id": "node/-2981",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
                 "contact:email": "ruth-kjellaug.sandvik@trondheim.kommune.no",
+                "doNotImportAddress": "Moltmyra 164 7091 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Moltmyra barnehage",
                 "no-barnehage:nsrid": "1018606",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2983"
+                "id": "node/-2981"
             },
             "geometry": {
                 "type": "Point",
@@ -163,20 +170,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2968",
+            "id": "node/-2966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
                 "contact:email": "lunderhaugen@barnehage.no",
                 "contact:phone": "+47 41309296",
                 "contact:website": "http://lunderhaugen.barnehage.no",
+                "doNotImportAddress": "Haldor Flatens Veg 52 7081 SJETNEMARKA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lunderhaugen barnehage",
                 "no-barnehage:nsrid": "1021581",
                 "operator": "Lunderhaugen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2968"
+                "id": "node/-2966"
             },
             "geometry": {
                 "type": "Point",
@@ -188,18 +196,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2886",
+            "id": "node/-2884",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
                 "contact:email": "ruth-kjellaug.sandvik@trondheim.kommune.no",
+                "doNotImportAddress": "Tonstadbrinken 253b 7091 TILLER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Brinken barnehage",
                 "no-barnehage:nsrid": "1016872",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2886"
+                "id": "node/-2884"
             },
             "geometry": {
                 "type": "Point",

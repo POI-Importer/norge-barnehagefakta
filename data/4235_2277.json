@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5010",
+            "id": "node/-5008",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "kjell.wiik@tussa.com",
+                "doNotImportAddress": "Gamletufta 1 6104 VOLDA",
                 "name": "Volda Opne barnehage",
                 "no-barnehage:nsrid": "1025450",
                 "operator": "Den Evangeliske Lutherske Frikyrkje Volda Kyrkjelyd",
                 "operator:type": "private",
-                "id": "node/-5010"
+                "id": "node/-5008"
             },
             "geometry": {
                 "type": "Point",
@@ -23,18 +24,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5003",
+            "id": "node/-5001",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
                 "contact:email": "brattberg@laringsverkstedet.no",
+                "doNotImportAddress": "Bakkelidvegen 30 6104 VOLDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Bratteberg barnehage",
                 "no-barnehage:nsrid": "1021777",
                 "operator": "Læringsverkstedet Bratteberg barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5003"
+                "id": "node/-5001"
             },
             "geometry": {
                 "type": "Point",
@@ -46,19 +48,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5001",
+            "id": "node/-4999",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
                 "contact:email": "post@hjellbakkane.no",
                 "contact:phone": "+47 70 07 84 68",
+                "doNotImportAddress": "Gamletufta 3 6104 VOLDA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hjellbakkane barnehage stiftelsen",
                 "no-barnehage:nsrid": "1020462",
                 "operator": "Hjellbakkane barnehage stiftelsen",
                 "operator:type": "private",
-                "id": "node/-5001"
+                "id": "node/-4999"
             },
             "geometry": {
                 "type": "Point",

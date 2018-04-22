@@ -3,15 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3593",
+            "id": "node/-3591",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "torridal.menighet@kristiansand.kommune.no",
+                "doNotImportAddress": "C/o Torridal Kirke Hommeren 4 4618 KRISTIANSAND S",
                 "name": "Torridal åpen barnehage",
                 "no-barnehage:nsrid": "1014218",
                 "operator": "Torridal Sokn",
                 "operator:type": "private",
-                "id": "node/-3593"
+                "id": "node/-3591"
             },
             "geometry": {
                 "type": "Point",
@@ -23,19 +24,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3556",
+            "id": "node/-3554",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
                 "contact:email": "karen.stenslund@kristiansand.kommune.no",
                 "contact:phone": "+47 38 10 33 88",
+                "doNotImportAddress": "Mosby Ringvei 66 4619 MOSBY",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mosby barnehage",
                 "no-barnehage:nsrid": "1012863",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3556"
+                "id": "node/-3554"
             },
             "geometry": {
                 "type": "Point",
@@ -47,20 +49,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3531",
+            "id": "node/-3529",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
                 "contact:email": "hoibarn@online.no",
                 "contact:phone": "+47 38 11 80 10",
                 "contact:website": "http://hoietun.barnehage.no",
+                "doNotImportAddress": "Høietun 6 4619 MOSBY",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Høietun barnehage",
                 "no-barnehage:nsrid": "1020218",
                 "operator": "Mosby Indremisjon",
                 "operator:type": "private",
-                "id": "node/-3531"
+                "id": "node/-3529"
             },
             "geometry": {
                 "type": "Point",

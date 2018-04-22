@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1635",
+            "id": "node/-1633",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
                 "contact:email": "styrer@trollskogen.no",
                 "contact:phone": "+47 23 19 19 60",
                 "contact:website": "http://www.trollskogen.no",
+                "doNotImportAddress": "Trollstien 30 1274 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trollskogen barnehage Bjørndal",
                 "no-barnehage:nsrid": "1020457",
                 "operator": "Trollskogen barnehage Bjørndal Sa",
                 "operator:type": "private",
-                "id": "node/-1635"
+                "id": "node/-1633"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1606",
+            "id": "node/-1604",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "malaka.izzati@bsn.oslo.kommune.no",
+                "doNotImportAddress": "Åslandhellinga 1 1274 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Taranrød barnehage",
                 "no-barnehage:nsrid": "1015624",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1606"
+                "id": "node/-1604"
             },
             "geometry": {
                 "type": "Point",
@@ -57,6 +59,7 @@
                 "capacity": "83",
                 "contact:email": "mona.mobak@oppegard.kommune.no",
                 "contact:phone": "+47 66 80 95 40",
+                "doNotImportAddress": "Kongeveien 16b 1412 SOFIEMYR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ødegården barnehage",
@@ -81,6 +84,7 @@
                 "capacity": "57",
                 "contact:email": "lise.beate.holen@oppegard.kommune.no",
                 "contact:phone": "+47 66812590",
+                "doNotImportAddress": "Valhallaveien 33b 1412 SOFIEMYR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hellerasten barnehage",
@@ -105,6 +109,7 @@
                 "capacity": "90",
                 "contact:email": "synnove.anfinsen@oppegard.kommune.no",
                 "contact:phone": "+47 66 89 11 40",
+                "doNotImportAddress": "Hareveien 42 1413 TÅRNÅSEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hareveien barnehage",
@@ -129,6 +134,7 @@
                 "capacity": "69",
                 "contact:email": "toril.sjolund.dyrstad@oppegard.kommune.no",
                 "contact:phone": "+47 66 81 28 30",
+                "doNotImportAddress": "Gimleveien 1 1413 TÅRNÅSEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gimleveien barnehage",
@@ -153,6 +159,7 @@
                 "capacity": "48",
                 "contact:email": "augestad.barnehage@oppegard.kommune.no",
                 "contact:phone": "+47 66 89 11 47",
+                "doNotImportAddress": "Kornmoveien 18 1413 TÅRNÅSEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Augestad barnehage avd. Øståsen",
@@ -177,6 +184,7 @@
                 "capacity": "18",
                 "contact:email": "augestad.barnehage@oppegard.kommune.no",
                 "contact:phone": "+47 66 81 16 20",
+                "doNotImportAddress": "Gjallarveien 23 1413 TÅRNÅSEN",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Augestad barnehage avd. Tårnåsen",

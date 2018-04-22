@@ -3,16 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3763",
+            "id": "node/-3761",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "heidi.sinnes@sandnes.kirken.no",
                 "contact:phone": "+47 51 68 82 36",
+                "doNotImportAddress": "Amboltveien 2 4311 HOMMERSÅK",
                 "name": "Knøttene åpen barnehage",
                 "no-barnehage:nsrid": "1015878",
                 "operator": "Sandnes Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-3763"
+                "id": "node/-3761"
             },
             "geometry": {
                 "type": "Point",
@@ -24,19 +25,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3755",
+            "id": "node/-3753",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
                 "contact:email": "astrid.svebestad@sandnes.kommune.no",
                 "contact:phone": "+47 51 68 88 75",
+                "doNotImportAddress": "Teineveien 2 4310 HOMMERSÅK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hommersåk barnehage",
                 "no-barnehage:nsrid": "1012888",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-3755"
+                "id": "node/-3753"
             },
             "geometry": {
                 "type": "Point",

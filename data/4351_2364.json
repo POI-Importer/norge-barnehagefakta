@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-958",
+            "id": "node/-956",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
                 "contact:email": "kontor@laringsverkstedet.no",
                 "contact:website": "http://laringsverkstedet.no/mork",
+                "doNotImportAddress": "Morkvegen 27 2080 EIDSVOLL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Mork",
                 "no-barnehage:nsrid": "1017185",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-958"
+                "id": "node/-956"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-950",
+            "id": "node/-948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:email": "styrer@camillabarnehage.no",
+                "doNotImportAddress": "Eidsvollbakken 20 2080 EIDSVOLL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Camilla barnehage",
                 "no-barnehage:nsrid": "1022010",
                 "operator": "Camilla barnehage AS",
                 "operator:type": "private",
-                "id": "node/-950"
+                "id": "node/-948"
             },
             "geometry": {
                 "type": "Point",

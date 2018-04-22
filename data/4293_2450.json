@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2849",
+            "id": "node/-2847",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
                 "contact:email": "fevik@laringsverkstedet.no",
                 "contact:website": "http://laringsverkstedet.no/barnehage/fevik",
+                "doNotImportAddress": "Sømsveien 110 4870 FEVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Fevik",
                 "no-barnehage:nsrid": "1015799",
                 "operator": "Portveien Barnehagedrift AS",
                 "operator:type": "private",
-                "id": "node/-2849"
+                "id": "node/-2847"
             },
             "geometry": {
                 "type": "Point",
@@ -27,20 +28,21 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2841",
+            "id": "node/-2839",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
                 "contact:email": "post@fevik-barnehage.no",
                 "contact:phone": "+47 37090150",
                 "contact:website": "http://www.fevik-barnehage.no",
+                "doNotImportAddress": "Sømsveien 4 4870 FEVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fevik barnehage",
                 "no-barnehage:nsrid": "1015531",
                 "operator": "Grimstad Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-2841"
+                "id": "node/-2839"
             },
             "geometry": {
                 "type": "Point",

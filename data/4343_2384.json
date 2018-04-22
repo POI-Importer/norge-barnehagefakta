@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1237",
+            "id": "node/-1235",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "105",
                 "contact:email": "wenche.nass@bos.oslo.kommune.no",
                 "contact:phone": "+47 23 43 89 80",
                 "contact:website": "http://www.barnehager.oslo.kommune.no/holtet-barnehage/",
+                "doNotImportAddress": "Olav Nygards Veg 65 0688 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Holtet barnehage",
                 "no-barnehage:nsrid": "1017044",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1237"
+                "id": "node/-1235"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1207",
+            "id": "node/-1205",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
                 "contact:email": "berit.johnson@bos.oslo.kommune.no",
+                "doNotImportAddress": "Olav Nygards Veg 65 0688 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Haraløkka barnehage",
                 "no-barnehage:nsrid": "1017624",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1207"
+                "id": "node/-1205"
             },
             "geometry": {
                 "type": "Point",

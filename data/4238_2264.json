@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5057",
+            "id": "node/-5055",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:email": "post@rorstadmarka-barnehage.no",
                 "contact:phone": "+47 70 19 40 50",
                 "contact:website": "http://www.rorstadmarka.barnehage.no",
+                "doNotImportAddress": "Rørstadmarka 25 6035 FISKARSTRAND",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Rørstadmarka barnehage",
                 "no-barnehage:nsrid": "1020902",
                 "operator": "Rørstadmarka barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5057"
+                "id": "node/-5055"
             },
             "geometry": {
                 "type": "Point",
@@ -28,18 +29,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5054",
+            "id": "node/-5052",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
                 "contact:email": "may.dybvik@sula.kommune.no",
+                "doNotImportAddress": "Myrbekkane 15 6036 MAUSEIDVÅG",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Måseide barnehage",
                 "no-barnehage:nsrid": "1014780",
                 "operator": "Sula kommune",
                 "operator:type": "public",
-                "id": "node/-5054"
+                "id": "node/-5052"
             },
             "geometry": {
                 "type": "Point",

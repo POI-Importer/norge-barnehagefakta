@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1952",
+            "id": "node/-1950",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
                 "contact:email": "post@marihoena.no",
                 "contact:phone": "+47 61 14 68 50",
                 "contact:website": "http://www.marihoena.barnehage.no",
+                "doNotImportAddress": "Engehaugen 15 2818 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Marihøna barnehage",
                 "no-barnehage:nsrid": "1020021",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1952"
+                "id": "node/-1950"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1950",
+            "id": "node/-1948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
                 "contact:email": "anna-karin.narten@gjovik.kommune.no",
                 "contact:phone": "+47 61 13 76 00",
+                "doNotImportAddress": "Kvartsvegen 5 2818 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kvartsvegen barnehage",
                 "no-barnehage:nsrid": "1016976",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1950"
+                "id": "node/-1948"
             },
             "geometry": {
                 "type": "Point",
@@ -52,18 +54,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1948",
+            "id": "node/-1946",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
                 "contact:email": "magni.bekkelund@gjovik.kommune.no",
+                "doNotImportAddress": "Melbyvegen 9 2818 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kopperud barnehage",
                 "no-barnehage:nsrid": "1025503",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1948"
+                "id": "node/-1946"
             },
             "geometry": {
                 "type": "Point",
@@ -75,18 +78,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1942",
+            "id": "node/-1940",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
                 "contact:email": "en669@kirken.no",
+                "doNotImportAddress": "Gjennomfaret 2 2818 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Engehaugen menighetsbarnehage",
                 "no-barnehage:nsrid": "1015571",
                 "operator": "Gjøvik Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-1942"
+                "id": "node/-1940"
             },
             "geometry": {
                 "type": "Point",

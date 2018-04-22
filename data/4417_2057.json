@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5398",
+            "id": "node/-5396",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
                 "contact:email": "bjorg.forseng@rana.kommune.no",
+                "doNotImportAddress": "Hopmoen 1 8614 MO I RANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ytteren barnehage",
                 "no-barnehage:nsrid": "1013917",
                 "operator": "Rana kommune",
                 "operator:type": "public",
-                "id": "node/-5398"
+                "id": "node/-5396"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +27,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5392",
+            "id": "node/-5390",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
                 "contact:email": "post@kirkebakken-barnehage.no",
                 "contact:phone": "+47 75 16 84 45",
+                "doNotImportAddress": "Kirkebakken 5 8614 MO I RANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiftelsen kirkebakken barnehage",
                 "no-barnehage:nsrid": "1020200",
                 "operator": "Stiftelsen Kirkebakken barnehage",
                 "operator:type": "private",
-                "id": "node/-5392"
+                "id": "node/-5390"
             },
             "geometry": {
                 "type": "Point",

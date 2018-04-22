@@ -3,20 +3,21 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-871",
+            "id": "node/-869",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:email": "liv@toyenasen.no",
                 "contact:phone": "+47 67 07 61 69",
                 "contact:website": "http://www.toyenasen.no",
+                "doNotImportAddress": "Feltspatveien 1 1487 HAKADAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tøyenåsen barnehagen",
                 "no-barnehage:nsrid": "1019964",
                 "operator": "Tøyenåsen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-871"
+                "id": "node/-869"
             },
             "geometry": {
                 "type": "Point",
@@ -28,19 +29,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-870",
+            "id": "node/-868",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
                 "contact:email": "brit-tove.hjelmerud@nittedal.kommune.no",
                 "contact:phone": "+47 67 07 47 35",
+                "doNotImportAddress": "Steinveien 2 1487 HAKADAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tøyen barnehage",
                 "no-barnehage:nsrid": "1017544",
                 "operator": "Nittedal kommune",
                 "operator:type": "public",
-                "id": "node/-870"
+                "id": "node/-868"
             },
             "geometry": {
                 "type": "Point",
@@ -52,17 +54,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-850",
+            "id": "node/-848",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
+                "doNotImportAddress": "Glittreveien 33 1487 HAKADAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Glittre barnehage",
                 "no-barnehage:nsrid": "1016820",
                 "operator": "Glittre barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-850"
+                "id": "node/-848"
             },
             "geometry": {
                 "type": "Point",

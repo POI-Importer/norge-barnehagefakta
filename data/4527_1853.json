@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5625",
+            "id": "node/-5623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
                 "contact:email": "tof-b@online.no",
                 "contact:phone": "+47 77 67 68 88",
+                "doNotImportAddress": "Toftvegen 10 9017 TROMSØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Toftveien barnehage",
                 "no-barnehage:nsrid": "1020105",
                 "operator": "Toftveien barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5625"
+                "id": "node/-5623"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5611",
+            "id": "node/-5609",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
                 "contact:email": "marianne.lovdal@tromso.kommune.no",
+                "doNotImportAddress": "Ringvegen 520 9017 TROMSØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solneset barnehage",
                 "no-barnehage:nsrid": "1018441",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5611"
+                "id": "node/-5609"
             },
             "geometry": {
                 "type": "Point",
@@ -50,19 +52,20 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5585",
+            "id": "node/-5583",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
                 "contact:email": "kvitungen.barnehage@norlandiabarnehagene.no",
                 "contact:phone": "+47 77678353",
+                "doNotImportAddress": "Valbeinet 1 9017 TROMSØ",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kvitungen barnehage",
                 "no-barnehage:nsrid": "1015977",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-5585"
+                "id": "node/-5583"
             },
             "geometry": {
                 "type": "Point",

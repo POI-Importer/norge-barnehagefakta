@@ -3,19 +3,20 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5384",
+            "id": "node/-5382",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:email": "kirketunet@kirketunet-barnehage.no",
                 "contact:phone": "+47 75 12 92 30",
+                "doNotImportAddress": "Kirkegata 20 8622 MO I RANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kirketunet barnehage",
                 "no-barnehage:nsrid": "1021310",
                 "operator": "Kirketunet barnehage",
                 "operator:type": "private",
-                "id": "node/-5384"
+                "id": "node/-5382"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +28,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5377",
+            "id": "node/-5375",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
                 "contact:email": "tor.egil.horn@rana.kommune.no",
+                "doNotImportAddress": "Johan Nygaardsvolds Gate 36 8622 MO I RANA",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnas Hus",
                 "no-barnehage:nsrid": "1013664",
                 "operator": "Rana kommune",
                 "operator:type": "public",
-                "id": "node/-5377"
+                "id": "node/-5375"
             },
             "geometry": {
                 "type": "Point",
