@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4804",
+            "id": "node/-4796",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -14,30 +14,6 @@
                 "min_age": "1",
                 "name": "Sunde barnehage",
                 "no-barnehage:nsrid": "1013086",
-                "operator": "Førde kommune",
-                "operator:type": "public",
-                "id": "node/-4804"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.15876,
-                    61.4181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4796",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "29",
-                "contact:email": "sbr@forde.kommune.no",
-                "doNotImportAddress": " 6819 FØRDE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Holsen Skule og barnehage avd. barnehage",
-                "no-barnehage:nsrid": "1018524",
                 "operator": "Førde kommune",
                 "operator:type": "public",
                 "id": "node/-4796"
@@ -52,7 +28,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4793",
+            "id": "node/-4788",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:email": "sbr@forde.kommune.no",
+                "doNotImportAddress": " 6819 FØRDE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Holsen Skule og barnehage avd. barnehage",
+                "no-barnehage:nsrid": "1018524",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "id": "node/-4788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15876,
+                    61.4181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4785",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "7",
@@ -64,7 +64,7 @@
                 "no-barnehage:nsrid": "1017635",
                 "operator": "Førde kommune",
                 "operator:type": "public",
-                "id": "node/-4793"
+                "id": "node/-4785"
             },
             "geometry": {
                 "type": "Point",
