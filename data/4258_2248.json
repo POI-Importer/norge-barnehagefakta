@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5103",
+            "id": "node/-5112",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -15,7 +15,57 @@
                 "no-barnehage:nsrid": "2000004",
                 "operator": "Krohnstad Montessori barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5103"
+                "id": "node/-5112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.16073,
+                    62.73724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4897",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:email": "mlj@molde.kommune.no",
+                "contact:phone": "+47 072537330",
+                "contact:website": "http://www.molde.kommune.no/hjem.406106.no.html",
+                "doNotImportAddress": "Bjørnstjerne Bjørnsons Veg 8 6412 MOLDE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "St Sunniva barnehage",
+                "no-barnehage:nsrid": "1016725",
+                "operator": "Molde kommune",
+                "operator:type": "public",
+                "id": "node/-4897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.15038,
+                    62.7357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4893",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:email": "post@mordalstua.no",
+                "doNotImportAddress": "Mordal 6409 MOLDE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mordalstua barnehage",
+                "no-barnehage:nsrid": "1020689",
+                "operator": "Brunstad Kristelige Menighet Molde",
+                "operator:type": "private",
+                "id": "node/-4893"
             },
             "geometry": {
                 "type": "Point",
@@ -30,56 +80,6 @@
             "id": "node/-4888",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "41",
-                "contact:email": "mlj@molde.kommune.no",
-                "contact:phone": "+47 072537330",
-                "contact:website": "http://www.molde.kommune.no/hjem.406106.no.html",
-                "doNotImportAddress": "Bjørnstjerne Bjørnsons Veg 8 6412 MOLDE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "St Sunniva barnehage",
-                "no-barnehage:nsrid": "1016725",
-                "operator": "Molde kommune",
-                "operator:type": "public",
-                "id": "node/-4888"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.15038,
-                    62.7357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4884",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "14",
-                "contact:email": "post@mordalstua.no",
-                "doNotImportAddress": "Mordal 6409 MOLDE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mordalstua barnehage",
-                "no-barnehage:nsrid": "1020689",
-                "operator": "Brunstad Kristelige Menighet Molde",
-                "operator:type": "private",
-                "id": "node/-4884"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.16073,
-                    62.73724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4879",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "103",
                 "contact:email": "cecilienfryd@mobarn.no",
                 "contact:phone": "+47 71201430",
@@ -90,7 +90,7 @@
                 "no-barnehage:nsrid": "1016083",
                 "operator": "Mobarn Sa",
                 "operator:type": "private",
-                "id": "node/-4879"
+                "id": "node/-4888"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4877",
+            "id": "node/-4886",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -115,7 +115,7 @@
                 "no-barnehage:nsrid": "1016726",
                 "operator": "Molde kommune",
                 "operator:type": "public",
-                "id": "node/-4877"
+                "id": "node/-4886"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +127,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4870",
+            "id": "node/-4879",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -140,7 +140,7 @@
                 "no-barnehage:nsrid": "1025415",
                 "operator": "Molde kommune",
                 "operator:type": "public",
-                "id": "node/-4870"
+                "id": "node/-4879"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +152,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4867",
+            "id": "node/-4876",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -166,7 +166,7 @@
                 "no-barnehage:nsrid": "1016928",
                 "operator": "Molde kommune",
                 "operator:type": "public",
-                "id": "node/-4867"
+                "id": "node/-4876"
             },
             "geometry": {
                 "type": "Point",

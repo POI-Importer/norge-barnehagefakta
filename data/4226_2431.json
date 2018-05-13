@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3789",
+            "id": "node/-3797",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1021177",
                 "operator": "Utsikten Vest Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3789"
+                "id": "node/-3797"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3758",
+            "id": "node/-3766",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -41,7 +41,7 @@
                 "no-barnehage:nsrid": "1020858",
                 "operator": "Lundegård barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3758"
+                "id": "node/-3766"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3754",
+            "id": "node/-3762",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -66,13 +66,65 @@
                 "no-barnehage:nsrid": "1021195",
                 "operator": "Kreativ barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3754"
+                "id": "node/-3762"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.747521,
                     58.81401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3756",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:email": "dl.habet@bhg.no",
+                "contact:phone": "+47 51 62 15 99",
+                "contact:website": "http://www.haabet-barnehage.no",
+                "doNotImportAddress": "Håbafjellveien 39 4325 SANDNES",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Håbet FUS friluftsbarnehage",
+                "no-barnehage:nsrid": "1020129",
+                "operator": "Håbet Fus Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752916,
+                    58.82525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3755",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:email": "haabafjell.idrettsbarnehage@gmail.com",
+                "contact:phone": "+47 51 97 11 80",
+                "contact:website": "http://www.minbarnehage.no/idrettsbarnehage",
+                "doNotImportAddress": "Håbafjellveien 45 4325 SANDNES",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Håbafjell idrettsbarnehage",
+                "no-barnehage:nsrid": "1020561",
+                "operator": "Håbafjell Idrettsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752916,
+                    58.82525
                 ]
             }
         },
