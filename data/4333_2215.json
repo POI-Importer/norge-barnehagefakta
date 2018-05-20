@@ -99,31 +99,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3059",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "174",
-                "contact:email": "guri.evensen@sit.no",
-                "doNotImportAddress": "Prestekragevegen 14 7050 TRONDHEIM",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "no-barnehage:nsrid": "1016818",
-                "operator": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "operator:type": "private",
-                "id": "node/-3059"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4298,
-                    63.41
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3043",
+            "id": "node/-3045",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -135,13 +111,37 @@
                 "no-barnehage:nsrid": "1013901",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3043"
+                "id": "node/-3045"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.4318,
                     63.397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3030",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "174",
+                "contact:email": "guri.evensen@sit.no",
+                "doNotImportAddress": "Prestekragevegen 14 7050 TRONDHEIM",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "no-barnehage:nsrid": "1016818",
+                "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "operator:type": "private",
+                "id": "node/-3030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4298,
+                    63.41
                 ]
             }
         },

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3632",
+            "id": "node/-3630",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -14,32 +14,6 @@
                 "name": "Its solbarnehager",
                 "no-barnehage:nsrid": "1019987",
                 "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-3632"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.701414,
-                    58.09603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3630",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "92",
-                "contact:email": "styrer@vanse.espira.no",
-                "contact:phone": "+47 52 84 50 20",
-                "contact:website": "http://www.espira.no",
-                "doNotImportAddress": "Østre Vatne Vei 2 4560 VANSE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Vanse barnehage",
-                "no-barnehage:nsrid": "1021245",
-                "operator": "Espira Vanse AS",
                 "operator:type": "private",
                 "id": "node/-3630"
             },
@@ -56,6 +30,32 @@
             "id": "node/-3628",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:email": "styrer@vanse.espira.no",
+                "contact:phone": "+47 52 84 50 20",
+                "contact:website": "http://www.espira.no",
+                "doNotImportAddress": "Østre Vatne Vei 2 4560 VANSE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Vanse barnehage",
+                "no-barnehage:nsrid": "1021245",
+                "operator": "Espira Vanse AS",
+                "operator:type": "private",
+                "id": "node/-3628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.701414,
+                    58.09603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3626",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "26",
                 "contact:email": "styrer@varbakarcen.espira.no",
                 "contact:phone": "+47 38 39 24 50",
@@ -66,7 +66,7 @@
                 "no-barnehage:nsrid": "1017670",
                 "operator": "Espira Varbak Arcen AS",
                 "operator:type": "private",
-                "id": "node/-3628"
+                "id": "node/-3626"
             },
             "geometry": {
                 "type": "Point",
