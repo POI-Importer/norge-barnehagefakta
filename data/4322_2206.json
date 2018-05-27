@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3492",
+            "id": "node/-3495",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -17,7 +17,7 @@
                 "no-barnehage:nsrid": "1022276",
                 "operator": "Tryllefløyten Musikkbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3492"
+                "id": "node/-3495"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3490",
+            "id": "node/-3493",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -39,6 +39,31 @@
                 "min_age": "1",
                 "name": "Skogly friluftsbarnehage",
                 "no-barnehage:nsrid": "1015925",
+                "operator": "Indre Fosen kommune",
+                "operator:type": "public",
+                "id": "node/-3493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95989,
+                    63.5837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3490",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:email": "anne.kristin.utseth@indrefosen.kommune.no",
+                "contact:phone": "+47 73852809",
+                "doNotImportAddress": "Høgåsmyra 20 7100 RISSA",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgåsmyra barnehage",
+                "no-barnehage:nsrid": "1018233",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
                 "id": "node/-3490"
@@ -53,32 +78,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3487",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "77",
-                "contact:email": "anne.kristin.utseth@indrefosen.kommune.no",
-                "contact:phone": "+47 73852809",
-                "doNotImportAddress": "Høgåsmyra 20 7100 RISSA",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Høgåsmyra barnehage",
-                "no-barnehage:nsrid": "1018233",
-                "operator": "Indre Fosen kommune",
-                "operator:type": "public",
-                "id": "node/-3487"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.95989,
-                    63.5837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3486",
+            "id": "node/-3489",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -92,7 +92,7 @@
                 "no-barnehage:nsrid": "1019816",
                 "operator": "Fosnaheim Barnehagelag Sa",
                 "operator:type": "private",
-                "id": "node/-3486"
+                "id": "node/-3489"
             },
             "geometry": {
                 "type": "Point",

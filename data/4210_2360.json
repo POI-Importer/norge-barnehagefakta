@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4622",
+            "id": "node/-4624",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -16,7 +16,33 @@
                 "no-barnehage:nsrid": "1018118",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4622"
+                "id": "node/-4624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01927,
+                    60.4031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4615",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "contact:email": "kartveitpollen.barnehage@norlandia.com",
+                "contact:phone": "+47 93043240",
+                "contact:website": "http://kartveitpollen.norlandiabarnehagene.no/",
+                "doNotImportAddress": "Grønebakkane 2 5363 ÅGOTNES",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Kårtveitpollen barnehage",
+                "no-barnehage:nsrid": "1017266",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4615"
             },
             "geometry": {
                 "type": "Point",
@@ -31,32 +57,6 @@
             "id": "node/-4613",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "88",
-                "contact:email": "kartveitpollen.barnehage@norlandia.com",
-                "contact:phone": "+47 93043240",
-                "contact:website": "http://kartveitpollen.norlandiabarnehagene.no/",
-                "doNotImportAddress": "Grønebakkane 2 5363 ÅGOTNES",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Norlandia Kårtveitpollen barnehage",
-                "no-barnehage:nsrid": "1017266",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-4613"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.01927,
-                    60.4031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4611",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "85",
                 "doNotImportAddress": "Naustvikvegen 32 5363 ÅGOTNES",
                 "max_age": "5",
@@ -65,7 +65,7 @@
                 "no-barnehage:nsrid": "1016454",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4611"
+                "id": "node/-4613"
             },
             "geometry": {
                 "type": "Point",
@@ -77,7 +77,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4600",
+            "id": "node/-4602",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -91,7 +91,7 @@
                 "no-barnehage:nsrid": "1015155",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4600"
+                "id": "node/-4602"
             },
             "geometry": {
                 "type": "Point",
