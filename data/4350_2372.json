@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-916",
+            "id": "node/-917",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1016433",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-916"
+                "id": "node/-917"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-910",
+            "id": "node/-911",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -41,7 +41,7 @@
                 "no-barnehage:nsrid": "1016985",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-910"
+                "id": "node/-911"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-908",
+            "id": "node/-909",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "139",
@@ -67,7 +67,7 @@
                 "no-barnehage:nsrid": "1017187",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-908"
+                "id": "node/-909"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +79,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-899",
+            "id": "node/-900",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "post@ullensaker.kirkene.net",
@@ -89,7 +89,7 @@
                 "no-barnehage:nsrid": "1020407",
                 "operator": "Hovin Sokn",
                 "operator:type": "private",
-                "id": "node/-899"
+                "id": "node/-900"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +101,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-898",
+            "id": "node/-899",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -114,7 +114,7 @@
                 "no-barnehage:nsrid": "1025406",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-898"
+                "id": "node/-899"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +126,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-895",
+            "id": "node/-896",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -138,7 +138,7 @@
                 "no-barnehage:nsrid": "1017071",
                 "operator": "Hoppensprett AS",
                 "operator:type": "private",
-                "id": "node/-895"
+                "id": "node/-896"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +150,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-889",
+            "id": "node/-890",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -163,13 +163,33 @@
                 "no-barnehage:nsrid": "1014873",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-889"
+                "id": "node/-890"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.2053,
                     60.1347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-889",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Industrivegen 34 2069 JESSHEIM",
+                "name": "Fjellfoten barnehage",
+                "no-barnehage:nsrid": "2000252",
+                "operator": "Fjellfoten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18266,
+                    60.15228
                 ]
             }
         },

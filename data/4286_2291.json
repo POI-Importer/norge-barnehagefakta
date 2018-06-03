@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1970",
+            "id": "node/-1971",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -15,6 +15,32 @@
                 "min_age": "1",
                 "name": "Holemork barnehage",
                 "no-barnehage:nsrid": "1015863",
+                "operator": "Skjåk kommune",
+                "operator:type": "public",
+                "id": "node/-1971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37421,
+                    61.8748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1970",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "contact:email": "donfoss.barnehage@skjaak.kommune.no",
+                "contact:phone": "+47 61 21 48 32",
+                "contact:website": "http://www.skjaak.kommune.no/artikkel.aspx?MId1=6&AId=20133",
+                "doNotImportAddress": "Bråtåvegen 8 2693 NORDBERG",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dønfoss naturbarnehage",
+                "no-barnehage:nsrid": "1014716",
                 "operator": "Skjåk kommune",
                 "operator:type": "public",
                 "id": "node/-1970"
@@ -32,32 +58,6 @@
             "id": "node/-1969",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "20",
-                "contact:email": "donfoss.barnehage@skjaak.kommune.no",
-                "contact:phone": "+47 61 21 48 32",
-                "contact:website": "http://www.skjaak.kommune.no/artikkel.aspx?MId1=6&AId=20133",
-                "doNotImportAddress": "Bråtåvegen 8 2693 NORDBERG",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Dønfoss naturbarnehage",
-                "no-barnehage:nsrid": "1014716",
-                "operator": "Skjåk kommune",
-                "operator:type": "public",
-                "id": "node/-1969"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37421,
-                    61.8748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1968",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "27",
                 "contact:email": "mogunn.synstnes@skjaak.kommune.no",
                 "contact:phone": "+47 61 21 70 70",
@@ -69,7 +69,7 @@
                 "no-barnehage:nsrid": "1017609",
                 "operator": "Skjåk kommune",
                 "operator:type": "public",
-                "id": "node/-1968"
+                "id": "node/-1969"
             },
             "geometry": {
                 "type": "Point",
