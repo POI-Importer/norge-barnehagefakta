@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5065",
+            "id": "node/-5061",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -16,32 +16,7 @@
                 "no-barnehage:nsrid": "1020213",
                 "operator": "Skjong barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5065"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.108403,
-                    62.5108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5063",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "myra@barnehage.no",
-                "contact:phone": "+47 70 18 12 51",
-                "doNotImportAddress": " 6050 VALDERØYA",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Myra barnehage",
-                "no-barnehage:nsrid": "1019655",
-                "operator": "Myra barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-5063"
+                "id": "node/-5061"
             },
             "geometry": {
                 "type": "Point",
@@ -56,6 +31,31 @@
             "id": "node/-5059",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "myra@barnehage.no",
+                "contact:phone": "+47 70 18 12 51",
+                "doNotImportAddress": " 6050 VALDERØYA",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myra barnehage",
+                "no-barnehage:nsrid": "1019655",
+                "operator": "Myra barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.108403,
+                    62.5108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5055",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "74",
                 "contact:email": "post@daggrybarnehage.no",
                 "contact:phone": "+47 70182497",
@@ -66,7 +66,7 @@
                 "no-barnehage:nsrid": "1015545",
                 "operator": "Sunnmøre Indremisjon",
                 "operator:type": "private",
-                "id": "node/-5059"
+                "id": "node/-5055"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4459",
+            "id": "node/-4455",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -16,7 +16,7 @@
                 "no-barnehage:nsrid": "1017382",
                 "operator": "Sveio kommune",
                 "operator:type": "public",
-                "id": "node/-4459"
+                "id": "node/-4455"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4458",
+            "id": "node/-4454",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -39,53 +39,6 @@
                 "name": "Læringsverkstedet barnehage avd. Ekrene natur og gårdsbarnehage",
                 "no-barnehage:nsrid": "1021167",
                 "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-4458"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.351801,
-                    59.5419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4457",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:email": "dl.gjermundshaugen@bhg.no",
-                "doNotImportAddress": "Tjernagelsveien 47 5559 SVEIO",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gjermundshaugen FUS barnehage",
-                "no-barnehage:nsrid": "1021637",
-                "operator": "Gjermundshaugen Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4457"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.33985,
-                    59.54228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4454",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "doNotImportAddress": "Tjernagelvegen 713 5550 SVEIO",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bua kultur- og friluftsbarnehage",
-                "no-barnehage:nsrid": "1019693",
-                "operator": "Bua Kultur- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "id": "node/-4454"
             },
@@ -102,6 +55,53 @@
             "id": "node/-4453",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:email": "dl.gjermundshaugen@bhg.no",
+                "doNotImportAddress": "Tjernagelsveien 47 5559 SVEIO",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjermundshaugen FUS barnehage",
+                "no-barnehage:nsrid": "1021637",
+                "operator": "Gjermundshaugen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33985,
+                    59.54228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4450",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "doNotImportAddress": "Tjernagelvegen 713 5550 SVEIO",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bua kultur- og friluftsbarnehage",
+                "no-barnehage:nsrid": "1019693",
+                "operator": "Bua Kultur- og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.351801,
+                    59.5419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4449",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "33",
                 "contact:email": "astrid_whagen@hotmail.com",
                 "contact:phone": "+47 53 74 13 11",
@@ -113,7 +113,7 @@
                 "no-barnehage:nsrid": "1019692",
                 "operator": "Bråtveit Korttids barnehage",
                 "operator:type": "private",
-                "id": "node/-4453"
+                "id": "node/-4449"
             },
             "geometry": {
                 "type": "Point",
