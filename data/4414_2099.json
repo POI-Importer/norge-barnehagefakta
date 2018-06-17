@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5357",
+            "id": "node/-5358",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "5",
@@ -13,6 +13,30 @@
                 "min_age": "1",
                 "name": "Varntresk oppvekstsenter avd. barnehage",
                 "no-barnehage:nsrid": "1013761",
+                "operator": "Hattfjelldal kommune",
+                "operator:type": "public",
+                "id": "node/-5358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9842,
+                    65.5979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5357",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "8",
+                "contact:email": "wenche.daleng@hattfjelldal-kommune.no",
+                "doNotImportAddress": " 8690 HATTFJELLDAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Susendal skole og barnehage avd. barnehage",
+                "no-barnehage:nsrid": "1016313",
                 "operator": "Hattfjelldal kommune",
                 "operator:type": "public",
                 "id": "node/-5357"
@@ -30,30 +54,6 @@
             "id": "node/-5356",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "8",
-                "contact:email": "wenche.daleng@hattfjelldal-kommune.no",
-                "doNotImportAddress": " 8690 HATTFJELLDAL",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Susendal skole og barnehage avd. barnehage",
-                "no-barnehage:nsrid": "1016313",
-                "operator": "Hattfjelldal kommune",
-                "operator:type": "public",
-                "id": "node/-5356"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9842,
-                    65.5979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5355",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "38",
                 "contact:email": "solveig.carlsson@hattfjelldal-kommune.no",
                 "doNotImportAddress": " 8690 HATTFJELLDAL",
@@ -63,7 +63,7 @@
                 "no-barnehage:nsrid": "1016131",
                 "operator": "Hattfjelldal kommune",
                 "operator:type": "public",
-                "id": "node/-5355"
+                "id": "node/-5356"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3791",
+            "id": "node/-3792",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -17,7 +17,7 @@
                 "no-barnehage:nsrid": "1021003",
                 "operator": "Trollhaugen Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3791"
+                "id": "node/-3792"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3766",
+            "id": "node/-3767",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -41,6 +41,31 @@
                 "min_age": "1",
                 "name": "Maudland FUS barnehage avd. Riskatun",
                 "no-barnehage:nsrid": "1026524",
+                "operator": "Maudland Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.833864,
+                    58.91508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3766",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "105",
+                "contact:email": "dl.maudland@bhg.no",
+                "contact:phone": "+47 51 62 85 30",
+                "doNotImportAddress": "Maudlandsveien 61 4311 HOMMERSÅK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maudland FUS barnehage avd. Maudlandsveien",
+                "no-barnehage:nsrid": "1020350",
                 "operator": "Maudland Fus barnehage AS",
                 "operator:type": "private",
                 "id": "node/-3766"
@@ -55,32 +80,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3765",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "105",
-                "contact:email": "dl.maudland@bhg.no",
-                "contact:phone": "+47 51 62 85 30",
-                "doNotImportAddress": "Maudlandsveien 61 4311 HOMMERSÅK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Maudland FUS barnehage avd. Maudlandsveien",
-                "no-barnehage:nsrid": "1020350",
-                "operator": "Maudland Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3765"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.833864,
-                    58.91508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3761",
+            "id": "node/-3762",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -92,7 +92,7 @@
                 "no-barnehage:nsrid": "1017001",
                 "operator": "Pinsemenigheten Betel",
                 "operator:type": "private",
-                "id": "node/-3761"
+                "id": "node/-3762"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +104,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3738",
+            "id": "node/-3739",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -118,7 +118,7 @@
                 "no-barnehage:nsrid": "1021319",
                 "operator": "Eikenøtta Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3738"
+                "id": "node/-3739"
             },
             "geometry": {
                 "type": "Point",

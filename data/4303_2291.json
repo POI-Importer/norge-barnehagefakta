@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1978",
+            "id": "node/-1977",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -15,31 +15,6 @@
                 "name": "Tytingen Gards- og naturbarnehage",
                 "no-barnehage:nsrid": "1021703",
                 "operator": "Tytingen Gards- og Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-1978"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.103983,
-                    61.87252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1977",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "11",
-                "contact:email": "Trudelutten.barnehage@gmail.com",
-                "contact:phone": "+47 97646570",
-                "doNotImportAddress": "Uppå Strond 2680 VÅGÅ",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Trudelutten barnehage",
-                "no-barnehage:nsrid": "1022257",
-                "operator": "Trudelutten barnehage AS",
                 "operator:type": "private",
                 "id": "node/-1977"
             },
@@ -53,7 +28,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1975",
+            "id": "node/-1976",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "contact:email": "Trudelutten.barnehage@gmail.com",
+                "contact:phone": "+47 97646570",
+                "doNotImportAddress": "Uppå Strond 2680 VÅGÅ",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Trudelutten barnehage",
+                "no-barnehage:nsrid": "1022257",
+                "operator": "Trudelutten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.103983,
+                    61.87252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1974",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -65,7 +65,7 @@
                 "no-barnehage:nsrid": "1017613",
                 "operator": "Vågå kommune",
                 "operator:type": "public",
-                "id": "node/-1975"
+                "id": "node/-1974"
             },
             "geometry": {
                 "type": "Point",

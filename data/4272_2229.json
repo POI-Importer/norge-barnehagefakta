@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4959",
+            "id": "node/-4960",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -16,13 +16,39 @@
                 "no-barnehage:nsrid": "1018174",
                 "operator": "Kristiansund kommune",
                 "operator:type": "public",
-                "id": "node/-4959"
+                "id": "node/-4960"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.75022,
                     63.1224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4955",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:email": "atlantis@laringsverkstedet.no",
+                "contact:phone": "+47 96016205",
+                "contact:website": "http://laringsverkstedet.no/barnehage/atlantis",
+                "doNotImportAddress": "Bentnesveien 57 6512 KRISTIANSUND N",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Atlantis",
+                "no-barnehage:nsrid": "1015753",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75431,
+                    63.1227
                 ]
             }
         },
@@ -48,32 +74,6 @@
                 "coordinates": [
                     7.751612,
                     63.11655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4944",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
-                "contact:email": "atlantis@laringsverkstedet.no",
-                "contact:phone": "+47 96016205",
-                "contact:website": "http://laringsverkstedet.no/barnehage/atlantis",
-                "doNotImportAddress": "Bentnesveien 57 6512 KRISTIANSUND N",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Atlantis",
-                "no-barnehage:nsrid": "1015753",
-                "operator": "Arena Barn AS",
-                "operator:type": "private",
-                "id": "node/-4944"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.75431,
-                    63.1227
                 ]
             }
         }

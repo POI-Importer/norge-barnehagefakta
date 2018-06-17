@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5430",
+            "id": "node/-5431",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -16,7 +16,33 @@
                 "no-barnehage:nsrid": "1020786",
                 "operator": "Medås Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-5430"
+                "id": "node/-5431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39163,
+                    67.25919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5429",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:email": "lisa@kvitrebarnehage.no",
+                "contact:phone": "+47 75 64 99 55",
+                "contact:website": "http://www.kvitrebarnehage.no",
+                "doNotImportAddress": "Kvitblik 8214 FAUSKE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvitre barnehage",
+                "no-barnehage:nsrid": "1021468",
+                "operator": "Kvitre barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5429"
             },
             "geometry": {
                 "type": "Point",
@@ -31,32 +57,6 @@
             "id": "node/-5428",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
-                "contact:email": "lisa@kvitrebarnehage.no",
-                "contact:phone": "+47 75 64 99 55",
-                "contact:website": "http://www.kvitrebarnehage.no",
-                "doNotImportAddress": "Kvitblik 8214 FAUSKE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvitre barnehage",
-                "no-barnehage:nsrid": "1021468",
-                "operator": "Kvitre barnehage AS",
-                "operator:type": "private",
-                "id": "node/-5428"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.39163,
-                    67.25919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5427",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "22",
                 "contact:email": "hilde.moen@fauske.kommune.no",
                 "contact:phone": "+47 75 60 41 20",
@@ -67,7 +67,7 @@
                 "no-barnehage:nsrid": "1016138",
                 "operator": "Fauske kommune",
                 "operator:type": "public",
-                "id": "node/-5427"
+                "id": "node/-5428"
             },
             "geometry": {
                 "type": "Point",

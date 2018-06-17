@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5044",
+            "id": "node/-5045",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -14,6 +14,31 @@
                 "min_age": "1",
                 "name": "Valle barnehage",
                 "no-barnehage:nsrid": "1014738",
+                "operator": "Skodje kommune",
+                "operator:type": "public",
+                "id": "node/-5045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.70344,
+                    62.5021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5044",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:email": "marianne.tosse@skodje.kommune.no",
+                "contact:phone": "+47 70 24 44 85",
+                "doNotImportAddress": " 6260 SKODJE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stette barnehage",
+                "no-barnehage:nsrid": "1014896",
                 "operator": "Skodje kommune",
                 "operator:type": "public",
                 "id": "node/-5044"
@@ -31,14 +56,14 @@
             "id": "node/-5043",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "32",
-                "contact:email": "marianne.tosse@skodje.kommune.no",
-                "contact:phone": "+47 70 24 44 85",
+                "capacity": "64",
+                "contact:email": "kari.vadset@skodje.kommune.no",
+                "contact:phone": "+47 70 27 48 30",
                 "doNotImportAddress": " 6260 SKODJE",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stette barnehage",
-                "no-barnehage:nsrid": "1014896",
+                "name": "Skodje barnehage",
+                "no-barnehage:nsrid": "1018189",
                 "operator": "Skodje kommune",
                 "operator:type": "public",
                 "id": "node/-5043"
@@ -56,31 +81,6 @@
             "id": "node/-5042",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "64",
-                "contact:email": "kari.vadset@skodje.kommune.no",
-                "contact:phone": "+47 70 27 48 30",
-                "doNotImportAddress": " 6260 SKODJE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skodje barnehage",
-                "no-barnehage:nsrid": "1018189",
-                "operator": "Skodje kommune",
-                "operator:type": "public",
-                "id": "node/-5042"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.70344,
-                    62.5021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5041",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "74",
                 "contact:email": "anita.roys@skodje.kommune.no",
                 "doNotImportAddress": "Nedreskodjevegen 12 6260 SKODJE",
@@ -90,7 +90,7 @@
                 "no-barnehage:nsrid": "1025440",
                 "operator": "Skodje kommune",
                 "operator:type": "public",
-                "id": "node/-5041"
+                "id": "node/-5042"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +102,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5040",
+            "id": "node/-5041",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -115,7 +115,7 @@
                 "no-barnehage:nsrid": "1019866",
                 "operator": "Plassebakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5040"
+                "id": "node/-5041"
             },
             "geometry": {
                 "type": "Point",

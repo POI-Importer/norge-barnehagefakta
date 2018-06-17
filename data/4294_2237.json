@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5152",
+            "id": "node/-5153",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -14,6 +14,31 @@
                 "min_age": "1",
                 "name": "Øye og Skei barnehage avd. Øye",
                 "no-barnehage:nsrid": "1013290",
+                "operator": "Surnadal kommune",
+                "operator:type": "public",
+                "id": "node/-5153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72472,
+                    62.974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5152",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:email": "kenneth.bergstad@surnadal.kommune.no",
+                "contact:phone": "+47 71 66 17 06",
+                "doNotImportAddress": " 6650 SURNADAL",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øye og Skei barnehage avd. Skei",
+                "no-barnehage:nsrid": "1017373",
                 "operator": "Surnadal kommune",
                 "operator:type": "public",
                 "id": "node/-5152"
@@ -28,32 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5151",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:email": "kenneth.bergstad@surnadal.kommune.no",
-                "contact:phone": "+47 71 66 17 06",
-                "doNotImportAddress": " 6650 SURNADAL",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Øye og Skei barnehage avd. Skei",
-                "no-barnehage:nsrid": "1017373",
-                "operator": "Surnadal kommune",
-                "operator:type": "public",
-                "id": "node/-5151"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.72472,
-                    62.974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5147",
+            "id": "node/-5148",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -66,7 +66,7 @@
                 "no-barnehage:nsrid": "1018207",
                 "operator": "Surnadal kommune",
                 "operator:type": "public",
-                "id": "node/-5147"
+                "id": "node/-5148"
             },
             "geometry": {
                 "type": "Point",
