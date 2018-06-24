@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2765",
+            "id": "node/-2766",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -16,7 +16,7 @@
                 "no-barnehage:nsrid": "1020003",
                 "operator": "Tirilltoppen barnehage Bamle Sa",
                 "operator:type": "private",
-                "id": "node/-2765"
+                "id": "node/-2766"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2762",
+            "id": "node/-2763",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -41,7 +41,7 @@
                 "no-barnehage:nsrid": "1020820",
                 "operator": "Solstua Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2762"
+                "id": "node/-2763"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2758",
+            "id": "node/-2759",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -66,7 +66,7 @@
                 "no-barnehage:nsrid": "1013087",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2758"
+                "id": "node/-2759"
             },
             "geometry": {
                 "type": "Point",
@@ -78,13 +78,38 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2757",
+            "id": "node/-2758",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:email": "bjorg.ditlefsen@grashoppa.no",
                 "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
                 "name": "Grashoppa åpen barnehage",
                 "no-barnehage:nsrid": "1013189",
+                "operator": "Grashoppa barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70475,
+                    59.0257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2757",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:email": "Bjorg.ditlefsen@grashoppa.no",
+                "contact:phone": "+47 906 10 570",
+                "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grashoppa barnehage",
+                "no-barnehage:nsrid": "1015087",
                 "operator": "Grashoppa barnehage AS",
                 "operator:type": "private",
                 "id": "node/-2757"
@@ -102,31 +127,6 @@
             "id": "node/-2756",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
-                "contact:email": "Bjorg.ditlefsen@grashoppa.no",
-                "contact:phone": "+47 906 10 570",
-                "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grashoppa barnehage",
-                "no-barnehage:nsrid": "1015087",
-                "operator": "Grashoppa barnehage AS",
-                "operator:type": "private",
-                "id": "node/-2756"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.70475,
-                    59.0257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2755",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "17",
                 "contact:email": "hanne.enger@bamble.kommune.no",
                 "doNotImportAddress": "Furuveien 29 3960 STATHELLE",
@@ -136,7 +136,7 @@
                 "no-barnehage:nsrid": "1026294",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2755"
+                "id": "node/-2756"
             },
             "geometry": {
                 "type": "Point",
