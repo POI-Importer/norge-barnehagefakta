@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-556",
+            "id": "node/-557",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1017704",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-556"
+                "id": "node/-557"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-494",
+            "id": "node/-495",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "166",
@@ -39,13 +39,35 @@
                 "no-barnehage:nsrid": "1021876",
                 "operator": "Hornienga Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-494"
+                "id": "node/-495"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.46471,
                     59.91564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-481",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "nybra@online.no",
+                "contact:phone": "+47 915 89 670",
+                "doNotImportAddress": "Grindstuveien 8 1349 RYKKINN",
+                "name": "Grindstuveien familiebarnehage",
+                "no-barnehage:nsrid": "2000282",
+                "operator": "Grindstuveien Familiebarnehage AS",
+                "operator:type": "private",
+                "id": "node/-481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47831,
+                    59.92169
                 ]
             }
         },

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-672",
+            "id": "node/-674",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "11",
@@ -16,7 +16,7 @@
                 "no-barnehage:nsrid": "1015572",
                 "operator": "Asker Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-672"
+                "id": "node/-674"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-667",
+            "id": "node/-669",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -41,7 +41,7 @@
                 "no-barnehage:nsrid": "1016668",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-667"
+                "id": "node/-669"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-660",
+            "id": "node/-662",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -67,7 +67,7 @@
                 "no-barnehage:nsrid": "1020816",
                 "operator": "Stiftelsen Vollen Montessoribarnehage",
                 "operator:type": "private",
-                "id": "node/-660"
+                "id": "node/-662"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +79,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-652",
+            "id": "node/-654",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -93,7 +93,7 @@
                 "no-barnehage:nsrid": "1018479",
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
-                "id": "node/-652"
+                "id": "node/-654"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +105,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-648",
+            "id": "node/-650",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -119,7 +119,7 @@
                 "no-barnehage:nsrid": "1020737",
                 "operator": "Nansentunet Musikkbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-648"
+                "id": "node/-650"
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +131,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-620",
+            "id": "node/-626",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:email": "forbarnehagen@gmail.com",
+                "contact:phone": "+47 942 16 867",
+                "contact:website": "http://førbarnehagen.no",
+                "doNotImportAddress": "Øgårdsveien 41c 1390 VOLLEN",
+                "name": "Førbarnehagen",
+                "no-barnehage:nsrid": "2000262",
+                "operator": "Førbarnehagen Aas",
+                "operator:type": "private",
+                "id": "node/-626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47684,
+                    59.80394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-621",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -145,7 +168,7 @@
                 "no-barnehage:nsrid": "1022190",
                 "operator": "Espira Blakstad AS",
                 "operator:type": "private",
-                "id": "node/-620"
+                "id": "node/-621"
             },
             "geometry": {
                 "type": "Point",
