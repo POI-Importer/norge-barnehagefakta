@@ -3,6 +3,31 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3469",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:email": "postmaster@triobarnehager.no",
+                "contact:phone": "+47 74 39 23 10",
+                "doNotImportAddress": "Bureisarvegen 4 7900 RØRVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trio barnehager",
+                "no-barnehage:nsrid": "1020387",
+                "operator": "Trio Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-3469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21553,
+                    64.86023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3465",
             "properties": {
                 "amenity": "kindergarten",
