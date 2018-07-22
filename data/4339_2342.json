@@ -6,31 +6,6 @@
             "id": "node/-1968",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "17",
-                "contact:email": "toril.kristiansen@musikkfolkehogskolen.no",
-                "contact:phone": "+47 61 13 15 20",
-                "doNotImportAddress": "Østre Totenvei 120 2816 GJØVIK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sørbyen barnehage",
-                "no-barnehage:nsrid": "1017766",
-                "operator": "Musikkfolkehøgskolen Viken",
-                "operator:type": "private",
-                "id": "node/-1968"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.697,
-                    60.781
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1967",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "28",
                 "contact:email": "trine@rcas.no",
                 "contact:phone": "+47 61174667",
@@ -41,7 +16,7 @@
                 "no-barnehage:nsrid": "1019631",
                 "operator": "Trollhaugen Barnehagestiftelse",
                 "operator:type": "private",
-                "id": "node/-1967"
+                "id": "node/-1968"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +28,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1965",
+            "id": "node/-1966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -67,13 +42,38 @@
                 "no-barnehage:nsrid": "1016647",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1965"
+                "id": "node/-1966"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.6883,
                     60.7893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1965",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:email": "toril.kristiansen@musikkfolkehogskolen.no",
+                "contact:phone": "+47 61 13 15 20",
+                "doNotImportAddress": "Østre Totenvei 120 2816 GJØVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørbyen barnehage",
+                "no-barnehage:nsrid": "1017766",
+                "operator": "Sørbyen barnehage",
+                "operator:type": "private",
+                "id": "node/-1965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.697,
+                    60.781
                 ]
             }
         },

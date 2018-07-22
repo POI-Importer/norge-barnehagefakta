@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3171",
+            "id": "node/-3174",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -17,7 +17,7 @@
                 "no-barnehage:nsrid": "1017481",
                 "operator": "Arendal kommune",
                 "operator:type": "public",
-                "id": "node/-3171"
+                "id": "node/-3174"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3147",
+            "id": "node/-3150",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Påskeveien 1 4823 NEDENES",
+                "name": "Nedenes åpen barnehage",
+                "no-barnehage:nsrid": "2000271",
+                "operator": "Norkirken Nedenes",
+                "operator:type": "private",
+                "id": "node/-3150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.706377,
+                    58.41402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3149",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -43,7 +63,7 @@
                 "no-barnehage:nsrid": "1021022",
                 "operator": "Natvigheia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3147"
+                "id": "node/-3149"
             },
             "geometry": {
                 "type": "Point",
