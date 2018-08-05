@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3604",
+            "id": "node/-3601",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "7",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020738",
                 "operator": "Voie barnehage Merete Frigstad",
                 "operator:type": "private",
-                "id": "node/-3604"
+                "id": "node/-3601"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3523",
+            "id": "node/-3559",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:website": "http://www.ravneheia.no",
+                "doNotImportAddress": "Voie Ringvei 106 4624 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Ravneheia",
+                "no-barnehage:nsrid": "1020710",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.948049,
+                    58.10276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3520",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -38,7 +62,7 @@
                 "no-barnehage:nsrid": "1021200",
                 "operator": "Bråvannsåsen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3523"
+                "id": "node/-3520"
             },
             "geometry": {
                 "type": "Point",

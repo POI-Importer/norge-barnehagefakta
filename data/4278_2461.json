@@ -3,27 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3576",
+            "id": "node/-3558",
             "properties": {
                 "amenity": "kindergarten",
-                "doNotImportAddress": "Strandpromenaden 31 4608 KRISTIANSAND S",
-                "name": "Sentrum Åpne barnehage",
-                "no-barnehage:nsrid": "1018364",
-                "operator": "Åpne Barnehager AS",
+                "capacity": "52",
+                "doNotImportAddress": "Framnesveien 10 4632 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Kuholmen",
+                "no-barnehage:nsrid": "1016240",
+                "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3576"
+                "id": "node/-3558"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.0028,
-                    58.1454
+                    8.03075,
+                    58.1464
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3553",
+            "id": "node/-3550",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "111",
@@ -35,7 +38,7 @@
                 "no-barnehage:nsrid": "1021091",
                 "operator": "Liantjønn barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3553"
+                "id": "node/-3550"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3549",
+            "id": "node/-3546",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -58,7 +61,7 @@
                 "no-barnehage:nsrid": "1015446",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3549"
+                "id": "node/-3546"
             },
             "geometry": {
                 "type": "Point",

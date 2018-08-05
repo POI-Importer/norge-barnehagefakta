@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3555",
+            "id": "node/-3556",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://laringsverkstedet.no/gimlekollen",
+                "doNotImportAddress": "Bergtoras Vei 8 4633 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Gimlekollen",
+                "no-barnehage:nsrid": "1016557",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.03644,
+                    58.1715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3552",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "130",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1021321",
                 "operator": "Lindtjønn Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3555"
+                "id": "node/-3552"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3543",
+            "id": "node/-3540",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -37,7 +61,7 @@
                 "no-barnehage:nsrid": "1021404",
                 "operator": "Jegersberg Barnehage",
                 "operator:type": "private",
-                "id": "node/-3543"
+                "id": "node/-3540"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3537",
+            "id": "node/-3534",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "149",
@@ -60,7 +84,7 @@
                 "no-barnehage:nsrid": "1014036",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3537"
+                "id": "node/-3534"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3517",
+            "id": "node/-3514",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -83,7 +107,7 @@
                 "no-barnehage:nsrid": "1012866",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3517"
+                "id": "node/-3514"
             },
             "geometry": {
                 "type": "Point",
