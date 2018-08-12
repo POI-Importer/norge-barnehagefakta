@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4670",
+            "id": "node/-4671",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1014682",
                 "operator": "Osterøy kommune",
                 "operator:type": "public",
-                "id": "node/-4670"
+                "id": "node/-4671"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4669",
+            "id": "node/-4670",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -37,6 +37,29 @@
                 "name": "Reppen barnehage",
                 "no-barnehage:nsrid": "1022384",
                 "operator": "Reppen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434501,
+                    60.50471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4669",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "doNotImportAddress": " 5281 VALESTRANDSFOSSEN",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Osterøy gårds og friluftsbarnehage",
+                "no-barnehage:nsrid": "1021050",
+                "operator": "Osterøy Gårds og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "id": "node/-4669"
             },
@@ -50,30 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4668",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "38",
-                "doNotImportAddress": " 5281 VALESTRANDSFOSSEN",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Osterøy gårds og friluftsbarnehage",
-                "no-barnehage:nsrid": "1021050",
-                "operator": "Osterøy Gårds og Friluftsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-4668"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.434501,
-                    60.50471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4664",
+            "id": "node/-4665",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -84,7 +84,7 @@
                 "no-barnehage:nsrid": "1018124",
                 "operator": "Osterøy kommune",
                 "operator:type": "public",
-                "id": "node/-4664"
+                "id": "node/-4665"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1984",
+            "id": "node/-1982",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -15,30 +15,7 @@
                 "no-barnehage:nsrid": "1021703",
                 "operator": "Tytingen Gards- og Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1984"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.103983,
-                    61.87252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1983",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "11",
-                "doNotImportAddress": "Uppå Strond 2680 VÅGÅ",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Trudelutten barnehage",
-                "no-barnehage:nsrid": "1022257",
-                "operator": "Trudelutten barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1983"
+                "id": "node/-1982"
             },
             "geometry": {
                 "type": "Point",
@@ -53,6 +30,29 @@
             "id": "node/-1981",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "11",
+                "doNotImportAddress": "Uppå Strond 2680 VÅGÅ",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Trudelutten barnehage",
+                "no-barnehage:nsrid": "1022257",
+                "operator": "Trudelutten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.103983,
+                    61.87252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1979",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "58",
                 "doNotImportAddress": "Vågåvegen 57 2680 VÅGÅ",
                 "max_age": "5",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1017613",
                 "operator": "Vågå kommune",
                 "operator:type": "public",
-                "id": "node/-1981"
+                "id": "node/-1979"
             },
             "geometry": {
                 "type": "Point",

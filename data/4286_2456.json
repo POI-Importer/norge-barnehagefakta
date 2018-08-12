@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3308",
+            "id": "node/-3305",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1021887",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-3308"
+                "id": "node/-3305"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3305",
+            "id": "node/-3302",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -37,49 +37,6 @@
                 "no-barnehage:nsrid": "1025315",
                 "operator": "Lillesand kommune",
                 "operator:type": "public",
-                "id": "node/-3305"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37763,
-                    58.249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3304",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "73",
-                "doNotImportAddress": "Møglestumoen 4 4790 LILLESAND",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Møglestu FUS barnehage",
-                "no-barnehage:nsrid": "1021658",
-                "operator": "Møglestu Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3304"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.360476,
-                    58.26015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3302",
-            "properties": {
-                "amenity": "kindergarten",
-                "doNotImportAddress": "Nedre Kalvild Gård 4790 LILLESAND",
-                "name": "Kalvild åpen barnehage",
-                "no-barnehage:nsrid": "1014245",
-                "operator": "Brunstad Kristelige Menighet Sørlandet",
-                "operator:type": "private",
                 "id": "node/-3302"
             },
             "geometry": {
@@ -92,41 +49,38 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3298",
+            "id": "node/-3301",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "59",
-                "doNotImportAddress": "Tunveien 45 4790 LILLESAND",
+                "capacity": "73",
+                "doNotImportAddress": "Møglestumoen 4 4790 LILLESAND",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Borketun barnehage",
-                "no-barnehage:nsrid": "1016209",
-                "operator": "Lillesand kommune",
-                "operator:type": "public",
-                "id": "node/-3298"
+                "name": "Møglestu FUS barnehage",
+                "no-barnehage:nsrid": "1021658",
+                "operator": "Møglestu Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3301"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.35933,
-                    58.2454
+                    8.360476,
+                    58.26015
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3297",
+            "id": "node/-3299",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "78",
-                "doNotImportAddress": "Blåbæråsen 3 4790 LILLESAND",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Blåbæråsen barnehage",
-                "no-barnehage:nsrid": "1014201",
-                "operator": "Lillesand kommune",
-                "operator:type": "public",
-                "id": "node/-3297"
+                "doNotImportAddress": "Nedre Kalvild Gård 4790 LILLESAND",
+                "name": "Kalvild åpen barnehage",
+                "no-barnehage:nsrid": "1014245",
+                "operator": "Brunstad Kristelige Menighet Sørlandet",
+                "operator:type": "private",
+                "id": "node/-3299"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +92,53 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3296",
+            "id": "node/-3295",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "doNotImportAddress": "Tunveien 45 4790 LILLESAND",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Borketun barnehage",
+                "no-barnehage:nsrid": "1016209",
+                "operator": "Lillesand kommune",
+                "operator:type": "public",
+                "id": "node/-3295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.35933,
+                    58.2454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3294",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "doNotImportAddress": "Blåbæråsen 3 4790 LILLESAND",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåbæråsen barnehage",
+                "no-barnehage:nsrid": "1014201",
+                "operator": "Lillesand kommune",
+                "operator:type": "public",
+                "id": "node/-3294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37763,
+                    58.249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3293",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -149,7 +149,7 @@
                 "no-barnehage:nsrid": "1019802",
                 "operator": "Bergstø barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3296"
+                "id": "node/-3293"
             },
             "geometry": {
                 "type": "Point",
