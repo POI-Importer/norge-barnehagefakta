@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-106",
+            "id": "node/-105",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "120",
@@ -15,36 +15,13 @@
                 "no-barnehage:nsrid": "1014205",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-106"
+                "id": "node/-105"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.1127,
                     59.2951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-96",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "43",
-                "doNotImportAddress": "Per Gyntveien 20 1709 SARPSBORG",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Per Gyntveien barnehage",
-                "no-barnehage:nsrid": "1017515",
-                "operator": "Sarpsborg kommune",
-                "operator:type": "public",
-                "id": "node/-96"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.1116,
-                    59.2991
                 ]
             }
         },
@@ -101,10 +78,10 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
-                "doNotImportAddress": "Per Gyntveien 26 1709 SARPSBORG",
+                "doNotImportAddress": "Per Gyntveien 20 1709 SARPSBORG",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kurland barnehage",
+                "name": "Sarpsborgmarka barnehage",
                 "no-barnehage:nsrid": "1017367",
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
