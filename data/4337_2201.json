@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3500",
+            "id": "node/-3503",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -13,6 +13,29 @@
                 "name": "Tuppen og Lillemor barnehage",
                 "no-barnehage:nsrid": "1021674",
                 "operator": "Tuppen og Lillemor barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62397,
+                    63.67329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3500",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "doNotImportAddress": "Steinvegen 7120 LEKSVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Steinvegen barnehage",
+                "no-barnehage:nsrid": "1021188",
+                "operator": "Steinvegen barnehage AS",
                 "operator:type": "private",
                 "id": "node/-3500"
             },
@@ -29,29 +52,6 @@
             "id": "node/-3497",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "42",
-                "doNotImportAddress": "Steinvegen 7120 LEKSVIK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Steinvegen barnehage",
-                "no-barnehage:nsrid": "1021188",
-                "operator": "Steinvegen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3497"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.62397,
-                    63.67329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3494",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "36",
                 "doNotImportAddress": "Ytter-Myran 7120 LEKSVIK",
                 "max_age": "5",
@@ -60,7 +60,7 @@
                 "no-barnehage:nsrid": "1012780",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
-                "id": "node/-3494"
+                "id": "node/-3497"
             },
             "geometry": {
                 "type": "Point",

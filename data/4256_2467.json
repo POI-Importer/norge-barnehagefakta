@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3695",
+            "id": "node/-3697",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -14,6 +14,30 @@
                 "name": "Remehaugen kystbarnehage",
                 "no-barnehage:nsrid": "1022105",
                 "operator": "Remehaugen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051419,
+                    57.99112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3695",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://www.espira.no",
+                "doNotImportAddress": "Rødbergsveien 33 4520 LINDESNES",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Lindesnes",
+                "no-barnehage:nsrid": "1022073",
+                "operator": "Espira Lindesnes AS",
                 "operator:type": "private",
                 "id": "node/-3695"
             },
@@ -30,30 +54,6 @@
             "id": "node/-3693",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "80",
-                "contact:website": "http://www.espira.no",
-                "doNotImportAddress": "Rødbergsveien 33 4520 LINDESNES",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Lindesnes",
-                "no-barnehage:nsrid": "1022073",
-                "operator": "Espira Lindesnes AS",
-                "operator:type": "private",
-                "id": "node/-3693"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.051419,
-                    57.99112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3691",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "10",
                 "doNotImportAddress": "Inger Therese Osestad Svennevik 4521 LINDESNES",
                 "max_age": "5",
@@ -62,7 +62,7 @@
                 "no-barnehage:nsrid": "1022301",
                 "operator": "Barnas Naturbarnehage Da",
                 "operator:type": "private",
-                "id": "node/-3691"
+                "id": "node/-3693"
             },
             "geometry": {
                 "type": "Point",
