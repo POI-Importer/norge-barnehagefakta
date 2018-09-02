@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5213",
+            "id": "node/-5214",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1014022",
                 "operator": "Nord Studentsamskipnad",
                 "operator:type": "private",
-                "id": "node/-5213"
+                "id": "node/-5214"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5211",
+            "id": "node/-5212",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1021662",
                 "operator": "Munkeby Gård- og Naturbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5211"
+                "id": "node/-5212"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5205",
+            "id": "node/-5206",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -62,13 +62,33 @@
                 "no-barnehage:nsrid": "1019928",
                 "operator": "Hegle barnehage",
                 "operator:type": "private",
-                "id": "node/-5205"
+                "id": "node/-5206"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.32015,
                     63.74593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5205",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Arne Vestrums Veg 7 7604 LEVANGER",
+                "name": "Frol barnehage avd. Leirabekken",
+                "no-barnehage:nsrid": "2000303",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "id": "node/-5205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.32089,
+                    63.74794
                 ]
             }
         },

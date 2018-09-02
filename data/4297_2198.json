@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3258",
+            "id": "node/-3259",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -13,6 +13,29 @@
                 "name": "Sistranda kystbarnehage",
                 "no-barnehage:nsrid": "1020818",
                 "operator": "Sistranda Kystbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3258",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "doNotImportAddress": "Kreklingveien 20 7260 SISTRANDA",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben barnehagedrift",
+                "no-barnehage:nsrid": "1022343",
+                "operator": "Rabben Barnehagedrift AS",
                 "operator:type": "private",
                 "id": "node/-3258"
             },
@@ -26,30 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3257",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "doNotImportAddress": "Kreklingveien 20 7260 SISTRANDA",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rabben barnehagedrift",
-                "no-barnehage:nsrid": "1022343",
-                "operator": "Rabben Barnehagedrift AS",
-                "operator:type": "private",
-                "id": "node/-3257"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.834004,
-                    63.72554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3252",
+            "id": "node/-3253",
             "properties": {
                 "amenity": "kindergarten",
                 "doNotImportAddress": "Sørveien 17b 7260 SISTRANDA",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1014258",
                 "operator": "Frøya kommune",
                 "operator:type": "public",
-                "id": "node/-3252"
+                "id": "node/-3253"
             },
             "geometry": {
                 "type": "Point",

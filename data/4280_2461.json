@@ -3,7 +3,50 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3527",
+            "id": "node/-3568",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Tømmerstø 4639 KRISTIANSAND S",
+                "name": "Randesund Åpne barnehage",
+                "no-barnehage:nsrid": "1013447",
+                "operator": "Åpne Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-3568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.09891,
+                    58.1247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3567",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "doNotImportAddress": "Støleveien 21 4639 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rakkerungan gårdsbarnehage",
+                "no-barnehage:nsrid": "1018548",
+                "operator": "Rakkerungan Barnehagedrift AS",
+                "operator:type": "private",
+                "id": "node/-3567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.12064,
+                    58.1296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3528",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "114",
@@ -15,7 +58,7 @@
                 "no-barnehage:nsrid": "1020853",
                 "operator": "Fidje barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3527"
+                "id": "node/-3528"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3514",
+            "id": "node/-3515",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -38,7 +81,7 @@
                 "no-barnehage:nsrid": "1020248",
                 "operator": "Blekkulf barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-3514"
+                "id": "node/-3515"
             },
             "geometry": {
                 "type": "Point",

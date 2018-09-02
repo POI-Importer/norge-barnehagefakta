@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-3566",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "contact:website": "http://www.rakkerungan.no",
+                "doNotImportAddress": "Kirsebærveien 10a 4635 KRISTIANSAND S",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rakkerungan barnehage",
+                "no-barnehage:nsrid": "1013015",
+                "operator": "Rakkerungan Barnehagedrift AS",
+                "operator:type": "private",
+                "id": "node/-3566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0895,
+                    58.1719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3548",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1025930",
                 "operator": "Krohns barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3547"
+                "id": "node/-3548"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3539",
+            "id": "node/-3540",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -37,7 +61,7 @@
                 "no-barnehage:nsrid": "1012864",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3539"
+                "id": "node/-3540"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3537",
+            "id": "node/-3538",
             "properties": {
                 "amenity": "kindergarten",
                 "doNotImportAddress": "Øvre Brattbakken 5 4635 KRISTIANSAND S",
@@ -57,7 +81,7 @@
                 "no-barnehage:nsrid": "1013446",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3537"
+                "id": "node/-3538"
             },
             "geometry": {
                 "type": "Point",
