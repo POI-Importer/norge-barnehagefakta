@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3928",
+            "id": "node/-3929",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -13,6 +13,29 @@
                 "min_age": "1",
                 "name": "Ytre Tasta barnehage avd. Vardeneset",
                 "no-barnehage:nsrid": "1012917",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67661,
+                    58.9903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3928",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "doNotImportAddress": "Ulaveien 7 4028 STAVANGER",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ytre Tasta barnehage avd. Eskeland",
+                "no-barnehage:nsrid": "1012910",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
                 "id": "node/-3928"
@@ -27,30 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3927",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "64",
-                "doNotImportAddress": "Ulaveien 7 4028 STAVANGER",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ytre Tasta barnehage avd. Eskeland",
-                "no-barnehage:nsrid": "1012910",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-3927"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.67661,
-                    58.9903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3917",
+            "id": "node/-3918",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1021735",
                 "operator": "Trollberget AS",
                 "operator:type": "private",
-                "id": "node/-3917"
+                "id": "node/-3918"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3916",
+            "id": "node/-3917",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1012920",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3916"
+                "id": "node/-3917"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3915",
+            "id": "node/-3916",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -109,7 +109,7 @@
                 "no-barnehage:nsrid": "1016073",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3915"
+                "id": "node/-3916"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +121,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3912",
+            "id": "node/-3913",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -132,7 +132,7 @@
                 "no-barnehage:nsrid": "1012914",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3912"
+                "id": "node/-3913"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +144,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3911",
+            "id": "node/-3912",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -155,7 +155,7 @@
                 "no-barnehage:nsrid": "1016074",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3911"
+                "id": "node/-3912"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +167,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3910",
+            "id": "node/-3911",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -178,7 +178,7 @@
                 "no-barnehage:nsrid": "1026043",
                 "operator": "Tastarustå barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3910"
+                "id": "node/-3911"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +190,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3840",
+            "id": "node/-3841",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -202,7 +202,7 @@
                 "no-barnehage:nsrid": "1021235",
                 "operator": "Espira Scala Tasta AS",
                 "operator:type": "private",
-                "id": "node/-3840"
+                "id": "node/-3841"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +214,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3838",
+            "id": "node/-3839",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -226,7 +226,7 @@
                 "no-barnehage:nsrid": "1022002",
                 "operator": "Espira Rødknappen AS",
                 "operator:type": "private",
-                "id": "node/-3838"
+                "id": "node/-3839"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +238,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3835",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -250,7 +250,7 @@
                 "no-barnehage:nsrid": "1020585",
                 "operator": "Dusavik barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3835"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +262,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3830",
+            "id": "node/-3831",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -274,7 +274,7 @@
                 "no-barnehage:nsrid": "1019942",
                 "operator": "Byhaugen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3830"
+                "id": "node/-3831"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +286,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3817",
+            "id": "node/-3818",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -297,7 +297,7 @@
                 "no-barnehage:nsrid": "1015529",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3817"
+                "id": "node/-3818"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +309,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3811",
+            "id": "node/-3812",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -321,7 +321,7 @@
                 "no-barnehage:nsrid": "1020126",
                 "operator": "Bamsebu barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3811"
+                "id": "node/-3812"
             },
             "geometry": {
                 "type": "Point",
