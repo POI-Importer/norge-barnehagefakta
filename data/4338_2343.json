@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1952",
+            "id": "node/-1954",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020021",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1952"
+                "id": "node/-1954"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1950",
+            "id": "node/-1952",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1016976",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1950"
+                "id": "node/-1952"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1948",
+            "id": "node/-1950",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1025503",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1948"
+                "id": "node/-1950"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +73,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1942",
+            "id": "node/-1949",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "doNotImportAddress": "Melbyvegen 9 2818 GJØVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kopperud barnehage",
+                "no-barnehage:nsrid": "1025503",
+                "operator": "Gjøvik kommune",
+                "operator:type": "public",
+                "id": "node/-1949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6768,
+                    60.7767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -84,7 +107,7 @@
                 "no-barnehage:nsrid": "1015571",
                 "operator": "Gjøvik Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-1942"
+                "id": "node/-1943"
             },
             "geometry": {
                 "type": "Point",

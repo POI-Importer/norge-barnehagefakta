@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1696",
+            "id": "node/-1697",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019871",
                 "operator": "Øraker barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1696"
+                "id": "node/-1697"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1315",
+            "id": "node/-1316",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1017297",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1315"
+                "id": "node/-1316"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1294",
+            "id": "node/-1295",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -62,7 +62,7 @@
                 "no-barnehage:nsrid": "1018378",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1294"
+                "id": "node/-1295"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +74,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-601",
+            "id": "node/-602",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1020049",
                 "operator": "Østheim barnehage",
                 "operator:type": "private",
-                "id": "node/-601"
+                "id": "node/-602"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-576",
+            "id": "node/-577",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -108,7 +108,7 @@
                 "no-barnehage:nsrid": "1016667",
                 "operator": "Storenga barnehage og Storenga Familiebarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-576"
+                "id": "node/-577"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-572",
+            "id": "node/-573",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -131,7 +131,7 @@
                 "no-barnehage:nsrid": "1016222",
                 "operator": "Stiftelsen Almeskogen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-572"
+                "id": "node/-573"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +143,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-565",
+            "id": "node/-566",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -154,7 +154,7 @@
                 "no-barnehage:nsrid": "1014988",
                 "operator": "Skaubo AS",
                 "operator:type": "private",
-                "id": "node/-565"
+                "id": "node/-566"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +166,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-560",
+            "id": "node/-561",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -177,13 +177,33 @@
                 "no-barnehage:nsrid": "1021908",
                 "operator": "Ringstabekk Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-560"
+                "id": "node/-561"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.59336,
                     59.9164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-536",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Wedel Jarlsbergs Vei 4a 1358 JAR",
+                "name": "Nøtteliten familiebarnehage avd. Wedel Jarlsbergs Vei",
+                "no-barnehage:nsrid": "2000305",
+                "operator": "Nøtteliten Familiebarnehager AS",
+                "operator:type": "private",
+                "id": "node/-536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6235,
+                    59.92091
                 ]
             }
         },

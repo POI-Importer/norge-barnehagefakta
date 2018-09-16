@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2771",
+            "id": "node/-2772",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020003",
                 "operator": "Tirilltoppen barnehage Bamle Sa",
                 "operator:type": "private",
-                "id": "node/-2771"
+                "id": "node/-2772"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2768",
+            "id": "node/-2769",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1020820",
                 "operator": "Solstua Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2768"
+                "id": "node/-2769"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2764",
+            "id": "node/-2765",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1013087",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2764"
+                "id": "node/-2765"
             },
             "geometry": {
                 "type": "Point",
@@ -73,12 +73,35 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2763",
+            "id": "node/-2764",
             "properties": {
                 "amenity": "kindergarten",
                 "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
                 "name": "Grashoppa åpen barnehage",
                 "no-barnehage:nsrid": "1013189",
+                "operator": "Grashoppa barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70475,
+                    59.0257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2763",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grashoppa barnehage",
+                "no-barnehage:nsrid": "1015087",
                 "operator": "Grashoppa barnehage AS",
                 "operator:type": "private",
                 "id": "node/-2763"
@@ -96,29 +119,6 @@
             "id": "node/-2762",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "57",
-                "doNotImportAddress": "Sundbyveien 233 3961 STATHELLE",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Grashoppa barnehage",
-                "no-barnehage:nsrid": "1015087",
-                "operator": "Grashoppa barnehage AS",
-                "operator:type": "private",
-                "id": "node/-2762"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.70475,
-                    59.0257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2761",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "17",
                 "doNotImportAddress": "Furuveien 29 3960 STATHELLE",
                 "max_age": "2",
@@ -127,7 +127,7 @@
                 "no-barnehage:nsrid": "1026294",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2761"
+                "id": "node/-2762"
             },
             "geometry": {
                 "type": "Point",
