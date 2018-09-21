@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3799",
+            "id": "node/-3803",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1021003",
                 "operator": "Trollhaugen Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3799"
+                "id": "node/-3803"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3774",
+            "id": "node/-3778",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -39,7 +39,30 @@
                 "no-barnehage:nsrid": "1026524",
                 "operator": "Maudland Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3774"
+                "id": "node/-3778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.833864,
+                    58.91508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3777",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "105",
+                "doNotImportAddress": "Maudlandsveien 61 4311 HOMMERSÅK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maudland FUS barnehage avd. Maudlandsveien",
+                "no-barnehage:nsrid": "1020350",
+                "operator": "Maudland Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3777"
             },
             "geometry": {
                 "type": "Point",
@@ -54,29 +77,6 @@
             "id": "node/-3773",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "105",
-                "doNotImportAddress": "Maudlandsveien 61 4311 HOMMERSÅK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Maudland FUS barnehage avd. Maudlandsveien",
-                "no-barnehage:nsrid": "1020350",
-                "operator": "Maudland Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3773"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.833864,
-                    58.91508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3769",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "54",
                 "doNotImportAddress": "Kalamyrveien 2 4310 HOMMERSÅK",
                 "max_age": "5",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1017001",
                 "operator": "Pinsemenigheten Betel",
                 "operator:type": "private",
-                "id": "node/-3769"
+                "id": "node/-3773"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3746",
+            "id": "node/-3750",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -109,7 +109,7 @@
                 "no-barnehage:nsrid": "1021319",
                 "operator": "Eikenøtta Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3746"
+                "id": "node/-3750"
             },
             "geometry": {
                 "type": "Point",
