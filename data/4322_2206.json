@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3501",
+            "id": "node/-3500",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1022276",
                 "operator": "Tryllefløyten Musikkbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3501"
+                "id": "node/-3500"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3499",
+            "id": "node/-3498",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -38,30 +38,7 @@
                 "no-barnehage:nsrid": "1015925",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
-                "id": "node/-3499"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.95989,
-                    63.5837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3496",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "77",
-                "doNotImportAddress": "Høgåsmyra 20 7100 RISSA",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Høgåsmyra barnehage",
-                "no-barnehage:nsrid": "1018233",
-                "operator": "Indre Fosen kommune",
-                "operator:type": "public",
-                "id": "node/-3496"
+                "id": "node/-3498"
             },
             "geometry": {
                 "type": "Point",
@@ -76,6 +53,29 @@
             "id": "node/-3495",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "77",
+                "doNotImportAddress": "Høgåsmyra 20 7100 RISSA",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgåsmyra barnehage",
+                "no-barnehage:nsrid": "1018233",
+                "operator": "Indre Fosen kommune",
+                "operator:type": "public",
+                "id": "node/-3495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95989,
+                    63.5837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3494",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "22",
                 "contact:website": "http://www.fosnaheim.no",
                 "doNotImportAddress": "Folkehøgskoleveien 24 7100 RISSA",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1019816",
                 "operator": "Fosnaheim Barnehagelag Sa",
                 "operator:type": "private",
-                "id": "node/-3495"
+                "id": "node/-3494"
             },
             "geometry": {
                 "type": "Point",

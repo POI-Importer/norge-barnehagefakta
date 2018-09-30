@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4935",
+            "id": "node/-4932",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019918",
                 "operator": "Puskhola barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4935"
+                "id": "node/-4932"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4931",
+            "id": "node/-4928",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -39,13 +39,33 @@
                 "no-barnehage:nsrid": "1020288",
                 "operator": "Blindheim barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4931"
+                "id": "node/-4928"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.386357,
                     62.44074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4921",
+            "properties": {
+                "amenity": "kindergarten",
+                "doNotImportAddress": "Skarpetegvegen 30 6012 ÅLESUND",
+                "name": "Kbh 2",
+                "no-barnehage:nsrid": "2000309",
+                "operator": "Kbh 2 AS",
+                "operator:type": "private",
+                "id": "node/-4921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.382772,
+                    62.44252
                 ]
             }
         }

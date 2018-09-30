@@ -3,65 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1965",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "doNotImportAddress": "Hunnsvegen 27 2819 GJØVIK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Trollhaugen barnehage",
-                "no-barnehage:nsrid": "1019631",
-                "operator": "Trollhaugen Barnehagestiftelse",
-                "operator:type": "private",
-                "id": "node/-1965"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.68427,
-                    60.79782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1963",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "79",
-                "contact:website": "http://www.tongjordet.bhg.gjovik.no",
-                "doNotImportAddress": "Haakons Gate 19 2815 GJØVIK",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tongjordet barnehage",
-                "no-barnehage:nsrid": "1016647",
-                "operator": "Gjøvik kommune",
-                "operator:type": "public",
-                "id": "node/-1963"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6883,
-                    60.7893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1962",
+            "id": "node/-1964",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
                 "doNotImportAddress": "Østre Totenvei 120 2816 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Sørbyen barnehage",
+                "name": "Viken barnehage",
                 "no-barnehage:nsrid": "1017766",
-                "operator": "Sørbyen barnehage",
+                "operator": "Musikkfolkehøgskolen Viken",
                 "operator:type": "private",
-                "id": "node/-1962"
+                "id": "node/-1964"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +26,54 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1959",
+            "id": "node/-1963",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "doNotImportAddress": "Hunnsvegen 27 2819 GJØVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollhaugen barnehage",
+                "no-barnehage:nsrid": "1019631",
+                "operator": "Trollhaugen Barnehagestiftelse",
+                "operator:type": "private",
+                "id": "node/-1963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68427,
+                    60.79782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1961",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://www.tongjordet.bhg.gjovik.no",
+                "doNotImportAddress": "Haakons Gate 19 2815 GJØVIK",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tongjordet barnehage",
+                "no-barnehage:nsrid": "1016647",
+                "operator": "Gjøvik kommune",
+                "operator:type": "public",
+                "id": "node/-1961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6883,
+                    60.7893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1957",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1015500",
                 "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
                 "operator:type": "private",
-                "id": "node/-1959"
+                "id": "node/-1957"
             },
             "geometry": {
                 "type": "Point",
