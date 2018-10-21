@@ -3,19 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-595",
+            "id": "node/-596",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:website": "http://www.toffebarnehage.no",
-                "doNotImportAddress": "Fagerhøyveien 34 1369 STABEKK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tøffe barnehage",
                 "no-barnehage:nsrid": "1020000",
                 "operator": "Tøffe barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-595"
+                "id": "node/-596"
             },
             "geometry": {
                 "type": "Point",
@@ -27,19 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-580",
+            "id": "node/-581",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:website": "http://barnehageforum.no/hjem/strand",
-                "doNotImportAddress": "Strandalleen 59 1368 STABEKK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Strand barnehage",
                 "no-barnehage:nsrid": "1019648",
                 "operator": "Strand barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-580"
+                "id": "node/-581"
             },
             "geometry": {
                 "type": "Point",
@@ -51,18 +49,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-579",
+            "id": "node/-580",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "139",
-                "doNotImportAddress": "Forneburingen 300 1364 FORNEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Storøya barnehage",
                 "no-barnehage:nsrid": "1018564",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-579"
+                "id": "node/-580"
             },
             "geometry": {
                 "type": "Point",
@@ -74,19 +71,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-572",
+            "id": "node/-576",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
                 "contact:website": "http://stabekktunet.no",
-                "doNotImportAddress": "Jernbaneveien 11 1369 STABEKK",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stabekktunet barnehage",
+                "name": "Stiftelsen Stabekktunet barnehage",
                 "no-barnehage:nsrid": "1020313",
                 "operator": "Stiftelsen Stabekktunet barnehage",
                 "operator:type": "private",
-                "id": "node/-572"
+                "id": "node/-576"
             },
             "geometry": {
                 "type": "Point",
@@ -98,18 +94,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-567",
+            "id": "node/-568",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
-                "doNotImportAddress": "Skogtunet 2 1369 STABEKK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skogveien barnehage",
                 "no-barnehage:nsrid": "1012674",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-567"
+                "id": "node/-568"
             },
             "geometry": {
                 "type": "Point",
@@ -121,19 +116,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-535",
+            "id": "node/-536",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "109",
                 "contact:website": "http://sjoflyhavna.norlandiabarnehagene.no",
-                "doNotImportAddress": "Martin Linges Vei 2 1364 FORNEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Norlandia Sjøflyhavna avd. barnehage",
                 "no-barnehage:nsrid": "1026201",
                 "operator": "Norlandia Sjøflyhavna AS",
                 "operator:type": "private",
-                "id": "node/-535"
+                "id": "node/-536"
             },
             "geometry": {
                 "type": "Point",
@@ -145,19 +139,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-524",
+            "id": "node/-525",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
                 "contact:website": "http://laringsverkstedet.no/barnehage/jar-idrettsbarnehage",
-                "doNotImportAddress": "Bærumsveien 126 1358 JAR",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Jar idrettsbarnehage",
                 "no-barnehage:nsrid": "1022339",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-524"
+                "id": "node/-525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6282,
+                    59.90741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-523",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "153",
+                "contact:website": "http://www.laringsverkstdet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Fornebu idrettsbarnehage",
+                "no-barnehage:nsrid": "1025942",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-523"
             },
             "geometry": {
                 "type": "Point",
@@ -172,39 +188,14 @@
             "id": "node/-522",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "153",
-                "contact:website": "http://www.laringsverkstdet.no",
-                "doNotImportAddress": "Bjørnenga 1 1364 FORNEBU",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Fornebu idrettsbarnehage",
-                "no-barnehage:nsrid": "1025942",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-522"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.6282,
-                    59.90741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-521",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "98",
-                "doNotImportAddress": "Fornebuveien 39 1366 LYSAKER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lysaker idrettsbarnehage",
                 "no-barnehage:nsrid": "1022099",
                 "operator": "Lysaker Idrettsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-521"
+                "id": "node/-522"
             },
             "geometry": {
                 "type": "Point",
@@ -216,18 +207,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-496",
+            "id": "node/-497",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "116",
-                "doNotImportAddress": "Snarøyveien 81 1364 FORNEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hundsund barnehage",
                 "no-barnehage:nsrid": "1018349",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-496"
+                "id": "node/-497"
             },
             "geometry": {
                 "type": "Point",
@@ -239,18 +229,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-465",
+            "id": "node/-466",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
-                "doNotImportAddress": "Kilenveien 25 1366 LYSAKER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forneburingen barnehage avd. Kilentunet",
                 "no-barnehage:nsrid": "1025353",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-465"
+                "id": "node/-466"
             },
             "geometry": {
                 "type": "Point",
@@ -262,18 +251,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-464",
+            "id": "node/-465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
-                "doNotImportAddress": "Forneburingen 202 1364 FORNEBU",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Forneburingen barnehage",
                 "no-barnehage:nsrid": "1026459",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-464"
+                "id": "node/-465"
             },
             "geometry": {
                 "type": "Point",
@@ -285,19 +273,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-435",
+            "id": "node/-436",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
                 "contact:website": "http://www.vier.no",
-                "doNotImportAddress": "Lilløyveien 8 1366 LYSAKER",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnehagen Vier",
                 "no-barnehage:nsrid": "1020960",
                 "operator": "Barnehagen Vier Sa",
                 "operator:type": "private",
-                "id": "node/-435"
+                "id": "node/-436"
             },
             "geometry": {
                 "type": "Point",

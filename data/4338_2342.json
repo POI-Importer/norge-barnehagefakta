@@ -3,18 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1954",
+            "id": "node/-1959",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
-                "doNotImportAddress": "Nyvegen 28 2827 HUNNDALEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Misjonshusets barnehage",
                 "no-barnehage:nsrid": "1021264",
                 "operator": "Misjonshusets barnehage",
                 "operator:type": "private",
-                "id": "node/-1954"
+                "id": "node/-1959"
             },
             "geometry": {
                 "type": "Point",
@@ -26,19 +25,40 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1948",
+            "id": "node/-1954",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kråkjordet barnehage",
+                "no-barnehage:nsrid": "1017604",
+                "operator": "Gjøvik kommune",
+                "operator:type": "public",
+                "id": "node/-1954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6724,
+                    60.7999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1952",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:website": "http://huskestua.no",
-                "doNotImportAddress": "Rådyrvegen 4 2827 HUNNDALEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Huskestua barnehage",
                 "no-barnehage:nsrid": "1019966",
                 "operator": "Huskestua barnehage Hunndalen Sa",
                 "operator:type": "private",
-                "id": "node/-1948"
+                "id": "node/-1952"
             },
             "geometry": {
                 "type": "Point",
@@ -50,18 +70,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1947",
+            "id": "node/-1951",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
-                "doNotImportAddress": "Mathias Topps Veg 19 2821 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hunnshovde barnehage",
                 "no-barnehage:nsrid": "1017603",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1947"
+                "id": "node/-1951"
             },
             "geometry": {
                 "type": "Point",
@@ -73,19 +92,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1946",
+            "id": "node/-1950",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
                 "contact:website": "http://www.100meter.no",
-                "doNotImportAddress": "Torgeir Forseths Veg 14 2821 GJØVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hundremeterskogen barnehage",
                 "no-barnehage:nsrid": "1020727",
                 "operator": "Hundremeterskogen barnehage Gjøvik Sa",
                 "operator:type": "private",
-                "id": "node/-1946"
+                "id": "node/-1950"
             },
             "geometry": {
                 "type": "Point",

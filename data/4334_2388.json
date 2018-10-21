@@ -3,18 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2391",
+            "id": "node/-2396",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
-                "doNotImportAddress": "Boligveien 22 3470 SLEMMESTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Slemmestad barnehage",
                 "no-barnehage:nsrid": "1012686",
                 "operator": "Røyken kommune",
                 "operator:type": "public",
-                "id": "node/-2391"
+                "id": "node/-2396"
             },
             "geometry": {
                 "type": "Point",
@@ -26,12 +25,34 @@
         },
         {
             "type": "Feature",
+            "id": "node/-671",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://www.vollen-kystkulturbhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vollen kystkulturbarnehage",
+                "no-barnehage:nsrid": "1022292",
+                "operator": "Vollen Kystkulturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49321,
+                    59.7877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-663",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
                 "contact:website": "http://torp.hoymyr.barnehage.no",
-                "doNotImportAddress": "Torpmarka 156 1389 HEGGEDAL",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Torp Høymyr barnehage",
@@ -50,43 +71,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-621",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "39",
-                "contact:website": "http://www.vollen-kystkulturbhg.no",
-                "doNotImportAddress": "Eternitveien 27 3470 SLEMMESTAD",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Vollen kystkulturbarnehage",
-                "no-barnehage:nsrid": "1022292",
-                "operator": "Vollen Kystkulturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-621"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.49321,
-                    59.7877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-611",
+            "id": "node/-612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
                 "contact:website": "http://bjerkas.barnehage.no",
-                "doNotImportAddress": "Høymyrmarka 9 1391 VOLLEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjerkås barnehage",
                 "no-barnehage:nsrid": "1019925",
                 "operator": "Stiftelsen Bjerkås barnehage",
                 "operator:type": "private",
-                "id": "node/-611"
+                "id": "node/-612"
             },
             "geometry": {
                 "type": "Point",

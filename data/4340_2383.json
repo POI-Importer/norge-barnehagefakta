@@ -3,18 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1606",
+            "id": "node/-1612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
-                "doNotImportAddress": "Sørengkaia 76 0194 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sørenga barnehage",
                 "no-barnehage:nsrid": "1015157",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1606"
+                "id": "node/-1612"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +25,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1586",
+            "id": "node/-1592",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
-                "doNotImportAddress": "Trelastgata 23 0191 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Strekkoden barnehage",
                 "no-barnehage:nsrid": "2000103",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1586"
+                "id": "node/-1592"
             },
             "geometry": {
                 "type": "Point",
@@ -49,19 +47,37 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1365",
+            "id": "node/-1451",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Norlandia Services avd. Oslo",
+                "no-barnehage:nsrid": "2000324",
+                "operator": "Norlandia Services AS",
+                "operator:type": "private",
+                "id": "node/-1451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73763,
+                    59.91077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1369",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
                 "contact:website": "http://laringsverkstedet.no/barnehage/sorengkaia",
-                "doNotImportAddress": "Sørengkaia 78 0194 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet Sørengkaia",
                 "no-barnehage:nsrid": "1025509",
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
-                "id": "node/-1365"
+                "id": "node/-1369"
             },
             "geometry": {
                 "type": "Point",
@@ -73,19 +89,37 @@
         },
         {
             "type": "Feature",
-            "id": "node/-984",
+            "id": "node/-1109",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Espira Gruppen avd. Konsernkontor",
+                "no-barnehage:nsrid": "2000315",
+                "operator": "Espira Gruppen AS",
+                "operator:type": "private",
+                "id": "node/-1109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.744,
+                    59.90765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-985",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
                 "contact:website": "http://www.akerbryggebarnehage.no",
-                "doNotImportAddress": "Bryggetorget 19 0250 OSLO",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Aker Brygge barnehage",
                 "no-barnehage:nsrid": "1019882",
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-984"
+                "id": "node/-985"
             },
             "geometry": {
                 "type": "Point",

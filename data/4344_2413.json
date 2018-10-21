@@ -7,7 +7,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
-                "doNotImportAddress": "Unnebergveien 17 1613 FREDRIKSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trosvik barnehage",
@@ -30,7 +29,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
-                "doNotImportAddress": "Veumveien 88 1613 FREDRIKSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Slangsvold barnehage",
@@ -49,12 +47,34 @@
         },
         {
             "type": "Feature",
+            "id": "node/-163",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:website": "http://orebekk.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rs Team / Ørebekk barnehage",
+                "no-barnehage:nsrid": "1021591",
+                "operator": "Rs Team AS",
+                "operator:type": "private",
+                "id": "node/-163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89968,
+                    59.23095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-149",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
                 "contact:website": "http://laringsverkstedet.no/trosvik",
-                "doNotImportAddress": "Onsøyveien 49a 1613 FREDRIKSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Doremi Trosvik",
@@ -77,7 +97,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
-                "doNotImportAddress": "Labråten 76 1614 FREDRIKSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lyngmo barnehage",
@@ -100,7 +119,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
-                "doNotImportAddress": "Skrellenveien 1 1613 FREDRIKSTAD",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lurvelegg barnehage avd. 1",
@@ -123,7 +141,6 @@
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
-                "doNotImportAddress": "Hurrødstien 6 1621 GRESSVIK",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Benedicte Gundersen",

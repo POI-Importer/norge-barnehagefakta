@@ -3,15 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-398",
+            "id": "node/-399",
             "properties": {
                 "amenity": "kindergarten",
-                "doNotImportAddress": "Nif - Huset Bergersletta 125 1459 NESODDEN",
                 "name": "Åpen barnehage Berger",
                 "no-barnehage:nsrid": "1013042",
                 "operator": "Carpe Diem stiftelsen",
                 "operator:type": "private",
-                "id": "node/-398"
+                "id": "node/-399"
             },
             "geometry": {
                 "type": "Point",
@@ -23,41 +22,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-395",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "47",
-                "doNotImportAddress": "Munkefaret 12 1456 NESODDTANGEN",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet Blåbærstien barnehage",
-                "no-barnehage:nsrid": "1021901",
-                "operator": "Startgropa barnehage AS",
-                "operator:type": "private",
-                "id": "node/-395"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.67107,
-                    59.8516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-394",
+            "id": "node/-396",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
-                "doNotImportAddress": "Støps Vei 31 1456 NESODDTANGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solsikken Steinerbarnehage",
                 "no-barnehage:nsrid": "1021155",
                 "operator": "Stiftelsen Solsikken Steinerbarne- Hage",
                 "operator:type": "private",
-                "id": "node/-394"
+                "id": "node/-396"
             },
             "geometry": {
                 "type": "Point",
@@ -69,18 +44,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-391",
+            "id": "node/-393",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
-                "doNotImportAddress": "Tangen Terrasse 41 1450 NESODDTANGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Oksval barnehage",
                 "no-barnehage:nsrid": "1025495",
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
-                "id": "node/-391"
+                "id": "node/-393"
             },
             "geometry": {
                 "type": "Point",
@@ -92,18 +66,39 @@
         },
         {
             "type": "Feature",
-            "id": "node/-387",
+            "id": "node/-390",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Blåbærstien barnehage",
+                "no-barnehage:nsrid": "1021901",
+                "operator": "Læringsverkstedet Blåbærstien barnehage AS",
+                "operator:type": "private",
+                "id": "node/-390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67107,
+                    59.8516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-388",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "123",
-                "doNotImportAddress": "Kongleveien 33 1452 NESODDTANGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kongleveien barnehage",
                 "no-barnehage:nsrid": "1017529",
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
-                "id": "node/-387"
+                "id": "node/-388"
             },
             "geometry": {
                 "type": "Point",
@@ -115,18 +110,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-383",
+            "id": "node/-384",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "147",
-                "doNotImportAddress": "Kapellveien 20 1452 NESODDTANGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Heia barnehage",
                 "no-barnehage:nsrid": "1015112",
                 "operator": "Nesodden kommune",
                 "operator:type": "public",
-                "id": "node/-383"
+                "id": "node/-384"
             },
             "geometry": {
                 "type": "Point",
@@ -138,18 +132,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-374",
+            "id": "node/-375",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
-                "doNotImportAddress": "Bergersletta 125 1459 NESODDEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bergerkollektivet barnehage",
                 "no-barnehage:nsrid": "1019675",
                 "operator": "Bergerkollektivet barnehage",
                 "operator:type": "private",
-                "id": "node/-374"
+                "id": "node/-375"
             },
             "geometry": {
                 "type": "Point",
@@ -161,18 +154,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-371",
+            "id": "node/-372",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
-                "doNotImportAddress": "Prestegården 1450 NESODDTANGEN",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Askeladden barnehage",
                 "no-barnehage:nsrid": "1020365",
                 "operator": "Askeladden barnehage",
                 "operator:type": "private",
-                "id": "node/-371"
+                "id": "node/-372"
             },
             "geometry": {
                 "type": "Point",
