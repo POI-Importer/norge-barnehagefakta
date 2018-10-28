@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3595",
+            "id": "node/-3601",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Trekanten åpen barnehage",
                 "no-barnehage:nsrid": "1021088",
                 "operator": "Vineyard Kristne Fellesskap Kristiansand",
                 "operator:type": "private",
-                "id": "node/-3595"
+                "id": "node/-3601"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3592",
+            "id": "node/-3598",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -32,7 +32,7 @@
                 "no-barnehage:nsrid": "1015517",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3592"
+                "id": "node/-3598"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +44,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3582",
+            "id": "node/-3588",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -54,7 +54,7 @@
                 "no-barnehage:nsrid": "1020035",
                 "operator": "Stasjonshaven barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3582"
+                "id": "node/-3588"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3569",
+            "id": "node/-3575",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -76,7 +76,7 @@
                 "no-barnehage:nsrid": "1021000",
                 "operator": "Revehiet Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3569"
+                "id": "node/-3575"
             },
             "geometry": {
                 "type": "Point",
@@ -88,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3562",
+            "id": "node/-3568",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -98,7 +98,7 @@
                 "no-barnehage:nsrid": "1018330",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3562"
+                "id": "node/-3568"
             },
             "geometry": {
                 "type": "Point",
@@ -110,7 +110,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3560",
+            "id": "node/-3566",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -120,7 +120,7 @@
                 "no-barnehage:nsrid": "1012861",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3560"
+                "id": "node/-3566"
             },
             "geometry": {
                 "type": "Point",
@@ -132,7 +132,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-3553",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -142,7 +142,7 @@
                 "no-barnehage:nsrid": "1012867",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3547"
+                "id": "node/-3553"
             },
             "geometry": {
                 "type": "Point",
@@ -154,7 +154,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3530",
+            "id": "node/-3536",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -164,7 +164,7 @@
                 "no-barnehage:nsrid": "1012865",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3530"
+                "id": "node/-3536"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +176,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3525",
+            "id": "node/-3531",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -187,13 +187,36 @@
                 "no-barnehage:nsrid": "1020916",
                 "operator": "Fiskåtangen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3525"
+                "id": "node/-3531"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.974192,
                     58.12909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3523",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.eplehagen.net",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eplehagen barnehage",
+                "no-barnehage:nsrid": "1019771",
+                "operator": "Eplehagen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.966465,
+                    58.12526
                 ]
             }
         }
