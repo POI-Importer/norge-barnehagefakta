@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4487",
+            "id": "node/-4485",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sagvåg Maritime FUS barnehage",
+                "no-barnehage:nsrid": "1021736",
+                "operator": "Sagvåg Maritime Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.391823,
+                    59.77949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4484",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013798",
                 "operator": "Stord kommune",
                 "operator:type": "public",
-                "id": "node/-4487"
+                "id": "node/-4484"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4482",
+            "id": "node/-4483",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -35,35 +57,13 @@
                 "no-barnehage:nsrid": "1014712",
                 "operator": "Stord kommune",
                 "operator:type": "public",
-                "id": "node/-4482"
+                "id": "node/-4483"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.39597,
                     59.7797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4481",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "81",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sagvåg Maritime FUS barnehage",
-                "no-barnehage:nsrid": "1021736",
-                "operator": "Sagvåg Maritime Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4481"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.391823,
-                    59.77949
                 ]
             }
         }
