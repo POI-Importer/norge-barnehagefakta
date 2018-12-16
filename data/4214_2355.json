@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4678",
+            "id": "node/-4683",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "154",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nye Drømmehagen",
+                "no-barnehage:nsrid": "1022232",
+                "operator": "Nye Drømmehagen AS",
+                "operator:type": "private",
+                "id": "node/-4683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222702,
+                    60.50917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4681",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -14,36 +36,13 @@
                 "no-barnehage:nsrid": "1016395",
                 "operator": "Læringsverkstedet Maurtua AS",
                 "operator:type": "private",
-                "id": "node/-4678"
+                "id": "node/-4681"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.22496,
                     60.5103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4672",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "154",
-                "contact:website": "http://www.drommehagenbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Drømmehagen barnehage",
-                "no-barnehage:nsrid": "1022232",
-                "operator": "Drømmehagen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4672"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.222702,
-                    60.50917
                 ]
             }
         }

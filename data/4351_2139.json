@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3469",
+            "id": "node/-3470",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -13,13 +13,32 @@
                 "no-barnehage:nsrid": "1020387",
                 "operator": "Trio Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3469"
+                "id": "node/-3470"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.21553,
                     64.86023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3469",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ryds Holding",
+                "no-barnehage:nsrid": "2000330",
+                "operator": "Ryds Holding AS",
+                "operator:type": "private",
+                "id": "node/-3469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21959,
+                    64.85902
                 ]
             }
         },

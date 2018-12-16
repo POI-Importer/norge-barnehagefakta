@@ -157,7 +157,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3005",
+            "id": "node/-3006",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -168,7 +168,7 @@
                 "no-barnehage:nsrid": "1016780",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-3005"
+                "id": "node/-3006"
             },
             "geometry": {
                 "type": "Point",
@@ -180,29 +180,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3004",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nissekollen barnehager",
-                "no-barnehage:nsrid": "1015922",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3004"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4211,
-                    63.4102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2998",
+            "id": "node/-3000",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -212,7 +190,7 @@
                 "no-barnehage:nsrid": "1015950",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2998"
+                "id": "node/-3000"
             },
             "geometry": {
                 "type": "Point",
@@ -224,7 +202,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2973",
+            "id": "node/-2974",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -234,7 +212,7 @@
                 "no-barnehage:nsrid": "1017826",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2973"
+                "id": "node/-2974"
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +224,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2946",
+            "id": "node/-2948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -256,7 +234,7 @@
                 "no-barnehage:nsrid": "1017327",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2946"
+                "id": "node/-2948"
             },
             "geometry": {
                 "type": "Point",
@@ -268,20 +246,42 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2935",
+            "id": "node/-2937",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Hoeggen åpen barnehage",
                 "no-barnehage:nsrid": "1015778",
                 "operator": "Hoeggen Sokn",
                 "operator:type": "private",
-                "id": "node/-2935"
+                "id": "node/-2937"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.4292,
                     63.3977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2889",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blomsterbyen barnehage",
+                "no-barnehage:nsrid": "1015922",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4211,
+                    63.4102
                 ]
             }
         },

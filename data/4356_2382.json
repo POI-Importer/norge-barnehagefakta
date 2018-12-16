@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-682",
+            "id": "node/-679",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Epletunet barnehage avd. Trampen",
+                "no-barnehage:nsrid": "2000357",
+                "operator": "Epletunet barnehage AS",
+                "operator:type": "private",
+                "id": "node/-679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46453,
+                    59.92614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-678",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -13,7 +32,7 @@
                 "no-barnehage:nsrid": "1020773",
                 "operator": "Epletunet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-682"
+                "id": "node/-678"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +44,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-678",
+            "id": "node/-674",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -35,7 +54,7 @@
                 "no-barnehage:nsrid": "1021790",
                 "operator": "Barnehagegården AS",
                 "operator:type": "private",
-                "id": "node/-678"
+                "id": "node/-674"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-677",
+            "id": "node/-673",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -57,7 +76,7 @@
                 "no-barnehage:nsrid": "1012790",
                 "operator": "Aurskog-Høland kommune",
                 "operator:type": "public",
-                "id": "node/-677"
+                "id": "node/-673"
             },
             "geometry": {
                 "type": "Point",

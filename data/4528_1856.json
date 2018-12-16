@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5636",
+            "id": "node/-5641",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013864",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5636"
+                "id": "node/-5641"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5635",
+            "id": "node/-5640",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1012717",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5635"
+                "id": "node/-5640"
             },
             "geometry": {
                 "type": "Point",
@@ -47,17 +47,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5631",
+            "id": "node/-5636",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
+                "contact:website": "http://www.fus.no/tindfoten",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tindfoten FUS barnehage",
                 "no-barnehage:nsrid": "1026359",
                 "operator": "Tindfoten Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5631"
+                "id": "node/-5636"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +70,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5600",
+            "id": "node/-5608",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Nordlandia Marsvegen barnehage",
+                "no-barnehage:nsrid": "2000343",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0152,
+                    69.6539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5604",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
@@ -79,7 +99,7 @@
                 "no-barnehage:nsrid": "1025452",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-5600"
+                "id": "node/-5604"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +111,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5575",
+            "id": "node/-5579",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -101,7 +121,7 @@
                 "no-barnehage:nsrid": "1017056",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5575"
+                "id": "node/-5579"
             },
             "geometry": {
                 "type": "Point",
@@ -113,7 +133,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5573",
+            "id": "node/-5577",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -123,7 +143,7 @@
                 "no-barnehage:nsrid": "1017671",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5573"
+                "id": "node/-5577"
             },
             "geometry": {
                 "type": "Point",

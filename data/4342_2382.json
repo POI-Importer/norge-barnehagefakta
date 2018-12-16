@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1676",
+            "id": "node/-1677",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "2000001",
                 "operator": "Vassenga Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1676"
+                "id": "node/-1677"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1544",
+            "id": "node/-1545",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -106,7 +106,7 @@
                 "no-barnehage:nsrid": "1017315",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1544"
+                "id": "node/-1545"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +141,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1362",
+            "id": "node/-1361",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -151,7 +151,7 @@
                 "no-barnehage:nsrid": "1022300",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-1362"
+                "id": "node/-1361"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +163,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1335",
+            "id": "node/-1359",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:website": "http://laringsverkstedet.no/barnehage/bryn",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Bryn barnehage",
+                "no-barnehage:nsrid": "1020473",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-1359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82552,
+                    59.91602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1333",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -174,7 +197,7 @@
                 "no-barnehage:nsrid": "1017436",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1335"
+                "id": "node/-1333"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +209,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1271",
+            "id": "node/-1270",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -197,7 +220,7 @@
                 "no-barnehage:nsrid": "1017430",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1271"
+                "id": "node/-1270"
             },
             "geometry": {
                 "type": "Point",
@@ -209,7 +232,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1215",
+            "id": "node/-1214",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -220,7 +243,7 @@
                 "no-barnehage:nsrid": "1017292",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1215"
+                "id": "node/-1214"
             },
             "geometry": {
                 "type": "Point",
@@ -254,37 +277,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1054",
+            "id": "node/-992",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
-                "contact:website": "http://laringsverkstedet.no/barnehage/bryn",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bryn barnehage",
-                "no-barnehage:nsrid": "1020473",
-                "operator": "Bryn barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1054"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.82552,
-                    59.91602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-993",
-            "properties": {
-                "amenity": "kindergarten",
+                "contact:website": "http://trude.hoset@bal.oslo.kommune.no",
                 "name": "Alna åpen barnehage - Tveita",
                 "no-barnehage:nsrid": "1026314",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-993"
+                "id": "node/-992"
             },
             "geometry": {
                 "type": "Point",

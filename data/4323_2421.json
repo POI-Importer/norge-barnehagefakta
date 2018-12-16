@@ -48,7 +48,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2562",
+            "id": "node/-2573",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ifokus barnehage og Administrasjon",
+                "no-barnehage:nsrid": "2000359",
+                "operator": "Ifokus Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-2573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0176,
+                    59.05103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2561",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -59,7 +78,7 @@
                 "no-barnehage:nsrid": "1020642",
                 "operator": "Eventyrskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2562"
+                "id": "node/-2561"
             },
             "geometry": {
                 "type": "Point",

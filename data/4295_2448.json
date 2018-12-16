@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3142",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "38",
-                "contact:website": "http://laringsverkstedet.no/barnehage/his",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet Portveien His",
-                "no-barnehage:nsrid": "1015908",
-                "operator": "Portveien Barnehagedrift AS",
-                "operator:type": "private",
-                "id": "node/-3142"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.74603,
-                    58.4333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3141",
+            "id": "node/-3143",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -37,13 +14,36 @@
                 "no-barnehage:nsrid": "1015167",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3141"
+                "id": "node/-3143"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.77438,
                     58.4446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3139",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:website": "http://laringsverkstedet.no/barnehage/his",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Portveien His",
+                "no-barnehage:nsrid": "1015908",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74603,
+                    58.4333
                 ]
             }
         },

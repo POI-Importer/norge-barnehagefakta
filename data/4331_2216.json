@@ -70,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3000",
+            "id": "node/-3002",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "106",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1018587",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3000"
+                "id": "node/-3002"
             },
             "geometry": {
                 "type": "Point",
@@ -92,30 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2960",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "124",
-                "contact:website": "http://www.kystadbhg.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kystad gård barnehage",
-                "no-barnehage:nsrid": "1022066",
-                "operator": "Espira Kystad Gård barnehage AS",
-                "operator:type": "private",
-                "id": "node/-2960"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.34184,
-                    63.3895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2928",
+            "id": "node/-2930",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -125,7 +102,7 @@
                 "no-barnehage:nsrid": "1021361",
                 "operator": "Hallsetreina Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2928"
+                "id": "node/-2930"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2912",
+            "id": "node/-2914",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "119",
@@ -147,7 +124,7 @@
                 "no-barnehage:nsrid": "1018211",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2912"
+                "id": "node/-2914"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +136,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2898",
+            "id": "node/-2909",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "124",
+                "contact:website": "http://www.kystadgard@espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Kystad gård barnehage",
+                "no-barnehage:nsrid": "1022066",
+                "operator": "Espira Kystad Gård barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34184,
+                    63.3895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2899",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -169,7 +169,7 @@
                 "no-barnehage:nsrid": "1016862",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-2898"
+                "id": "node/-2899"
             },
             "geometry": {
                 "type": "Point",

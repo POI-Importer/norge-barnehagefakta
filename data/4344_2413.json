@@ -3,62 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-181",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "99",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Trosvik barnehage",
-                "no-barnehage:nsrid": "1012709",
-                "operator": "Fredrikstad kommune",
-                "operator:type": "public",
-                "id": "node/-181"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9244,
-                    59.226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-166",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "48",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Slangsvold barnehage",
-                "no-barnehage:nsrid": "1015549",
-                "operator": "Ådalen Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-166"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9306,
-                    59.2343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-163",
+            "id": "node/-190",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
                 "contact:website": "http://orebekk.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Rs Team / Ørebekk barnehage",
+                "name": "Ørebekk barnehage / Rs Team",
                 "no-barnehage:nsrid": "1021591",
                 "operator": "Rs Team AS",
                 "operator:type": "private",
-                "id": "node/-163"
+                "id": "node/-190"
             },
             "geometry": {
                 "type": "Point",
@@ -70,30 +26,51 @@
         },
         {
             "type": "Feature",
-            "id": "node/-149",
+            "id": "node/-179",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "85",
-                "contact:website": "http://laringsverkstedet.no/trosvik",
+                "capacity": "99",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Doremi Trosvik",
-                "no-barnehage:nsrid": "1016595",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-149"
+                "name": "Trosvik barnehage",
+                "no-barnehage:nsrid": "1012709",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-179"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9222,
+                    10.9244,
                     59.226
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-147",
+            "id": "node/-164",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Slangsvold barnehage",
+                "no-barnehage:nsrid": "1015549",
+                "operator": "Ådalen Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9306,
+                    59.2343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-148",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -103,7 +80,7 @@
                 "no-barnehage:nsrid": "1015514",
                 "operator": "Ådalen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-147"
+                "id": "node/-148"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +92,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-146",
+            "id": "node/-147",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:website": "http://laringsverkstedet.no/trosvik",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Doremi Trosvik",
+                "no-barnehage:nsrid": "1016595",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9222,
+                    59.226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-145",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -125,7 +125,7 @@
                 "no-barnehage:nsrid": "1016508",
                 "operator": "Fbhd Drift AS",
                 "operator:type": "private",
-                "id": "node/-146"
+                "id": "node/-145"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +137,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-116",
+            "id": "node/-114",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -148,7 +148,7 @@
                 "no-barnehage:nsrid": "1021089",
                 "operator": "Benedicte Gundersen AS",
                 "operator:type": "private",
-                "id": "node/-116"
+                "id": "node/-114"
             },
             "geometry": {
                 "type": "Point",
