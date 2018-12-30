@@ -3,40 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5442",
+            "id": "node/-5441",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Medås gårdsbarnehage",
+                "name": "Læringsverkstedet Medås gårdsbarnehage",
                 "no-barnehage:nsrid": "1020786",
                 "operator": "Medås Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-5442"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.39163,
-                    67.25919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5440",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "26",
-                "contact:website": "http://www.kvitrebarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvitre barnehage",
-                "no-barnehage:nsrid": "1021468",
-                "operator": "Kvitre barnehage AS",
-                "operator:type": "private",
-                "id": "node/-5440"
+                "id": "node/-5441"
             },
             "geometry": {
                 "type": "Point",
@@ -51,6 +28,29 @@
             "id": "node/-5439",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://www.kvitrebarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvitre barnehage",
+                "no-barnehage:nsrid": "1021468",
+                "operator": "Kvitre barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39163,
+                    67.25919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5438",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "22",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1016138",
                 "operator": "Fauske kommune",
                 "operator:type": "public",
-                "id": "node/-5439"
+                "id": "node/-5438"
             },
             "geometry": {
                 "type": "Point",

@@ -160,6 +160,16 @@
 		<tag k="operator" v="Nubben Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-4621" lat="60.41091" lon="4.984997">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Soltunet Drift" />
+		<tag k="no-barnehage:nsrid" v="1020639" />
+		<tag k="operator" v="Soltunet Drift AS" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-330" lat="59.65382" lon="10.80543">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="1" />
@@ -371,16 +381,6 @@
 		<tag k="operator" v="Liaveien Familiebarnehage Stein Arneberg" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5868" lat="69.6793" lon="30.10494">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="6" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Bjørnehiet familiebarnehage Liv-judith Andersen" />
-		<tag k="no-barnehage:nsrid" v="1020207" />
-		<tag k="operator" v="Bjørnehiet Familiebarnehage Liv-Judith Andersen" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-1771" lat="61.03445" lon="10.74792">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="7" />
@@ -401,16 +401,6 @@
 		<tag k="operator" v="Helle Skjellerud Kløvimo" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5850" lat="70.48306" lon="25.05056">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="6" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Kos gårds- og familiebarnehage Grethe Liv Olaussen" />
-		<tag k="no-barnehage:nsrid" v="1025468" />
-		<tag k="operator" v="Kos Gårds- og Familiebarnehage Grethe Liv Olaussen" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-1751" lat="60.79881" lon="11.08761">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
@@ -420,6 +410,16 @@
 		<tag k="name" v="Ringblomsten familiebarnehage Solfrid Bjørge Goldsack" />
 		<tag k="no-barnehage:nsrid" v="1021433" />
 		<tag k="operator" v="Ringblomsten Familiebarnehage Solfrid Bjørge Goldsack" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5844" lat="70.48306" lon="25.05056">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="6" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Kos gårds- og familiebarnehage Grethe Liv Olaussen" />
+		<tag k="no-barnehage:nsrid" v="1025468" />
+		<tag k="operator" v="Kos Gårds- og Familiebarnehage Grethe Liv Olaussen" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1727" lat="60.81202" lon="11.05679">
@@ -502,16 +502,6 @@
 		<tag k="operator" v="Trollungene Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5740" lat="69.32197" lon="18.77808">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="6" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Hamnvåg familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="2000154" />
-		<tag k="operator" v="Hamnvåg Familiebarnehage" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-3687" lat="58.08212" lon="7.847814">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
@@ -531,6 +521,16 @@
 		<tag k="name" v="Treklossen familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022166" />
 		<tag k="operator" v="Treklossen Familiebarnehage Kristin S Hagen" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5734" lat="69.32197" lon="18.77808">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="6" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Hamnvåg familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="2000154" />
+		<tag k="operator" v="Hamnvåg Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3683" lat="58.0925" lon="7.786118">
@@ -683,7 +683,17 @@
 		<tag k="operator" v="Solbakken Familiebarnehage V/ragnhild Elise Rasmussen" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5673" lat="68.76165" lon="16.55747">
+	<node id="-5673" lat="68.81256" lon="16.54326">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Småtroll Harstad" />
+		<tag k="no-barnehage:nsrid" v="1026038" />
+		<tag k="operator" v="Småtroll Harstad AS" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5667" lat="68.76165" lon="16.55747">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="max_age" v="5" />
@@ -691,16 +701,6 @@
 		<tag k="name" v="Mølnholtet familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022216" />
 		<tag k="operator" v="Mølnholtet Familiebarnehage" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5668" lat="68.80281" lon="16.5313">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Jørnsgate familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020325" />
-		<tag k="operator" v="Jørnsgate Familiebarnehage Rikardsen" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1570" lat="59.94748" lon="10.63652">
@@ -723,6 +723,16 @@
 		<tag k="operator" v="Furulunden Familie-Barnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-5662" lat="68.80281" lon="16.5313">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Jørnsgate familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020325" />
+		<tag k="operator" v="Jørnsgate Familiebarnehage Rikardsen" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-3613" lat="58.03552" lon="7.452143">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -743,16 +753,6 @@
 		<tag k="operator" v="Åshild Ek Bråtane" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5656" lat="68.78819" lon="16.52059">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Fagerlia familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022211" />
-		<tag k="operator" v="Fagerlia Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-3605" lat="58.12258" lon="7.958855">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
@@ -763,14 +763,14 @@
 		<tag k="operator" v="Vågsbygd Familiebarnehage Elin Marie Nilsen" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5652" lat="68.81051" lon="16.50795">
+	<node id="-5650" lat="68.78819" lon="16.52059">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="max_age" v="2" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Bergsengveien familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022437" />
-		<tag k="operator" v="Bergsengveien Familiebarnehage AS" />
+		<tag k="name" v="Fagerlia familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022211" />
+		<tag k="operator" v="Fagerlia Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3601" lat="58.12677" lon="8.092882">
@@ -781,16 +781,6 @@
 		<tag k="name" v="Tømmerstien familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1021918" />
 		<tag k="operator" v="Tømmerstien Familiebarnehage Sa" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5648" lat="69.64372" lon="19.0086">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="25" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Virre Vapp familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022447" />
-		<tag k="operator" v="Virre Vapp Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1551" lat="59.84087" lon="10.79907">
@@ -831,6 +821,16 @@
 		<tag k="name" v="Småen familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1014052" />
 		<tag k="operator" v="Amigos barnehage Limited" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5642" lat="69.64372" lon="19.0086">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="25" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Virre Vapp familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022447" />
+		<tag k="operator" v="Virre Vapp Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3584" lat="58.15141" lon="8.019036">
@@ -885,6 +885,16 @@
 		<tag k="operator" v="Sjøutsikten Familiebarnehage Hernandez-Lillebekk" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-5615" lat="69.69842" lon="18.88716">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Solstua familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020324" />
+		<tag k="operator" v="Stiftelsen Solstua Familiebarnehage" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-3566" lat="58.15738" lon="8.080633">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
@@ -925,7 +935,17 @@
 		<tag k="operator" v="Planeten barnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5604" lat="69.64435" lon="19.00043">
+	<node id="-5607" lat="69.7746" lon="18.81982">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="20" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Rødhette" />
+		<tag k="no-barnehage:nsrid" v="1020748" />
+		<tag k="operator" v="Rødhette AS" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5598" lat="69.64435" lon="19.00043">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="max_age" v="5" />
@@ -935,7 +955,7 @@
 		<tag k="operator" v="Myrvegen Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5603" lat="69.68327" lon="18.94423">
+	<node id="-5597" lat="69.68327" lon="18.94423">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="max_age" v="5" />
@@ -943,16 +963,6 @@
 		<tag k="name" v="Mortensnes familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022266" />
 		<tag k="operator" v="Mortensnes Familiebarnehage AS" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5602" lat="69.66308" lon="19.02563">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="20" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Midnattsol familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1021431" />
-		<tag k="operator" v="Midnattsol Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1500" lat="59.95002" lon="10.64821">
@@ -973,6 +983,16 @@
 		<tag k="name" v="Knøttebo familiebarnehage Linda Tøllefsen" />
 		<tag k="no-barnehage:nsrid" v="1021583" />
 		<tag k="operator" v="Knøttebo Familiebarnehage Linda Tellefsen" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5590" lat="69.68705" lon="18.83419">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="16" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lekestua familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1021750" />
+		<tag k="operator" v="Lekestua Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3541" lat="58.11288" lon="7.965714">
@@ -1025,14 +1045,15 @@
 		<tag k="operator" v="Fidjemoen Familiebanehage Maria Skafsgaard" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5505" lat="68.23626" lon="14.54101">
+	<node id="-5574" lat="69.64841" lon="19.00094">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
+		<tag k="capacity" v="9" />
+		<tag k="contact:website" v="http://www.eventyroya.bhg.no" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Lundeveien familiebarnehage Trine Malnes Grønvik" />
-		<tag k="no-barnehage:nsrid" v="1021599" />
-		<tag k="operator" v="Lundeveien Familiebarnehage Trine Malnes Grønvik" />
+		<tag k="name" v="Eventyrøya familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020924" />
+		<tag k="operator" v="Eventyrøya Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3524" lat="58.2051" lon="7.90799">
@@ -1055,14 +1076,14 @@
 		<tag k="operator" v="Gunillas Etg. AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5570" lat="69.64758" lon="18.93334">
+	<node id="-4683" lat="60.52882" lon="4.880083">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="2" />
+		<tag k="capacity" v="5" />
+		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Ebeltoften familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022194" />
-		<tag k="operator" v="Ebeltoften Familiebarnehage AS" />
+		<tag k="name" v="Spurven familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020935" />
+		<tag k="operator" v="Spurven Familiebarnehage Helen Nelly Dale" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1472" lat="59.86081" lon="10.81026">
@@ -1073,6 +1094,16 @@
 		<tag k="name" v="Plutti Plott familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022115" />
 		<tag k="operator" v="Plutti Plott Familiebarnehage Myrheim" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5567" lat="69.64346" lon="18.98919">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="9" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Dalen familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022349" />
+		<tag k="operator" v="Dalen Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3518" lat="58.17584" lon="8.044929">
@@ -1126,6 +1157,16 @@
 		<tag k="operator" v="Ole Brumm barnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-4681" lat="60.5185" lon="4.817437">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="5" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Knappen familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020936" />
+		<tag k="operator" v="Malin Pernille Lid Romarheim" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-1458" lat="59.95702" lon="10.86304">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -1146,7 +1187,7 @@
 		<tag k="operator" v="Årnseth Familiebarnehage Marian Langsæter" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5546" lat="68.70286" lon="15.40515">
+	<node id="-5545" lat="68.70286" lon="15.40515">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="contact:website" v="http://www.skogstjerna-familiebarnehage.com" />
@@ -1185,16 +1226,6 @@
 		<tag k="name" v="Nemo familiebarnehage Filiz Göcücü avd. Brobekkveien" />
 		<tag k="no-barnehage:nsrid" v="1020623" />
 		<tag k="operator" v="Nemo Familiebarnehage Filiz GÖcücü" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-4676" lat="60.53125" lon="5.174246">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Lita-god familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1014084" />
-		<tag k="operator" v="Kooij Van Der Liv Hopland" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3475" lat="64.86209" lon="11.61494">
@@ -1237,7 +1268,17 @@
 		<tag k="operator" v="Fosnes kommune" />
 		<tag k="operator:type" v="public" />
 	</node>
-	<node id="-5501" lat="68.24681" lon="14.55683">
+	<node id="-5504" lat="68.23626" lon="14.54101">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lundeveien familiebarnehage Trine Malnes Grønvik" />
+		<tag k="no-barnehage:nsrid" v="1021599" />
+		<tag k="operator" v="Lundeveien Familiebarnehage Trine Malnes Grønvik" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5500" lat="68.24681" lon="14.55683">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -1277,16 +1318,6 @@
 		<tag k="operator" v="Amigos barnehage Limited" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4684" lat="60.52882" lon="4.880083">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Spurven familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020935" />
-		<tag k="operator" v="Spurven Familiebarnehage Helen Nelly Dale" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-1396" lat="59.9297" lon="10.6908">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -1305,16 +1336,6 @@
 		<tag k="name" v="Merkur familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1016954" />
 		<tag k="operator" v="Planeten barnehage AS" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5487" lat="68.07417" lon="13.54972">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Heimly familiebarnehage Renate Hansen" />
-		<tag k="no-barnehage:nsrid" v="1020284" />
-		<tag k="operator" v="Heimly Familiebarnehage Renate Hansen" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1390" lat="59.9317" lon="10.814">
@@ -1377,7 +1398,7 @@
 		<tag k="operator" v="Symrahagen AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5471" lat="68.34283" lon="16.83145">
+	<node id="-5470" lat="68.34283" lon="16.83145">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -1385,16 +1406,6 @@
 		<tag k="name" v="Bjørkåshøgda familiebarnehage Tove Ærø" />
 		<tag k="no-barnehage:nsrid" v="1020265" />
 		<tag k="operator" v="Bjørkåshøgda Familiebarnehage Ved Tove Ærø" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5349" lat="65.82015" lon="13.22402">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Bukkene Bruse familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1021508" />
-		<tag k="operator" v="Nina Askerød / Bukkene Bruse Fam.Barnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3407" lat="63.48188" lon="10.97334">
@@ -1730,16 +1741,6 @@
 		<tag k="operator" v="Jonettaplassen Gårdsbarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5679" lat="68.81256" lon="16.54326">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="2" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Småtroll Harstad" />
-		<tag k="no-barnehage:nsrid" v="1026038" />
-		<tag k="operator" v="Småtroll Harstad AS" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-3345" lat="63.28717" lon="10.28821">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -1820,7 +1821,7 @@
 		<tag k="operator" v="Bitteliten Barnehager AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5360" lat="65.8189" lon="13.22004">
+	<node id="-5359" lat="65.8189" lon="13.22004">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="max_age" v="5" />
@@ -1849,6 +1850,16 @@
 		<tag k="name" v="Jeppes familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022214" />
 		<tag k="operator" v="Amh Sandaker" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5348" lat="65.82015" lon="13.22402">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Bukkene Bruse familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1021508" />
+		<tag k="operator" v="Nina Askerød / Bukkene Bruse Fam.Barnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-1249" lat="59.92246" lon="10.65328">
@@ -1893,7 +1904,7 @@
 		<tag k="operator" v="Egeh AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5311" lat="68.54829" lon="17.53074">
+	<node id="-5310" lat="68.54829" lon="17.53074">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -2128,7 +2139,7 @@
 		<tag k="operator" v="Tårnsvalen barnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5241" lat="67.2939" lon="14.42433">
+	<node id="-5240" lat="67.2939" lon="14.42433">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
 		<tag k="max_age" v="2" />
@@ -2188,7 +2199,7 @@
 		<tag k="operator" v="Fjordgløtt Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5214" lat="63.60823" lon="11.05177">
+	<node id="-5213" lat="63.60823" lon="11.05177">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="15" />
 		<tag k="max_age" v="5" />
@@ -2196,6 +2207,16 @@
 		<tag k="name" v="Mossingan familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1020743" />
 		<tag k="operator" v="Mossingan Familiebarnehage Ans" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5646" lat="68.81051" lon="16.50795">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="2" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Bergsengveien familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022437" />
+		<tag k="operator" v="Bergsengveien Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3154" lat="58.4609" lon="8.755075">
@@ -2250,6 +2271,16 @@
 		<tag k="operator" v="Lønneberget barnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-5192" lat="63.43306" lon="10.59604">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="7" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Utsikten familiebarnehage Borghild Lucie Vikhammermo" />
+		<tag k="no-barnehage:nsrid" v="1020510" />
+		<tag k="operator" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-3596" lat="58.15738" lon="8.079968">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
@@ -2270,7 +2301,17 @@
 		<tag k="operator" v="Løvehulen Familiebarnehage Lisbeth Dalen" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5188" lat="63.43244" lon="10.70313">
+	<node id="-5188" lat="63.43891" lon="10.604">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Solregn familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022330" />
+		<tag k="operator" v="Solregn Familiebarnehage AS" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5187" lat="63.43244" lon="10.70313">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="5" />
 		<tag k="max_age" v="2" />
@@ -2290,7 +2331,7 @@
 		<tag k="operator" v="Amigos barnehage Limited" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5182" lat="63.44012" lon="10.60317">
+	<node id="-5181" lat="63.44012" lon="10.60317">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -2300,7 +2341,7 @@
 		<tag k="operator" v="Mumitrollet Fam barnehage Hilde Frogset" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5180" lat="63.20804" lon="8.15277">
+	<node id="-5179" lat="63.20804" lon="8.15277">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="2" />
 		<tag k="max_age" v="5" />
@@ -2442,7 +2483,7 @@
 		<tag k="operator" v="Tusseskogen Familiebarnehage Anne Helene Lein" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5133" lat="63.07963" lon="7.649017">
+	<node id="-5132" lat="63.07963" lon="7.649017">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -2450,6 +2491,16 @@
 		<tag k="name" v="Hjellan familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1021165" />
 		<tag k="operator" v="Hjellan Familiebarnehage/gårdsdrift Ved Marit Røsberg" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-4610" lat="60.34877" lon="5.089148">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Knerten familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1020598" />
+		<tag k="operator" v="Knerten Familiebarnehage Torill Hesjedal" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-3081" lat="63.3978" lon="10.41024">
@@ -2646,16 +2697,6 @@
 		<tag k="operator" v="Nydammen Familiebarne Hege Skylstad Dahl" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5621" lat="69.69842" lon="18.88716">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Solstua familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020324" />
-		<tag k="operator" v="Stiftelsen Solstua Familiebarnehage" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-3001" lat="63.37691" lon="10.3503">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -2805,16 +2846,6 @@
 		<tag k="name" v="Kystadhaugen familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022256" />
 		<tag k="operator" v="Kystadhaugen Familiebarnehage May-Linn Holden" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5613" lat="69.7746" lon="18.81982">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="20" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Rødhette" />
-		<tag k="no-barnehage:nsrid" v="1020748" />
-		<tag k="operator" v="Rødhette AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-2955" lat="63.40462" lon="10.33603">
@@ -3038,16 +3069,6 @@
 		<tag k="operator" v="Duttestien Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4921" lat="62.45916" lon="6.266164">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Hatlahaugen familiebarnehage Gunn Berit Rødstøl" />
-		<tag k="no-barnehage:nsrid" v="1020772" />
-		<tag k="operator" v="Hatlahaugen Familiebarnehage V/gunn Berit Rødstøl" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-2894" lat="63.35878" lon="10.3589">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
@@ -3147,6 +3168,16 @@
 		<tag k="name" v="Sesam familiebarnehage avd. Pelikan Naziha Nouri" />
 		<tag k="no-barnehage:nsrid" v="1021171" />
 		<tag k="operator" v="Sesam Familiebarnehage Avd. Pelikan Naziha Nouri" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-4920" lat="62.45916" lon="6.266164">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Hatlahaugen familiebarnehage Gunn Berit Rødstøl" />
+		<tag k="no-barnehage:nsrid" v="1020772" />
+		<tag k="operator" v="Hatlahaugen Familiebarnehage V/gunn Berit Rødstøl" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-822" lat="59.94157" lon="11.01452">
@@ -3412,7 +3443,7 @@
 		<tag k="operator" v="Gülserens Familiebarnehage Gülseren Køkyer" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4906" lat="62.69822" lon="7.423695">
+	<node id="-4905" lat="62.69822" lon="7.423695">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -3442,7 +3473,7 @@
 		<tag k="operator" v="Laila Saur" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4841" lat="61.91915" lon="5.993751">
+	<node id="-4840" lat="61.91915" lon="5.993751">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
 		<tag k="max_age" v="2" />
@@ -3452,7 +3483,7 @@
 		<tag k="operator" v="Nøtteliten Familiebarnehage Haugen" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4835" lat="61.90626" lon="5.991555">
+	<node id="-4834" lat="61.90626" lon="5.991555">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="4" />
 		<tag k="max_age" v="2" />
@@ -3553,27 +3584,6 @@
 		<tag k="operator" v="Skogstien Familiebarnehage Linda Årvik Andreassen" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5575" lat="69.64841" lon="19.00094">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="contact:website" v="http://www.eventyroya.bhg.no" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Eventyrøya familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020924" />
-		<tag k="operator" v="Eventyrøya Familiebarnehage Da" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-4682" lat="60.5185" lon="4.817437">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="5" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Knappen familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020936" />
-		<tag k="operator" v="Malin Pernille Lid Romarheim" />
-		<tag k="operator:type" v="private" />
-	</node>
 	<node id="-2718" lat="59.19086" lon="9.611617">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
@@ -3615,14 +3625,14 @@
 		<tag k="operator" v="Bratsberghavna Familiebarnehage Runar Thomas Byberg" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5568" lat="69.64346" lon="18.98919">
+	<node id="-5569" lat="69.64758" lon="18.93334">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="9" />
-		<tag k="max_age" v="5" />
+		<tag k="capacity" v="8" />
+		<tag k="max_age" v="2" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Dalen familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022349" />
-		<tag k="operator" v="Dalen Familiebarnehage Da" />
+		<tag k="name" v="Ebeltoften familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1022194" />
+		<tag k="operator" v="Ebeltoften Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-2682" lat="59.09863" lon="9.669601">
@@ -3666,7 +3676,7 @@
 		<tag k="operator" v="Gullhella Familiebarnehage V/kari Hofsmarken Reinhoff" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4714" lat="61.5981" lon="5.01231">
+	<node id="-4713" lat="61.5981" lon="5.01231">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="3" />
 		<tag k="max_age" v="5" />
@@ -3676,7 +3686,7 @@
 		<tag k="operator" v="Bergsmovg Familiebarnehage Vigdis Midtbø" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4707" lat="60.73772" lon="5.159713">
+	<node id="-4706" lat="60.73772" lon="5.159713">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -3696,7 +3706,7 @@
 		<tag k="operator" v="Bokfinken Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4704" lat="60.57242" lon="5.212501">
+	<node id="-4703" lat="60.57242" lon="5.212501">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="11" />
 		<tag k="max_age" v="5" />
@@ -3726,7 +3736,7 @@
 		<tag k="operator" v="Stabburet Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4689" lat="60.67457" lon="4.991239">
+	<node id="-4688" lat="60.67457" lon="4.991239">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -3807,6 +3817,16 @@
 		<tag k="operator" v="Bente Strøm'S Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
+	<node id="-4675" lat="60.53125" lon="5.174246">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Lita-god familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1014084" />
+		<tag k="operator" v="Kooij Van Der Liv Hopland" />
+		<tag k="operator:type" v="private" />
+	</node>
 	<node id="-578" lat="59.90491" lon="10.60419">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="8" />
@@ -3837,14 +3857,14 @@
 		<tag k="operator" v="Storeng Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-5596" lat="69.68705" lon="18.83419">
+	<node id="-5596" lat="69.66308" lon="19.02563">
 		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="16" />
+		<tag k="capacity" v="20" />
 		<tag k="max_age" v="5" />
 		<tag k="min_age" v="1" />
-		<tag k="name" v="Lekestua familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1021750" />
-		<tag k="operator" v="Lekestua Familiebarnehage AS" />
+		<tag k="name" v="Midnattsol familiebarnehage" />
+		<tag k="no-barnehage:nsrid" v="1021431" />
+		<tag k="operator" v="Midnattsol Familiebarnehage" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-567" lat="59.91203" lon="10.61994">
@@ -4093,7 +4113,7 @@
 		<tag k="operator" v="Familiebarnehagene Vivi Engelund" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4624" lat="60.35911" lon="5.133231">
+	<node id="-4623" lat="60.35911" lon="5.133231">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -4101,16 +4121,6 @@
 		<tag k="name" v="Straumsfjellet Fam barnehage" />
 		<tag k="no-barnehage:nsrid" v="1020286" />
 		<tag k="operator" v="Straumsfjellet Fam barnehage Anita Jørgensen Østensen" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-4622" lat="60.41091" lon="4.984997">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="8" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Soltunet Drift" />
-		<tag k="no-barnehage:nsrid" v="1020639" />
-		<tag k="operator" v="Soltunet Drift AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-525" lat="59.91479" lon="10.60622">
@@ -4131,16 +4141,6 @@
 		<tag k="name" v="Heffalompen familiebarnehage Ann Christin Berentsen Sundet" />
 		<tag k="no-barnehage:nsrid" v="1021267" />
 		<tag k="operator" v="Heffalompen Familiebarnehage Ann Christin Berentsen Sundet" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-4611" lat="60.34877" lon="5.089148">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Knerten familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1020598" />
-		<tag k="operator" v="Knerten Familiebarnehage Torill Hesjedal" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-514" lat="59.8999" lon="10.562">
@@ -4235,7 +4235,7 @@
 		<tag k="operator" v="Grindstuveien Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4553" lat="60.62672" lon="6.431828">
+	<node id="-4552" lat="60.62672" lon="6.431828">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="10" />
 		<tag k="max_age" v="5" />
@@ -4263,16 +4263,6 @@
 		<tag k="name" v="Blåklokken Fam barnehage avd. Haslum terrasse" />
 		<tag k="no-barnehage:nsrid" v="1013267" />
 		<tag k="operator" v="Blåklokken Fam barnehage Rehnvall" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5193" lat="63.43306" lon="10.59604">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="7" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Utsikten familiebarnehage Borghild Lucie Vikhammermo" />
-		<tag k="no-barnehage:nsrid" v="1020510" />
-		<tag k="operator" v="Utsikten Familiebarnehage Borghild Lucie Vikhammermo" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-2471" lat="59.23868" lon="10.46995">
@@ -4303,16 +4293,6 @@
 		<tag k="name" v="Ingas Tussi familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1022063" />
 		<tag k="operator" v="Ingas Tigergutt Familiebarnehage Inga Staneviciene" />
-		<tag k="operator:type" v="private" />
-	</node>
-	<node id="-5189" lat="63.43891" lon="10.604">
-		<tag k="amenity" v="kindergarten" />
-		<tag k="capacity" v="10" />
-		<tag k="max_age" v="5" />
-		<tag k="min_age" v="1" />
-		<tag k="name" v="Solregn familiebarnehage" />
-		<tag k="no-barnehage:nsrid" v="1022330" />
-		<tag k="operator" v="Solregn Familiebarnehage AS" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-2457" lat="59.2863" lon="10.49567">
@@ -4473,6 +4453,16 @@
 		<tag k="name" v="Holtebrekk familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1014856" />
 		<tag k="operator" v="Stiftelsen Askeladden Steinerbarnehage" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5862" lat="69.6793" lon="30.10494">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="6" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Bjørnehiet familiebarnehage Liv-judith Andersen" />
+		<tag k="no-barnehage:nsrid" v="1020207" />
+		<tag k="operator" v="Bjørnehiet Familiebarnehage Liv-Judith Andersen" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-2400" lat="59.71351" lon="10.51752">
@@ -4711,7 +4701,7 @@
 		<tag k="operator" v="Lesteberg Familiebarnehage Da" />
 		<tag k="operator:type" v="private" />
 	</node>
-	<node id="-4476" lat="59.7714" lon="5.50253">
+	<node id="-4475" lat="59.7714" lon="5.50253">
 		<tag k="amenity" v="kindergarten" />
 		<tag k="capacity" v="9" />
 		<tag k="contact:website" v="http://www.solsikkenebarnehager.no" />
@@ -4951,6 +4941,16 @@
 		<tag k="name" v="Karins familiebarnehage" />
 		<tag k="no-barnehage:nsrid" v="1025504" />
 		<tag k="operator" v="Saggrenda barnehage" />
+		<tag k="operator:type" v="private" />
+	</node>
+	<node id="-5486" lat="68.07417" lon="13.54972">
+		<tag k="amenity" v="kindergarten" />
+		<tag k="capacity" v="10" />
+		<tag k="max_age" v="5" />
+		<tag k="min_age" v="1" />
+		<tag k="name" v="Heimly familiebarnehage Renate Hansen" />
+		<tag k="no-barnehage:nsrid" v="1020284" />
+		<tag k="operator" v="Heimly Familiebarnehage Renate Hansen" />
 		<tag k="operator:type" v="private" />
 	</node>
 	<node id="-143" lat="59.22181" lon="10.98239">
