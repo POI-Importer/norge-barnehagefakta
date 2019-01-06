@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5633",
+            "id": "node/-5631",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "4",
@@ -13,7 +13,29 @@
                 "no-barnehage:nsrid": "1013533",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5633"
+                "id": "node/-5631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3989,
+                    69.7774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5578",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kjosen barnehage",
+                "no-barnehage:nsrid": "1013439",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5578"
             },
             "geometry": {
                 "type": "Point",

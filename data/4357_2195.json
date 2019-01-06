@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3430",
+            "id": "node/-3423",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -13,75 +13,7 @@
                 "no-barnehage:nsrid": "1018275",
                 "operator": "Verdal kommune",
                 "operator:type": "public",
-                "id": "node/-3430"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.4816,
-                    63.7933
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3426",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "79",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Reinsholm barnehage",
-                "no-barnehage:nsrid": "1016906",
-                "operator": "Verdal kommune",
-                "operator:type": "public",
-                "id": "node/-3426"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.4937,
-                    63.7932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3423",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "48",
-                "contact:website": "http://www.maritvold.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Maritvold barnehage",
-                "no-barnehage:nsrid": "1022113",
-                "operator": "Verdal kommune",
-                "operator:type": "public",
                 "id": "node/-3423"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.48875,
-                    63.79578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3422",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "131",
-                "contact:website": "http://laringsverkstedet.no/knottene",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Knøttene",
-                "no-barnehage:nsrid": "1015449",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3422"
             },
             "geometry": {
                 "type": "Point",
@@ -96,36 +28,60 @@
             "id": "node/-3419",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "79",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Lekekroken barnehage",
-                "no-barnehage:nsrid": "1021571",
-                "operator": "Lekekroken barnehage AS",
-                "operator:type": "private",
+                "name": "Reinsholm barnehage",
+                "no-barnehage:nsrid": "1016906",
+                "operator": "Verdal kommune",
+                "operator:type": "public",
                 "id": "node/-3419"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.4815,
-                    63.79515
+                    11.4937,
+                    63.7932
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3418",
+            "id": "node/-3416",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
+                "capacity": "48",
+                "contact:website": "http://www.maritvold.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kanutten barnehage",
-                "no-barnehage:nsrid": "1013760",
+                "name": "Maritvold barnehage",
+                "no-barnehage:nsrid": "1022113",
                 "operator": "Verdal kommune",
                 "operator:type": "public",
-                "id": "node/-3418"
+                "id": "node/-3416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48875,
+                    63.79578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3415",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "131",
+                "contact:website": "http://laringsverkstedet.no/knottene",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Knøttene",
+                "no-barnehage:nsrid": "1015449",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3415"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +93,51 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3415",
+            "id": "node/-3412",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lekekroken barnehage",
+                "no-barnehage:nsrid": "1021571",
+                "operator": "Lekekroken barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4815,
+                    63.79515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3411",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kanutten barnehage",
+                "no-barnehage:nsrid": "1013760",
+                "operator": "Verdal kommune",
+                "operator:type": "public",
+                "id": "node/-3411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4816,
+                    63.7933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3408",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -147,7 +147,7 @@
                 "no-barnehage:nsrid": "1021829",
                 "operator": "Elvegården barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3415"
+                "id": "node/-3408"
             },
             "geometry": {
                 "type": "Point",

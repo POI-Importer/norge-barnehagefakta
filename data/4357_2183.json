@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3197",
+            "id": "node/-3190",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1021462",
                 "operator": "Vikingen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3197"
+                "id": "node/-3190"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3191",
+            "id": "node/-3184",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1021366",
                 "operator": "Steinkjer Montessoribarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3191"
+                "id": "node/-3184"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3187",
+            "id": "node/-3180",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -58,29 +58,6 @@
                 "name": "Poppellunden barnehage Stiftelse",
                 "no-barnehage:nsrid": "1020357",
                 "operator": "Poppellunden barnehage Stiftelse",
-                "operator:type": "private",
-                "id": "node/-3187"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.49526,
-                    64.01502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3180",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "contact:website": "http://kvam.barnehageside.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvam barnehage",
-                "no-barnehage:nsrid": "1020499",
-                "operator": "Kvam barnehage Sa",
                 "operator:type": "private",
                 "id": "node/-3180"
             },
@@ -94,18 +71,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3179",
+            "id": "node/-3173",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:website": "http://www.kringlabarnehage.no",
+                "capacity": "25",
+                "contact:website": "http://kvam.barnehageside.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kringla friluftsbarnehage",
-                "no-barnehage:nsrid": "1021973",
-                "operator": "Kringla Friluftsbarnehage AS",
+                "name": "Kvam barnehage",
+                "no-barnehage:nsrid": "1020499",
+                "operator": "Kvam barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3179"
+                "id": "node/-3173"
             },
             "geometry": {
                 "type": "Point",
@@ -120,6 +97,29 @@
             "id": "node/-3172",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:website": "http://www.kringlabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kringla friluftsbarnehage",
+                "no-barnehage:nsrid": "1021973",
+                "operator": "Kringla Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.49526,
+                    64.01502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3165",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "67",
                 "max_age": "5",
                 "min_age": "1",
@@ -127,7 +127,7 @@
                 "no-barnehage:nsrid": "1026340",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3172"
+                "id": "node/-3165"
             },
             "geometry": {
                 "type": "Point",
