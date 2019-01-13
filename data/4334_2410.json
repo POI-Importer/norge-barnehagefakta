@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2475",
+            "id": "node/-2051",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
-                "contact:website": "http://www.solsikken.barnehage.no",
+                "contact:website": "http://solsikken-barnehage.no/index.html",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Solsikken-barnehage",
                 "no-barnehage:nsrid": "1020645",
                 "operator": "Solsikken-Barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2475"
+                "id": "node/-2051"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2449",
+            "id": "node/-2031",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ilebrekke barnehage",
+                "no-barnehage:nsrid": "1017866",
+                "operator": "Tønsberg kommune",
+                "operator:type": "public",
+                "id": "node/-2031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.476,
+                    59.2915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2020",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1021999",
                 "operator": "Brekke Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2449"
+                "id": "node/-2020"
             },
             "geometry": {
                 "type": "Point",

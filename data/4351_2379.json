@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-707",
+            "id": "node/-574",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Åpen barnehage",
                 "no-barnehage:nsrid": "1025539",
                 "operator": "Sørum kommune",
                 "operator:type": "public",
-                "id": "node/-707"
+                "id": "node/-574"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-705",
+            "id": "node/-572",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "110",
@@ -32,57 +32,13 @@
                 "no-barnehage:nsrid": "1017050",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-705"
+                "id": "node/-572"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.2345,
                     59.9807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-701",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "49",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sennerud FUS barnehage",
-                "no-barnehage:nsrid": "1015954",
-                "operator": "Sennerud Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-701"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.2468,
-                    59.9778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-696",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "123",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Idrettsparken barnehage",
-                "no-barnehage:nsrid": "1017357",
-                "operator": "Sørum kommune",
-                "operator:type": "public",
-                "id": "node/-696"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.2338,
-                    59.9845
                 ]
             }
         }

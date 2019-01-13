@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-111",
+            "id": "node/-93",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1017355",
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
-                "id": "node/-111"
+                "id": "node/-93"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-102",
+            "id": "node/-87",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1017508",
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
-                "id": "node/-102"
+                "id": "node/-87"
             },
             "geometry": {
                 "type": "Point",
@@ -49,30 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-100",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "88",
-                "contact:website": "http://www.snarveienbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Snarveien FUS barnehage",
-                "no-barnehage:nsrid": "1021131",
-                "operator": "Snarveien Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-100"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.08786,
-                    59.27989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-83",
+            "id": "node/-71",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -82,7 +59,7 @@
                 "no-barnehage:nsrid": "1017036",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-83"
+                "id": "node/-71"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-79",
+            "id": "node/-67",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -104,74 +81,7 @@
                 "no-barnehage:nsrid": "1021248",
                 "operator": "Grotterødløkka AS",
                 "operator:type": "private",
-                "id": "node/-79"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.10006,
-                    59.27952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-78",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
-                "contact:website": "http://www.sarpsborg.com/barn-og-skole/barnehage/fritznerbakken-barnehage/#/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Fritznerbakken barnehage",
-                "no-barnehage:nsrid": "1017507",
-                "operator": "Sarpsborg kommune",
-                "operator:type": "public",
-                "id": "node/-78"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.1147,
-                    59.2874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-74",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bikuben barnehage",
-                "no-barnehage:nsrid": "1022436",
-                "operator": "Bikuben barnehage AS",
-                "operator:type": "private",
-                "id": "node/-74"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.0897,
-                    59.27299
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-69",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Askeladden barnehage Borg avd. Storgata",
-                "no-barnehage:nsrid": "1021225",
-                "operator": "Askeladden barnehage Borg AS",
-                "operator:type": "private",
-                "id": "node/-69"
+                "id": "node/-67"
             },
             "geometry": {
                 "type": "Point",
@@ -186,6 +96,74 @@
             "id": "node/-66",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:website": "http://www.sarpsborg.com/barn-og-skole/barnehage/fritznerbakken-barnehage/#/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fritznerbakken barnehage",
+                "no-barnehage:nsrid": "1017507",
+                "operator": "Sarpsborg kommune",
+                "operator:type": "public",
+                "id": "node/-66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1147,
+                    59.2874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-62",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://bikuben.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bikuben barnehage",
+                "no-barnehage:nsrid": "1022436",
+                "operator": "Bikuben barnehage AS",
+                "operator:type": "private",
+                "id": "node/-62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0897,
+                    59.27299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-59",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Askeladden barnehage Borg avd. Storgata",
+                "no-barnehage:nsrid": "1021225",
+                "operator": "Askeladden barnehage Borg AS",
+                "operator:type": "private",
+                "id": "node/-59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.10006,
+                    59.27952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-57",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "38",
                 "max_age": "5",
                 "min_age": "1",
@@ -193,7 +171,7 @@
                 "no-barnehage:nsrid": "1025490",
                 "operator": "Askeladden barnehage Borg AS",
                 "operator:type": "private",
-                "id": "node/-66"
+                "id": "node/-57"
             },
             "geometry": {
                 "type": "Point",
