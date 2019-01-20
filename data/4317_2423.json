@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2338",
+            "id": "node/-2747",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -13,13 +13,32 @@
                 "no-barnehage:nsrid": "1018041",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2338"
+                "id": "node/-2747"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.72885,
                     59.0108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2745",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Krogshavn Holding",
+                "no-barnehage:nsrid": "2000367",
+                "operator": "Krogshavn Holding AS",
+                "operator:type": "private",
+                "id": "node/-2745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.729201,
+                    59.00761
                 ]
             }
         }

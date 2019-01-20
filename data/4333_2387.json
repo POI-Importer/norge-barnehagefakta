@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-542",
+            "id": "node/-670",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:website": "http://www.asker.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åby barnehage",
+                "no-barnehage:nsrid": "1015996",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "id": "node/-670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4564,
+                    59.8216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-669",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1025361",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-542"
+                "id": "node/-669"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-521",
+            "id": "node/-638",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -36,7 +59,7 @@
                 "no-barnehage:nsrid": "2000069",
                 "operator": "Barnehageporten AS",
                 "operator:type": "private",
-                "id": "node/-521"
+                "id": "node/-638"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-506",
+            "id": "node/-617",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "110",
@@ -59,7 +82,7 @@
                 "no-barnehage:nsrid": "1020898",
                 "operator": "Espira Gullhella AS",
                 "operator:type": "private",
-                "id": "node/-506"
+                "id": "node/-617"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-499",
+            "id": "node/-610",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -82,7 +105,7 @@
                 "no-barnehage:nsrid": "1013215",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-499"
+                "id": "node/-610"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +117,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-497",
+            "id": "node/-604",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -105,7 +128,7 @@
                 "no-barnehage:nsrid": "1019863",
                 "operator": "As Barnas Hus Gullhella",
                 "operator:type": "private",
-                "id": "node/-497"
+                "id": "node/-604"
             },
             "geometry": {
                 "type": "Point",

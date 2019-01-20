@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-772",
+            "id": "node/-962",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:website": "http://www.veslebrunen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øvre Romerike Steinerbarnehage Veslebrunen",
+                "no-barnehage:nsrid": "1020666",
+                "operator": "Øvre Romerike Steinerbarnehage Veslebrunen",
+                "operator:type": "private",
+                "id": "node/-962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16127,
+                    60.29184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-946",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1016936",
                 "operator": "Eidsvoll kommune",
                 "operator:type": "public",
-                "id": "node/-772"
+                "id": "node/-946"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-557",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "102",
+                "contact:website": "http://reddiken.kanvas.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Reddiken Kanvas-barnehage",
+                "no-barnehage:nsrid": "1017683",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.474,
+                    59.9622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-517",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/lommedalen-barnehage/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lommedalen barnehage avd. Krydsby",
+                "no-barnehage:nsrid": "1012660",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4814,
+                    59.9553
+                ]
+            }
+        }
+    ]
+}

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-494",
+            "id": "node/-601",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1012678",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-494"
+                "id": "node/-601"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-491",
+            "id": "node/-596",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1026487",
                 "operator": "Vøyen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-491"
+                "id": "node/-596"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-433",
+            "id": "node/-577",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/stavi-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ståvi barnehage avd. Borkenhagen",
+                "no-barnehage:nsrid": "1012649",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4733,
+                    59.9068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-524",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -57,7 +80,7 @@
                 "no-barnehage:nsrid": "1020459",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-433"
+                "id": "node/-524"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +92,53 @@
         },
         {
             "type": "Feature",
-            "id": "node/-373",
+            "id": "node/-514",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.lillejong.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Lille-jong barnehage",
+                "no-barnehage:nsrid": "1020257",
+                "operator": "Lille-Jong barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49047,
+                    59.8915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-502",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:website": "http://www.kbfb.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirkerudbakken barnehage",
+                "no-barnehage:nsrid": "1019832",
+                "operator": "Kirkerudbakken Friluftsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47487,
+                    59.9065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-455",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -80,7 +149,7 @@
                 "no-barnehage:nsrid": "1013177",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-373"
+                "id": "node/-455"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +161,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-354",
+            "id": "node/-431",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -102,7 +171,7 @@
                 "no-barnehage:nsrid": "1014909",
                 "operator": "Arba AS",
                 "operator:type": "private",
-                "id": "node/-354"
+                "id": "node/-431"
             },
             "geometry": {
                 "type": "Point",

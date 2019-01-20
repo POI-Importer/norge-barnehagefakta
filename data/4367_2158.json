@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3023",
+            "id": "node/-3433",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013643",
                 "operator": "Overhalla kommune",
                 "operator:type": "public",
-                "id": "node/-3023"
+                "id": "node/-3433"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3021",
+            "id": "node/-3431",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1020440",
                 "operator": "Gammelstua Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3021"
+                "id": "node/-3431"
             },
             "geometry": {
                 "type": "Point",
@@ -47,14 +47,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3020",
+            "id": "node/-3430",
             "properties": {
                 "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
                 "name": "Barlia barnehage",
                 "no-barnehage:nsrid": "2000247",
                 "operator": "Overhalla kommune",
                 "operator:type": "public",
-                "id": "node/-3020"
+                "id": "node/-3430"
             },
             "geometry": {
                 "type": "Point",

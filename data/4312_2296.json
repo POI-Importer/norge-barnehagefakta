@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1617",
+            "id": "node/-1981",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1021983",
                 "operator": "Thoskogen Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1617"
+                "id": "node/-1981"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.510389,
                     61.77211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1975",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ottbragden barnehage",
+                "no-barnehage:nsrid": "1013932",
+                "operator": "Sel kommune",
+                "operator:type": "public",
+                "id": "node/-1975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53575,
+                    61.7668
                 ]
             }
         }

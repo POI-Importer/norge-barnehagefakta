@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-541",
+            "id": "node/-668",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "11",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015572",
                 "operator": "Asker Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-541"
+                "id": "node/-668"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-536",
+            "id": "node/-663",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1016668",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-536"
+                "id": "node/-663"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-530",
+            "id": "node/-656",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1020816",
                 "operator": "Stiftelsen Vollen Montessoribarnehage",
                 "operator:type": "private",
-                "id": "node/-530"
+                "id": "node/-656"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +70,53 @@
         },
         {
             "type": "Feature",
-            "id": "node/-505",
+            "id": "node/-648",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://nilsemarka.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nilsemarka barnehage",
+                "no-barnehage:nsrid": "1018479",
+                "operator": "Norlandia Barnehagene Ii AS",
+                "operator:type": "private",
+                "id": "node/-648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4806,
+                    59.8043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-644",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://www.nansentunet.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nansentunet musikkbarnehage",
+                "no-barnehage:nsrid": "1020737",
+                "operator": "Nansentunet Musikkbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49882,
+                    59.8014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-616",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -81,7 +127,7 @@
                 "no-barnehage:nsrid": "1022190",
                 "operator": "Espira Blakstad AS",
                 "operator:type": "private",
-                "id": "node/-505"
+                "id": "node/-616"
             },
             "geometry": {
                 "type": "Point",

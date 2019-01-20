@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1585",
+            "id": "node/-1943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "2000077",
                 "operator": "Nordby Gårdsbarnehage Biri AS",
                 "operator:type": "private",
-                "id": "node/-1585"
+                "id": "node/-1943"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.62135,
                     60.93963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1929",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Diseth FUS barnehage",
+                "no-barnehage:nsrid": "1021590",
+                "operator": "Diseth Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62558,
+                    60.95056
                 ]
             }
         }

@@ -3,7 +3,73 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-669",
+            "id": "node/-840",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Volla barnehage",
+                "no-barnehage:nsrid": "1016005",
+                "operator": "Skedsmo kommune",
+                "operator:type": "public",
+                "id": "node/-840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0456,
+                    59.9644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-833",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sølepytten barnehage",
+                "no-barnehage:nsrid": "1020746",
+                "operator": "Sølepytten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04693,
+                    59.95865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-824",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "193",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Riisløkka barnehage",
+                "no-barnehage:nsrid": "1016960",
+                "operator": "Skedsmo kommune",
+                "operator:type": "public",
+                "id": "node/-824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0475,
+                    59.975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-819",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,7 +79,7 @@
                 "no-barnehage:nsrid": "1016009",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-669"
+                "id": "node/-819"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-659",
+            "id": "node/-808",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "152",
@@ -35,7 +101,7 @@
                 "no-barnehage:nsrid": "1012681",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-659"
+                "id": "node/-808"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +113,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-653",
+            "id": "node/-802",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -57,13 +123,36 @@
                 "no-barnehage:nsrid": "1016435",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-653"
+                "id": "node/-802"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.0303,
                     59.9584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-801",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "133",
+                "contact:website": "http://kunnskapsbyen.espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Kunnskapsbyen barnehage",
+                "no-barnehage:nsrid": "1020394",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.03469,
+                    59.97683
                 ]
             }
         }

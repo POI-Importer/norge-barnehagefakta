@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-236",
+            "id": "node/-294",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://www.vestbynaturbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestby naturbarnehage avd. Son",
+                "no-barnehage:nsrid": "1017148",
+                "operator": "Bjørg Tveit Strøm",
+                "operator:type": "private",
+                "id": "node/-294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69787,
+                    59.52572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-280",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1017219",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-236"
+                "id": "node/-280"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-234",
+            "id": "node/-278",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -35,7 +58,7 @@
                 "no-barnehage:nsrid": "1017504",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-234"
+                "id": "node/-278"
             },
             "geometry": {
                 "type": "Point",

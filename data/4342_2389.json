@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-345",
+            "id": "node/-422",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1012768",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-345"
+                "id": "node/-422"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-342",
+            "id": "node/-419",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1017152",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-342"
+                "id": "node/-419"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-274",
+            "id": "node/-327",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1012843",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-274"
+                "id": "node/-327"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-273",
+            "id": "node/-326",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1020441",
                 "operator": "Vevelstadsaga barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-273"
+                "id": "node/-326"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-270",
+            "id": "node/-320",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -102,13 +102,35 @@
                 "no-barnehage:nsrid": "1012846",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-270"
+                "id": "node/-320"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.8287,
                     59.7573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-300",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bøleråsen barnehage",
+                "no-barnehage:nsrid": "1012845",
+                "operator": "Ski kommune",
+                "operator:type": "public",
+                "id": "node/-300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8535,
+                    59.7653
                 ]
             }
         }

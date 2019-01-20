@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1435",
+            "id": "node/-1792",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vesleparken barnehage",
+                "no-barnehage:nsrid": "1017562",
+                "operator": "Ringsaker kommune",
+                "operator:type": "public",
+                "id": "node/-1792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9363,
+                    60.8884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1773",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1020811",
                 "operator": "Kjerringhaugen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-1435"
+                "id": "node/-1773"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1423",
+            "id": "node/-1760",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1020042",
                 "operator": "Bjørkebo barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1423"
+                "id": "node/-1760"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1422",
+            "id": "node/-1759",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -57,7 +79,7 @@
                 "no-barnehage:nsrid": "1018461",
                 "operator": "Ringsaker kommune",
                 "operator:type": "public",
-                "id": "node/-1422"
+                "id": "node/-1759"
             },
             "geometry": {
                 "type": "Point",

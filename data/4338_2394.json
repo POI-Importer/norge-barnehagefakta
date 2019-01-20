@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-304",
+            "id": "node/-367",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "94",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ullerud barnehage",
+                "no-barnehage:nsrid": "1017526",
+                "operator": "Frogn kommune",
+                "operator:type": "public",
+                "id": "node/-367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6418,
+                    59.6676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-366",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013919",
                 "operator": "Frogn kommune",
                 "operator:type": "public",
-                "id": "node/-304"
+                "id": "node/-366"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-303",
+            "id": "node/-365",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1020333",
                 "operator": "Tertitten barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-303"
+                "id": "node/-365"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-300",
+            "id": "node/-362",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1019855",
                 "operator": "Lindebakken barnehage",
                 "operator:type": "private",
-                "id": "node/-300"
+                "id": "node/-362"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-298",
+            "id": "node/-359",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -80,7 +102,7 @@
                 "no-barnehage:nsrid": "1020276",
                 "operator": "Sogstieika barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-298"
+                "id": "node/-359"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-296",
+            "id": "node/-357",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "88",
@@ -102,7 +124,7 @@
                 "no-barnehage:nsrid": "1015473",
                 "operator": "Frogn kommune",
                 "operator:type": "public",
-                "id": "node/-296"
+                "id": "node/-357"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-295",
+            "id": "node/-355",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -124,13 +146,36 @@
                 "no-barnehage:nsrid": "1020859",
                 "operator": "Drøbak Montessori Stiftelse",
                 "operator:type": "private",
-                "id": "node/-295"
+                "id": "node/-355"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.63497,
                     59.66306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-353",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:website": "http://bjerkeveien.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkeveien barnehage",
+                "no-barnehage:nsrid": "1021095",
+                "operator": "Bjerkeveien barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64351,
+                    59.65771
                 ]
             }
         }

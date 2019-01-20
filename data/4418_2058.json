@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4965",
+            "id": "node/-5378",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013666",
                 "operator": "Rana kommune",
                 "operator:type": "public",
-                "id": "node/-4965"
+                "id": "node/-5378"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4961",
+            "id": "node/-5374",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1014753",
                 "operator": "Rana kommune",
                 "operator:type": "public",
-                "id": "node/-4961"
+                "id": "node/-5374"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4957",
+            "id": "node/-5371",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Frikultbarnehagen Ytteren",
+                "no-barnehage:nsrid": "2000344",
+                "operator": "Frikultbarnehagen AS",
+                "operator:type": "private",
+                "id": "node/-5371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17098,
+                    66.32898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5369",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -57,7 +76,7 @@
                 "no-barnehage:nsrid": "1019830",
                 "operator": "Engveien barnehage",
                 "operator:type": "private",
-                "id": "node/-4957"
+                "id": "node/-5369"
             },
             "geometry": {
                 "type": "Point",

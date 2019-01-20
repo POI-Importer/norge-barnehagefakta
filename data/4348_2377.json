@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-573",
+            "id": "node/-707",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013455",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-573"
+                "id": "node/-707"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-566",
+            "id": "node/-696",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1021710",
                 "operator": "Hoppensprett AS",
                 "operator:type": "private",
-                "id": "node/-566"
+                "id": "node/-696"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-562",
+            "id": "node/-695",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frogner barnehage",
+                "no-barnehage:nsrid": "1017532",
+                "operator": "Sørum kommune",
+                "operator:type": "public",
+                "id": "node/-695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1096,
+                    60.024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-691",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1020769",
                 "operator": "Brusletta barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-562"
+                "id": "node/-691"
             },
             "geometry": {
                 "type": "Point",

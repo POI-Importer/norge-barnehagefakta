@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-19",
+            "id": "node/-23",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1019506",
                 "operator": "Menighetspleiens barnehage",
                 "operator:type": "private",
-                "id": "node/-19"
+                "id": "node/-23"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-10",
+            "id": "node/-22",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Maurtua åpen barnehage",
+                "no-barnehage:nsrid": "1017647",
+                "operator": "Halden kommune",
+                "operator:type": "public",
+                "id": "node/-22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3864,
+                    59.1253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-13",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -35,7 +54,7 @@
                 "no-barnehage:nsrid": "1020758",
                 "operator": "Harekas barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-10"
+                "id": "node/-13"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-9",
+            "id": "node/-11",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -57,7 +76,7 @@
                 "no-barnehage:nsrid": "1020143",
                 "operator": "Festningsgata Menighets- barnehage",
                 "operator:type": "private",
-                "id": "node/-9"
+                "id": "node/-11"
             },
             "geometry": {
                 "type": "Point",

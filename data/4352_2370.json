@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-892",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hoppensprett avd. Nordkisa",
+                "no-barnehage:nsrid": "1013034",
+                "operator": "Hoppensprett AS",
+                "operator:type": "private",
+                "id": "node/-892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2636,
+                    60.1889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-890",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hauerseter friluftsbarnehage",
+                "no-barnehage:nsrid": "1016975",
+                "operator": "Ulna AS",
+                "operator:type": "private",
+                "id": "node/-890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2652,
+                    60.1756
+                ]
+            }
+        }
+    ]
+}

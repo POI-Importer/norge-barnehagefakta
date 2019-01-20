@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-73",
+            "id": "node/-85",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019772",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-73"
+                "id": "node/-85"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-61",
+            "id": "node/-72",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -36,13 +36,35 @@
                 "no-barnehage:nsrid": "1025948",
                 "operator": "Baneveien barnehage AS",
                 "operator:type": "private",
-                "id": "node/-61"
+                "id": "node/-72"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.13251,
                     59.27433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-71",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Baneveien barnehage avd. Baneveien",
+                "no-barnehage:nsrid": "1021767",
+                "operator": "Baneveien barnehage AS",
+                "operator:type": "private",
+                "id": "node/-71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14546,
+                    59.26706
                 ]
             }
         }

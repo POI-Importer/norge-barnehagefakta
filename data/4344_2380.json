@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1361",
+            "id": "node/-1688",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestlitoppen barnehage",
+                "no-barnehage:nsrid": "1017462",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9301,
+                    59.973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1687",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestlisvingen barnehage",
+                "no-barnehage:nsrid": "1017461",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.926,
+                    59.9686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1686",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1017320",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1361"
+                "id": "node/-1686"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1360",
+            "id": "node/-1685",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -36,7 +80,7 @@
                 "no-barnehage:nsrid": "1021517",
                 "operator": "Vestliskaret Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1360"
+                "id": "node/-1685"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1359",
+            "id": "node/-1684",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -58,7 +102,7 @@
                 "no-barnehage:nsrid": "1017268",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1359"
+                "id": "node/-1684"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1358",
+            "id": "node/-1683",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -80,7 +124,7 @@
                 "no-barnehage:nsrid": "1017460",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1358"
+                "id": "node/-1683"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1356",
+            "id": "node/-1681",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -102,7 +146,7 @@
                 "no-barnehage:nsrid": "1017458",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1356"
+                "id": "node/-1681"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +158,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1318",
+            "id": "node/-1629",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -124,7 +168,7 @@
                 "no-barnehage:nsrid": "1017455",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1318"
+                "id": "node/-1629"
             },
             "geometry": {
                 "type": "Point",
@@ -136,39 +180,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1290",
+            "id": "node/-1628",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "54",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stovnerhøgda barnehage",
-                "no-barnehage:nsrid": "1017452",
+                "name": "Tokerudtoppen barnehage",
+                "no-barnehage:nsrid": "1017454",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1290"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9312,
-                    59.9611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1289",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "99",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Stovnerbakken barnehage",
-                "no-barnehage:nsrid": "1017451",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "id": "node/-1289"
+                "id": "node/-1628"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +202,51 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1210",
+            "id": "node/-1590",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stovnerhøgda barnehage",
+                "no-barnehage:nsrid": "1017452",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9312,
+                    59.9611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1589",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "99",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stovnerbakken barnehage",
+                "no-barnehage:nsrid": "1017451",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9281,
+                    59.9635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1492",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -190,7 +256,7 @@
                 "no-barnehage:nsrid": "1017445",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1210"
+                "id": "node/-1492"
             },
             "geometry": {
                 "type": "Point",
@@ -202,14 +268,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1166",
+            "id": "node/-1432",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Nedre Fossum gård åpen barnehage",
                 "no-barnehage:nsrid": "1013203",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1166"
+                "id": "node/-1432"
             },
             "geometry": {
                 "type": "Point",
@@ -221,7 +287,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1165",
+            "id": "node/-1431",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -231,7 +297,7 @@
                 "no-barnehage:nsrid": "1017936",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1165"
+                "id": "node/-1431"
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +309,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1081",
+            "id": "node/-1322",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -253,7 +319,7 @@
                 "no-barnehage:nsrid": "1017432",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1081"
+                "id": "node/-1322"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +331,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1035",
+            "id": "node/-1266",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -275,7 +341,7 @@
                 "no-barnehage:nsrid": "1013865",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1035"
+                "id": "node/-1266"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +353,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-959",
+            "id": "node/-1176",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -297,7 +363,7 @@
                 "no-barnehage:nsrid": "1017938",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-959"
+                "id": "node/-1176"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +375,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-922",
+            "id": "node/-1133",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -319,7 +385,7 @@
                 "no-barnehage:nsrid": "1017288",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-922"
+                "id": "node/-1133"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-91",
+            "id": "node/-110",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "contact:website": "http://tyrihansbhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tyrihans barnehage",
+                "no-barnehage:nsrid": "1020221",
+                "operator": "Tyrihans barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.03547,
+                    59.27712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-108",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1019985",
                 "operator": "Tuneskipet barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-91"
+                "id": "node/-108"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-90",
+            "id": "node/-107",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -36,7 +59,7 @@
                 "no-barnehage:nsrid": "1015445",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-90"
+                "id": "node/-107"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-88",
+            "id": "node/-105",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "107",
@@ -59,7 +82,7 @@
                 "no-barnehage:nsrid": "1017354",
                 "operator": "Sarpsborg kommune",
                 "operator:type": "public",
-                "id": "node/-88"
+                "id": "node/-105"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +94,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-74",
+            "id": "node/-87",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://laringsverkstedet.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Hinkenhopp",
+                "no-barnehage:nsrid": "1013013",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0425,
+                    59.2754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-86",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -82,7 +128,7 @@
                 "no-barnehage:nsrid": "1012601",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-74"
+                "id": "node/-86"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +140,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-69",
+            "id": "node/-81",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
@@ -104,7 +150,7 @@
                 "no-barnehage:nsrid": "1018467",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-69"
+                "id": "node/-81"
             },
             "geometry": {
                 "type": "Point",

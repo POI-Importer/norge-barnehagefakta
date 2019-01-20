@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-396",
+            "id": "node/-562",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.skarva-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skarva grendehus avd. barnehage",
+                "no-barnehage:nsrid": "1020048",
+                "operator": "Skarva barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49446,
+                    59.94567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-482",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1020166",
                 "operator": "Gulltoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-396"
+                "id": "node/-482"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-395",
+            "id": "node/-481",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -35,7 +58,7 @@
                 "no-barnehage:nsrid": "1012647",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-395"
+                "id": "node/-481"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-392",
+            "id": "node/-477",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -57,13 +80,35 @@
                 "no-barnehage:nsrid": "1020281",
                 "operator": "Grindaberget barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-392"
+                "id": "node/-477"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.49399,
                     59.94442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-439",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnelåven Janne Rosenlind",
+                "no-barnehage:nsrid": "1019785",
+                "operator": "Barnelåven Janne Rosenlind",
+                "operator:type": "private",
+                "id": "node/-439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47034,
+                    59.93407
                 ]
             }
         }

@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1462",
+            "id": "node/-1814",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "116",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Nerby",
+                "no-barnehage:nsrid": "1015933",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-1814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1946,
+                    60.7155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1807",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017569",
                 "operator": "Stange kommune",
                 "operator:type": "public",
-                "id": "node/-1462"
+                "id": "node/-1807"
             },
             "geometry": {
                 "type": "Point",

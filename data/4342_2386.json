@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1251",
+            "id": "node/-1542",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015622",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1251"
+                "id": "node/-1542"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,52 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1186",
+            "id": "node/-1476",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prinsdalsbråten barnehage",
+                "no-barnehage:nsrid": "1013835",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8117,
+                    59.8285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1475",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://prestasen.kanvas.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Preståsen Kanvas-barnehage",
+                "no-barnehage:nsrid": "1015482",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-1475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8396,
+                    59.8229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1456",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -35,7 +80,7 @@
                 "no-barnehage:nsrid": "1013834",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1186"
+                "id": "node/-1456"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1109",
+            "id": "node/-1362",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -57,7 +102,7 @@
                 "no-barnehage:nsrid": "1013830",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-1109"
+                "id": "node/-1362"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-872",
+            "id": "node/-1065",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -80,7 +125,7 @@
                 "no-barnehage:nsrid": "1020069",
                 "operator": "Christiania Barnehave Bjørndal AS",
                 "operator:type": "private",
-                "id": "node/-872"
+                "id": "node/-1065"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +137,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-850",
+            "id": "node/-1037",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -102,13 +147,35 @@
                 "no-barnehage:nsrid": "1019845",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-850"
+                "id": "node/-1037"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.82982,
                     59.84173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1036",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjørnåsen barnehage",
+                "no-barnehage:nsrid": "1013827",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-1036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.833,
+                    59.8307
                 ]
             }
         }

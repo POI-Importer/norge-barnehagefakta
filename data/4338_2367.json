@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1674",
+            "id": "node/-2052",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1021812",
                 "operator": "Myllatoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-1674"
+                "id": "node/-2052"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1668",
+            "id": "node/-2046",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -36,13 +36,35 @@
                 "no-barnehage:nsrid": "1022408",
                 "operator": "Grua barnehage Lene Nordberg",
                 "operator:type": "private",
-                "id": "node/-1668"
+                "id": "node/-2046"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.66339,
                     60.25959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2044",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gamleskolen barnehage",
+                "no-barnehage:nsrid": "1014770",
+                "operator": "Lunner kommune",
+                "operator:type": "public",
+                "id": "node/-2044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6634,
+                    60.2596
                 ]
             }
         }

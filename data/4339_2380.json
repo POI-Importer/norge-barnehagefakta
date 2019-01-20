@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1303",
+            "id": "node/-1608",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019704",
                 "operator": "Stiftelsen Svenstuen Barnehave",
                 "operator:type": "private",
-                "id": "node/-1303"
+                "id": "node/-1608"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1134",
+            "id": "node/-1395",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1013914",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-1134"
+                "id": "node/-1395"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-899",
+            "id": "node/-1242",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "contact:website": "http://humlenmontessori.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Humlen Montessori barnehage",
+                "no-barnehage:nsrid": "1020522",
+                "operator": "Humlen Montessori barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69087,
+                    59.96295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1103",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -58,7 +81,7 @@
                 "no-barnehage:nsrid": "1013867",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-899"
+                "id": "node/-1103"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-869",
+            "id": "node/-1062",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -81,13 +104,35 @@
                 "no-barnehage:nsrid": "1021923",
                 "operator": "Stiftelsen Casa Dei Bambini",
                 "operator:type": "private",
-                "id": "node/-869"
+                "id": "node/-1062"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.69313,
                     59.96374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1040",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåbærskogen barnehage",
+                "no-barnehage:nsrid": "1019708",
+                "operator": "Stiftelsen Blåbærskogen barnehage",
+                "operator:type": "private",
+                "id": "node/-1040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68414,
+                    59.96146
                 ]
             }
         }

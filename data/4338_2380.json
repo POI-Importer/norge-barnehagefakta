@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1164",
+            "id": "node/-1527",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skistua barnehage",
+                "no-barnehage:nsrid": "1014907",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-1527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6718,
+                    59.9643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1464",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://www.norlandia.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Onkel Tomm's Hytte",
+                "no-barnehage:nsrid": "1015720",
+                "operator": "Onkel Tomm'S Hytte AS",
+                "operator:type": "private",
+                "id": "node/-1464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6606,
+                    59.9657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1428",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -13,7 +58,7 @@
                 "no-barnehage:nsrid": "1013147",
                 "operator": "Tårnsvalen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1164"
+                "id": "node/-1428"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1137",
+            "id": "node/-1399",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -36,7 +81,7 @@
                 "no-barnehage:nsrid": "1013155",
                 "operator": "Montessoribarnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1137"
+                "id": "node/-1399"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1072",
+            "id": "node/-1312",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -58,7 +103,7 @@
                 "no-barnehage:nsrid": "1013849",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1072"
+                "id": "node/-1312"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +115,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-951",
+            "id": "node/-1288",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kongeørnen barnehage",
+                "no-barnehage:nsrid": "1022487",
+                "operator": "Tårnsvalen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67671,
+                    59.95985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1168",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -80,7 +147,7 @@
                 "no-barnehage:nsrid": "1013847",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-951"
+                "id": "node/-1168"
             },
             "geometry": {
                 "type": "Point",

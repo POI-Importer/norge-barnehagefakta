@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1963",
+            "id": "node/-2375",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1012686",
                 "operator": "Røyken kommune",
                 "operator:type": "public",
-                "id": "node/-1963"
+                "id": "node/-2375"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-540",
+            "id": "node/-667",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1022292",
                 "operator": "Vollen Kystkulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-540"
+                "id": "node/-667"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-533",
+            "id": "node/-659",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -59,13 +59,36 @@
                 "no-barnehage:nsrid": "1020287",
                 "operator": "Torp Høymyr barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-533"
+                "id": "node/-659"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.47098,
                     59.78732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-608",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://bjerkas.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkås barnehage",
+                "no-barnehage:nsrid": "1019925",
+                "operator": "Stiftelsen Bjerkås barnehage",
+                "operator:type": "private",
+                "id": "node/-608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48302,
+                    59.79262
                 ]
             }
         }

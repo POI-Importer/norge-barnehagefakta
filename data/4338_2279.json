@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1548",
+            "id": "node/-1913",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1017598",
                 "operator": "Alvdal kommune",
                 "operator:type": "public",
-                "id": "node/-1548"
+                "id": "node/-1913"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1547",
+            "id": "node/-1912",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:website": "http://www.sivil-sara.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sivil-saras Eventyr barnehage",
+                "no-barnehage:nsrid": "1021990",
+                "operator": "Sivil-Saras Eventyr barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63586,
+                    62.1086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1911",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -35,7 +58,7 @@
                 "no-barnehage:nsrid": "1025500",
                 "operator": "Alvdal kommune",
                 "operator:type": "public",
-                "id": "node/-1547"
+                "id": "node/-1911"
             },
             "geometry": {
                 "type": "Point",

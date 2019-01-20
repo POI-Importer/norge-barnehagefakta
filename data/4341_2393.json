@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-284",
+            "id": "node/-340",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1012874",
                 "operator": "Ås kommune",
                 "operator:type": "public",
-                "id": "node/-284"
+                "id": "node/-340"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.8071,
                     59.6678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-332",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frydenhaug barnehage",
+                "no-barnehage:nsrid": "1012873",
+                "operator": "Ås kommune",
+                "operator:type": "public",
+                "id": "node/-332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7806,
+                    59.6687
                 ]
             }
         }

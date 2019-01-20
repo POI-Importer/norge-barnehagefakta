@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-187",
+            "id": "node/-223",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "140",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1017352",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-187"
+                "id": "node/-223"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-179",
+            "id": "node/-216",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Solkollen Askim",
+                "no-barnehage:nsrid": "1016660",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1766,
+                    59.5907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-213",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "124",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "2000143",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-179"
+                "id": "node/-213"
             },
             "geometry": {
                 "type": "Point",
@@ -47,14 +69,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-178",
+            "id": "node/-212",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Askim kommune åpen barnehage",
                 "no-barnehage:nsrid": "1015585",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-178"
+                "id": "node/-212"
             },
             "geometry": {
                 "type": "Point",

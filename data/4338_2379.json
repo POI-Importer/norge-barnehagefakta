@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1366",
+            "id": "node/-1693",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015042",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1366"
+                "id": "node/-1693"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1335",
+            "id": "node/-1651",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1021256",
                 "operator": "Turi Sletners Barnehave AS",
                 "operator:type": "private",
-                "id": "node/-1335"
+                "id": "node/-1651"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1319",
+            "id": "node/-1631",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tommlekollen friluftsbarnehage",
+                "no-barnehage:nsrid": "1022298",
+                "operator": "Tommlekollen Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-1631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65318,
+                    59.98143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1630",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1022358",
                 "operator": "Tomm Murstad Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1319"
+                "id": "node/-1630"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1305",
+            "id": "node/-1610",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1019986",
                 "operator": "Søndre Dal Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1305"
+                "id": "node/-1610"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1277",
+            "id": "node/-1575",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1013837",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1277"
+                "id": "node/-1575"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1262",
+            "id": "node/-1557",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1020443",
                 "operator": "Solbakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1262"
+                "id": "node/-1557"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +70,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1155",
+            "id": "node/-1495",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "contact:website": "http://rudshogda.kanvas.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rudshøgda Kanvas-naturbarnehage",
+                "no-barnehage:nsrid": "1015479",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-1495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8254,
+                    59.8462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1419",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -80,7 +103,7 @@
                 "no-barnehage:nsrid": "1020506",
                 "operator": "Munkerudtoppen barnehage Hege Aas",
                 "operator:type": "private",
-                "id": "node/-1155"
+                "id": "node/-1419"
             },
             "geometry": {
                 "type": "Point",
@@ -92,14 +115,36 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1154",
+            "id": "node/-1418",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Munkerudsletta barnehage",
+                "no-barnehage:nsrid": "1017439",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8163,
+                    59.8532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1417",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Munkerud miljøbarnehage",
                 "no-barnehage:nsrid": "2000341",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1154"
+                "id": "node/-1417"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +156,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1152",
+            "id": "node/-1415",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -121,7 +166,7 @@
                 "no-barnehage:nsrid": "1017302",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1152"
+                "id": "node/-1415"
             },
             "geometry": {
                 "type": "Point",
@@ -133,7 +178,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1132",
+            "id": "node/-1393",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "232",
@@ -143,7 +188,7 @@
                 "no-barnehage:nsrid": "1017305",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1132"
+                "id": "node/-1393"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +200,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1088",
+            "id": "node/-1364",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:website": "http://laringsverkstedet.no/laringsverkstedet-mortensrud",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Mortensrud",
+                "no-barnehage:nsrid": "1025967",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-1364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82769,
+                    59.84564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1332",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -165,7 +233,7 @@
                 "no-barnehage:nsrid": "1013832",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1088"
+                "id": "node/-1332"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +245,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1033",
+            "id": "node/-1263",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -187,7 +255,7 @@
                 "no-barnehage:nsrid": "1015623",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1033"
+                "id": "node/-1263"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +267,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1026",
+            "id": "node/-1256",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -209,7 +277,7 @@
                 "no-barnehage:nsrid": "1013962",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1026"
+                "id": "node/-1256"
             },
             "geometry": {
                 "type": "Point",
@@ -221,7 +289,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-908",
+            "id": "node/-1116",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -231,7 +299,7 @@
                 "no-barnehage:nsrid": "1021465",
                 "operator": "Eventyrlia Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-908"
+                "id": "node/-1116"
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +311,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-848",
+            "id": "node/-1034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -253,7 +321,7 @@
                 "no-barnehage:nsrid": "1018404",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-848"
+                "id": "node/-1034"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +333,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-819",
+            "id": "node/-1004",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -275,7 +343,7 @@
                 "no-barnehage:nsrid": "1021272",
                 "operator": "Barn i Sentrum AS",
                 "operator:type": "private",
-                "id": "node/-819"
+                "id": "node/-1004"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3",
+            "id": "node/-8",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bollerød FUS barnehage",
+                "no-barnehage:nsrid": "1020028",
+                "operator": "Bollerød Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.43369,
+                    59.13366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014016",
                 "operator": "Tdm Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3"
+                "id": "node/-4"
             },
             "geometry": {
                 "type": "Point",

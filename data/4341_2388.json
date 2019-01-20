@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-334",
+            "id": "node/-405",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1012777",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-334"
+                "id": "node/-405"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.797,
                     59.7879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-401",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ekornrud barnehage",
+                "no-barnehage:nsrid": "1017731",
+                "operator": "Oppegård kommune",
+                "operator:type": "public",
+                "id": "node/-401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7963,
+                    59.789
                 ]
             }
         }

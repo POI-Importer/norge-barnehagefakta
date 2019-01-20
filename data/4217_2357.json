@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4023",
+            "id": "node/-4437",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1016483",
                 "operator": "Åsane Gårds- og Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4023"
+                "id": "node/-4437"
             },
             "geometry": {
                 "type": "Point",
@@ -25,36 +25,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4005",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ulvhøyen barnehage",
-                "no-barnehage:nsrid": "1016711",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4005"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.35819,
-                    60.4642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3990",
+            "id": "node/-4405",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Stjernen åpen barnehage",
                 "no-barnehage:nsrid": "1014216",
                 "operator": "Åsane Sokn",
                 "operator:type": "private",
-                "id": "node/-3990"
+                "id": "node/-4405"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +44,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3988",
+            "id": "node/-4403",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -77,7 +55,7 @@
                 "no-barnehage:nsrid": "1020478",
                 "operator": "Stiftelsen Selegrend barnehage",
                 "operator:type": "private",
-                "id": "node/-3988"
+                "id": "node/-4403"
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3962",
+            "id": "node/-4378",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -99,7 +77,7 @@
                 "no-barnehage:nsrid": "1016724",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3962"
+                "id": "node/-4378"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +89,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3911",
+            "id": "node/-4326",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "109",
@@ -121,7 +99,7 @@
                 "no-barnehage:nsrid": "1016695",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3911"
+                "id": "node/-4326"
             },
             "geometry": {
                 "type": "Point",
@@ -133,7 +111,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3881",
+            "id": "node/-4296",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -144,13 +122,35 @@
                 "no-barnehage:nsrid": "1022421",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3881"
+                "id": "node/-4296"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.319958,
                     60.46743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4244",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Flaktveit barnehage",
+                "no-barnehage:nsrid": "1016711",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35819,
+                    60.4642
                 ]
             }
         }
