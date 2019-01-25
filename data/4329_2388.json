@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2354",
+            "id": "node/-2373",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -13,7 +13,75 @@
                 "no-barnehage:nsrid": "1021436",
                 "operator": "Veslefrikk Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2354"
+                "id": "node/-2373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.26296,
+                    59.79379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2372",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://www.utsikten.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Utsikten barnehage",
+                "no-barnehage:nsrid": "1021214",
+                "operator": "Utsikten barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.279,
+                    59.79506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2361",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://www.lnl.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lier natur og Landbruks barnehage",
+                "no-barnehage:nsrid": "1020848",
+                "operator": "Lier Natur og Landbruks barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.26073,
+                    59.79126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2355",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "95",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hasselbakken FUS barnehage",
+                "no-barnehage:nsrid": "1021657",
+                "operator": "Hasselbakken Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2355"
             },
             "geometry": {
                 "type": "Point",
@@ -28,74 +96,6 @@
             "id": "node/-2353",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "71",
-                "contact:website": "http://www.utsikten.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Utsikten barnehage",
-                "no-barnehage:nsrid": "1021214",
-                "operator": "Utsikten barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-2353"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.279,
-                    59.79506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2342",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "54",
-                "contact:website": "http://www.lnl.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lier natur og Landbruks barnehage",
-                "no-barnehage:nsrid": "1020848",
-                "operator": "Lier Natur og Landbruks barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-2342"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.26073,
-                    59.79126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2336",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "95",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hasselbakken FUS barnehage",
-                "no-barnehage:nsrid": "1021657",
-                "operator": "Hasselbakken Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-2336"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.26296,
-                    59.79379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2334",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "35",
                 "max_age": "5",
                 "min_age": "1",
@@ -103,7 +103,7 @@
                 "no-barnehage:nsrid": "1016644",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-2334"
+                "id": "node/-2353"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +115,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2330",
+            "id": "node/-2349",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -126,7 +126,7 @@
                 "no-barnehage:nsrid": "1021228",
                 "operator": "Bakkeli barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2330"
+                "id": "node/-2349"
             },
             "geometry": {
                 "type": "Point",

@@ -3,6 +3,50 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-1938",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skårsetlia naturbarnehage",
+                "no-barnehage:nsrid": "1025331",
+                "operator": "Lillehammer kommune",
+                "operator:type": "public",
+                "id": "node/-1938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4706,
+                    61.1354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1927",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Holmejordet barnehage",
+                "no-barnehage:nsrid": "1017601",
+                "operator": "Lillehammer kommune",
+                "operator:type": "public",
+                "id": "node/-1927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4647,
+                    61.1282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-1923",
             "properties": {
                 "amenity": "kindergarten",
