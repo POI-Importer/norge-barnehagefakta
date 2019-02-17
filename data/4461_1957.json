@@ -3,17 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5452",
+            "id": "node/-5362",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "19",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Drag barnehage",
                 "no-barnehage:nsrid": "1013682",
                 "operator": "Tysfjord kommune",
                 "operator:type": "public",
-                "id": "node/-5452"
+                "id": "node/-5362"
             },
             "geometry": {
                 "type": "Point",
@@ -25,43 +25,24 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5451",
+            "id": "node/-5361",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "16",
                 "contact:website": "http://www.arran.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Árran Mánájgárdde",
+                "name": "Árran Mánájgárdde avd. barnehage",
                 "no-barnehage:nsrid": "1016045",
                 "operator": "Arran - Julevsame Guovdasj Lulesamisk Senter",
                 "operator:type": "private",
-                "id": "node/-5451"
+                "id": "node/-5361"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     16.0778,
                     68.0439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5450",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Àrran Mànàjgàrdde",
-                "no-barnehage:nsrid": "2000280",
-                "operator": "Árran Mánájgárdde AS",
-                "operator:type": "private",
-                "id": "node/-5450"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.08313,
-                    68.04783
                 ]
             }
         }

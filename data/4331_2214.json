@@ -3,17 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3091",
+            "id": "node/-3035",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "61",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Valset barnehage",
                 "no-barnehage:nsrid": "1016863",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3091"
+                "id": "node/-3035"
             },
             "geometry": {
                 "type": "Point",
@@ -25,14 +25,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3068",
+            "id": "node/-3012",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Sverrestunet åpen barnehage",
                 "no-barnehage:nsrid": "1019614",
                 "operator": "Trøndelag Folkemuseum Stiftelse",
                 "operator:type": "private",
-                "id": "node/-3068"
+                "id": "node/-3012"
             },
             "geometry": {
                 "type": "Point",
@@ -44,17 +44,39 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2993",
+            "id": "node/-3011",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "39",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sverresborg barnehage",
+                "no-barnehage:nsrid": "1024556",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36305,
+                    63.41874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2937",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Møllebakken barnehage",
                 "no-barnehage:nsrid": "1018217",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2993"
+                "id": "node/-2937"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2991",
+            "id": "node/-2935",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://www.musikkmanesjen.no",
@@ -74,7 +96,7 @@
                 "no-barnehage:nsrid": "1021564",
                 "operator": "Kulset Musikkmanesjen",
                 "operator:type": "private",
-                "id": "node/-2991"
+                "id": "node/-2935"
             },
             "geometry": {
                 "type": "Point",
@@ -86,10 +108,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2977",
+            "id": "node/-2922",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "95",
+                "capacity": "99",
                 "contact:website": "http://laringsverkstedet.no/barnehage/hammersborg",
                 "max_age": "5",
                 "min_age": "1",
@@ -97,7 +119,7 @@
                 "no-barnehage:nsrid": "1015117",
                 "operator": "Læringsverkstedet Hammersborg AS",
                 "operator:type": "private",
-                "id": "node/-2977"
+                "id": "node/-2922"
             },
             "geometry": {
                 "type": "Point",
@@ -109,7 +131,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2944",
+            "id": "node/-2889",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -119,7 +141,7 @@
                 "no-barnehage:nsrid": "1020517",
                 "operator": "Julius barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2944"
+                "id": "node/-2889"
             },
             "geometry": {
                 "type": "Point",
@@ -131,17 +153,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2938",
+            "id": "node/-2883",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ila barnehage",
                 "no-barnehage:nsrid": "1016912",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2938"
+                "id": "node/-2883"
             },
             "geometry": {
                 "type": "Point",
@@ -153,10 +175,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2931",
+            "id": "node/-2876",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "12",
+                "capacity": "16",
                 "contact:website": "http://www.sverresborgallebarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -164,7 +186,7 @@
                 "no-barnehage:nsrid": "1021701",
                 "operator": "Hila Drift AS",
                 "operator:type": "private",
-                "id": "node/-2931"
+                "id": "node/-2876"
             },
             "geometry": {
                 "type": "Point",
@@ -176,17 +198,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2906",
+            "id": "node/-2851",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "70",
+                "capacity": "69",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ferista friluftsbarnehage",
                 "no-barnehage:nsrid": "1017801",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2906"
+                "id": "node/-2851"
             },
             "geometry": {
                 "type": "Point",
@@ -198,17 +220,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2896",
+            "id": "node/-2841",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "28",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Byåsen Tospråklige barnehage avd. Kaptein Roosens Vei",
                 "no-barnehage:nsrid": "1022020",
                 "operator": "Byåsen Tospråklige barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2896"
+                "id": "node/-2841"
             },
             "geometry": {
                 "type": "Point",

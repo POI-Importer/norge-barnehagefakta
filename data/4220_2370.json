@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4578",
+            "id": "node/-4503",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://kfuk-kfum.no/om-oss/nyheter/krets/os-aapen-barnehage",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1014083",
                 "operator": "Norges Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-4578"
+                "id": "node/-4503"
             },
             "geometry": {
                 "type": "Point",
@@ -23,17 +23,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4577",
+            "id": "node/-4502",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "120",
+                "capacity": "145",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Os barnehage",
                 "no-barnehage:nsrid": "1018117",
                 "operator": "Os kommune",
                 "operator:type": "public",
-                "id": "node/-4577"
+                "id": "node/-4502"
             },
             "geometry": {
                 "type": "Point",
@@ -45,10 +45,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4574",
+            "id": "node/-4500",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "34",
+                "capacity": "107",
+                "contact:website": "http://laringsverkstedet.no/barnehage/kuvagen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Kuvågen",
+                "no-barnehage:nsrid": "1021094",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453372,
+                    60.17631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4496",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
                 "contact:website": "http://www.flaatennaturbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -56,7 +79,7 @@
                 "no-barnehage:nsrid": "1022167",
                 "operator": "Flåten Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4574"
+                "id": "node/-4496"
             },
             "geometry": {
                 "type": "Point",

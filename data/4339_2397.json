@@ -3,17 +3,40 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-286",
+            "id": "node/-292",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "11",
+                "contact:website": "http://www.vestbynaturbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestby naturbarnehage avd. Johnsrudhuset Pepperstad",
+                "no-barnehage:nsrid": "1015932",
+                "operator": "Bjørg Tveit Strøm",
+                "operator:type": "private",
+                "id": "node/-292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71082,
+                    59.59276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-285",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Risil barnehage",
                 "no-barnehage:nsrid": "1018482",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-286"
+                "id": "node/-285"
             },
             "geometry": {
                 "type": "Point",
@@ -25,17 +48,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-285",
+            "id": "node/-284",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "80",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Pepperstadmarka barnehage",
                 "no-barnehage:nsrid": "1017523",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-285"
+                "id": "node/-284"
             },
             "geometry": {
                 "type": "Point",

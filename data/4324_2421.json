@@ -3,29 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2595",
+            "id": "node/-2550",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "20",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ulåsen barnehage",
-                "no-barnehage:nsrid": "1012810",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "id": "node/-2595"
+                "name": "Villa-kulla barnehage Hilde Saga",
+                "no-barnehage:nsrid": "1020638",
+                "operator": "Villa-Kulla barnehage Hilde Saga",
+                "operator:type": "private",
+                "id": "node/-2550"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0526,
-                    59.0551
+                    10.01959,
+                    59.05927
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2592",
+            "id": "node/-2544",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1016848",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2592"
+                "id": "node/-2544"
             },
             "geometry": {
                 "type": "Point",
@@ -47,36 +47,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2590",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Thor Heyerdahl barnehage",
-                "no-barnehage:nsrid": "1013115",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "id": "node/-2590"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.0413,
-                    59.061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2578",
+            "id": "node/-2534",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Mesterfjellet åpen barnehage",
                 "no-barnehage:nsrid": "1026166",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2578"
+                "id": "node/-2534"
             },
             "geometry": {
                 "type": "Point",
@@ -88,17 +66,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2573",
+            "id": "node/-2529",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jegersborg barnehage",
                 "no-barnehage:nsrid": "1012806",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2573"
+                "id": "node/-2529"
             },
             "geometry": {
                 "type": "Point",
@@ -110,17 +88,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2564",
+            "id": "node/-2521",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "25",
+                "capacity": "24",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hakkebakkeskogen barnehage",
                 "no-barnehage:nsrid": "1019714",
                 "operator": "Hakkebakkeskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2564"
+                "id": "node/-2521"
             },
             "geometry": {
                 "type": "Point",
@@ -132,7 +110,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2563",
+            "id": "node/-2520",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -142,7 +120,7 @@
                 "no-barnehage:nsrid": "1015952",
                 "operator": "Fritzøe Gård Aktiv AS",
                 "operator:type": "private",
-                "id": "node/-2563"
+                "id": "node/-2520"
             },
             "geometry": {
                 "type": "Point",
@@ -154,17 +132,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2559",
+            "id": "node/-2516",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "64",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gapatrosten barnehage",
                 "no-barnehage:nsrid": "1020429",
                 "operator": "Gapatrosten barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2559"
+                "id": "node/-2516"
             },
             "geometry": {
                 "type": "Point",
@@ -176,14 +154,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2558",
+            "id": "node/-2515",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Fagerli åpen barnehage",
                 "no-barnehage:nsrid": "1016468",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2558"
+                "id": "node/-2515"
             },
             "geometry": {
                 "type": "Point",
@@ -195,17 +173,39 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2555",
+            "id": "node/-2512",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "137",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Byskogen barnehage",
+                "no-barnehage:nsrid": "2000208",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0561,
+                    59.05522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2511",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Borgejordet barnehage",
                 "no-barnehage:nsrid": "1012807",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2555"
+                "id": "node/-2511"
             },
             "geometry": {
                 "type": "Point",
@@ -217,17 +217,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2552",
+            "id": "node/-2508",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "24",
+                "capacity": "25",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bakkebygrenda barnehage",
                 "no-barnehage:nsrid": "1019799",
                 "operator": "Bakkebygrenda barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2552"
+                "id": "node/-2508"
             },
             "geometry": {
                 "type": "Point",

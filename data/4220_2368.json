@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4576",
+            "id": "node/-4501",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "94",
                 "contact:website": "http://www.nottelitenbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -14,13 +14,35 @@
                 "no-barnehage:nsrid": "1020607",
                 "operator": "Stiftelsen Nøtteliten barnehage",
                 "operator:type": "private",
-                "id": "node/-4576"
+                "id": "node/-4501"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.451001,
                     60.23799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4498",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hjellemarka FUS barnehage",
+                "no-barnehage:nsrid": "1021738",
+                "operator": "Hjellemarka Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.451848,
+                    60.23733
                 ]
             }
         }

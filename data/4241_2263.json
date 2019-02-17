@@ -3,10 +3,10 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4929",
+            "id": "node/-4848",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "38",
+                "capacity": "41",
                 "contact:website": "http://www.puskhola.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019918",
                 "operator": "Puskhola barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4929"
+                "id": "node/-4848"
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +26,10 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4925",
+            "id": "node/-4844",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
                 "contact:website": "http://laringsverkstedet.no/barnehage/blindheim",
                 "max_age": "5",
                 "min_age": "1",
@@ -37,32 +37,13 @@
                 "no-barnehage:nsrid": "1020288",
                 "operator": "Blindheim barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4925"
+                "id": "node/-4844"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.386357,
                     62.44074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4918",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Krikane barnehage avd. Ålesund",
-                "no-barnehage:nsrid": "2000309",
-                "operator": "Kbh 2 AS",
-                "operator:type": "private",
-                "id": "node/-4918"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.382772,
-                    62.44252
                 ]
             }
         }
