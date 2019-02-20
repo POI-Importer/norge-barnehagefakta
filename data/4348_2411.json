@@ -162,29 +162,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-68",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "79",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Askeladden barnehage Borg avd. Albert Moeskausvei 23/25",
-                "no-barnehage:nsrid": "1021225",
-                "operator": "Askeladden barnehage Borg AS",
-                "operator:type": "private",
-                "id": "node/-68"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.10006,
-                    59.27952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-65",
+            "id": "node/-66",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -194,13 +172,35 @@
                 "no-barnehage:nsrid": "1025490",
                 "operator": "Askeladden barnehage Borg AS",
                 "operator:type": "private",
-                "id": "node/-65"
+                "id": "node/-66"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.11164,
                     59.28714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-64",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Askeladden barnehage Borg avd. Albert Moeskausvei 23/25",
+                "no-barnehage:nsrid": "1021225",
+                "operator": "Askeladden barnehage Borg AS",
+                "operator:type": "private",
+                "id": "node/-64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.10006,
+                    59.27952
                 ]
             }
         }
