@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3646",
+            "id": "node/-4366",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ulsmåg barnehage",
+                "no-barnehage:nsrid": "1016697",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37257,
+                    60.3123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4325",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1016321",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3646"
+                "id": "node/-4325"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3630",
+            "id": "node/-4309",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1019615",
                 "operator": "Nesttun Indremisjon",
                 "operator:type": "private",
-                "id": "node/-3630"
+                "id": "node/-4309"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3617",
+            "id": "node/-4296",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1021176",
                 "operator": "Midtunbråtet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3617"
+                "id": "node/-4296"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3500",
+            "id": "node/-4179",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "160",
@@ -81,7 +103,7 @@
                 "no-barnehage:nsrid": "1021561",
                 "operator": "Espira Solknatten AS",
                 "operator:type": "private",
-                "id": "node/-3500"
+                "id": "node/-4179"
             },
             "geometry": {
                 "type": "Point",

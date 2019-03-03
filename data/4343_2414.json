@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-143",
+            "id": "node/-176",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trondalen barnehage",
+                "no-barnehage:nsrid": "1016220",
+                "operator": "Samvirkebarnehagene Sa",
+                "operator:type": "private",
+                "id": "node/-176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883,
+                    59.2156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-161",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1021196",
                 "operator": "Skala barnehage AS",
                 "operator:type": "private",
-                "id": "node/-143"
+                "id": "node/-161"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-133",
+            "id": "node/-151",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1015570",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-133"
+                "id": "node/-151"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-131",
+            "id": "node/-149",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1016064",
                 "operator": "Naturbarna AS",
                 "operator:type": "private",
-                "id": "node/-131"
+                "id": "node/-149"
             },
             "geometry": {
                 "type": "Point",

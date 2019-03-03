@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3041",
+            "id": "node/-3637",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:website": "http://www2.lindesnes.kommune.no/vigmostad-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vigmostad barnehage",
+                "no-barnehage:nsrid": "1015692",
+                "operator": "Lindesnes kommune",
+                "operator:type": "public",
+                "id": "node/-3637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.30332,
+                    58.1171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3634",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1013351",
                 "operator": "Lindesnes kommune",
                 "operator:type": "public",
-                "id": "node/-3041"
+                "id": "node/-3634"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1613",
+            "id": "node/-1937",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollhaugen barnehage",
+                "no-barnehage:nsrid": "1019631",
+                "operator": "Trollhaugen Barnehagestiftelse",
+                "operator:type": "private",
+                "id": "node/-1937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68427,
+                    60.79782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1935",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:website": "http://www.tongjordet.bhg.gjovik.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tongjordet barnehage",
+                "no-barnehage:nsrid": "1016647",
+                "operator": "Gjøvik kommune",
+                "operator:type": "public",
+                "id": "node/-1935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6883,
+                    60.7893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1931",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -14,7 +59,7 @@
                 "no-barnehage:nsrid": "1015500",
                 "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
                 "operator:type": "private",
-                "id": "node/-1613"
+                "id": "node/-1931"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1600",
+            "id": "node/-1918",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "110",
@@ -36,7 +81,7 @@
                 "no-barnehage:nsrid": "1025501",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1600"
+                "id": "node/-1918"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1599",
+            "id": "node/-1917",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -59,7 +104,7 @@
                 "no-barnehage:nsrid": "1021627",
                 "operator": "Stiftelsen Fredvika Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-1599"
+                "id": "node/-1917"
             },
             "geometry": {
                 "type": "Point",

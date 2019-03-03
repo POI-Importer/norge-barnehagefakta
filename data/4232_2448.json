@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3074",
+            "id": "node/-3675",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1019778",
+                "operator": "Varden barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.998566,
+                    58.43188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3671",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018081",
                 "operator": "Eigersund kommune",
                 "operator:type": "public",
-                "id": "node/-3074"
+                "id": "node/-3671"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3072",
+            "id": "node/-3669",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1020730",
                 "operator": "Lykkeliten Sa",
                 "operator:type": "private",
-                "id": "node/-3072"
+                "id": "node/-3669"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3071",
+            "id": "node/-3668",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1021537",
                 "operator": "Kiellandskogen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3071"
+                "id": "node/-3668"
             },
             "geometry": {
                 "type": "Point",

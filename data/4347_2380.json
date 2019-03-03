@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-672",
+            "id": "node/-830",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Volla barnehage",
+                "no-barnehage:nsrid": "1016005",
+                "operator": "Skedsmo kommune",
+                "operator:type": "public",
+                "id": "node/-830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0456,
+                    59.9644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-823",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sølepytten barnehage",
+                "no-barnehage:nsrid": "1020746",
+                "operator": "Sølepytten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04693,
+                    59.95865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-814",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "216",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1016960",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-672"
+                "id": "node/-814"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-668",
+            "id": "node/-810",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -35,7 +79,7 @@
                 "no-barnehage:nsrid": "1016009",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-668"
+                "id": "node/-810"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-657",
+            "id": "node/-799",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "146",
@@ -57,7 +101,7 @@
                 "no-barnehage:nsrid": "1012681",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-657"
+                "id": "node/-799"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +113,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-651",
+            "id": "node/-793",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -79,7 +123,7 @@
                 "no-barnehage:nsrid": "1016435",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-651"
+                "id": "node/-793"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +135,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-650",
+            "id": "node/-792",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "133",
@@ -102,7 +146,7 @@
                 "no-barnehage:nsrid": "1020394",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-650"
+                "id": "node/-792"
             },
             "geometry": {
                 "type": "Point",

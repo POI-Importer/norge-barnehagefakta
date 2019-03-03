@@ -3,62 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-239",
+            "id": "node/-295",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "53",
+                "contact:website": "http://www.vestbynaturbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Støttumveien barnehage",
-                "no-barnehage:nsrid": "1016583",
-                "operator": "Vestby kommune",
-                "operator:type": "public",
-                "id": "node/-239"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7508,
-                    59.6063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-235",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "60",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sole Skog barnehage",
-                "no-barnehage:nsrid": "1025325",
-                "operator": "Vestby Stiftelsesbarnehager",
+                "name": "Vestby naturbarnehage avd. Sundbytoppen",
+                "no-barnehage:nsrid": "1017653",
+                "operator": "Bjørg Tveit Strøm",
                 "operator:type": "private",
-                "id": "node/-235"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7586,
-                    59.6012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-229",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "contact:website": "http://www.hvitsten.barnehageside.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hvitsten naturbarnehage",
-                "no-barnehage:nsrid": "1020404",
-                "operator": "Hvitsten Naturbarnehage Sa",
-                "operator:type": "private",
-                "id": "node/-229"
+                "id": "node/-295"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +26,74 @@
         },
         {
             "type": "Feature",
-            "id": "node/-228",
+            "id": "node/-291",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Støttumveien barnehage",
+                "no-barnehage:nsrid": "1016583",
+                "operator": "Vestby kommune",
+                "operator:type": "public",
+                "id": "node/-291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7508,
+                    59.6063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-287",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sole Skog barnehage",
+                "no-barnehage:nsrid": "1025325",
+                "operator": "Vestby Stiftelsesbarnehager",
+                "operator:type": "private",
+                "id": "node/-287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7586,
+                    59.6012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-281",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:website": "http://www.hvitsten.barnehageside.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hvitsten naturbarnehage",
+                "no-barnehage:nsrid": "1020404",
+                "operator": "Hvitsten Naturbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74668,
+                    59.60237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-280",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -80,7 +103,7 @@
                 "no-barnehage:nsrid": "1022356",
                 "operator": "Hjertehagen AS",
                 "operator:type": "private",
-                "id": "node/-228"
+                "id": "node/-280"
             },
             "geometry": {
                 "type": "Point",

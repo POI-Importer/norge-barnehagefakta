@@ -3,6 +3,28 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-35",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trolltangen naturbarnehage",
+                "no-barnehage:nsrid": "1014018",
+                "operator": "Tdm Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3615,
+                    59.1235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-33",
             "properties": {
                 "amenity": "kindergarten",

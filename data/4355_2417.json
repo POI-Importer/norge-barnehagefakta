@@ -3,6 +3,29 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-37",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:website": "http://www.akerholmen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åkerholmen barnehage",
+                "no-barnehage:nsrid": "1020624",
+                "operator": "Åkerholmen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.41148,
+                    59.14253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-34",
             "properties": {
                 "amenity": "kindergarten",

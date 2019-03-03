@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-593",
+            "id": "node/-724",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://www.tangen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tangen barnehage",
+                "no-barnehage:nsrid": "1019922",
+                "operator": "Tangen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06921,
+                    59.93296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-722",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1025370",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "id": "node/-593"
+                "id": "node/-722"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-586",
+            "id": "node/-715",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "94",
@@ -35,7 +58,7 @@
                 "no-barnehage:nsrid": "2000126",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-586"
+                "id": "node/-715"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-585",
+            "id": "node/-714",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -57,7 +80,7 @@
                 "no-barnehage:nsrid": "1012826",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "id": "node/-585"
+                "id": "node/-714"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-583",
+            "id": "node/-712",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -79,7 +102,7 @@
                 "no-barnehage:nsrid": "1025444",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "id": "node/-583"
+                "id": "node/-712"
             },
             "geometry": {
                 "type": "Point",

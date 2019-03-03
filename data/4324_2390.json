@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1911",
+            "id": "node/-2302",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsen barnehage",
+                "no-barnehage:nsrid": "1025351",
+                "operator": "Nedre Eiker kommune",
+                "operator:type": "public",
+                "id": "node/-2302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0254,
+                    59.7361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2285",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020567",
                 "operator": "Eplehagan barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1911"
+                "id": "node/-2285"
             },
             "geometry": {
                 "type": "Point",

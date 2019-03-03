@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-183",
+            "id": "node/-228",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Symra barnehage",
+                "no-barnehage:nsrid": "1012753",
+                "operator": "Eidsberg kommune",
+                "operator:type": "public",
+                "id": "node/-228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3439,
+                    59.5525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-227",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013428",
                 "operator": "Eidsberg kommune",
                 "operator:type": "public",
-                "id": "node/-183"
+                "id": "node/-227"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-180",
+            "id": "node/-224",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1020937",
                 "operator": "Espira Opsahl AS",
                 "operator:type": "private",
-                "id": "node/-180"
+                "id": "node/-224"
             },
             "geometry": {
                 "type": "Point",

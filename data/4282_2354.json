@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1865",
+            "id": "node/-2240",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollklubben barnehage",
+                "no-barnehage:nsrid": "1012587",
+                "operator": "Geilo Skisenter AS",
+                "operator:type": "private",
+                "id": "node/-2240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.20895,
+                    60.5338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2236",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018013",
                 "operator": "Hol kommune",
                 "operator:type": "public",
-                "id": "node/-1865"
+                "id": "node/-2236"
             },
             "geometry": {
                 "type": "Point",

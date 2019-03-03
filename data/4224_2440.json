@@ -3,7 +3,74 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3290",
+            "id": "node/-3933",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varhaug idrettsbarnehage",
+                "no-barnehage:nsrid": "1015109",
+                "operator": "Hå kommune",
+                "operator:type": "public",
+                "id": "node/-3933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.66093,
+                    58.623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3931",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "98",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trekløveren barnehage",
+                "no-barnehage:nsrid": "1017329",
+                "operator": "Hå kommune",
+                "operator:type": "public",
+                "id": "node/-3931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.64973,
+                    58.6168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3930",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://www.tjemslandshagen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjemslandshagen barnehage",
+                "no-barnehage:nsrid": "1020863",
+                "operator": "Tjemslandshagen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654531,
+                    58.61496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3923",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -13,7 +80,7 @@
                 "no-barnehage:nsrid": "1014725",
                 "operator": "Hå kommune",
                 "operator:type": "public",
-                "id": "node/-3290"
+                "id": "node/-3923"
             },
             "geometry": {
                 "type": "Point",

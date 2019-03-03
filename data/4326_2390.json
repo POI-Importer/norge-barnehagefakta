@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1780",
+            "id": "node/-2152",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åssiden menighets barnehage",
+                "no-barnehage:nsrid": "1015537",
+                "operator": "Drammen Kirkelig Fellesråd",
+                "operator:type": "private",
+                "id": "node/-2152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1431,
+                    59.7542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2150",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åssiden barnehage",
+                "no-barnehage:nsrid": "1014771",
+                "operator": "Drammen kommune",
+                "operator:type": "public",
+                "id": "node/-2150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1458,
+                    59.7527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2129",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -14,7 +58,7 @@
                 "no-barnehage:nsrid": "1016177",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1780"
+                "id": "node/-2129"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1770",
+            "id": "node/-2119",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -36,7 +80,7 @@
                 "no-barnehage:nsrid": "1020519",
                 "operator": "Kjerraten barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1770"
+                "id": "node/-2119"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1747",
+            "id": "node/-2096",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -58,7 +102,7 @@
                 "no-barnehage:nsrid": "1021685",
                 "operator": "Bessungen AS",
                 "operator:type": "private",
-                "id": "node/-1747"
+                "id": "node/-2096"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1746",
+            "id": "node/-2095",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "105",
@@ -81,7 +125,7 @@
                 "no-barnehage:nsrid": "1021814",
                 "operator": "Bekkevollen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1746"
+                "id": "node/-2095"
             },
             "geometry": {
                 "type": "Point",

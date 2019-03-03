@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3322",
+            "id": "node/-3976",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ådalen barnehage",
+                "no-barnehage:nsrid": "1014885",
+                "operator": "Time kommune",
+                "operator:type": "public",
+                "id": "node/-3976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71908,
+                    58.7829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3968",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1016190",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-3322"
+                "id": "node/-3968"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3318",
+            "id": "node/-3964",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "119",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1018590",
                 "operator": "Time kommune",
                 "operator:type": "public",
-                "id": "node/-3318"
+                "id": "node/-3964"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3300",
+            "id": "node/-3940",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "126",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1021785",
                 "operator": "Espira Ormadalen AS",
                 "operator:type": "private",
-                "id": "node/-3300"
+                "id": "node/-3940"
             },
             "geometry": {
                 "type": "Point",

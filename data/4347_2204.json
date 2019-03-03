@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4268",
+            "id": "node/-5133",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsen barnehage",
+                "no-barnehage:nsrid": "1018271",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "id": "node/-5133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0518,
+                    63.6082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5110",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1019741",
                 "operator": "Bruse barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4268"
+                "id": "node/-5110"
             },
             "geometry": {
                 "type": "Point",

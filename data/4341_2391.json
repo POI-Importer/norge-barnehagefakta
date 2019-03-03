@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-276",
+            "id": "node/-346",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tamburbakken barnehage",
+                "no-barnehage:nsrid": "1020045",
+                "operator": "Tamburbakken barnehage",
+                "operator:type": "private",
+                "id": "node/-346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80636,
+                    59.71867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-342",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "143",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014171",
                 "operator": "Ås kommune",
                 "operator:type": "public",
-                "id": "node/-276"
+                "id": "node/-342"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2872",
+            "id": "node/-3441",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tungtrø barnehage",
+                "no-barnehage:nsrid": "1022197",
+                "operator": "Tungtrø barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.01623,
+                    63.50921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3432",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1016114",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
-                "id": "node/-2872"
+                "id": "node/-3432"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2869",
+            "id": "node/-3429",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1025461",
                 "operator": "Akrobaten - barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2869"
+                "id": "node/-3429"
             },
             "geometry": {
                 "type": "Point",

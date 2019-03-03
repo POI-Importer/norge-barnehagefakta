@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-1939",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Østby gårdsbarnehage",
+                "no-barnehage:nsrid": "1020974",
+                "operator": "Østby Gårdsbarnehage Da",
+                "operator:type": "private",
+                "id": "node/-1939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69709,
+                    60.7614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1938",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vindingstad barnehage",
+                "no-barnehage:nsrid": "1017606",
+                "operator": "Gjøvik kommune",
+                "operator:type": "public",
+                "id": "node/-1938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6909,
+                    60.7725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1936",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Topro Bondelia barnehage",
+                "no-barnehage:nsrid": "1014019",
+                "operator": "Topro AS",
+                "operator:type": "private",
+                "id": "node/-1936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7045,
+                    60.7708
+                ]
+            }
+        }
+    ]
+}

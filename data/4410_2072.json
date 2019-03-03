@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4423",
+            "id": "node/-5288",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tømmerheia naturbarnehage",
+                "no-barnehage:nsrid": "1012570",
+                "operator": "Hemnes kommune",
+                "operator:type": "public",
+                "id": "node/-5288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8394,
+                    66.0799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5286",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013663",
                 "operator": "Hemnes kommune",
                 "operator:type": "public",
-                "id": "node/-4423"
+                "id": "node/-5286"
             },
             "geometry": {
                 "type": "Point",

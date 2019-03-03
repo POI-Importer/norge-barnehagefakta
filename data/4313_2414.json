@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2238",
+            "id": "node/-2689",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tiedemannsjordet barnehage",
+                "no-barnehage:nsrid": "1012690",
+                "operator": "Skien kommune",
+                "operator:type": "public",
+                "id": "node/-2689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56415,
+                    59.2114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2672",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014003",
                 "operator": "Gulset og Skotfoss Sokn",
                 "operator:type": "private",
-                "id": "node/-2238"
+                "id": "node/-2672"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2236",
+            "id": "node/-2670",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1016038",
                 "operator": "Skien kommune",
                 "operator:type": "public",
-                "id": "node/-2236"
+                "id": "node/-2670"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2229",
+            "id": "node/-2663",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1012688",
                 "operator": "Skien kommune",
                 "operator:type": "public",
-                "id": "node/-2229"
+                "id": "node/-2663"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2218",
+            "id": "node/-2652",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -81,7 +103,7 @@
                 "no-barnehage:nsrid": "1019902",
                 "operator": "Einaren barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2218"
+                "id": "node/-2652"
             },
             "geometry": {
                 "type": "Point",

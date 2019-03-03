@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-275",
+            "id": "node/-349",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vinterbro barnehage",
+                "no-barnehage:nsrid": "1017260",
+                "operator": "Ås kommune",
+                "operator:type": "public",
+                "id": "node/-349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7773,
+                    59.7425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-341",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020278",
                 "operator": "Sjøskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-275"
+                "id": "node/-341"
             },
             "geometry": {
                 "type": "Point",

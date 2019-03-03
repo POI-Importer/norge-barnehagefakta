@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3236",
+            "id": "node/-3863",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:website": "http://beta.minbarnehage.no/stpetri/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vålandshaugen barnehage",
+                "no-barnehage:nsrid": "1015515",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72958,
+                    58.9576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3858",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1015513",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75186,
+                    58.9592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3845",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://www.openbarnehage.dinstudio.se/",
@@ -11,7 +56,7 @@
                 "no-barnehage:nsrid": "1016558",
                 "operator": "St. Johannes Sokn",
                 "operator:type": "private",
-                "id": "node/-3236"
+                "id": "node/-3845"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +68,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3235",
+            "id": "node/-3844",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -33,7 +78,7 @@
                 "no-barnehage:nsrid": "1026492",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3235"
+                "id": "node/-3844"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +90,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3234",
+            "id": "node/-3843",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -55,7 +100,7 @@
                 "no-barnehage:nsrid": "1012912",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3234"
+                "id": "node/-3843"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +112,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3229",
+            "id": "node/-3838",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -78,7 +123,7 @@
                 "no-barnehage:nsrid": "1012899",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3229"
+                "id": "node/-3838"
             },
             "geometry": {
                 "type": "Point",
@@ -90,7 +135,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3227",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -100,7 +145,7 @@
                 "no-barnehage:nsrid": "1018538",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3227"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
@@ -112,7 +157,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3211",
+            "id": "node/-3820",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -122,7 +167,7 @@
                 "no-barnehage:nsrid": "1016072",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3211"
+                "id": "node/-3820"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +179,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3204",
+            "id": "node/-3813",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -144,7 +189,7 @@
                 "no-barnehage:nsrid": "1013770",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3204"
+                "id": "node/-3813"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +201,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3193",
+            "id": "node/-3802",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -166,7 +211,7 @@
                 "no-barnehage:nsrid": "1018541",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3193"
+                "id": "node/-3802"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +223,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3190",
+            "id": "node/-3799",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -188,7 +233,7 @@
                 "no-barnehage:nsrid": "1012611",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3190"
+                "id": "node/-3799"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +245,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3186",
+            "id": "node/-3795",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "121",
@@ -210,7 +255,7 @@
                 "no-barnehage:nsrid": "1013769",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3186"
+                "id": "node/-3795"
             },
             "geometry": {
                 "type": "Point",
@@ -222,7 +267,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3156",
+            "id": "node/-3765",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -232,7 +277,7 @@
                 "no-barnehage:nsrid": "1016173",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3156"
+                "id": "node/-3765"
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +289,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3152",
+            "id": "node/-3761",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -254,7 +299,7 @@
                 "no-barnehage:nsrid": "1020921",
                 "operator": "Biå Steinerbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3152"
+                "id": "node/-3761"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +311,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3151",
+            "id": "node/-3760",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "200",
@@ -276,7 +321,7 @@
                 "no-barnehage:nsrid": "1014723",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3151"
+                "id": "node/-3760"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +333,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3150",
+            "id": "node/-3759",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -299,7 +344,7 @@
                 "no-barnehage:nsrid": "1017041",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3150"
+                "id": "node/-3759"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +356,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3143",
+            "id": "node/-3752",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -321,7 +366,7 @@
                 "no-barnehage:nsrid": "1016757",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3143"
+                "id": "node/-3752"
             },
             "geometry": {
                 "type": "Point",

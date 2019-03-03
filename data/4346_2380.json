@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-667",
+            "id": "node/-827",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Valstadtoppen korttidsbarnehage",
+                "no-barnehage:nsrid": "1020637",
+                "operator": "Valstadtoppen Korttidsbarnehage",
+                "operator:type": "private",
+                "id": "node/-827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.00038,
+                    59.97006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-826",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Uglebakken barnehage",
+                "no-barnehage:nsrid": "1016008",
+                "operator": "Skedsmo kommune",
+                "operator:type": "public",
+                "id": "node/-826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9961,
+                    59.9706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-809",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1016006",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-667"
+                "id": "node/-809"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-666",
+            "id": "node/-808",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -35,7 +79,7 @@
                 "no-barnehage:nsrid": "1020792",
                 "operator": "Løvehjerte Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-666"
+                "id": "node/-808"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-665",
+            "id": "node/-807",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "175",
@@ -57,7 +101,7 @@
                 "no-barnehage:nsrid": "1018347",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-665"
+                "id": "node/-807"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +113,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-647",
+            "id": "node/-789",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -79,7 +123,7 @@
                 "no-barnehage:nsrid": "1016011",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-647"
+                "id": "node/-789"
             },
             "geometry": {
                 "type": "Point",

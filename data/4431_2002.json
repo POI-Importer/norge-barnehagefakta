@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4319",
+            "id": "node/-5192",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tverlandet kirkebarnehage",
+                "no-barnehage:nsrid": "1016762",
+                "operator": "Saltstraumen Sokn",
+                "operator:type": "private",
+                "id": "node/-5192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7388,
+                    67.2983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5164",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1016631",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-4319"
+                "id": "node/-5164"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4318",
+            "id": "node/-5163",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1016643",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-4318"
+                "id": "node/-5163"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4297",
+            "id": "node/-5142",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "113",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1016640",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-4297"
+                "id": "node/-5142"
             },
             "geometry": {
                 "type": "Point",

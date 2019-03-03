@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4060",
+            "id": "node/-4867",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åse barnehage",
+                "no-barnehage:nsrid": "1020963",
+                "operator": "Åse barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.318233,
+                    62.46386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4845",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018584",
                 "operator": "Ludens Norge AS",
                 "operator:type": "private",
-                "id": "node/-4060"
+                "id": "node/-4845"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4059",
+            "id": "node/-4844",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1012517",
                 "operator": "Ålesund kommune",
                 "operator:type": "public",
-                "id": "node/-4059"
+                "id": "node/-4844"
             },
             "geometry": {
                 "type": "Point",

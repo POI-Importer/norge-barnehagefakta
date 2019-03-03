@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2208",
+            "id": "node/-2641",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vallermyrene barnehage",
+                "no-barnehage:nsrid": "1014875",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67312,
+                    59.1356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2637",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1015492",
                 "operator": "Studentsamskipnaden i Sørøst-Norge",
                 "operator:type": "private",
-                "id": "node/-2208"
+                "id": "node/-2637"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2194",
+            "id": "node/-2623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1020014",
                 "operator": "Liane barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2194"
+                "id": "node/-2623"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2182",
+            "id": "node/-2611",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1013426",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-2182"
+                "id": "node/-2611"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2206",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Veien barnehage",
+                "no-barnehage:nsrid": "1018002",
+                "operator": "Ringerike kommune",
+                "operator:type": "public",
+                "id": "node/-2206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2233,
+                    60.173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2203",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:website": "http://www.tolpinrud.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tolpinrud barnehage",
+                "no-barnehage:nsrid": "1021135",
+                "operator": "Tolpinrud Sa",
+                "operator:type": "private",
+                "id": "node/-2203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22484,
+                    60.15856
+                ]
+            }
+        }
+    ]
+}

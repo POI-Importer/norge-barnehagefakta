@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4839",
+            "id": "node/-5782",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Villaveien naturbarnehage",
+                "no-barnehage:nsrid": "1020111",
+                "operator": "Villaveien Naturbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.99062,
+                    69.66903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5779",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014768",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-4839"
+                "id": "node/-5779"
             },
             "geometry": {
                 "type": "Point",

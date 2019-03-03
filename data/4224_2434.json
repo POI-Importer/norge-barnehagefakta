@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3303",
+            "id": "node/-3953",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tu barnehage",
+                "no-barnehage:nsrid": "1012599",
+                "operator": "Klepp kommune",
+                "operator:type": "public",
+                "id": "node/-3953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63475,
+                    58.7466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3943",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1021382",
                 "operator": "Kleppestemmen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3303"
+                "id": "node/-3943"
             },
             "geometry": {
                 "type": "Point",

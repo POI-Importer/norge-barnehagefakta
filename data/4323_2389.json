@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1922",
+            "id": "node/-2301",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:website": "http://www.aarbogen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Årbogen barnehage",
+                "no-barnehage:nsrid": "1019974",
+                "operator": "Årbogen barnehage",
+                "operator:type": "private",
+                "id": "node/-2301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.998966,
+                    59.76773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2296",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1013434",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-1922"
+                "id": "node/-2296"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1917",
+            "id": "node/-2291",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -35,7 +58,7 @@
                 "no-barnehage:nsrid": "1016258",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-1917"
+                "id": "node/-2291"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1916",
+            "id": "node/-2290",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -57,7 +80,7 @@
                 "no-barnehage:nsrid": "1016259",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-1916"
+                "id": "node/-2290"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1910",
+            "id": "node/-2284",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -79,7 +102,7 @@
                 "no-barnehage:nsrid": "1021224",
                 "operator": "Eknes barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1910"
+                "id": "node/-2284"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,48 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3123",
+            "id": "node/-3741",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vatne barnehage",
+                "no-barnehage:nsrid": "1012894",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.79016,
+                    58.8635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3735",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Tripp Trapp åpen barnehage",
+                "no-barnehage:nsrid": "1016896",
+                "operator": "Sandnes Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-3735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75777,
+                    58.8641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3722",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -14,7 +55,7 @@
                 "no-barnehage:nsrid": "1021539",
                 "operator": "Sandtoppen Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3123"
+                "id": "node/-3722"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3088",
+            "id": "node/-3687",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -37,7 +78,7 @@
                 "no-barnehage:nsrid": "1020193",
                 "operator": "Espira Taremareby AS",
                 "operator:type": "private",
-                "id": "node/-3088"
+                "id": "node/-3687"
             },
             "geometry": {
                 "type": "Point",

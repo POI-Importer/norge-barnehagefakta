@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4603",
+            "id": "node/-5543",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "4",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tromvik barnehage",
+                "no-barnehage:nsrid": "1013533",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3989,
+                    69.7774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5491",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013439",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4603"
+                "id": "node/-5491"
             },
             "geometry": {
                 "type": "Point",

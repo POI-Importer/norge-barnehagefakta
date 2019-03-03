@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2264",
+            "id": "node/-2710",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Villamoen barnehage",
+                "no-barnehage:nsrid": "1015964",
+                "operator": "Kattekleiv barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.26274,
+                    59.5593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2705",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017334",
                 "operator": "Notodden kommune",
                 "operator:type": "public",
-                "id": "node/-2264"
+                "id": "node/-2705"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2261",
+            "id": "node/-2702",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1016188",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-2261"
+                "id": "node/-2702"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2260",
+            "id": "node/-2701",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -57,7 +79,7 @@
                 "no-barnehage:nsrid": "1015455",
                 "operator": "Notodden kommune",
                 "operator:type": "public",
-                "id": "node/-2260"
+                "id": "node/-2701"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2258",
+            "id": "node/-2699",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -80,7 +102,7 @@
                 "no-barnehage:nsrid": "1016022",
                 "operator": "Kattekleiv barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2258"
+                "id": "node/-2699"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2254",
+            "id": "node/-2695",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -102,7 +124,7 @@
                 "no-barnehage:nsrid": "1022350",
                 "operator": "Betania barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2254"
+                "id": "node/-2695"
             },
             "geometry": {
                 "type": "Point",

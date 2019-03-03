@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-250",
+            "id": "node/-322",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tussestien barnehage",
+                "no-barnehage:nsrid": "1012844",
+                "operator": "Ski kommune",
+                "operator:type": "public",
+                "id": "node/-322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8289,
+                    59.7555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-308",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "95",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018426",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-250"
+                "id": "node/-308"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-247",
+            "id": "node/-305",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1020507",
                 "operator": "Langhus Kvinne- og Familieforbund",
                 "operator:type": "private",
-                "id": "node/-247"
+                "id": "node/-305"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-243",
+            "id": "node/-301",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1021180",
                 "operator": "Dalstunet Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-243"
+                "id": "node/-301"
             },
             "geometry": {
                 "type": "Point",

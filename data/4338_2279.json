@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1568",
+            "id": "node/-1882",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øwretun barnehage",
+                "no-barnehage:nsrid": "1017598",
+                "operator": "Alvdal kommune",
+                "operator:type": "public",
+                "id": "node/-1882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6359,
+                    62.1086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1881",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1021990",
                 "operator": "Sivil-Saras Eventyr barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1568"
+                "id": "node/-1881"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1567",
+            "id": "node/-1880",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1025500",
                 "operator": "Alvdal kommune",
                 "operator:type": "public",
-                "id": "node/-1567"
+                "id": "node/-1880"
             },
             "geometry": {
                 "type": "Point",

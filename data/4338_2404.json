@@ -3,7 +3,70 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-51",
+            "id": "node/-63",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Åpen barnehage Skarmyra",
+                "no-barnehage:nsrid": "1014100",
+                "operator": "Moss kommune",
+                "operator:type": "public",
+                "id": "node/-63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6649,
+                    59.4333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-61",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Verket barnehage",
+                "no-barnehage:nsrid": "1020495",
+                "operator": "Verket barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67737,
+                    59.44477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-58",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Søly barnehage",
+                "no-barnehage:nsrid": "1013048",
+                "operator": "Espira Jeløy AS",
+                "operator:type": "private",
+                "id": "node/-58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6361,
+                    59.4286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-54",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -13,7 +76,7 @@
                 "no-barnehage:nsrid": "1016918",
                 "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-51"
+                "id": "node/-54"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-43",
+            "id": "node/-46",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -36,7 +99,7 @@
                 "no-barnehage:nsrid": "1020771",
                 "operator": "Melløsparken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-43"
+                "id": "node/-46"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +111,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-41",
+            "id": "node/-44",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -59,7 +122,7 @@
                 "no-barnehage:nsrid": "1021987",
                 "operator": "Kråka Fus Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-41"
+                "id": "node/-44"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +134,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-39",
+            "id": "node/-42",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -82,7 +145,7 @@
                 "no-barnehage:nsrid": "1017791",
                 "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-39"
+                "id": "node/-42"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +157,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-38",
+            "id": "node/-41",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -104,7 +167,7 @@
                 "no-barnehage:nsrid": "1022245",
                 "operator": "Foreningen Torderød barnehage",
                 "operator:type": "private",
-                "id": "node/-38"
+                "id": "node/-41"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +179,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-36",
+            "id": "node/-39",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -126,7 +189,7 @@
                 "no-barnehage:nsrid": "1017883",
                 "operator": "Espira Jeløy AS",
                 "operator:type": "private",
-                "id": "node/-36"
+                "id": "node/-39"
             },
             "geometry": {
                 "type": "Point",

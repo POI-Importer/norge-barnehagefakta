@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1228",
+            "id": "node/-1597",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:website": "http://tjuvholmen.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjuvholmen barnehage",
+                "no-barnehage:nsrid": "1021551",
+                "operator": "Norlandia Barnehagene Ii AS",
+                "operator:type": "private",
+                "id": "node/-1597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72065,
+                    59.9049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1394",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1020427",
                 "operator": "Musehuset Norsk Folkemuseums barnehage",
                 "operator:type": "private",
-                "id": "node/-1228"
+                "id": "node/-1394"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1012",
+            "id": "node/-1178",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -36,7 +59,7 @@
                 "no-barnehage:nsrid": "1021102",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1012"
+                "id": "node/-1178"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-943",
+            "id": "node/-1109",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -59,7 +82,7 @@
                 "no-barnehage:nsrid": "1025515",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-943"
+                "id": "node/-1109"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-874",
+            "id": "node/-1040",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -81,7 +104,7 @@
                 "no-barnehage:nsrid": "1019775",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-874"
+                "id": "node/-1040"
             },
             "geometry": {
                 "type": "Point",
@@ -93,7 +116,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-840",
+            "id": "node/-1006",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -103,7 +126,7 @@
                 "no-barnehage:nsrid": "1017413",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-840"
+                "id": "node/-1006"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +138,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-800",
+            "id": "node/-966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -125,7 +148,7 @@
                 "no-barnehage:nsrid": "2000068",
                 "operator": "100 Meterskogen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-800"
+                "id": "node/-966"
             },
             "geometry": {
                 "type": "Point",

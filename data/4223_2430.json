@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3345",
+            "id": "node/-4017",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjelta barnehage",
+                "no-barnehage:nsrid": "1012800",
+                "operator": "Sola kommune",
+                "operator:type": "public",
+                "id": "node/-4017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.59989,
+                    58.8434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3996",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014059",
                 "operator": "Sola kommune",
                 "operator:type": "public",
-                "id": "node/-3345"
+                "id": "node/-3996"
             },
             "geometry": {
                 "type": "Point",

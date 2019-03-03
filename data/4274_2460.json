@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3017",
+            "id": "node/-3609",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tunballen barnehage",
+                "no-barnehage:nsrid": "1013800",
+                "operator": "Songdalen kommune",
+                "operator:type": "public",
+                "id": "node/-3609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.85769,
+                    58.1675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3605",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "95",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018068",
                 "operator": "Songdalen kommune",
                 "operator:type": "public",
-                "id": "node/-3017"
+                "id": "node/-3605"
             },
             "geometry": {
                 "type": "Point",

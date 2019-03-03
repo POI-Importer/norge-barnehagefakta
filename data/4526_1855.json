@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4622",
+            "id": "node/-5553",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Workinnmarka barnehage",
+                "no-barnehage:nsrid": "1017020",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9299,
+                    69.6673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5510",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1019658",
                 "operator": "As Norrøna barnehage",
                 "operator:type": "private",
-                "id": "node/-4622"
+                "id": "node/-5510"
             },
             "geometry": {
                 "type": "Point",
@@ -26,14 +48,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4612",
+            "id": "node/-5500",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Langnes åpen barnehage",
                 "no-barnehage:nsrid": "1015093",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4612"
+                "id": "node/-5500"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4595",
+            "id": "node/-5483",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -55,7 +77,7 @@
                 "no-barnehage:nsrid": "1012723",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4595"
+                "id": "node/-5483"
             },
             "geometry": {
                 "type": "Point",

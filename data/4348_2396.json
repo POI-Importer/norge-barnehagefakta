@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-166",
+            "id": "node/-209",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vollene naturbarnehage",
+                "no-barnehage:nsrid": "1013180",
+                "operator": "Spydeberg kommune",
+                "operator:type": "public",
+                "id": "node/-209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0856,
+                    59.6171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-208",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:website": "http://www.tyttebaret.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tyttebæret barnehage",
+                "no-barnehage:nsrid": "1020862",
+                "operator": "Tyttebæret barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07465,
+                    59.60593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-207",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -14,7 +59,7 @@
                 "no-barnehage:nsrid": "1019965",
                 "operator": "Solsiden barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-166"
+                "id": "node/-207"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-163",
+            "id": "node/-204",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -36,7 +81,7 @@
                 "no-barnehage:nsrid": "1015170",
                 "operator": "Spydeberg kommune",
                 "operator:type": "public",
-                "id": "node/-163"
+                "id": "node/-204"
             },
             "geometry": {
                 "type": "Point",

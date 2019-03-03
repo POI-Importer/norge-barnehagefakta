@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3425",
+            "id": "node/-4111",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "108",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsebøen FUS barnehage",
+                "no-barnehage:nsrid": "1021647",
+                "operator": "Åsebøen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30682,
+                    59.27743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4095",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1022086",
                 "operator": "Kopervik Menighetsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3425"
+                "id": "node/-4095"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3412",
+            "id": "node/-4082",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1015587",
                 "operator": "Karmøy kommune",
                 "operator:type": "public",
-                "id": "node/-3412"
+                "id": "node/-4082"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3410",
+            "id": "node/-4080",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -59,7 +81,7 @@
                 "no-barnehage:nsrid": "1025324",
                 "operator": "Aski AS",
                 "operator:type": "private",
-                "id": "node/-3410"
+                "id": "node/-4080"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,50 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2945",
+            "id": "node/-3545",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Wergelandsveien barnehage",
+                "no-barnehage:nsrid": "1020231",
+                "operator": "Wergelandsveien barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.979105,
+                    58.15094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3529",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørlandet Sykehus HF Trollhaugen barnehage",
+                "no-barnehage:nsrid": "1015955",
+                "operator": "Sørlandet Sykehus Hf",
+                "id": "node/-3529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98848,
+                    58.1595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3511",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -13,7 +56,7 @@
                 "no-barnehage:nsrid": "1016062",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-2945"
+                "id": "node/-3511"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +68,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2928",
+            "id": "node/-3494",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "32",
@@ -36,7 +79,7 @@
                 "no-barnehage:nsrid": "1016601",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2928"
+                "id": "node/-3494"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2899",
+            "id": "node/-3465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -58,7 +101,7 @@
                 "no-barnehage:nsrid": "1016500",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-2899"
+                "id": "node/-3465"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +113,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2882",
+            "id": "node/-3448",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -80,7 +123,7 @@
                 "no-barnehage:nsrid": "1019763",
                 "operator": "Alvejordet Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-2882"
+                "id": "node/-3448"
             },
             "geometry": {
                 "type": "Point",

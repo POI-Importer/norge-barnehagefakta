@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4662",
+            "id": "node/-5583",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørhusan barnehager avd. Breivika",
+                "no-barnehage:nsrid": "1025383",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5546,
+                    68.7462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5570",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1020179",
                 "operator": "Holtet barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4662"
+                "id": "node/-5570"
             },
             "geometry": {
                 "type": "Point",

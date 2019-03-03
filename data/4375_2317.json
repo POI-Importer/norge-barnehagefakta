@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1547",
+            "id": "node/-1851",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trysil menighetsbarnehage",
+                "no-barnehage:nsrid": "1021909",
+                "operator": "Trysil Menighetsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-1851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.26472,
+                    61.31623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1849",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017586",
                 "operator": "Trysil kommune",
                 "operator:type": "public",
-                "id": "node/-1547"
+                "id": "node/-1849"
             },
             "geometry": {
                 "type": "Point",

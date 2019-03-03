@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2847",
+            "id": "node/-3407",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trio barnehager",
+                "no-barnehage:nsrid": "1020387",
+                "operator": "Trio Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-3407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21553,
+                    64.86023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3403",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1021593",
                 "operator": "Bikuben Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2847"
+                "id": "node/-3403"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2845",
+            "id": "node/-3401",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1013859",
                 "operator": "Vikna kommune",
                 "operator:type": "public",
-                "id": "node/-2845"
+                "id": "node/-3401"
             },
             "geometry": {
                 "type": "Point",

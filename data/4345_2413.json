@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-141",
+            "id": "node/-187",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Wilbergjordet barnehage",
+                "no-barnehage:nsrid": "1013416",
+                "operator": "Borg Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9565,
+                    59.2258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-159",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020516",
                 "operator": "Roselia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-141"
+                "id": "node/-159"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-135",
+            "id": "node/-153",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -37,7 +59,7 @@
                 "no-barnehage:nsrid": "1021913",
                 "operator": "Noas Park barnehage AS",
                 "operator:type": "private",
-                "id": "node/-135"
+                "id": "node/-153"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-121",
+            "id": "node/-139",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -59,7 +81,7 @@
                 "no-barnehage:nsrid": "1012708",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-121"
+                "id": "node/-139"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-114",
+            "id": "node/-132",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -81,7 +103,7 @@
                 "no-barnehage:nsrid": "1017094",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-114"
+                "id": "node/-132"
             },
             "geometry": {
                 "type": "Point",

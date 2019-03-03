@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-602",
+            "id": "node/-739",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Østmarkskollen FUS barnehage",
+                "no-barnehage:nsrid": "1021197",
+                "operator": "Østmarkskollen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.05627,
+                    59.72968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-738",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ytre Enebakk barnehage",
+                "no-barnehage:nsrid": "1017533",
+                "operator": "Enebakk kommune",
+                "operator:type": "public",
+                "id": "node/-738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0387,
+                    59.7308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-735",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1021739",
                 "operator": "Mjær Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-602"
+                "id": "node/-735"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-600",
+            "id": "node/-733",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -35,7 +79,7 @@
                 "no-barnehage:nsrid": "1020919",
                 "operator": "Mari Naturbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-600"
+                "id": "node/-733"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-596",
+            "id": "node/-729",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -57,7 +101,7 @@
                 "no-barnehage:nsrid": "1019862",
                 "operator": "Ytre Enebakk Kvinne- og Familieforbund",
                 "operator:type": "private",
-                "id": "node/-596"
+                "id": "node/-729"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-122",
+            "id": "node/-183",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Villa Øst barnehage",
+                "no-barnehage:nsrid": "1019671",
+                "operator": "Villa Øst barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93504,
+                    59.24989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-175",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollstua barnehage",
+                "no-barnehage:nsrid": "1012710",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9408,
+                    59.2495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-140",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -14,7 +58,7 @@
                 "no-barnehage:nsrid": "1014041",
                 "operator": "Lillelia Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-122"
+                "id": "node/-140"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-94",
+            "id": "node/-112",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "111",
@@ -36,7 +80,7 @@
                 "no-barnehage:nsrid": "1012559",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-94"
+                "id": "node/-112"
             },
             "geometry": {
                 "type": "Point",

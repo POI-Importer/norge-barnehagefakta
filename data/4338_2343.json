@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1608",
+            "id": "node/-1934",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørbyen barnehage",
+                "no-barnehage:nsrid": "1015571",
+                "operator": "Sørbyen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6695,
+                    60.7737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1926",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020021",
                 "operator": "Marihøna barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1608"
+                "id": "node/-1926"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1606",
+            "id": "node/-1924",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1016976",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1606"
+                "id": "node/-1924"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1604",
+            "id": "node/-1922",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1025503",
                 "operator": "Gjøvik kommune",
                 "operator:type": "public",
-                "id": "node/-1604"
+                "id": "node/-1922"
             },
             "geometry": {
                 "type": "Point",

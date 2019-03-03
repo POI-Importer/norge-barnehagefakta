@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3599",
+            "id": "node/-4368",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://www.bergen.kommune.no/omkommuen/avdeling/barnehager/vadmyra-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vadmyra barnehage",
+                "no-barnehage:nsrid": "1016685",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22586,
+                    60.3617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4278",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1016690",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3599"
+                "id": "node/-4278"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3570",
+            "id": "node/-4249",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1022426",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3570"
+                "id": "node/-4249"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3530",
+            "id": "node/-4209",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -59,7 +82,7 @@
                 "no-barnehage:nsrid": "1016707",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3530"
+                "id": "node/-4209"
             },
             "geometry": {
                 "type": "Point",

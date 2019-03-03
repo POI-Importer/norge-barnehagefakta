@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4616",
+            "id": "node/-5540",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollbakken barnehage",
+                "no-barnehage:nsrid": "1025357",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9426,
+                    69.6514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5504",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1025451",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4616"
+                "id": "node/-5504"
             },
             "geometry": {
                 "type": "Point",

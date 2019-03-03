@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1462",
+            "id": "node/-1759",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tømmerli barnehage",
+                "no-barnehage:nsrid": "1013114",
+                "operator": "Ringsaker kommune",
+                "operator:type": "public",
+                "id": "node/-1759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.943,
+                    60.8967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1740",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017560",
                 "operator": "Ringsaker kommune",
                 "operator:type": "public",
-                "id": "node/-1462"
+                "id": "node/-1740"
             },
             "geometry": {
                 "type": "Point",

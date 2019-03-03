@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4150",
+            "id": "node/-4964",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikedalen barnehage",
+                "no-barnehage:nsrid": "1016104",
+                "operator": "Sykkylven kommune",
+                "operator:type": "public",
+                "id": "node/-4964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.58949,
+                    62.379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4963",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vik barnehage",
+                "no-barnehage:nsrid": "1015462",
+                "operator": "Sykkylven kommune",
+                "operator:type": "public",
+                "id": "node/-4963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57723,
+                    62.3785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4957",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1021795",
                 "operator": "Ikornnes Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4150"
+                "id": "node/-4957"
             },
             "geometry": {
                 "type": "Point",

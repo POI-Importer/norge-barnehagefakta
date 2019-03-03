@@ -3,6 +3,28 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-36",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ynglingen barnehage",
+                "no-barnehage:nsrid": "1016174",
+                "operator": "Halden Kfuk/m",
+                "operator:type": "private",
+                "id": "node/-36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3743,
+                    59.1347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-32",
             "properties": {
                 "amenity": "kindergarten",

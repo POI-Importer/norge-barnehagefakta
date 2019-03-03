@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-538",
+            "id": "node/-660",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "7",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Østenstad menighetsbarnehage",
+                "no-barnehage:nsrid": "1015572",
+                "operator": "Asker Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4638,
+                    59.8126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-655",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vepsebolet barnehage",
+                "no-barnehage:nsrid": "1016668",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "id": "node/-655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4713,
+                    59.8201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-648",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -14,7 +58,7 @@
                 "no-barnehage:nsrid": "1020816",
                 "operator": "Stiftelsen Vollen Montessoribarnehage",
                 "operator:type": "private",
-                "id": "node/-538"
+                "id": "node/-648"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-529",
+            "id": "node/-639",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -37,7 +81,7 @@
                 "no-barnehage:nsrid": "1018479",
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
-                "id": "node/-529"
+                "id": "node/-639"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-525",
+            "id": "node/-635",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -60,7 +104,7 @@
                 "no-barnehage:nsrid": "1020737",
                 "operator": "Nansentunet Musikkbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-525"
+                "id": "node/-635"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +116,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-498",
+            "id": "node/-608",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -83,7 +127,7 @@
                 "no-barnehage:nsrid": "1022190",
                 "operator": "Espira Blakstad AS",
                 "operator:type": "private",
-                "id": "node/-498"
+                "id": "node/-608"
             },
             "geometry": {
                 "type": "Point",

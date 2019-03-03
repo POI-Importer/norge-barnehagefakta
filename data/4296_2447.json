@@ -3,7 +3,53 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2597",
+            "id": "node/-3112",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:website": "http://www.tybakken.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tybakken barnehage",
+                "no-barnehage:nsrid": "1019632",
+                "operator": "Stiftelsen Tromøy Menighets Barnehager",
+                "operator:type": "private",
+                "id": "node/-3112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.824165,
+                    58.45847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3111",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "contact:website": "http://www.tromoy.barnehage.arendal.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tromøy barnehageenhet, Fjellvik",
+                "no-barnehage:nsrid": "1014093",
+                "operator": "Arendal kommune",
+                "operator:type": "public",
+                "id": "node/-3111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81708,
+                    58.4567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3101",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -14,7 +60,7 @@
                 "no-barnehage:nsrid": "1022015",
                 "operator": "Spornes Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2597"
+                "id": "node/-3101"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2558",
+            "id": "node/-3062",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -37,7 +83,7 @@
                 "no-barnehage:nsrid": "1019766",
                 "operator": "Blåklokken barnehage",
                 "operator:type": "private",
-                "id": "node/-2558"
+                "id": "node/-3062"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3368",
+            "id": "node/-4028",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ze-bra gårdsbarnehage",
+                "no-barnehage:nsrid": "1021904",
+                "operator": "Ze-Bra Gårdsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.610529,
+                    59.01147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4027",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:website": "http://www.minbarnehage.no/vistestolen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vistestølen barnehage",
+                "no-barnehage:nsrid": "1017874",
+                "operator": "Randaberg kommune",
+                "operator:type": "public",
+                "id": "node/-4027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60701,
+                    58.9979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4025",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "95",
@@ -14,7 +59,7 @@
                 "no-barnehage:nsrid": "1012639",
                 "operator": "Randaberg kommune",
                 "operator:type": "public",
-                "id": "node/-3368"
+                "id": "node/-4025"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3365",
+            "id": "node/-4022",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -37,7 +82,7 @@
                 "no-barnehage:nsrid": "1020761",
                 "operator": "Nyvoll barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3365"
+                "id": "node/-4022"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3364",
+            "id": "node/-4021",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -59,7 +104,7 @@
                 "no-barnehage:nsrid": "1016086",
                 "operator": "Randaberg kommune",
                 "operator:type": "public",
-                "id": "node/-3364"
+                "id": "node/-4021"
             },
             "geometry": {
                 "type": "Point",

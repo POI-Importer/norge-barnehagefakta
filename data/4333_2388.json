@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-515",
+            "id": "node/-657",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikingjordet barnehage Åmotåsen",
+                "no-barnehage:nsrid": "1012765",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "id": "node/-657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4321,
+                    59.7829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-656",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vikingjordet barnehage Øvre Gjellumvei",
+                "no-barnehage:nsrid": "1025802",
+                "operator": "Asker kommune",
+                "operator:type": "public",
+                "id": "node/-656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44929,
+                    59.79212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-625",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "100",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "2000102",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-515"
+                "id": "node/-625"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-508",
+            "id": "node/-618",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -35,7 +79,7 @@
                 "no-barnehage:nsrid": "1012760",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-508"
+                "id": "node/-618"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-507",
+            "id": "node/-617",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -57,7 +101,7 @@
                 "no-barnehage:nsrid": "1025799",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-507"
+                "id": "node/-617"
             },
             "geometry": {
                 "type": "Point",

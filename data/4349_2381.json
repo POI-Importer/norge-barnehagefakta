@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-581",
+            "id": "node/-710",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "138",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tienbråten barnehage",
+                "no-barnehage:nsrid": "1025973",
+                "operator": "Fet kommune",
+                "operator:type": "public",
+                "id": "node/-710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12762,
+                    59.94309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-709",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020051",
                 "operator": "Sommerly barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-581"
+                "id": "node/-709"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-574",
+            "id": "node/-702",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1025320",
                 "operator": "Fet kommune",
                 "operator:type": "public",
-                "id": "node/-574"
+                "id": "node/-702"
             },
             "geometry": {
                 "type": "Point",

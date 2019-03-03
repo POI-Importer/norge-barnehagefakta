@@ -3,14 +3,37 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3674",
+            "id": "node/-4383",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:website": "http://laringsverkstedet.no/barnehage/aasane",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsane gårds-og friluftsbarnehage",
+                "no-barnehage:nsrid": "1016483",
+                "operator": "Åsane Gårds- og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35861,
+                    60.4593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4353",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Stjernen åpen barnehage",
                 "no-barnehage:nsrid": "1014216",
                 "operator": "Åsane Sokn",
                 "operator:type": "private",
-                "id": "node/-3674"
+                "id": "node/-4353"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +45,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3672",
+            "id": "node/-4351",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -33,7 +56,7 @@
                 "no-barnehage:nsrid": "1020478",
                 "operator": "Stiftelsen Selegrend barnehage",
                 "operator:type": "private",
-                "id": "node/-3672"
+                "id": "node/-4351"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +68,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3647",
+            "id": "node/-4326",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -56,7 +79,7 @@
                 "no-barnehage:nsrid": "1016724",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3647"
+                "id": "node/-4326"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3596",
+            "id": "node/-4275",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -79,7 +102,7 @@
                 "no-barnehage:nsrid": "1016695",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3596"
+                "id": "node/-4275"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3565",
+            "id": "node/-4244",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -102,7 +125,7 @@
                 "no-barnehage:nsrid": "1022421",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3565"
+                "id": "node/-4244"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +137,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3515",
+            "id": "node/-4194",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -124,7 +147,7 @@
                 "no-barnehage:nsrid": "1016711",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3515"
+                "id": "node/-4194"
             },
             "geometry": {
                 "type": "Point",

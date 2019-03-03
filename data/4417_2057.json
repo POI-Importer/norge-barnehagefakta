@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4440",
+            "id": "node/-5311",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ytteren barnehage",
+                "no-barnehage:nsrid": "1013917",
+                "operator": "Rana kommune",
+                "operator:type": "public",
+                "id": "node/-5311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1413,
+                    66.3431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5305",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1020200",
                 "operator": "Stiftelsen Kirkebakken barnehage",
                 "operator:type": "private",
-                "id": "node/-4440"
+                "id": "node/-5305"
             },
             "geometry": {
                 "type": "Point",

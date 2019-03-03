@@ -3,17 +3,17 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4390",
+            "id": "node/-5251",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "95",
+                "capacity": "12",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Leland barnehage",
-                "no-barnehage:nsrid": "1012532",
+                "name": "Ulvang oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1013658",
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
-                "id": "node/-4390"
+                "id": "node/-5251"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4389",
+            "id": "node/-5249",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "95",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leland barnehage",
+                "no-barnehage:nsrid": "1012532",
+                "operator": "Leirfjord kommune",
+                "operator:type": "public",
+                "id": "node/-5249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9461,
+                    66.065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5248",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1015027",
                 "operator": "Leirfjord kommune",
                 "operator:type": "public",
-                "id": "node/-4389"
+                "id": "node/-5248"
             },
             "geometry": {
                 "type": "Point",

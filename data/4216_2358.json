@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3556",
+            "id": "node/-4373",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Våganeset barnehage",
+                "no-barnehage:nsrid": "1017259",
+                "operator": "Åsane Gårds- og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30377,
+                    60.4497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4359",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tertnesparken barnehage",
+                "no-barnehage:nsrid": "1021345",
+                "operator": "Tertnesparken barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.311313,
+                    60.45701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4235",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -14,7 +58,7 @@
                 "no-barnehage:nsrid": "1022143",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3556"
+                "id": "node/-4235"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3526",
+            "id": "node/-4205",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -37,7 +81,7 @@
                 "no-barnehage:nsrid": "1015784",
                 "operator": "Grønskjeret barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3526"
+                "id": "node/-4205"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3510",
+            "id": "node/-4189",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "127",
@@ -60,7 +104,7 @@
                 "no-barnehage:nsrid": "1021621",
                 "operator": "Fana Gårds- og Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3510"
+                "id": "node/-4189"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +116,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3488",
+            "id": "node/-4167",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -83,7 +127,7 @@
                 "no-barnehage:nsrid": "1019509",
                 "operator": "Eidsvågneset barnehage",
                 "operator:type": "private",
-                "id": "node/-3488"
+                "id": "node/-4167"
             },
             "geometry": {
                 "type": "Point",
@@ -95,18 +139,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3444",
+            "id": "node/-4123",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
                 "contact:website": "http://a2gbarnehage.no/",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "A2g barnehage",
+                "name": "A2g barnehage friluftsbarnehage",
                 "no-barnehage:nsrid": "1014014",
                 "operator": "A2g Gruppen AS",
                 "operator:type": "private",
-                "id": "node/-3444"
+                "id": "node/-4123"
             },
             "geometry": {
                 "type": "Point",

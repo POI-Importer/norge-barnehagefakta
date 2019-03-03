@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1527",
+            "id": "node/-1824",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "6",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tøråsen private barnehage",
+                "no-barnehage:nsrid": "1020044",
+                "operator": "Tøråsen Private barnehage",
+                "operator:type": "private",
+                "id": "node/-1824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80195,
+                    60.7247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1823",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1014705",
                 "operator": "Våler kommune",
                 "operator:type": "public",
-                "id": "node/-1527"
+                "id": "node/-1823"
             },
             "geometry": {
                 "type": "Point",

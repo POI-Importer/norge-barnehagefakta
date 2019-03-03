@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1868",
+            "id": "node/-2241",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestlia barnehage",
+                "no-barnehage:nsrid": "1013921",
+                "operator": "Hol kommune",
+                "operator:type": "public",
+                "id": "node/-2241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2287,
+                    60.5266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2239",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1021289",
                 "operator": "Småtroll barnehage",
                 "operator:type": "private",
-                "id": "node/-1868"
+                "id": "node/-2239"
             },
             "geometry": {
                 "type": "Point",

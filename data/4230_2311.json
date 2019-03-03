@@ -3,7 +3,74 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3955",
+            "id": "node/-4733",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vieåsen barnehage",
+                "no-barnehage:nsrid": "1015564",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "id": "node/-4733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.90258,
+                    61.4552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4732",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://www.vieboen.barnehage.forde.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Viebøen barnehage",
+                "no-barnehage:nsrid": "1021193",
+                "operator": "Viebøen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.90016,
+                    61.45388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4731",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vie barnehage",
+                "no-barnehage:nsrid": "1018160",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "id": "node/-4731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.89058,
+                    61.4584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4720",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -13,7 +80,7 @@
                 "no-barnehage:nsrid": "1013964",
                 "operator": "Førde kommune",
                 "operator:type": "public",
-                "id": "node/-3955"
+                "id": "node/-4720"
             },
             "geometry": {
                 "type": "Point",

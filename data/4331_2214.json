@@ -3,14 +3,36 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2550",
+            "id": "node/-3039",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Valset barnehage",
+                "no-barnehage:nsrid": "1016863",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3529,
+                    63.4139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3016",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Sverrestunet åpen barnehage",
                 "no-barnehage:nsrid": "1019614",
                 "operator": "Trøndelag Folkemuseum Stiftelse",
                 "operator:type": "private",
-                "id": "node/-2550"
+                "id": "node/-3016"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +44,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2549",
+            "id": "node/-3015",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -32,7 +54,7 @@
                 "no-barnehage:nsrid": "1024556",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2549"
+                "id": "node/-3015"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2475",
+            "id": "node/-2941",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -54,7 +76,7 @@
                 "no-barnehage:nsrid": "1018217",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2475"
+                "id": "node/-2941"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2473",
+            "id": "node/-2939",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://www.musikkmanesjen.no",
@@ -74,7 +96,7 @@
                 "no-barnehage:nsrid": "1021564",
                 "operator": "Kulset Musikkmanesjen",
                 "operator:type": "private",
-                "id": "node/-2473"
+                "id": "node/-2939"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +108,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2460",
+            "id": "node/-2926",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "99",
@@ -97,7 +119,7 @@
                 "no-barnehage:nsrid": "1015117",
                 "operator": "Læringsverkstedet Hammersborg AS",
                 "operator:type": "private",
-                "id": "node/-2460"
+                "id": "node/-2926"
             },
             "geometry": {
                 "type": "Point",
@@ -109,7 +131,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2427",
+            "id": "node/-2893",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -119,7 +141,7 @@
                 "no-barnehage:nsrid": "1020517",
                 "operator": "Julius barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2427"
+                "id": "node/-2893"
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +153,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2421",
+            "id": "node/-2887",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -141,7 +163,7 @@
                 "no-barnehage:nsrid": "1016912",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2421"
+                "id": "node/-2887"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +175,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2414",
+            "id": "node/-2880",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -164,7 +186,7 @@
                 "no-barnehage:nsrid": "1021701",
                 "operator": "Hila Drift AS",
                 "operator:type": "private",
-                "id": "node/-2414"
+                "id": "node/-2880"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +198,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2389",
+            "id": "node/-2855",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -186,7 +208,7 @@
                 "no-barnehage:nsrid": "1017801",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2389"
+                "id": "node/-2855"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +220,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2379",
+            "id": "node/-2845",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -208,7 +230,7 @@
                 "no-barnehage:nsrid": "1022020",
                 "operator": "Byåsen Tospråklige barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2379"
+                "id": "node/-2845"
             },
             "geometry": {
                 "type": "Point",

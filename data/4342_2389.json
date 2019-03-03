@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-337",
+            "id": "node/-418",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sætreskogen barnehage",
+                "no-barnehage:nsrid": "1012768",
+                "operator": "Oppegård kommune",
+                "operator:type": "public",
+                "id": "node/-418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8165,
+                    59.7666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-415",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017152",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-337"
+                "id": "node/-415"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,52 @@
         },
         {
             "type": "Feature",
-            "id": "node/-261",
+            "id": "node/-326",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vevelstadåsen barnehage",
+                "no-barnehage:nsrid": "1012843",
+                "operator": "Ski kommune",
+                "operator:type": "public",
+                "id": "node/-326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8474,
+                    59.7575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-325",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:website": "http://vevelstadsaga.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vevelstadsaga barnehage",
+                "no-barnehage:nsrid": "1020441",
+                "operator": "Vevelstadsaga barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84069,
+                    59.75697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-319",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -35,7 +102,7 @@
                 "no-barnehage:nsrid": "1012846",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-261"
+                "id": "node/-319"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-242",
+            "id": "node/-300",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -57,7 +124,7 @@
                 "no-barnehage:nsrid": "1012845",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-242"
+                "id": "node/-300"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-259",
+            "id": "node/-321",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollskogen barnehage",
+                "no-barnehage:nsrid": "1013037",
+                "operator": "Ski kommune",
+                "operator:type": "public",
+                "id": "node/-321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8607,
+                    59.7617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-317",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1015987",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-259"
+                "id": "node/-317"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-241",
+            "id": "node/-299",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1015988",
                 "operator": "Ski kommune",
                 "operator:type": "public",
-                "id": "node/-241"
+                "id": "node/-299"
             },
             "geometry": {
                 "type": "Point",

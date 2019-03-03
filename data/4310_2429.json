@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2287",
+            "id": "node/-2734",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trekanten barnehage",
+                "no-barnehage:nsrid": "1015970",
+                "operator": "Kragerø kommune",
+                "operator:type": "public",
+                "id": "node/-2734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41165,
+                    58.8683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2733",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1020272",
                 "operator": "Stiftelsen Solsikke barnehage",
                 "operator:type": "private",
-                "id": "node/-2287"
+                "id": "node/-2733"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2284",
+            "id": "node/-2730",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1015607",
                 "operator": "Kragerø kommune",
                 "operator:type": "public",
-                "id": "node/-2284"
+                "id": "node/-2730"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2280",
+            "id": "node/-2726",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -57,7 +79,7 @@
                 "no-barnehage:nsrid": "1019801",
                 "operator": "Frydensborg Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2280"
+                "id": "node/-2726"
             },
             "geometry": {
                 "type": "Point",

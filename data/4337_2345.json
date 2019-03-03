@@ -3,7 +3,74 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1679",
+            "id": "node/-2021",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestrumenga barnehage",
+                "no-barnehage:nsrid": "1013329",
+                "operator": "Vestre Toten kommune",
+                "operator:type": "public",
+                "id": "node/-2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6269,
+                    60.7341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2020",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Veltmanåa barnehage",
+                "no-barnehage:nsrid": "1017964",
+                "operator": "Vestre Toten kommune",
+                "operator:type": "public",
+                "id": "node/-2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.609,
+                    60.7231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2019",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:website": "http://www.trollskogenraufoss.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollskogen barnehage",
+                "no-barnehage:nsrid": "1020917",
+                "operator": "Trollskogen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.59358,
+                    60.72017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2016",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,7 +80,7 @@
                 "no-barnehage:nsrid": "1021463",
                 "operator": "Polaris Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1679"
+                "id": "node/-2016"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1678",
+            "id": "node/-2015",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -35,7 +102,7 @@
                 "no-barnehage:nsrid": "1022455",
                 "operator": "Lunde Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1678"
+                "id": "node/-2015"
             },
             "geometry": {
                 "type": "Point",

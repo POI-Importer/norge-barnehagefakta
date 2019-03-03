@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4636",
+            "id": "node/-5538",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Toftveien barnehage",
+                "no-barnehage:nsrid": "1020105",
+                "operator": "Toftveien barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97537,
+                    69.69772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5524",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1018441",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4636"
+                "id": "node/-5524"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4610",
+            "id": "node/-5498",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1015977",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4610"
+                "id": "node/-5498"
             },
             "geometry": {
                 "type": "Point",

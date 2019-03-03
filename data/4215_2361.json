@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3657",
+            "id": "node/-4369",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "147",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Valheim barnehage",
+                "no-barnehage:nsrid": "1019682",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.266974,
+                    60.38307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4336",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1021609",
                 "operator": "Stiftelsen Sjøsprøyten",
                 "operator:type": "private",
-                "id": "node/-3657"
+                "id": "node/-4336"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3581",
+            "id": "node/-4260",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -37,7 +59,7 @@
                 "no-barnehage:nsrid": "1021125",
                 "operator": "Kjøkkelvik barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3581"
+                "id": "node/-4260"
             },
             "geometry": {
                 "type": "Point",

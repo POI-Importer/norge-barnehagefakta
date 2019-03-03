@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3362",
+            "id": "node/-4026",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:website": "http://minbarnehage.no/viste",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Viste barnehage",
+                "no-barnehage:nsrid": "1012638",
+                "operator": "Randaberg kommune",
+                "operator:type": "public",
+                "id": "node/-4026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60973,
+                    58.9869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4019",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1020362",
                 "operator": "Endrestø barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3362"
+                "id": "node/-4019"
             },
             "geometry": {
                 "type": "Point",

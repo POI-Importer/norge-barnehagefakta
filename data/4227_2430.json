@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3126",
+            "id": "node/-3743",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "124",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øygard barnehage",
+                "no-barnehage:nsrid": "1016439",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76798,
+                    58.854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3742",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vatnekrossen barnehage",
+                "no-barnehage:nsrid": "1021367",
+                "operator": "Vatnekrossen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.77371,
+                    58.85572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3725",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1020731",
                 "operator": "Skaarlia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3126"
+                "id": "node/-3725"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3099",
+            "id": "node/-3698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -35,7 +79,7 @@
                 "no-barnehage:nsrid": "1021360",
                 "operator": "Iglemyr Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3099"
+                "id": "node/-3698"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3078",
+            "id": "node/-3677",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -57,7 +101,7 @@
                 "no-barnehage:nsrid": "1012889",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-3078"
+                "id": "node/-3677"
             },
             "geometry": {
                 "type": "Point",

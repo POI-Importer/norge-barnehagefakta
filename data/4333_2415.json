@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2609",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://kirken.no/nb-NO/fellesrad/faerder-kirkelige-fellesrad/virksomhetsomrader/barn-og-ungdom/barn-og-ungd",
+                "name": "Tripp-trapp åpen barnehage",
+                "no-barnehage:nsrid": "1014007",
+                "operator": "Færder Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-2609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4407,
+                    59.1817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2608",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torød barnehage",
+                "no-barnehage:nsrid": "1013337",
+                "operator": "Færder kommune",
+                "operator:type": "public",
+                "id": "node/-2608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4408,
+                    59.179
+                ]
+            }
+        }
+    ]
+}

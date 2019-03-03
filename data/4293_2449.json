@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2596",
+            "id": "node/-3113",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "28",
-                "contact:website": "http://solsikkenbhg.no/",
+                "capacity": "81",
+                "contact:website": "http://fus.no/vippa",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Solsikken barnehage",
-                "no-barnehage:nsrid": "1020611",
-                "operator": "Solsikken barnehage AS",
+                "name": "Vippa FUS barnehage",
+                "no-barnehage:nsrid": "1022322",
+                "operator": "Vippa Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2596"
+                "id": "node/-3113"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2586",
+            "id": "node/-3100",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:website": "http://solsikkenbhg.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solsikken barnehage",
+                "no-barnehage:nsrid": "1020611",
+                "operator": "Solsikken barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.700518,
+                    58.4151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3090",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1020925",
                 "operator": "Nedenesåsen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2586"
+                "id": "node/-3090"
             },
             "geometry": {
                 "type": "Point",

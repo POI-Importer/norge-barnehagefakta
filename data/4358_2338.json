@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1529",
+            "id": "node/-1842",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "113",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Terningen barnehage",
+                "no-barnehage:nsrid": "1018608",
+                "operator": "Elverum kommune",
+                "operator:type": "public",
+                "id": "node/-1842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5322,
+                    60.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1827",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020880",
                 "operator": "Espira Nordmo AS",
                 "operator:type": "private",
-                "id": "node/-1529"
+                "id": "node/-1827"
             },
             "geometry": {
                 "type": "Point",

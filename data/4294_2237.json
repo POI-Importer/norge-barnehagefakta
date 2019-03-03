@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4238",
+            "id": "node/-5073",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øye og Skei barnehage avd. Øye",
+                "no-barnehage:nsrid": "1013290",
+                "operator": "Surnadal kommune",
+                "operator:type": "public",
+                "id": "node/-5073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72472,
+                    62.974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5072",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øye og Skei barnehage avd. Skei",
+                "no-barnehage:nsrid": "1017373",
+                "operator": "Surnadal kommune",
+                "operator:type": "public",
+                "id": "node/-5072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72472,
+                    62.974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5068",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1018207",
                 "operator": "Surnadal kommune",
                 "operator:type": "public",
-                "id": "node/-4238"
+                "id": "node/-5068"
             },
             "geometry": {
                 "type": "Point",

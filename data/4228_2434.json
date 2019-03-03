@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3334",
+            "id": "node/-3988",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "103",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øygardsvatnet barnehage",
+                "no-barnehage:nsrid": "2000219",
+                "operator": "Gjesdal kommune",
+                "operator:type": "public",
+                "id": "node/-3988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.834013,
+                    58.76474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3984",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1013281",
                 "operator": "Gjesdal kommune",
                 "operator:type": "public",
-                "id": "node/-3334"
+                "id": "node/-3984"
             },
             "geometry": {
                 "type": "Point",

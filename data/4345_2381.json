@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-632",
+            "id": "node/-785",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://vangen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vangen barnehage",
+                "no-barnehage:nsrid": "1019914",
+                "operator": "Vangen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96457,
+                    59.93414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-783",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tre Troll",
+                "no-barnehage:nsrid": "1016539",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9771,
+                    59.9421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-767",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -13,7 +58,7 @@
                 "no-barnehage:nsrid": "1020301",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-632"
+                "id": "node/-767"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-619",
+            "id": "node/-754",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "104",
@@ -35,7 +80,7 @@
                 "no-barnehage:nsrid": "2000085",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-619"
+                "id": "node/-754"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-618",
+            "id": "node/-753",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -57,7 +102,7 @@
                 "no-barnehage:nsrid": "1014795",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-618"
+                "id": "node/-753"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-616",
+            "id": "node/-751",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -79,7 +124,7 @@
                 "no-barnehage:nsrid": "1017535",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-616"
+                "id": "node/-751"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-612",
+            "id": "node/-747",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -101,7 +146,7 @@
                 "no-barnehage:nsrid": "1014796",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-612"
+                "id": "node/-747"
             },
             "geometry": {
                 "type": "Point",

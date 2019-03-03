@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4071",
+            "id": "node/-4865",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vegsund barnehage",
+                "no-barnehage:nsrid": "1021084",
+                "operator": "Vegsund barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.351233,
+                    62.43513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4856",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020711",
                 "operator": "Skåthaugen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4071"
+                "id": "node/-4856"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4068",
+            "id": "node/-4853",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1018516",
                 "operator": "Ålesund kommune",
                 "operator:type": "public",
-                "id": "node/-4068"
+                "id": "node/-4853"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4054",
+            "id": "node/-4839",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -58,7 +80,7 @@
                 "no-barnehage:nsrid": "1020724",
                 "operator": "Heimdalen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4054"
+                "id": "node/-4839"
             },
             "geometry": {
                 "type": "Point",

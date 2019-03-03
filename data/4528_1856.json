@@ -3,7 +3,74 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4618",
+            "id": "node/-5542",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tromstun barnehage",
+                "no-barnehage:nsrid": "1013864",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0156,
+                    69.6509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5541",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tromsdalen barnehage",
+                "no-barnehage:nsrid": "1012717",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9987,
+                    69.647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5537",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://www.fus.no/tindfoten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tindfoten FUS barnehage",
+                "no-barnehage:nsrid": "1026359",
+                "operator": "Tindfoten Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00722,
+                    69.65257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5506",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -13,7 +80,7 @@
                 "no-barnehage:nsrid": "1025452",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4618"
+                "id": "node/-5506"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4593",
+            "id": "node/-5481",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -35,7 +102,7 @@
                 "no-barnehage:nsrid": "1017056",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4593"
+                "id": "node/-5481"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4591",
+            "id": "node/-5479",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -57,7 +124,7 @@
                 "no-barnehage:nsrid": "1017671",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-4591"
+                "id": "node/-5479"
             },
             "geometry": {
                 "type": "Point",

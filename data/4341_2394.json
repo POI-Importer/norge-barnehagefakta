@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-277",
+            "id": "node/-348",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tunveien barnehage",
+                "no-barnehage:nsrid": "1018509",
+                "operator": "Ås kommune",
+                "operator:type": "public",
+                "id": "node/-348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7925,
+                    59.6556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-345",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Søråsteigen barnehage",
+                "no-barnehage:nsrid": "1012872",
+                "operator": "Ås kommune",
+                "operator:type": "public",
+                "id": "node/-345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7859,
+                    59.6628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-343",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -14,7 +58,7 @@
                 "no-barnehage:nsrid": "1020545",
                 "operator": "Stiftelsen Kaja barnehage",
                 "operator:type": "private",
-                "id": "node/-277"
+                "id": "node/-343"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-274",
+            "id": "node/-340",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -36,7 +80,7 @@
                 "no-barnehage:nsrid": "1012875",
                 "operator": "Ås kommune",
                 "operator:type": "public",
-                "id": "node/-274"
+                "id": "node/-340"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-269",
+            "id": "node/-335",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -58,7 +102,7 @@
                 "no-barnehage:nsrid": "1021186",
                 "operator": "Moerlia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-269"
+                "id": "node/-335"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-264",
+            "id": "node/-330",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -81,7 +125,7 @@
                 "no-barnehage:nsrid": "1020314",
                 "operator": "Dysterlia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-264"
+                "id": "node/-330"
             },
             "geometry": {
                 "type": "Point",

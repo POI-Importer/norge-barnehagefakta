@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1915",
+            "id": "node/-2299",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "91",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vassenga barnehage",
+                "no-barnehage:nsrid": "1012622",
+                "operator": "Nedre Eiker kommune",
+                "operator:type": "public",
+                "id": "node/-2299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0162,
+                    59.746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2289",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1016257",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-1915"
+                "id": "node/-2289"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1909",
+            "id": "node/-2283",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "111",
@@ -35,7 +57,7 @@
                 "no-barnehage:nsrid": "1021640",
                 "operator": "Bakkefaret Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1909"
+                "id": "node/-2283"
             },
             "geometry": {
                 "type": "Point",

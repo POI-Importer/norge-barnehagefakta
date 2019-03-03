@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2930",
+            "id": "node/-3541",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "9",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Voie barnehage Merete Frigstad",
+                "no-barnehage:nsrid": "1020738",
+                "operator": "Voie barnehage Merete Frigstad",
+                "operator:type": "private",
+                "id": "node/-3541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.947864,
+                    58.10175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3496",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1020710",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2930"
+                "id": "node/-3496"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2892",
+            "id": "node/-3458",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -37,7 +59,7 @@
                 "no-barnehage:nsrid": "1021200",
                 "operator": "Bråvannsåsen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2892"
+                "id": "node/-3458"
             },
             "geometry": {
                 "type": "Point",

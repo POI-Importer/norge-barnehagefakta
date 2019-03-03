@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-144",
+            "id": "node/-188",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://orebekk.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ørebekk barnehage / Rs Team",
+                "no-barnehage:nsrid": "1021591",
+                "operator": "Ørebekk barnehage - Rs Team AS",
+                "operator:type": "private",
+                "id": "node/-188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89968,
+                    59.23095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-177",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "97",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trosvik barnehage",
+                "no-barnehage:nsrid": "1012709",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9244,
+                    59.226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-162",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -13,7 +58,7 @@
                 "no-barnehage:nsrid": "1015549",
                 "operator": "Ådalen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-144"
+                "id": "node/-162"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-128",
+            "id": "node/-146",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -35,7 +80,7 @@
                 "no-barnehage:nsrid": "1015514",
                 "operator": "Ådalen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-128"
+                "id": "node/-146"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-127",
+            "id": "node/-145",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -58,7 +103,7 @@
                 "no-barnehage:nsrid": "1016595",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-127"
+                "id": "node/-145"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +115,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-125",
+            "id": "node/-143",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -80,7 +125,7 @@
                 "no-barnehage:nsrid": "1016508",
                 "operator": "Fbhd Drift AS",
                 "operator:type": "private",
-                "id": "node/-125"
+                "id": "node/-143"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +137,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-95",
+            "id": "node/-113",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "94",
@@ -103,7 +148,7 @@
                 "no-barnehage:nsrid": "1021089",
                 "operator": "Benedicte Gundersen AS",
                 "operator:type": "private",
-                "id": "node/-95"
+                "id": "node/-113"
             },
             "geometry": {
                 "type": "Point",

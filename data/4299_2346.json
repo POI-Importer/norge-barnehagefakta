@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1857",
+            "id": "node/-2227",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vesterhuset barnehage",
+                "no-barnehage:nsrid": "1018009",
+                "operator": "Gol kommune",
+                "operator:type": "public",
+                "id": "node/-2227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.92683,
+                    60.6978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2224",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1017257",
                 "operator": "Gol kommune",
                 "operator:type": "public",
-                "id": "node/-1857"
+                "id": "node/-2224"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1856",
+            "id": "node/-2223",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -37,7 +59,7 @@
                 "no-barnehage:nsrid": "1018007",
                 "operator": "Gol kommune",
                 "operator:type": "public",
-                "id": "node/-1856"
+                "id": "node/-2223"
             },
             "geometry": {
                 "type": "Point",

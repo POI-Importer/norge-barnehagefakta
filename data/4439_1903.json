@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4554",
+            "id": "node/-5439",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.trollskogen-bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollskogen barnehage",
+                "no-barnehage:nsrid": "1021017",
+                "operator": "Trollskogen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0866,
+                    68.92062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5436",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1019897",
                 "operator": "Myre Bedriftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4554"
+                "id": "node/-5436"
             },
             "geometry": {
                 "type": "Point",

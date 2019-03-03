@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2352",
+            "id": "node/-2815",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:website": "http://tykkasen.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tykkåsen barnehage",
+                "no-barnehage:nsrid": "1020964",
+                "operator": "Tykkåsen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.676021,
+                    58.3782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2812",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1021185",
                 "operator": "Solstrålen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2352"
+                "id": "node/-2812"
             },
             "geometry": {
                 "type": "Point",
