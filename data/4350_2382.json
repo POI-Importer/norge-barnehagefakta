@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-708",
+            "id": "node/-703",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1017765",
                 "operator": "Fet kommune",
                 "operator:type": "public",
-                "id": "node/-708"
+                "id": "node/-703"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-704",
+            "id": "node/-699",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "143",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1016000",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-704"
+                "id": "node/-699"
             },
             "geometry": {
                 "type": "Point",
@@ -48,14 +48,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-703",
+            "id": "node/-698",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Kringen åpen barnehage",
+                "contact:website": "http://www.facebook.com/groups/145831165523968/",
+                "name": "Kringen åpen barnehage Møteplass for Små og Store",
                 "no-barnehage:nsrid": "1020721",
                 "operator": "Fetsund Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-703"
+                "id": "node/-698"
             },
             "geometry": {
                 "type": "Point",
@@ -67,17 +68,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-701",
+            "id": "node/-696",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
+                "contact:website": "http://www.fetsund.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fetsund barnehage",
                 "no-barnehage:nsrid": "1020558",
                 "operator": "Fetsund barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-701"
+                "id": "node/-696"
             },
             "geometry": {
                 "type": "Point",
