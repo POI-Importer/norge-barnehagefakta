@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4631",
+            "id": "node/-4628",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørstrand Maritime FUS barnehage",
+                "no-barnehage:nsrid": "1021670",
+                "operator": "Sørstrand Maritime Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030916,
+                    61.58697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4627",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Storevatn barnehage",
+                "no-barnehage:nsrid": "1018136",
+                "operator": "Flora kommune",
+                "operator:type": "public",
+                "id": "node/-4627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04024,
+                    61.5941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4625",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "6",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1018134",
                 "operator": "Flora kommune",
                 "operator:type": "public",
-                "id": "node/-4631"
+                "id": "node/-4625"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4629",
+            "id": "node/-4623",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -35,35 +79,13 @@
                 "no-barnehage:nsrid": "1018133",
                 "operator": "Flora kommune",
                 "operator:type": "public",
-                "id": "node/-4629"
+                "id": "node/-4623"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.04128,
                     61.5997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4624",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "27",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Dalvegen barnehage",
-                "no-barnehage:nsrid": "1018129",
-                "operator": "Flora kommune",
-                "operator:type": "public",
-                "id": "node/-4624"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.03507,
-                    61.5929
                 ]
             }
         }
