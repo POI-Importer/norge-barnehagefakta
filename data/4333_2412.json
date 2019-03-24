@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2591",
+            "id": "node/-2622",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1016036",
                 "operator": "Færder Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-2591"
+                "id": "node/-2622"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2428",
+            "id": "node/-2605",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bj Investment",
+                "no-barnehage:nsrid": "2000498",
+                "operator": "Bj Investment AS",
+                "operator:type": "private",
+                "id": "node/-2605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44559,
+                    59.24418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2456",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -36,7 +55,7 @@
                 "no-barnehage:nsrid": "1015501",
                 "operator": "Velle Gruppen AS",
                 "operator:type": "private",
-                "id": "node/-2428"
+                "id": "node/-2456"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2424",
+            "id": "node/-2452",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -59,7 +78,7 @@
                 "no-barnehage:nsrid": "1019983",
                 "operator": "Stiftelsen Regnbuen",
                 "operator:type": "private",
-                "id": "node/-2424"
+                "id": "node/-2452"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +90,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2415",
+            "id": "node/-2443",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -81,7 +100,7 @@
                 "no-barnehage:nsrid": "1012824",
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2415"
+                "id": "node/-2443"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3865",
+            "id": "node/-3926",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Trygge barnehager",
+                "no-barnehage:nsrid": "2000508",
+                "operator": "Trygge Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-3926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.272357,
+                    59.4102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3907",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -13,7 +32,7 @@
                 "no-barnehage:nsrid": "1021157",
                 "operator": "Kyvikdalen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3865"
+                "id": "node/-3907"
             },
             "geometry": {
                 "type": "Point",

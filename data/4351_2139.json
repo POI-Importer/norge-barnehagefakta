@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3393",
+            "id": "node/-3431",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1020387",
                 "operator": "Trio Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3393"
+                "id": "node/-3431"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3389",
+            "id": "node/-3430",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ryds Eiendom",
+                "no-barnehage:nsrid": "2000502",
+                "operator": "Ryds Eiendom AS",
+                "operator:type": "private",
+                "id": "node/-3430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21959,
+                    64.85902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3425",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -35,7 +54,7 @@
                 "no-barnehage:nsrid": "1021593",
                 "operator": "Bikuben Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3389"
+                "id": "node/-3425"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3387",
+            "id": "node/-3423",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -57,7 +76,7 @@
                 "no-barnehage:nsrid": "1013859",
                 "operator": "Vikna kommune",
                 "operator:type": "public",
-                "id": "node/-3387"
+                "id": "node/-3423"
             },
             "geometry": {
                 "type": "Point",

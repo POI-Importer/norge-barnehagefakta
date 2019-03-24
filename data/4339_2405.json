@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-258",
+            "id": "node/-265",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "97",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øreåsen barnehage",
+                "no-barnehage:nsrid": "1017521",
+                "operator": "Rygge kommune",
+                "operator:type": "public",
+                "id": "node/-265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6894,
+                    59.4209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-262",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1017520",
                 "operator": "Rygge kommune",
                 "operator:type": "public",
-                "id": "node/-258"
+                "id": "node/-262"
             },
             "geometry": {
                 "type": "Point",
@@ -25,14 +47,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-256",
+            "id": "node/-260",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Rygge kommune åpen barnehage",
                 "no-barnehage:nsrid": "1014136",
                 "operator": "Rygge kommune",
                 "operator:type": "public",
-                "id": "node/-256"
+                "id": "node/-260"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +66,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-254",
+            "id": "node/-258",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -54,7 +76,7 @@
                 "no-barnehage:nsrid": "1020799",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-254"
+                "id": "node/-258"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-252",
+            "id": "node/-256",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -76,7 +98,7 @@
                 "no-barnehage:nsrid": "1021311",
                 "operator": "Gubbeskogen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-252"
+                "id": "node/-256"
             },
             "geometry": {
                 "type": "Point",
@@ -88,7 +110,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-249",
+            "id": "node/-253",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -98,7 +120,7 @@
                 "no-barnehage:nsrid": "1020454",
                 "operator": "Stiftelsen barnehage Rygge",
                 "operator:type": "private",
-                "id": "node/-249"
+                "id": "node/-253"
             },
             "geometry": {
                 "type": "Point",

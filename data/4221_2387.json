@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4403",
+            "id": "node/-4449",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1021622",
                 "operator": "Villvettene Friluftsbarnehage avd Rommetveit AS",
                 "operator:type": "private",
-                "id": "node/-4403"
+                "id": "node/-4449"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4401",
+            "id": "node/-4446",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "88",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1021518",
                 "operator": "Sævarhagen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4401"
+                "id": "node/-4446"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4392",
+            "id": "node/-4437",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1020544",
                 "operator": "Nordbygdo Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4392"
+                "id": "node/-4437"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4387",
+            "id": "node/-4432",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -80,13 +80,32 @@
                 "no-barnehage:nsrid": "1021966",
                 "operator": "Dalen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4387"
+                "id": "node/-4432"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.519802,
                     59.80122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4431",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Dalen eiendombarnehageas",
+                "no-barnehage:nsrid": "2000495",
+                "operator": "Dalen Eiendom Bhg AS",
+                "operator:type": "private",
+                "id": "node/-4431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51995,
+                    59.80095
                 ]
             }
         }

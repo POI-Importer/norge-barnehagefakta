@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2422",
+            "id": "node/-2450",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020645",
                 "operator": "Solsikken-Barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2422"
+                "id": "node/-2450"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2397",
+            "id": "node/-2430",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ilebrekke barnehage",
+                "no-barnehage:nsrid": "1017866",
+                "operator": "Tønsberg kommune",
+                "operator:type": "public",
+                "id": "node/-2430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.476,
+                    59.2915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2419",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1021999",
                 "operator": "Brekke Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2397"
+                "id": "node/-2419"
             },
             "geometry": {
                 "type": "Point",
