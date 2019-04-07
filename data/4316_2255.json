@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3251",
+            "id": "node/-3257",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015509",
                 "operator": "Oppdal Kristne Senter",
                 "operator:type": "private",
-                "id": "node/-3251"
+                "id": "node/-3257"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3250",
+            "id": "node/-3256",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1020097",
                 "operator": "Torshaug Private barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3250"
+                "id": "node/-3256"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3249",
+            "id": "node/-3255",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -58,7 +58,73 @@
                 "no-barnehage:nsrid": "1019657",
                 "operator": "Stølen Private barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3249"
+                "id": "node/-3255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3253",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Midtbygda barnehage",
+                "no-barnehage:nsrid": "1019628",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3251",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgmo barnehage",
+                "no-barnehage:nsrid": "1016117",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.69742,
+                    62.5997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3248",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Drivdalen barnehage",
+                "no-barnehage:nsrid": "1019817",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3248"
             },
             "geometry": {
                 "type": "Point",
@@ -73,72 +139,6 @@
             "id": "node/-3247",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Midtbygda barnehage",
-                "no-barnehage:nsrid": "1019628",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "id": "node/-3247"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6912,
-                    62.59431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3245",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "40",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Høgmo barnehage",
-                "no-barnehage:nsrid": "1016117",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "id": "node/-3245"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.69742,
-                    62.5997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3242",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "24",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Drivdalen barnehage",
-                "no-barnehage:nsrid": "1019817",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "id": "node/-3242"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6912,
-                    62.59431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3241",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "15",
                 "max_age": "5",
                 "min_age": "1",
@@ -146,7 +146,7 @@
                 "no-barnehage:nsrid": "1020259",
                 "operator": "Bjerkehagen Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3241"
+                "id": "node/-3247"
             },
             "geometry": {
                 "type": "Point",

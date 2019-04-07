@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3359",
+            "id": "node/-3365",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "12",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1019826",
                 "operator": "Stjørdal Kvinne & Familielag",
                 "operator:type": "private",
-                "id": "node/-3359"
+                "id": "node/-3365"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3355",
+            "id": "node/-3361",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -35,7 +35,29 @@
                 "no-barnehage:nsrid": "1021274",
                 "operator": "Sagatun barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3355"
+                "id": "node/-3361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9176,
+                    63.4678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3354",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Geitspranget naturbarnehage",
+                "no-barnehage:nsrid": "1021603",
+                "operator": "Geitspranget Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3354"
             },
             "geometry": {
                 "type": "Point",
@@ -50,28 +72,6 @@
             "id": "node/-3348",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Geitspranget naturbarnehage",
-                "no-barnehage:nsrid": "1021603",
-                "operator": "Geitspranget Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-3348"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9176,
-                    63.4678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3342",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "116",
                 "contact:website": "http://www.gnistbarnehager.no",
                 "max_age": "5",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1021873",
                 "operator": "Gnist Barnehager Husbyåsen AS",
                 "operator:type": "private",
-                "id": "node/-3342"
+                "id": "node/-3348"
             },
             "geometry": {
                 "type": "Point",
