@@ -3,7 +3,51 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3580",
+            "id": "node/-3583",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myrteigen barnehage",
+                "no-barnehage:nsrid": "1019837",
+                "operator": "Myrteigen barnehage",
+                "operator:type": "private",
+                "id": "node/-3583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.451565,
+                    58.03047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3582",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mandal Sanitetsforening",
+                "no-barnehage:nsrid": "1019571",
+                "operator": "Mandal Sanitetsforening",
+                "operator:type": "private",
+                "id": "node/-3582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.442379,
+                    58.02954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3581",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -13,7 +57,7 @@
                 "no-barnehage:nsrid": "1018063",
                 "operator": "Mandal kommune",
                 "operator:type": "public",
-                "id": "node/-3580"
+                "id": "node/-3581"
             },
             "geometry": {
                 "type": "Point",
