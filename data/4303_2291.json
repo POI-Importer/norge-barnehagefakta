@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1966",
+            "id": "node/-1967",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -13,6 +13,28 @@
                 "name": "Tytingen Gards- og naturbarnehage",
                 "no-barnehage:nsrid": "1021703",
                 "operator": "Tytingen Gards- og Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-1967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.103983,
+                    61.87252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1966",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Trudelutten barnehage",
+                "no-barnehage:nsrid": "1022257",
+                "operator": "Trudelutten barnehage AS",
                 "operator:type": "private",
                 "id": "node/-1966"
             },
@@ -29,28 +51,6 @@
             "id": "node/-1965",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Trudelutten barnehage",
-                "no-barnehage:nsrid": "1022257",
-                "operator": "Trudelutten barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1965"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.103983,
-                    61.87252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1964",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1017613",
                 "operator": "Vågå kommune",
                 "operator:type": "public",
-                "id": "node/-1964"
+                "id": "node/-1965"
             },
             "geometry": {
                 "type": "Point",

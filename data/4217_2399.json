@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4418",
+            "id": "node/-4422",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1017382",
                 "operator": "Sveio kommune",
                 "operator:type": "public",
-                "id": "node/-4418"
+                "id": "node/-4422"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4417",
+            "id": "node/-4421",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -34,6 +34,50 @@
                 "name": "Læringsverkstedet barnehage avd. Ekrene natur og gårdsbarnehage",
                 "no-barnehage:nsrid": "1021167",
                 "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.351801,
+                    59.5419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4420",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjermundshaugen FUS barnehage",
+                "no-barnehage:nsrid": "1021637",
+                "operator": "Gjermundshaugen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33985,
+                    59.54228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4417",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bua kultur- og friluftsbarnehage",
+                "no-barnehage:nsrid": "1019693",
+                "operator": "Bua Kultur- og Friluftsbarnehage AS",
                 "operator:type": "private",
                 "id": "node/-4417"
             },
@@ -50,59 +94,15 @@
             "id": "node/-4416",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "69",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gjermundshaugen FUS barnehage",
-                "no-barnehage:nsrid": "1021637",
-                "operator": "Gjermundshaugen Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4416"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.33985,
-                    59.54228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4413",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "23",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bua kultur- og friluftsbarnehage",
-                "no-barnehage:nsrid": "1019693",
-                "operator": "Bua Kultur- og Friluftsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-4413"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.351801,
-                    59.5419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4412",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "29",
                 "contact:website": "http://bratveit-barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bråtveit natur og kulturbarnehage",
                 "no-barnehage:nsrid": "1019692",
-                "operator": "Bråtveit Korttids barnehage",
+                "operator": "Bråtveit Natur og Kulturbarnehage",
                 "operator:type": "private",
-                "id": "node/-4412"
+                "id": "node/-4416"
             },
             "geometry": {
                 "type": "Point",

@@ -3,14 +3,71 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3191",
+            "id": "node/-5699",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Prestejorda barnehage",
+                "no-barnehage:nsrid": "2000520",
+                "operator": "Skjervøy kommune",
+                "operator:type": "public",
+                "id": "node/-5699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3193",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Bjørkenes familiebarnehage",
                 "no-barnehage:nsrid": "2000513",
                 "operator": "Bjørkenes Familiebarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3191"
+                "id": "node/-3193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2792",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fjone barnehage",
+                "no-barnehage:nsrid": "2000521",
+                "operator": "Nissedal kommune",
+                "operator:type": "public",
+                "id": "node/-2792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1421",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Nemo familiebarnehage avd. Brobekkveien Sasiga Logeswaran",
+                "no-barnehage:nsrid": "2000518",
+                "operator": "Nemo Familiebarnehage Avd. Brobekkveien Sasiga Logeswaran",
+                "operator:type": "private",
+                "id": "node/-1421"
             },
             "geometry": {
                 "type": "Point",
@@ -42,14 +99,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1027",
+            "id": "node/-1148",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Gnist Bjørnegårdssvingen barnehage",
                 "no-barnehage:nsrid": "2000512",
-                "operator": "Bjørnegårdssvingen 11 - 13 Barnehagetomt Ans",
+                "operator": "Gnist Bjørnegårdsvingen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1027"
+                "id": "node/-1148"
             },
             "geometry": {
                 "type": "Point",
