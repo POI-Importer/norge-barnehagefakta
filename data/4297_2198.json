@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3226",
+            "id": "node/-3225",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -12,28 +12,6 @@
                 "name": "Sistranda kystbarnehage",
                 "no-barnehage:nsrid": "1020818",
                 "operator": "Sistranda Kystbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-3226"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.834004,
-                    63.72554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3225",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "65",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rabben barnehagedrift",
-                "no-barnehage:nsrid": "1022343",
-                "operator": "Rabben Barnehagedrift AS",
                 "operator:type": "private",
                 "id": "node/-3225"
             },
@@ -47,14 +25,36 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3220",
+            "id": "node/-3224",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben barnehagedrift",
+                "no-barnehage:nsrid": "1022343",
+                "operator": "Rabben Barnehagedrift AS",
+                "operator:type": "private",
+                "id": "node/-3224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834004,
+                    63.72554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3219",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Kysthaven åpen barnehage",
                 "no-barnehage:nsrid": "1014258",
                 "operator": "Frøya kommune",
                 "operator:type": "public",
-                "id": "node/-3220"
+                "id": "node/-3219"
             },
             "geometry": {
                 "type": "Point",
