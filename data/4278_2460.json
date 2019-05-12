@@ -3,6 +3,50 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-3547",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "159",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solkollen barnehage Hånes",
+                "no-barnehage:nsrid": "1022098",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.029471,
+                    58.14982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3545",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Lindebøskauen",
+                "no-barnehage:nsrid": "1022068",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.029471,
+                    58.14982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-3540",
             "properties": {
                 "amenity": "kindergarten",
