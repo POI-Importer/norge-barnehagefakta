@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3596",
+            "id": "node/-3595",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -12,29 +12,6 @@
                 "name": "Its solbarnehager",
                 "no-barnehage:nsrid": "1019987",
                 "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-3596"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.701414,
-                    58.09603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3595",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "90",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Vanse barnehage",
-                "no-barnehage:nsrid": "1021245",
-                "operator": "Espira Vanse AS",
                 "operator:type": "private",
                 "id": "node/-3595"
             },
@@ -48,7 +25,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3593",
+            "id": "node/-3594",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Vanse barnehage",
+                "no-barnehage:nsrid": "1021245",
+                "operator": "Espira Vanse AS",
+                "operator:type": "private",
+                "id": "node/-3594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.701414,
+                    58.09603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3592",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1017670",
                 "operator": "Espira Varbak Arcen AS",
                 "operator:type": "private",
-                "id": "node/-3593"
+                "id": "node/-3592"
             },
             "geometry": {
                 "type": "Point",

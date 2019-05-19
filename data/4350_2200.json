@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5157",
+            "id": "node/-5156",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1025346",
                 "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
                 "operator:type": "private",
-                "id": "node/-5157"
+                "id": "node/-5156"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5155",
+            "id": "node/-5154",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -35,29 +35,7 @@
                 "no-barnehage:nsrid": "1021054",
                 "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
                 "operator:type": "private",
-                "id": "node/-5155"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.18688,
-                    63.70111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5146",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "35",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kårstua barnehage",
-                "no-barnehage:nsrid": "1021428",
-                "operator": "Kårstua barnehage AS",
-                "operator:type": "private",
-                "id": "node/-5146"
+                "id": "node/-5154"
             },
             "geometry": {
                 "type": "Point",
@@ -72,6 +50,28 @@
             "id": "node/-5145",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kårstua barnehage",
+                "no-barnehage:nsrid": "1021428",
+                "operator": "Kårstua barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18688,
+                    63.70111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5144",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
@@ -79,7 +79,7 @@
                 "no-barnehage:nsrid": "1020923",
                 "operator": "Hompetitten barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5145"
+                "id": "node/-5144"
             },
             "geometry": {
                 "type": "Point",
