@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4588",
+            "id": "node/-4590",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -13,7 +13,30 @@
                 "no-barnehage:nsrid": "1018118",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4588"
+                "id": "node/-4590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01927,
+                    60.4031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4581",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "contact:website": "http://kartveitpollen.norlandiabarnehagene.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Kårtveitpollen barnehage",
+                "no-barnehage:nsrid": "1017266",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4581"
             },
             "geometry": {
                 "type": "Point",
@@ -28,29 +51,6 @@
             "id": "node/-4579",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "87",
-                "contact:website": "http://kartveitpollen.norlandiabarnehagene.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Norlandia Kårtveitpollen barnehage",
-                "no-barnehage:nsrid": "1017266",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-4579"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.01927,
-                    60.4031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4577",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "88",
                 "max_age": "5",
                 "min_age": "1",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "1016454",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4577"
+                "id": "node/-4579"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4566",
+            "id": "node/-4568",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "107",
@@ -81,7 +81,7 @@
                 "no-barnehage:nsrid": "1015155",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4566"
+                "id": "node/-4568"
             },
             "geometry": {
                 "type": "Point",
