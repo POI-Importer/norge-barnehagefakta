@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5005",
+            "id": "node/-5007",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -12,6 +12,51 @@
                 "min_age": "1",
                 "name": "Valle barnehage",
                 "no-barnehage:nsrid": "1014738",
+                "operator": "Skodje kommune",
+                "operator:type": "public",
+                "id": "node/-5007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.70344,
+                    62.5021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5006",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stette barnehage",
+                "no-barnehage:nsrid": "1014896",
+                "operator": "Skodje kommune",
+                "operator:type": "public",
+                "id": "node/-5006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.70344,
+                    62.5021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5005",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "contact:website": "http://www.skodje.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skodje barnehage",
+                "no-barnehage:nsrid": "1018189",
                 "operator": "Skodje kommune",
                 "operator:type": "public",
                 "id": "node/-5005"
@@ -29,51 +74,6 @@
             "id": "node/-5004",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "32",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Stette barnehage",
-                "no-barnehage:nsrid": "1014896",
-                "operator": "Skodje kommune",
-                "operator:type": "public",
-                "id": "node/-5004"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.70344,
-                    62.5021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5003",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "contact:website": "http://www.skodje.kommune.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skodje barnehage",
-                "no-barnehage:nsrid": "1018189",
-                "operator": "Skodje kommune",
-                "operator:type": "public",
-                "id": "node/-5003"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.70344,
-                    62.5021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5002",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "90",
                 "contact:website": "http://www.skodje.kommune.no",
                 "max_age": "5",
@@ -82,7 +82,7 @@
                 "no-barnehage:nsrid": "1025440",
                 "operator": "Skodje kommune",
                 "operator:type": "public",
-                "id": "node/-5002"
+                "id": "node/-5004"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5001",
+            "id": "node/-5003",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -104,7 +104,7 @@
                 "no-barnehage:nsrid": "1019866",
                 "operator": "Plassebakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5001"
+                "id": "node/-5003"
             },
             "geometry": {
                 "type": "Point",
