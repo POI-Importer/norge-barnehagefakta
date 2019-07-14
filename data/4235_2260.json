@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5024",
+            "id": "node/-5028",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -13,7 +13,29 @@
                 "no-barnehage:nsrid": "1020213",
                 "operator": "Skjong barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5024"
+                "id": "node/-5028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.108403,
+                    62.5108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5026",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myra barnehage",
+                "no-barnehage:nsrid": "1019655",
+                "operator": "Myra barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5026"
             },
             "geometry": {
                 "type": "Point",
@@ -28,28 +50,6 @@
             "id": "node/-5022",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "30",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Myra barnehage",
-                "no-barnehage:nsrid": "1019655",
-                "operator": "Myra barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-5022"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.108403,
-                    62.5108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5018",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "73",
                 "max_age": "5",
                 "min_age": "1",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1015545",
                 "operator": "Imf Sunnmøre",
                 "operator:type": "private",
-                "id": "node/-5018"
+                "id": "node/-5022"
             },
             "geometry": {
                 "type": "Point",

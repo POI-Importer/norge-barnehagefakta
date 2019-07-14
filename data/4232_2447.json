@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3707",
+            "id": "node/-3710",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Tusenbeinet åpen barnehage",
                 "no-barnehage:nsrid": "1014720",
                 "operator": "Eigersund kommune",
                 "operator:type": "public",
-                "id": "node/-3707"
+                "id": "node/-3710"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3705",
+            "id": "node/-3708",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -33,7 +33,7 @@
                 "no-barnehage:nsrid": "1021796",
                 "operator": "Skattekisten Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3705"
+                "id": "node/-3708"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +45,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3699",
+            "id": "node/-3705",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:website": "http://www.raketten.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Raketten barnehage",
+                "no-barnehage:nsrid": "1019812",
+                "operator": "Raketten barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.010831,
+                    58.46276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3701",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -55,7 +78,7 @@
                 "no-barnehage:nsrid": "1014884",
                 "operator": "Eigersund kommune",
                 "operator:type": "public",
-                "id": "node/-3699"
+                "id": "node/-3701"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +90,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3695",
+            "id": "node/-3697",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -77,36 +100,13 @@
                 "no-barnehage:nsrid": "1016318",
                 "operator": "Eigersund kommune",
                 "operator:type": "public",
-                "id": "node/-3695"
+                "id": "node/-3697"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.00527,
                     58.469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3693",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "36",
-                "contact:website": "http://www.raketten.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Raketten barnehage",
-                "no-barnehage:nsrid": "1019812",
-                "operator": "Andelslaget Raketten barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3693"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.010831,
-                    58.46276
                 ]
             }
         }

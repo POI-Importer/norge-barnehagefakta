@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5705",
+            "id": "node/-5709",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Prestejorda barnehage",
                 "no-barnehage:nsrid": "2000520",
                 "operator": "Skjervøy kommune",
                 "operator:type": "public",
-                "id": "node/-5705"
+                "id": "node/-5709"
             },
             "geometry": {
                 "type": "Point",
@@ -22,14 +22,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3645",
+            "id": "node/-3939",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Vassbrekke eiendombarnehageas",
+                "no-barnehage:nsrid": "2000543",
+                "operator": "Vassbrekke Eiendom Bhg AS",
+                "operator:type": "private",
+                "id": "node/-3939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3648",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Havåsen barnehage",
                 "no-barnehage:nsrid": "2000529",
                 "operator": "Søgne kommune",
                 "operator:type": "public",
-                "id": "node/-3645"
+                "id": "node/-3648"
             },
             "geometry": {
                 "type": "Point",
@@ -41,14 +60,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3268",
+            "id": "node/-3303",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Soknes barnehage",
+                "no-barnehage:nsrid": "2000545",
+                "operator": "Midtre Gauldal kommune",
+                "operator:type": "public",
+                "id": "node/-3303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3270",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Espira Sangereidåsen barnehage",
                 "no-barnehage:nsrid": "2000522",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3268"
+                "id": "node/-3270"
             },
             "geometry": {
                 "type": "Point",
@@ -60,14 +98,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3197",
+            "id": "node/-3199",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Bjørkenes familiebarnehage",
                 "no-barnehage:nsrid": "2000513",
                 "operator": "Bjørkenes Familiebarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3197"
+                "id": "node/-3199"
             },
             "geometry": {
                 "type": "Point",
@@ -79,14 +117,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2989",
+            "id": "node/-2991",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Ranheimsfjæra barnehage",
                 "no-barnehage:nsrid": "2000528",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2989"
+                "id": "node/-2991"
             },
             "geometry": {
                 "type": "Point",
@@ -98,14 +136,52 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2795",
+            "id": "node/-2797",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Fjone barnehage",
                 "no-barnehage:nsrid": "2000521",
                 "operator": "Nissedal kommune",
                 "operator:type": "public",
-                "id": "node/-2795"
+                "id": "node/-2797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2648",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Maristien barnehage",
+                "no-barnehage:nsrid": "2000544",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1803",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Nedre Tømte barnehage",
+                "no-barnehage:nsrid": "2000546",
+                "operator": "Stange kommune",
+                "operator:type": "public",
+                "id": "node/-1803"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1965",
+            "id": "node/-1966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -14,7 +14,30 @@
                 "no-barnehage:nsrid": "1015863",
                 "operator": "Skjåk kommune",
                 "operator:type": "public",
-                "id": "node/-1965"
+                "id": "node/-1966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37421,
+                    61.8748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1964",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://www.skjaak.kommune.no/artikkel.aspx?MId1=6&AId=20133",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dønfoss naturbarnehage",
+                "no-barnehage:nsrid": "1014716",
+                "operator": "Skjåk kommune",
+                "operator:type": "public",
+                "id": "node/-1964"
             },
             "geometry": {
                 "type": "Point",
@@ -29,29 +52,6 @@
             "id": "node/-1963",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:website": "http://www.skjaak.kommune.no/artikkel.aspx?MId1=6&AId=20133",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Dønfoss naturbarnehage",
-                "no-barnehage:nsrid": "1014716",
-                "operator": "Skjåk kommune",
-                "operator:type": "public",
-                "id": "node/-1963"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.37421,
-                    61.8748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1962",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "33",
                 "contact:website": "http://www.skjaak.kommune.no/",
                 "max_age": "5",
@@ -60,7 +60,7 @@
                 "no-barnehage:nsrid": "1017609",
                 "operator": "Skjåk kommune",
                 "operator:type": "public",
-                "id": "node/-1962"
+                "id": "node/-1963"
             },
             "geometry": {
                 "type": "Point",
