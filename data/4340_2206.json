@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5148",
+            "id": "node/-5147",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -11,28 +11,6 @@
                 "min_age": "1",
                 "name": "Solvang barnehage",
                 "no-barnehage:nsrid": "1015711",
-                "operator": "Frosta kommune",
-                "operator:type": "public",
-                "id": "node/-5148"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7608,
-                    63.5837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5147",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "14",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Folkheim barnehage",
-                "no-barnehage:nsrid": "1018269",
                 "operator": "Frosta kommune",
                 "operator:type": "public",
                 "id": "node/-5147"
@@ -47,7 +25,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5145",
+            "id": "node/-5146",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Folkheim barnehage",
+                "no-barnehage:nsrid": "1018269",
+                "operator": "Frosta kommune",
+                "operator:type": "public",
+                "id": "node/-5146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7608,
+                    63.5837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5144",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1018268",
                 "operator": "Frosta kommune",
                 "operator:type": "public",
-                "id": "node/-5145"
+                "id": "node/-5144"
             },
             "geometry": {
                 "type": "Point",

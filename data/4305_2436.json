@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2817",
+            "id": "node/-2819",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1025328",
                 "operator": "Risør kommune",
                 "operator:type": "public",
-                "id": "node/-2817"
+                "id": "node/-2819"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2816",
+            "id": "node/-2818",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1020083",
                 "operator": "Tjenna barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2816"
+                "id": "node/-2818"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2815",
+            "id": "node/-2817",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -57,6 +57,25 @@
                 "name": "Lekeslottet barnehage Risør",
                 "no-barnehage:nsrid": "1021717",
                 "operator": "Lekeslottet barnehage Risør AS",
+                "operator:type": "private",
+                "id": "node/-2817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.223167,
+                    58.71938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2815",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Frydendal barnehage",
+                "no-barnehage:nsrid": "1019777",
+                "operator": "Frydendal barnehage",
                 "operator:type": "private",
                 "id": "node/-2815"
             },
@@ -70,26 +89,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2813",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Frydendal barnehage",
-                "no-barnehage:nsrid": "1019777",
-                "operator": "Frydendal barnehage",
-                "operator:type": "private",
-                "id": "node/-2813"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.223167,
-                    58.71938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2812",
+            "id": "node/-2814",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -99,7 +99,7 @@
                 "no-barnehage:nsrid": "1020541",
                 "operator": "Frydenborg barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2812"
+                "id": "node/-2814"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +111,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2810",
+            "id": "node/-2812",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -122,7 +122,7 @@
                 "no-barnehage:nsrid": "1019881",
                 "operator": "Amandus barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2810"
+                "id": "node/-2812"
             },
             "geometry": {
                 "type": "Point",

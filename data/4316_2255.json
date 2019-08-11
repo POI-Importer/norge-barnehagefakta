@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3265",
+            "id": "node/-3267",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015509",
                 "operator": "Oppdal Kristne Senter",
                 "operator:type": "private",
-                "id": "node/-3265"
+                "id": "node/-3267"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3264",
+            "id": "node/-3266",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "19",
@@ -35,7 +35,30 @@
                 "no-barnehage:nsrid": "1020097",
                 "operator": "Torshaug Private barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3264"
+                "id": "node/-3266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6912,
+                    62.59431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3265",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stølen private barnehage",
+                "no-barnehage:nsrid": "1019657",
+                "operator": "Stølen Private barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3265"
             },
             "geometry": {
                 "type": "Point",
@@ -50,14 +73,13 @@
             "id": "node/-3263",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "16",
-                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "capacity": "46",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stølen private barnehage",
-                "no-barnehage:nsrid": "1019657",
-                "operator": "Stølen Private barnehage Sa",
-                "operator:type": "private",
+                "name": "Midtbygda barnehage",
+                "no-barnehage:nsrid": "1019628",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
                 "id": "node/-3263"
             },
             "geometry": {
@@ -73,28 +95,6 @@
             "id": "node/-3261",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Midtbygda barnehage",
-                "no-barnehage:nsrid": "1019628",
-                "operator": "Oppdal kommune",
-                "operator:type": "public",
-                "id": "node/-3261"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.6912,
-                    62.59431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3259",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "40",
                 "max_age": "5",
                 "min_age": "1",
@@ -102,7 +102,7 @@
                 "no-barnehage:nsrid": "1016117",
                 "operator": "Oppdal kommune",
                 "operator:type": "public",
-                "id": "node/-3259"
+                "id": "node/-3261"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3256",
+            "id": "node/-3258",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "24",
@@ -124,7 +124,7 @@
                 "no-barnehage:nsrid": "1019817",
                 "operator": "Oppdal kommune",
                 "operator:type": "public",
-                "id": "node/-3256"
+                "id": "node/-3258"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3255",
+            "id": "node/-3257",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "15",
@@ -146,7 +146,7 @@
                 "no-barnehage:nsrid": "1020259",
                 "operator": "Bjerkehagen Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3255"
+                "id": "node/-3257"
             },
             "geometry": {
                 "type": "Point",
