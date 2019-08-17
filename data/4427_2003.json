@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5208",
+            "id": "node/-5189",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1018290",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-5208"
+                "id": "node/-5189"
             },
             "geometry": {
                 "type": "Point",
@@ -25,29 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5185",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "25",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gjæran barnehage avd. Osphaugen",
-                "no-barnehage:nsrid": "1014195",
-                "operator": "Bodø kommune",
-                "operator:type": "public",
-                "id": "node/-5185"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5492,
-                    67.2887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5184",
+            "id": "node/-5166",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -57,13 +35,35 @@
                 "no-barnehage:nsrid": "1016630",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-5184"
+                "id": "node/-5166"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.5563,
                     67.2871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5165",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjæran barnehage avd. Osphaugen",
+                "no-barnehage:nsrid": "1014195",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5492,
+                    67.2887
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-86",
+            "id": "node/-85",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -14,54 +14,13 @@
                 "no-barnehage:nsrid": "1019772",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-86"
+                "id": "node/-85"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.11895,
                     59.27746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-83",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "J Remme Eiendom",
-                "no-barnehage:nsrid": "2000501",
-                "operator": "J Remme Eiendom AS",
-                "operator:type": "private",
-                "id": "node/-83"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.14478,
-                    59.26823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-72",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "34",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Baneveien barnehage avd. Mobakken",
-                "no-barnehage:nsrid": "1025948",
-                "operator": "Baneveien barnehage AS",
-                "operator:type": "private",
-                "id": "node/-72"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.13251,
-                    59.27433
                 ]
             }
         },
@@ -84,6 +43,28 @@
                 "coordinates": [
                     11.14546,
                     59.26706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-70",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Baneveien barnehage avd. Mobakken",
+                "no-barnehage:nsrid": "1025948",
+                "operator": "Baneveien barnehage AS",
+                "operator:type": "private",
+                "id": "node/-70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13251,
+                    59.27433
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4453",
+            "id": "node/-4434",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1021736",
                 "operator": "Sagvåg Maritime Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4453"
+                "id": "node/-4434"
             },
             "geometry": {
                 "type": "Point",
@@ -25,29 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4452",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "42",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sagvåg barnehage avd. Tjødnalio",
-                "no-barnehage:nsrid": "1013798",
-                "operator": "Stord kommune",
-                "operator:type": "public",
-                "id": "node/-4452"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.38996,
-                    59.7814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4451",
+            "id": "node/-4433",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -57,13 +35,35 @@
                 "no-barnehage:nsrid": "1014712",
                 "operator": "Stord kommune",
                 "operator:type": "public",
-                "id": "node/-4451"
+                "id": "node/-4433"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.39597,
                     59.7797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4432",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sagvåg barnehage avd. Tjødnalio",
+                "no-barnehage:nsrid": "1013798",
+                "operator": "Stord kommune",
+                "operator:type": "public",
+                "id": "node/-4432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38996,
+                    59.7814
                 ]
             }
         }

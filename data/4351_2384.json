@@ -3,29 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-715",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nygård barnehage avd. Nygårdsveien",
-                "no-barnehage:nsrid": "1017243",
-                "operator": "Fet kommune",
-                "operator:type": "public",
-                "id": "node/-715"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.2327,
-                    59.8811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-714",
+            "id": "node/-709",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -35,13 +13,35 @@
                 "no-barnehage:nsrid": "2000015",
                 "operator": "Fet kommune",
                 "operator:type": "public",
-                "id": "node/-714"
+                "id": "node/-709"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.2199,
                     59.87642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-708",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nygård barnehage avd. Nygårdsveien",
+                "no-barnehage:nsrid": "1017243",
+                "operator": "Fet kommune",
+                "operator:type": "public",
+                "id": "node/-708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2327,
+                    59.8811
                 ]
             }
         }

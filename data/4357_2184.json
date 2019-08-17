@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3171",
+            "id": "node/-3154",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1017344",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3171"
+                "id": "node/-3154"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3168",
+            "id": "node/-3151",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
@@ -35,51 +35,7 @@
                 "no-barnehage:nsrid": "1017109",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3168"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.503,
-                    64.011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3166",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "36",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skjefte barnehage",
-                "no-barnehage:nsrid": "1021213",
-                "operator": "Skjefte barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3166"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.51205,
-                    64.0126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3161",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nord Studentsamskipnad avd. studentbarnehagen Steinkjer",
-                "no-barnehage:nsrid": "1015994",
-                "operator": "Nord Studentsamskipnad",
-                "operator:type": "private",
-                "id": "node/-3161"
+                "id": "node/-3151"
             },
             "geometry": {
                 "type": "Point",
@@ -94,6 +50,50 @@
             "id": "node/-3149",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjefte barnehage",
+                "no-barnehage:nsrid": "1021213",
+                "operator": "Skjefte barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51205,
+                    64.0126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3144",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad avd. studentbarnehagen Steinkjer",
+                "no-barnehage:nsrid": "1015994",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "id": "node/-3144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503,
+                    64.011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3132",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "37",
                 "contact:website": "http://www.figgabarnehage.no",
                 "max_age": "5",
@@ -102,7 +102,7 @@
                 "no-barnehage:nsrid": "1020619",
                 "operator": "Figga barnehage",
                 "operator:type": "private",
-                "id": "node/-3149"
+                "id": "node/-3132"
             },
             "geometry": {
                 "type": "Point",
