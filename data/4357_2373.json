@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-934",
+            "id": "node/-1001",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "118",
@@ -13,38 +13,40 @@
                 "no-barnehage:nsrid": "2000215",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-934"
+                "id": "node/-1001"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.48062,
-                    60.12433
+                    11.47961,
+                    60.12316
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-927",
+            "id": "node/-997",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Nes kommune familiens Hus åpen barnehage",
-                "no-barnehage:nsrid": "1016966",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svarverud barnehage",
+                "no-barnehage:nsrid": "1017364",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-927"
+                "id": "node/-997"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.4768,
-                    60.1282
+                    11.48234,
+                    60.1193
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-924",
+            "id": "node/-990",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -55,13 +57,36 @@
                 "no-barnehage:nsrid": "1020309",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-924"
+                "id": "node/-990"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.47395,
-                    60.11929
+                    11.47383,
+                    60.11946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-984",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Kløverenga barnehage",
+                "no-barnehage:nsrid": "1021215",
+                "operator": "Espira Kløverenga AS",
+                "operator:type": "private",
+                "id": "node/-984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.47775,
+                    60.11796
                 ]
             }
         }

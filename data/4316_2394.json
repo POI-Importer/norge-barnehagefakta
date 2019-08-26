@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2181",
+            "id": "node/-2365",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1020308",
                 "operator": "Åsen Foreldrelag Sa",
                 "operator:type": "private",
-                "id": "node/-2181"
+                "id": "node/-2365"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.670492,
-                    59.65823
+                    9.67049,
+                    59.65822
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2180",
+            "id": "node/-2364",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -36,13 +36,35 @@
                 "no-barnehage:nsrid": "1017903",
                 "operator": "Teb Eiendom AS",
                 "operator:type": "private",
-                "id": "node/-2180"
+                "id": "node/-2364"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.67646,
-                    59.6589
+                    9.67647,
+                    59.65895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2353",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hovdeplassen barnehage",
+                "no-barnehage:nsrid": "1014272",
+                "operator": "Nakuba AS",
+                "operator:type": "private",
+                "id": "node/-2353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67339,
+                    59.66248
                 ]
             }
         }

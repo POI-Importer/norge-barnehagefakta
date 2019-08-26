@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3182",
+            "id": "node/-3447",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -13,13 +13,36 @@
                 "no-barnehage:nsrid": "1018056",
                 "operator": "Vegårshei kommune",
                 "operator:type": "public",
-                "id": "node/-3182"
+                "id": "node/-3447"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.86239,
-                    58.7492
+                    8.85984,
+                    58.74825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3445",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://dyrebogaardsbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dyrebo gårdsbarnehage",
+                "no-barnehage:nsrid": "1021780",
+                "operator": "Dyrebo Gårdsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.86617,
+                    58.7665
                 ]
             }
         }

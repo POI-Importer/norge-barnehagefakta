@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-765",
+            "id": "node/-821",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1013911",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-765"
+                "id": "node/-821"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0185,
-                    59.933
+                    11.01848,
+                    59.93299
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-747",
+            "id": "node/-801",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -34,19 +34,20 @@
                 "name": "Ahus Nordbyhagen barnehage 5",
                 "no-barnehage:nsrid": "1012957",
                 "operator": "Akershus Universitetssykehus Hf",
-                "id": "node/-747"
+                "operator:type": "private",
+                "id": "node/-801"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.9892,
-                    59.9315
+                    59.93147
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-746",
+            "id": "node/-800",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -55,19 +56,20 @@
                 "name": "Ahus Nordbyhagen barnehage 4",
                 "no-barnehage:nsrid": "1012956",
                 "operator": "Akershus Universitetssykehus Hf",
-                "id": "node/-746"
+                "operator:type": "private",
+                "id": "node/-800"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9892,
-                    59.9322
+                    10.98919,
+                    59.93221
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-745",
+            "id": "node/-799",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -76,19 +78,20 @@
                 "name": "Ahus Nordbyhagen barnehage 3",
                 "no-barnehage:nsrid": "1012955",
                 "operator": "Akershus Universitetssykehus Hf",
-                "id": "node/-745"
+                "operator:type": "private",
+                "id": "node/-799"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9904,
+                    10.99035,
                     59.932
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-744",
+            "id": "node/-798",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -97,19 +100,20 @@
                 "name": "Ahus Nordbyhagen barnehage 2",
                 "no-barnehage:nsrid": "1012954",
                 "operator": "Akershus Universitetssykehus Hf",
-                "id": "node/-744"
+                "operator:type": "private",
+                "id": "node/-798"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9911,
-                    59.9309
+                    10.99111,
+                    59.93092
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-743",
+            "id": "node/-797",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -118,13 +122,14 @@
                 "name": "Ahus Nordbyhagen barnehage 1",
                 "no-barnehage:nsrid": "1016669",
                 "operator": "Akershus Universitetssykehus Hf",
-                "id": "node/-743"
+                "operator:type": "private",
+                "id": "node/-797"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9909,
-                    59.9313
+                    10.99089,
+                    59.93133
                 ]
             }
         }

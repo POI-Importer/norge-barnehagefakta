@@ -3,30 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-965",
+            "id": "node/-980",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:website": "http://www.hoppensprett.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hoppensprett Hurdal",
-                "no-barnehage:nsrid": "1022403",
-                "operator": "Hoppensprett Hurdal AS",
+                "name": "Vik Utbygging",
+                "no-barnehage:nsrid": "2000340",
+                "operator": "Vik Utbygging AS",
                 "operator:type": "private",
-                "id": "node/-965"
+                "id": "node/-980"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.18482,
-                    60.15254
+                    11.18993,
+                    60.153
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-914",
+            "id": "node/-979",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -36,19 +32,19 @@
                 "no-barnehage:nsrid": "1016014",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-914"
+                "id": "node/-979"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1863,
-                    60.1545
+                    11.18628,
+                    60.15453
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-913",
+            "id": "node/-978",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -58,19 +54,19 @@
                 "no-barnehage:nsrid": "1020717",
                 "operator": "Sørholtet Andelslag Sa",
                 "operator:type": "private",
-                "id": "node/-913"
+                "id": "node/-978"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.17968,
-                    60.15865
+                    60.15866
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-904",
+            "id": "node/-969",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -81,19 +77,19 @@
                 "no-barnehage:nsrid": "1013116",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-904"
+                "id": "node/-969"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1866,
-                    60.1597
+                    11.18661,
+                    60.15974
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-903",
+            "id": "node/-968",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -103,19 +99,41 @@
                 "no-barnehage:nsrid": "1017326",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-903"
+                "id": "node/-968"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.179,
-                    60.154
+                    11.17902,
+                    60.15397
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-896",
+            "id": "node/-964",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "86",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Gystadmarka",
+                "no-barnehage:nsrid": "1015119",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18993,
+                    60.153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-960",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -126,35 +144,32 @@
                 "no-barnehage:nsrid": "1018417",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-896"
+                "id": "node/-960"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1912,
-                    60.161
+                    11.18943,
+                    60.16273
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-887",
+            "id": "node/-956",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "110",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hoppenspretthallen",
-                "no-barnehage:nsrid": "1021617",
-                "operator": "Hoppenspretthallen AS",
+                "name": "Langbølgen barnehage",
+                "no-barnehage:nsrid": "2000316",
+                "operator": "Langbølgen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-887"
+                "id": "node/-956"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.18482,
-                    60.15254
+                    11.18993,
+                    60.153
                 ]
             }
         }

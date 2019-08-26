@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-166",
+            "id": "node/-180",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Solbrekke naturbarnehage",
+                "no-barnehage:nsrid": "2000556",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84677,
+                    59.21894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-178",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -13,7 +32,7 @@
                 "no-barnehage:nsrid": "1021343",
                 "operator": "Thelen AS",
                 "operator:type": "private",
-                "id": "node/-166"
+                "id": "node/-178"
             },
             "geometry": {
                 "type": "Point",

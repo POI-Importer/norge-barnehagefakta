@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2563",
+            "id": "node/-2783",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -13,32 +13,54 @@
                 "no-barnehage:nsrid": "1012809",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2563"
+                "id": "node/-2783"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.96887,
-                    59.1924
+                    9.96789,
+                    59.19133
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2543",
+            "id": "node/-2760",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Kvelde åpen barnehage",
                 "no-barnehage:nsrid": "1025681",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2543"
+                "id": "node/-2760"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.968871,
-                    59.1924
+                    9.96789,
+                    59.19133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2759",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvelde barnehage",
+                "no-barnehage:nsrid": "1019660",
+                "operator": "Kvelde barnehage",
+                "operator:type": "private",
+                "id": "node/-2759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9694,
+                    59.1941
                 ]
             }
         }

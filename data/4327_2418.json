@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2482",
+            "id": "node/-2700",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Krokusen barnehage",
+                "no-barnehage:nsrid": "1013235",
+                "operator": "Krokusen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.17553,
+                    59.12992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2699",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -14,19 +36,19 @@
                 "no-barnehage:nsrid": "1015707",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2482"
+                "id": "node/-2699"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1837,
-                    59.1306
+                    10.18371,
+                    59.13058
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2467",
+            "id": "node/-2683",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -37,12 +59,12 @@
                 "no-barnehage:nsrid": "1019903",
                 "operator": "Furustad barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2467"
+                "id": "node/-2683"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.17464,
+                    10.17465,
                     59.11403
                 ]
             }

@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3093",
+            "id": "node/-3368",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:website": "http://noahbarnehage.wixsite.com/noah",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Noah barnehage",
+                "no-barnehage:nsrid": "1020947",
+                "operator": "Noah barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.83343,
+                    58.50152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3355",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -14,19 +37,19 @@
                 "no-barnehage:nsrid": "1015047",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3093"
+                "id": "node/-3355"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.86993,
-                    58.50881
+                    8.86988,
+                    58.50886
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3087",
+            "id": "node/-3347",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -37,19 +60,19 @@
                 "no-barnehage:nsrid": "1012502",
                 "operator": "Arendal kommune",
                 "operator:type": "public",
-                "id": "node/-3087"
+                "id": "node/-3347"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.845311,
-                    58.49752
+                    8.8441,
+                    58.49734
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3084",
+            "id": "node/-3344",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -59,12 +82,12 @@
                 "no-barnehage:nsrid": "1020529",
                 "operator": "Grandehagen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3084"
+                "id": "node/-3344"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.872166,
+                    8.87217,
                     58.50076
                 ]
             }

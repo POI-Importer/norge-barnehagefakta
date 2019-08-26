@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2186",
+            "id": "node/-2370",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -14,13 +14,35 @@
                 "no-barnehage:nsrid": "1020405",
                 "operator": "Saggrenda barnehage",
                 "operator:type": "private",
-                "id": "node/-2186"
+                "id": "node/-2370"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.623683,
-                    59.62633
+                    9.62369,
+                    59.62632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2360",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://saggrenda.barnehage.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Karins familiebarnehage",
+                "no-barnehage:nsrid": "1025504",
+                "operator": "Saggrenda barnehage",
+                "operator:type": "private",
+                "id": "node/-2360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60182,
+                    59.63172
                 ]
             }
         }

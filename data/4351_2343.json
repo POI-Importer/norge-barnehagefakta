@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1796",
+            "id": "node/-1957",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Rotli familiebarnehage",
+                "no-barnehage:nsrid": "1020512",
+                "operator": "Rotli Familiebarnehage Ans",
+                "operator:type": "private",
+                "id": "node/-1957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.22611,
+                    60.77259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1952",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,12 +32,12 @@
                 "no-barnehage:nsrid": "1021271",
                 "operator": "Læringsverkstedet Ilseng barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1796"
+                "id": "node/-1952"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.21581,
+                    11.21582,
                     60.76978
                 ]
             }

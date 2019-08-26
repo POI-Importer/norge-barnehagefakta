@@ -3,7 +3,48 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3527",
+            "id": "node/-3852",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Tveit Åpne barnehage",
+                "no-barnehage:nsrid": "1018366",
+                "operator": "Åpne Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-3852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.08602,
+                    58.19328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3832",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "159",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solkollen barnehage Hånes",
+                "no-barnehage:nsrid": "1022098",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.09576,
+                    58.18208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3819",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "22",
@@ -14,7 +55,7 @@
                 "no-barnehage:nsrid": "1013015",
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
-                "id": "node/-3527"
+                "id": "node/-3819"
             },
             "geometry": {
                 "type": "Point",
@@ -26,29 +67,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3504",
+            "id": "node/-3814",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "15",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Krohns barnehage",
-                "no-barnehage:nsrid": "1025930",
-                "operator": "Krohns barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3504"
+                "name": "Nøtteliten barnehage",
+                "no-barnehage:nsrid": "1020988",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3814"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.103993,
-                    58.18179
+                    8.09718,
+                    58.17784
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3496",
+            "id": "node/-3784",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -58,32 +96,32 @@
                 "no-barnehage:nsrid": "1012864",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3496"
+                "id": "node/-3784"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.09163,
-                    58.1751
+                    8.09162,
+                    58.17514
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3494",
+            "id": "node/-3781",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Hånes Åpne barnehage",
                 "no-barnehage:nsrid": "1013446",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3494"
+                "id": "node/-3781"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.0923,
-                    58.1775
+                    8.09229,
+                    58.17751
                 ]
             }
         }

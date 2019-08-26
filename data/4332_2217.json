@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3041",
+            "id": "node/-3309",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Varmbo familiebarnehage",
+                "no-barnehage:nsrid": "1021136",
+                "operator": "Varmbo Familiebarnehage Trude Jenssen",
+                "operator:type": "private",
+                "id": "node/-3309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4035,
+                    63.35646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3294",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1013758",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3041"
+                "id": "node/-3294"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3873,
-                    63.3626
+                    10.38734,
+                    63.36264
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3037",
+            "id": "node/-3290",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://www.facebook.com/Tiller-%C3%A5pen-barnehage-431880970164822/",
@@ -33,19 +52,41 @@
                 "no-barnehage:nsrid": "1016882",
                 "operator": "Tiller Sokn",
                 "operator:type": "private",
-                "id": "node/-3037"
+                "id": "node/-3290"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3854,
-                    63.3602
+                    10.38542,
+                    63.36018
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2997",
+            "id": "node/-3253",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skuta barnehage",
+                "no-barnehage:nsrid": "1019836",
+                "operator": "Skuta barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37194,
+                    63.36254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3247",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -55,19 +96,19 @@
                 "no-barnehage:nsrid": "1016842",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2997"
+                "id": "node/-3247"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3971,
-                    63.3681
+                    10.39708,
+                    63.36811
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2984",
+            "id": "node/-3228",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -77,19 +118,19 @@
                 "no-barnehage:nsrid": "1012524",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2984"
+                "id": "node/-3228"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3868,
-                    63.3603
+                    10.38684,
+                    63.36025
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2983",
+            "id": "node/-3227",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -99,19 +140,19 @@
                 "no-barnehage:nsrid": "1018222",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2983"
+                "id": "node/-3227"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3817,
-                    63.3552
+                    10.38174,
+                    63.35521
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2973",
+            "id": "node/-3217",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -121,19 +162,38 @@
                 "no-barnehage:nsrid": "1017829",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2973"
+                "id": "node/-3217"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3979,
-                    63.3592
+                    10.39845,
+                    63.3588
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2949",
+            "id": "node/-3198",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Myrskogen barnehage",
+                "no-barnehage:nsrid": "2000446",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37964,
+                    63.35395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3192",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -143,19 +203,38 @@
                 "no-barnehage:nsrid": "1018606",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2949"
+                "id": "node/-3192"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3964,
-                    63.3627
+                    10.39592,
+                    63.3633
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2934",
+            "id": "node/-3178",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Lykkmarka familiebarnehage Anita Berge",
+                "no-barnehage:nsrid": "1021926",
+                "operator": "Lykkmarka Familiebarnehage Anita Berge",
+                "operator:type": "private",
+                "id": "node/-3178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40315,
+                    63.3647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3176",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -166,19 +245,42 @@
                 "no-barnehage:nsrid": "1021581",
                 "operator": "Lunderhaugen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2934"
+                "id": "node/-3176"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.40743,
+                    10.40742,
                     63.36891
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2853",
+            "id": "node/-3117",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "122",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Tiller",
+                "no-barnehage:nsrid": "1022263",
+                "operator": "Gnist Barnehager Tiller AS",
+                "operator:type": "private",
+                "id": "node/-3117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40112,
+                    63.3587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3087",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -188,13 +290,13 @@
                 "no-barnehage:nsrid": "1016872",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2853"
+                "id": "node/-3087"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3896,
-                    63.3655
+                    10.38969,
+                    63.36531
                 ]
             }
         }

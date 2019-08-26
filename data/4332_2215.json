@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3035",
+            "id": "node/-3287",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020725",
                 "operator": "Tempe barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3035"
+                "id": "node/-3287"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3027",
+            "id": "node/-3279",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -36,19 +36,38 @@
                 "no-barnehage:nsrid": "1014733",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3027"
+                "id": "node/-3279"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4103,
-                    63.4015
+                    10.41032,
+                    63.40112
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3009",
+            "id": "node/-3278",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Stubban familiebarnehage Marit Gjelvold",
+                "no-barnehage:nsrid": "1021423",
+                "operator": "Stubban Familiebarnehage Marit Gjelvold",
+                "operator:type": "private",
+                "id": "node/-3278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41094,
+                    63.39586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3259",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -59,7 +78,7 @@
                 "no-barnehage:nsrid": "1019873",
                 "operator": "Stiftelsen Barnas Beste",
                 "operator:type": "private",
-                "id": "node/-3009"
+                "id": "node/-3259"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +90,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3005",
+            "id": "node/-3255",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -81,19 +100,19 @@
                 "no-barnehage:nsrid": "1015948",
                 "operator": "Stiftelsen Aurora",
                 "operator:type": "private",
-                "id": "node/-3005"
+                "id": "node/-3255"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.3963,
-                    63.3949
+                    63.39492
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2993",
+            "id": "node/-3240",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -103,19 +122,19 @@
                 "no-barnehage:nsrid": "1016306",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2993"
+                "id": "node/-3240"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3802,
-                    63.396
+                    10.37987,
+                    63.39615
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2961",
+            "id": "node/-3205",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -125,19 +144,41 @@
                 "no-barnehage:nsrid": "1016843",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2961"
+                "id": "node/-3205"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4117,
-                    63.4023
+                    10.41174,
+                    63.40234
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2870",
+            "id": "node/-3127",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hallsetreina FUS barnehage",
+                "no-barnehage:nsrid": "1021361",
+                "operator": "Hallsetreina Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37326,
+                    63.39241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3109",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -147,13 +188,13 @@
                 "no-barnehage:nsrid": "1020667",
                 "operator": "Fossegrenda barnehage Roger Lørendal",
                 "operator:type": "private",
-                "id": "node/-2870"
+                "id": "node/-3109"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.40155,
-                    63.39231
+                    10.40177,
+                    63.39245
                 ]
             }
         }

@@ -3,7 +3,28 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-155",
+            "id": "node/-167",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Oksviken familiebarnehage Atle Svinndal",
+                "no-barnehage:nsrid": "1021800",
+                "operator": "Oksviken Familiebarnehage Atle Svinndal",
+                "operator:type": "private",
+                "id": "node/-167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87394,
+                    59.19687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-166",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -13,13 +34,13 @@
                 "no-barnehage:nsrid": "1016081",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-155"
+                "id": "node/-166"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8744,
-                    59.1954
+                    10.87437,
+                    59.19537
                 ]
             }
         }

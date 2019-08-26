@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2358",
+            "id": "node/-2571",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Santa Monica familiebarnehage",
+                "no-barnehage:nsrid": "1021002",
+                "operator": "Familiebarnehage Monica Reinemo",
+                "operator:type": "private",
+                "id": "node/-2571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51756,
+                    59.721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2566",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1021464",
                 "operator": "Nedre Høvik Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2358"
+                "id": "node/-2566"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.51234,
+                    10.51233,
                     59.72845
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2347",
+            "id": "node/-2555",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -35,13 +54,13 @@
                 "no-barnehage:nsrid": "1013097",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2347"
+                "id": "node/-2555"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.5098,
-                    59.7138
+                    10.50979,
+                    59.71381
                 ]
             }
         }

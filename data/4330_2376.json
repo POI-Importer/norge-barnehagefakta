@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2228",
+            "id": "node/-2420",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1017098",
                 "operator": "Hole kommune",
                 "operator:type": "public",
-                "id": "node/-2228"
+                "id": "node/-2420"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3121,
-                    60.058
+                    10.31306,
+                    60.05833
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2227",
+            "id": "node/-2419",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1018003",
                 "operator": "Hole kommune",
                 "operator:type": "public",
-                "id": "node/-2227"
+                "id": "node/-2419"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3125,
-                    60.0614
+                    10.31248,
+                    60.06141
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2224",
+            "id": "node/-2416",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -57,13 +57,32 @@
                 "no-barnehage:nsrid": "1025966",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2224"
+                "id": "node/-2416"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.28923,
-                    60.05414
+                    10.28925,
+                    60.05326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2415",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ketil A Bratseth barnehagetjenester",
+                "no-barnehage:nsrid": "1025896",
+                "operator": "Ketil A Bratseth Barnehagetjenester",
+                "operator:type": "private",
+                "id": "node/-2415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28638,
+                    60.05412
                 ]
             }
         }

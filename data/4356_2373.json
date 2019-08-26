@@ -3,24 +3,39 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-918",
+            "id": "node/-993",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "104",
-                "contact:website": "http://www.espira.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Espira Kløverenga barnehage",
-                "no-barnehage:nsrid": "1021215",
-                "operator": "Espira Kløverenga AS",
-                "operator:type": "private",
-                "id": "node/-918"
+                "name": "Nes kommune familiens Hus åpen barnehage",
+                "no-barnehage:nsrid": "1016966",
+                "operator": "Nes kommune",
+                "operator:type": "public",
+                "id": "node/-993"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.46634,
+                    11.46745,
                     60.12105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-982",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Espira Evangtunet barnehage",
+                "no-barnehage:nsrid": "2000523",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46219,
+                    60.11384
                 ]
             }
         }

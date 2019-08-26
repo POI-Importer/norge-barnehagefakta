@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2021",
+            "id": "node/-2191",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -13,13 +13,36 @@
                 "no-barnehage:nsrid": "1017960",
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
-                "id": "node/-2021"
+                "id": "node/-2191"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9248,
-                    60.6514
+                    10.92476,
+                    60.65141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2184",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "86",
+                "contact:website": "http://www.eventyraasen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventyråsen barnehage",
+                "no-barnehage:nsrid": "1021562",
+                "operator": "Eventyråsen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91392,
+                    60.63573
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1802",
+            "id": "node/-1959",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1020685",
                 "operator": "Stiftelsen Steinerbarnehagen på Hedemarken",
                 "operator:type": "private",
-                "id": "node/-1802"
+                "id": "node/-1959"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.11204,
-                    60.77107
+                    11.10253,
+                    60.77671
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1799",
+            "id": "node/-1955",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -36,13 +36,32 @@
                 "no-barnehage:nsrid": "1017572",
                 "operator": "Stange kommune",
                 "operator:type": "public",
-                "id": "node/-1799"
+                "id": "node/-1955"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0884,
-                    60.7715
+                    11.08838,
+                    60.77145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1954",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Nedre Tømte barnehage",
+                "no-barnehage:nsrid": "2000546",
+                "operator": "Stange kommune",
+                "operator:type": "public",
+                "id": "node/-1954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.09605,
+                    60.77513
                 ]
             }
         }

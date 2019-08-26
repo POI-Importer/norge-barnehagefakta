@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1771",
+            "id": "node/-1925",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "17",
@@ -13,13 +13,32 @@
                 "no-barnehage:nsrid": "1020837",
                 "operator": "Tunet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1771"
+                "id": "node/-1925"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.93865,
                     60.88741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1920",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Providor barnehage",
+                "no-barnehage:nsrid": "1021972",
+                "operator": "Øverkvern Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93729,
+                    60.88144
                 ]
             }
         }

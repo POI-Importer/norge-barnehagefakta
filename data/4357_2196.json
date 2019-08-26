@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3386",
+            "id": "node/-3664",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1012528",
                 "operator": "Verdal kommune",
                 "operator:type": "public",
-                "id": "node/-3386"
+                "id": "node/-3664"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.491,
-                    63.7719
+                    11.49104,
+                    63.77186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3654",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kanutten barnehage",
+                "no-barnehage:nsrid": "1013760",
+                "operator": "Verdal kommune",
+                "operator:type": "public",
+                "id": "node/-3654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50047,
+                    63.76773
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3276",
+            "id": "node/-3544",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1013137",
                 "operator": "Birkenes kommune",
                 "operator:type": "public",
-                "id": "node/-3276"
+                "id": "node/-3544"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.23229,
-                    58.3309
+                    8.24553,
+                    58.31722
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3274",
+            "id": "node/-3542",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1021393",
                 "operator": "Hampehaugen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3274"
+                "id": "node/-3542"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.240077,
-                    58.32068
+                    8.24007,
+                    58.32067
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3272",
+            "id": "node/-3540",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "78",
@@ -57,13 +57,35 @@
                 "no-barnehage:nsrid": "1022306",
                 "operator": "Birkenes Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3272"
+                "id": "node/-3540"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.232289,
-                    58.33091
+                    8.23839,
+                    58.32837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3538",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Birkeland barnehage",
+                "no-barnehage:nsrid": "1016201",
+                "operator": "Birkenes kommune",
+                "operator:type": "public",
+                "id": "node/-3538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.23137,
+                    58.32985
                 ]
             }
         }

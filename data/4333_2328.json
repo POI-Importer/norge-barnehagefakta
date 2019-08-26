@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1916",
+            "id": "node/-2083",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -14,13 +14,32 @@
                 "no-barnehage:nsrid": "1020300",
                 "operator": "Stiftelsen Ringelihorn Steiner- barnehage på Lillehammer",
                 "operator:type": "private",
-                "id": "node/-1916"
+                "id": "node/-2083"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4274,
+                    10.42741,
                     61.10018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2076",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Hågåvegen familiebarnehage",
+                "no-barnehage:nsrid": "1021432",
+                "operator": "Granittlia Familiebarnehage Line Ingrid Lunn",
+                "operator:type": "private",
+                "id": "node/-2076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42698,
+                    61.09845
                 ]
             }
         }

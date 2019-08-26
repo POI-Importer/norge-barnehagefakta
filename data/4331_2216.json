@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3067",
+            "id": "node/-3325",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Øvre Flatåsen familiebarnehage",
+                "no-barnehage:nsrid": "1021071",
+                "operator": "Øvre Flatåsen Familiebarnehage Bente Riksfjord",
+                "operator:type": "private",
+                "id": "node/-3325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34308,
+                    63.37655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3324",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1018210",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3067"
+                "id": "node/-3324"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3473,
-                    63.3748
+                    10.34732,
+                    63.37481
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3018",
+            "id": "node/-3269",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -36,7 +55,7 @@
                 "no-barnehage:nsrid": "1020550",
                 "operator": "Stavsetmyra barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3018"
+                "id": "node/-3269"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2985",
+            "id": "node/-3229",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "113",
@@ -58,19 +77,19 @@
                 "no-barnehage:nsrid": "1018223",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2985"
+                "id": "node/-3229"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3635,
-                    63.3783
+                    10.36349,
+                    63.37832
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2959",
+            "id": "node/-3203",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "101",
@@ -80,41 +99,63 @@
                 "no-barnehage:nsrid": "1018587",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2959"
+                "id": "node/-3203"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.347,
-                    63.3786
+                    10.34753,
+                    63.37861
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2888",
+            "id": "node/-3180",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "76",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Hallsetreina FUS barnehage",
-                "no-barnehage:nsrid": "1021361",
-                "operator": "Hallsetreina Fus barnehage AS",
+                "name": "Læringsverkstedet barnehage avd. Buenget",
+                "no-barnehage:nsrid": "1013557",
+                "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2888"
+                "id": "node/-3180"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.36327,
-                    63.38958
+                    10.35539,
+                    63.38454
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2873",
+            "id": "node/-3154",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kolstad barnehage",
+                "no-barnehage:nsrid": "1018214",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33223,
+                    63.38792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3112",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "117",
@@ -124,19 +165,38 @@
                 "no-barnehage:nsrid": "1018211",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2873"
+                "id": "node/-3112"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3371,
-                    63.3751
+                    10.33709,
+                    63.37514
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2868",
+            "id": "node/-3108",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Flatåsen barnehager",
+                "no-barnehage:nsrid": "1025442",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34753,
+                    63.37861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3106",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "117",
@@ -147,35 +207,32 @@
                 "no-barnehage:nsrid": "1022066",
                 "operator": "Espira Kystad Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2868"
+                "id": "node/-3106"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.34184,
-                    63.3895
+                    10.34172,
+                    63.38968
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2858",
+            "id": "node/-3104",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "62",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Byåsen kirkes barnehage",
-                "no-barnehage:nsrid": "1016862",
-                "operator": "Trondhjems Asylselskap",
+                "name": "Elin Theresa Næve Burkeland",
+                "no-barnehage:nsrid": "1020634",
+                "operator": "Elin Theresa Næve",
                 "operator:type": "private",
-                "id": "node/-2858"
+                "id": "node/-3104"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3633,
-                    63.3896
+                    10.34874,
+                    63.39066
                 ]
             }
         }

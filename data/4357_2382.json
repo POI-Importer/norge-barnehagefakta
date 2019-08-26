@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-680",
+            "id": "node/-732",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Svanhild Vormeland",
+                "no-barnehage:nsrid": "1026595",
+                "operator": "Svanhild Vormeland",
+                "operator:type": "private",
+                "id": "node/-732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4717,
+                    59.9282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-729",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1020793",
                 "operator": "Ole Brumm barnehage Aurskog AS",
                 "operator:type": "private",
-                "id": "node/-680"
+                "id": "node/-729"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.47169,
+                    11.4717,
                     59.9282
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-674",
+            "id": "node/-723",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -35,13 +54,13 @@
                 "no-barnehage:nsrid": "1017942",
                 "operator": "Aurskog-Høland kommune",
                 "operator:type": "public",
-                "id": "node/-674"
+                "id": "node/-723"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.4859,
-                    59.9224
+                    11.48587,
+                    59.92236
                 ]
             }
         }

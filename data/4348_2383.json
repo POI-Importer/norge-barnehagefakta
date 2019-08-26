@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-726",
+            "id": "node/-780",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1021093",
                 "operator": "Rælingen kommune",
                 "operator:type": "public",
-                "id": "node/-726"
+                "id": "node/-780"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.09152,
-                    59.90655
+                    59.90656
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-719",
+            "id": "node/-772",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "112",
@@ -37,13 +37,35 @@
                 "no-barnehage:nsrid": "1021776",
                 "operator": "Hektneråsen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-719"
+                "id": "node/-772"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.09064,
-                    59.90313
+                    11.0892,
+                    59.90264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-770",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "94",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Tristilbakken barnehage",
+                "no-barnehage:nsrid": "2000126",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08425,
+                    59.90249
                 ]
             }
         }

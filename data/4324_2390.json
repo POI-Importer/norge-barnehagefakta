@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2317",
+            "id": "node/-2522",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -13,19 +13,38 @@
                 "no-barnehage:nsrid": "1025351",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-2317"
+                "id": "node/-2522"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0254,
-                    59.7361
+                    10.02538,
+                    59.73608
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2300",
+            "id": "node/-2507",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Knerten familiebarnehage",
+                "no-barnehage:nsrid": "1021217",
+                "operator": "Knerten Familiebarnehage Ann Mari Sandbekk Johansen",
+                "operator:type": "private",
+                "id": "node/-2507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.03962,
+                    59.75396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2502",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -36,13 +55,35 @@
                 "no-barnehage:nsrid": "1020567",
                 "operator": "Eplehagan barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2300"
+                "id": "node/-2502"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.03908,
+                    10.03909,
                     59.75059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2498",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "111",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bakkefaret FUS barnehage",
+                "no-barnehage:nsrid": "1021640",
+                "operator": "Bakkefaret Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.02815,
+                    59.7422
                 ]
             }
         }

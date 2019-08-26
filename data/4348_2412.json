@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-177",
+            "id": "node/-191",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Trollklubben private barnehagedrif Helle Fauerskov Soos",
+                "no-barnehage:nsrid": "1020222",
+                "operator": "Trollklubben Private Barnehagedrift V/helle Fauerskov Soos",
+                "operator:type": "private",
+                "id": "node/-191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.10552,
+                    59.25809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-189",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -13,13 +32,13 @@
                 "no-barnehage:nsrid": "1017698",
                 "operator": "Trollklubben barnehage AS",
                 "operator:type": "private",
-                "id": "node/-177"
+                "id": "node/-189"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1075,
-                    59.2604
+                    11.10753,
+                    59.26043
                 ]
             }
         }

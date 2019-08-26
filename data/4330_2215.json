@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3002",
+            "id": "node/-3252",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "8",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1021857",
                 "operator": "Skogstua Private Bhg AS",
                 "operator:type": "private",
-                "id": "node/-3002"
+                "id": "node/-3252"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.32333,
-                    63.40549
+                    10.32329,
+                    63.40547
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2931",
+            "id": "node/-3173",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1025401",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2931"
+                "id": "node/-3173"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.314,
-                    63.3991
+                    10.31399,
+                    63.39912
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2891",
+            "id": "node/-3131",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -57,13 +57,32 @@
                 "no-barnehage:nsrid": "1016733",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2891"
+                "id": "node/-3131"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3249,
-                    63.3945
+                    10.32279,
+                    63.39694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3130",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Haukvatnet friluftsbarnehager",
+                "no-barnehage:nsrid": "1019555",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32279,
+                    63.39694
                 ]
             }
         }

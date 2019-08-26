@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-931",
+            "id": "node/-999",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "contact:website": "http://www.hoppensprett.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Udnes naturbarnehage",
+                "no-barnehage:nsrid": "1019570",
+                "operator": "Udnes Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36486,
+                    60.09994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-998",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -14,36 +37,13 @@
                 "no-barnehage:nsrid": "1020489",
                 "operator": "Tomteråsen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-931"
+                "id": "node/-998"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.37049,
+                    11.37048,
                     60.10844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-925",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "74",
-                "contact:website": "http://www.laringsverkstedet.no/barnehage/neskollen",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Øvre Neskollen",
-                "no-barnehage:nsrid": "2000145",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-925"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.3608,
-                    60.0918
                 ]
             }
         }

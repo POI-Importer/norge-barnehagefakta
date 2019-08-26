@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-902",
+            "id": "node/-967",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Mogreina barnehage Ii",
+                "no-barnehage:nsrid": "2000352",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16798,
+                    60.22939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-966",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "130",
@@ -13,13 +32,13 @@
                 "no-barnehage:nsrid": "1016398",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-902"
+                "id": "node/-966"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1668,
-                    60.2294
+                    11.16697,
+                    60.22943
                 ]
             }
         }

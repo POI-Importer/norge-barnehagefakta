@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3024",
+            "id": "node/-3275",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1021049",
                 "operator": "Stiftelsen Steinerbarnehagen Rotnissen",
                 "operator:type": "private",
-                "id": "node/-3024"
+                "id": "node/-3275"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.48376,
-                    63.43948
+                    10.48643,
+                    63.44111
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3020",
+            "id": "node/-3271",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1020149",
                 "operator": "Stiftelsen Fjæraskogen barnehage",
                 "operator:type": "private",
-                "id": "node/-3020"
+                "id": "node/-3271"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2926",
+            "id": "node/-3168",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Ladestien barnehager",
+                "no-barnehage:nsrid": "1019556",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46564,
+                    63.44194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3167",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -57,13 +76,13 @@
                 "no-barnehage:nsrid": "1017212",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2926"
+                "id": "node/-3167"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4659,
-                    63.4421
+                    10.46564,
+                    63.44194
                 ]
             }
         }

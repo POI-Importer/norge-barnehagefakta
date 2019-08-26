@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2741",
+            "id": "node/-2975",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solsikke barnehage",
+                "no-barnehage:nsrid": "1020272",
+                "operator": "Stiftelsen Solsikke barnehage",
+                "operator:type": "private",
+                "id": "node/-2975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39285,
+                    58.8838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2969",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -13,13 +35,13 @@
                 "no-barnehage:nsrid": "1015647",
                 "operator": "Kragerø kommune",
                 "operator:type": "public",
-                "id": "node/-2741"
+                "id": "node/-2969"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.37025,
-                    58.8987
+                    58.89868
                 ]
             }
         }

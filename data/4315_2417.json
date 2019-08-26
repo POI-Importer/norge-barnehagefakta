@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2693",
+            "id": "node/-2921",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1021788",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2693"
+                "id": "node/-2921"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.624725,
+                    9.62472,
                     59.15297
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2657",
+            "id": "node/-2885",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1015940",
                 "operator": "Vest-Tun barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2657"
+                "id": "node/-2885"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.63639,
-                    59.1403
+                    59.14035
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2656",
+            "id": "node/-2884",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -57,19 +57,19 @@
                 "no-barnehage:nsrid": "1019583",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2656"
+                "id": "node/-2884"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.634799,
-                    59.14537
+                    9.63492,
+                    59.14546
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2644",
+            "id": "node/-2872",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -79,7 +79,7 @@
                 "no-barnehage:nsrid": "1016329",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2644"
+                "id": "node/-2872"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +91,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2642",
+            "id": "node/-2870",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -102,19 +102,59 @@
                 "no-barnehage:nsrid": "1014228",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-2642"
+                "id": "node/-2870"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.64683,
-                    59.1457
+                    9.64895,
+                    59.14847
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2633",
+            "id": "node/-2866",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Maristien barnehage",
+                "no-barnehage:nsrid": "2000544",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64221,
+                    59.13351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2861",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirketjernet barnehage",
+                "no-barnehage:nsrid": "1018034",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64292,
+                    59.14344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2859",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -124,19 +164,19 @@
                 "no-barnehage:nsrid": "1012500",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2633"
+                "id": "node/-2859"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.66419,
-                    59.1487
+                    59.14872
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2632",
+            "id": "node/-2858",
             "properties": {
                 "amenity": "kindergarten",
                 "contact:website": "http://www.hjerterommetbarnehage.no",
@@ -144,35 +184,13 @@
                 "no-barnehage:nsrid": "1016051",
                 "operator": "Porsgrunn Sokn",
                 "operator:type": "private",
-                "id": "node/-2632"
+                "id": "node/-2858"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.646303,
-                    59.13852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2629",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "32",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Frednes barnehage",
-                "no-barnehage:nsrid": "1018033",
-                "operator": "Porsgrunn kommune",
-                "operator:type": "public",
-                "id": "node/-2629"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.64236,
-                    59.1335
+                    9.64232,
+                    59.14342
                 ]
             }
         }

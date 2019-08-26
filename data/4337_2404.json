@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-60",
+            "id": "node/-67",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1021693",
                 "operator": "Tronvik Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-60"
+                "id": "node/-67"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.60471,
-                    59.43772
+                    10.60497,
+                    59.43737
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-50",
+            "id": "node/-57",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1017786",
                 "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-50"
+                "id": "node/-57"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-49",
+            "id": "node/-56",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -58,19 +58,19 @@
                 "no-barnehage:nsrid": "1020784",
                 "operator": "Refsnes barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-49"
+                "id": "node/-56"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.61776,
+                    10.61777,
                     59.44108
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-48",
+            "id": "node/-55",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -81,19 +81,19 @@
                 "no-barnehage:nsrid": "1017510",
                 "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-48"
+                "id": "node/-55"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6288,
-                    59.4426
+                    10.62883,
+                    59.44263
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-40",
+            "id": "node/-44",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -103,19 +103,40 @@
                 "no-barnehage:nsrid": "1020180",
                 "operator": "Bråtenstua barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-40"
+                "id": "node/-44"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.63037,
+                    10.63036,
                     59.42838
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-38",
+            "id": "node/-42",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bassenget barnehage",
+                "no-barnehage:nsrid": "1016830",
+                "operator": "Moss kommune",
+                "operator:type": "public",
+                "id": "node/-42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63012,
+                    59.43735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-41",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -125,13 +146,13 @@
                 "no-barnehage:nsrid": "1013314",
                 "operator": "Barnehageporten AS",
                 "operator:type": "private",
-                "id": "node/-38"
+                "id": "node/-41"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6002,
-                    59.4315
+                    10.60021,
+                    59.43153
                 ]
             }
         }

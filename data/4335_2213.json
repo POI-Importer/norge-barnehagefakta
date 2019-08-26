@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2882",
+            "id": "node/-3135",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Hitraveien familiebarnehage",
+                "no-barnehage:nsrid": "1021063",
+                "operator": "Hitraveien Familiebarnehage Verkland",
+                "operator:type": "private",
+                "id": "node/-3135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51676,
+                    63.4316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3121",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -13,13 +32,13 @@
                 "no-barnehage:nsrid": "1015185",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2882"
+                "id": "node/-3121"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.5085,
-                    63.4328
+                    10.50298,
+                    63.43583
                 ]
             }
         }

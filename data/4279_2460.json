@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3558",
+            "id": "node/-3854",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -13,38 +13,38 @@
                 "no-barnehage:nsrid": "1025321",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3558"
+                "id": "node/-3854"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.0802,
-                    58.1516
+                    8.08021,
+                    58.15163
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3546",
+            "id": "node/-3840",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Søm Åpne barnehage",
                 "no-barnehage:nsrid": "1018363",
                 "operator": "Åpne Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3546"
+                "id": "node/-3840"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.0819,
-                    58.1562
+                    8.08189,
+                    58.15622
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3545",
+            "id": "node/-3839",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -54,19 +54,19 @@
                 "no-barnehage:nsrid": "1016751",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3545"
+                "id": "node/-3839"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.05771,
-                    58.1527
+                    8.0577,
+                    58.15265
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3540",
+            "id": "node/-3833",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "79",
@@ -77,13 +77,55 @@
                 "no-barnehage:nsrid": "1020815",
                 "operator": "Solkollen barnehage Søm AS",
                 "operator:type": "private",
-                "id": "node/-3540"
+                "id": "node/-3833"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.072095,
-                    58.15737
+                    8.07209,
+                    58.15736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3815",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Nøtteliten familie barnehage",
+                "no-barnehage:nsrid": "1020192",
+                "operator": "Nøtteliten Familie barnehage Lykseth",
+                "operator:type": "private",
+                "id": "node/-3815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.08374,
+                    58.15705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3794",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "111",
+                "contact:website": "http://www.laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liantjønn barnehage",
+                "no-barnehage:nsrid": "1021091",
+                "operator": "Liantjønn barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0746,
+                    58.15117
                 ]
             }
         }

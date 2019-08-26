@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1920",
+            "id": "node/-2087",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -13,19 +13,41 @@
                 "no-barnehage:nsrid": "1025331",
                 "operator": "Lillehammer kommune",
                 "operator:type": "public",
-                "id": "node/-1920"
+                "id": "node/-2087"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4706,
-                    61.1354
+                    10.47058,
+                    61.13536
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1909",
+            "id": "node/-2079",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "86",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lillehammer idrettsbarnehage",
+                "no-barnehage:nsrid": "1022191",
+                "operator": "Lillehammer Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-2079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46959,
+                    61.12742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2075",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -35,35 +57,13 @@
                 "no-barnehage:nsrid": "1017601",
                 "operator": "Lillehammer kommune",
                 "operator:type": "public",
-                "id": "node/-1909"
+                "id": "node/-2075"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4647,
-                    61.1282
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1904",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "72",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Fagstadlia FUS barnehage avd. Kringsjåvegen",
-                "no-barnehage:nsrid": "1021239",
-                "operator": "Fagstadlia Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1904"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.46395,
-                    61.13613
+                    10.46471,
+                    61.12816
                 ]
             }
         }

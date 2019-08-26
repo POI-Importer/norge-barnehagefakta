@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3424",
+            "id": "node/-3702",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "41",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1020387",
                 "operator": "Trio Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3424"
+                "id": "node/-3702"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.21553,
-                    64.86023
+                    11.21504,
+                    64.85957
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3420",
+            "id": "node/-3698",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -35,35 +35,13 @@
                 "no-barnehage:nsrid": "1021593",
                 "operator": "Bikuben Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3420"
+                "id": "node/-3698"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.23977,
+                    11.23976,
                     64.86705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3418",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Austafjord oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1013859",
-                "operator": "Vikna kommune",
-                "operator:type": "public",
-                "id": "node/-3418"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.2373,
-                    64.8621
                 ]
             }
         }

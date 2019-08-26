@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1792",
+            "id": "node/-1948",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1017574",
                 "operator": "Stange kommune",
                 "operator:type": "public",
-                "id": "node/-1792"
+                "id": "node/-1948"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1378,
-                    60.7724
+                    11.13795,
+                    60.77269
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1791",
+            "id": "node/-1947",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -35,13 +35,34 @@
                 "no-barnehage:nsrid": "1017368",
                 "operator": "Stange kommune",
                 "operator:type": "public",
-                "id": "node/-1791"
+                "id": "node/-1947"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.1237,
-                    60.7738
+                    60.77378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1943",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjørklund familiebarnehage",
+                "no-barnehage:nsrid": "1022045",
+                "operator": "Bjørklund Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-1943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.15426,
+                    60.76754
                 ]
             }
         }

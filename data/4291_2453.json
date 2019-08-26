@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2804",
+            "id": "node/-3035",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "contact:website": "http://www.barnehagetunet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Askeladden Tur- og aktivitetsbarnehage",
+                "no-barnehage:nsrid": "1020577",
+                "operator": "Askeladden barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.57963,
+                    58.32801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3032",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -14,12 +37,12 @@
                 "no-barnehage:nsrid": "1022392",
                 "operator": "Alven Eventyrbarnehage i Trollvika AS",
                 "operator:type": "private",
-                "id": "node/-2804"
+                "id": "node/-3032"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.574822,
+                    8.57483,
                     58.32135
                 ]
             }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3066",
+            "id": "node/-3323",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1017328",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3066"
+                "id": "node/-3323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4433,
-                    63.4522
+                    10.44334,
+                    63.45225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3292",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "99",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tiriltoppen barnehage",
+                "no-barnehage:nsrid": "1016732",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44481,
+                    63.45155
                 ]
             }
         }

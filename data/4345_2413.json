@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-190",
+            "id": "node/-205",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Åsebråten barnehage",
+                "no-barnehage:nsrid": "2000554",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.94959,
+                    59.2283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-203",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "106",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1013416",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-190"
+                "id": "node/-203"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9565,
-                    59.2258
+                    10.95629,
+                    59.22513
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-161",
+            "id": "node/-173",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -36,7 +55,7 @@
                 "no-barnehage:nsrid": "1020516",
                 "operator": "Roselia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-161"
+                "id": "node/-173"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-154",
+            "id": "node/-165",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "51",
@@ -59,7 +78,7 @@
                 "no-barnehage:nsrid": "1021913",
                 "operator": "Noas Park barnehage AS",
                 "operator:type": "private",
-                "id": "node/-154"
+                "id": "node/-165"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +90,28 @@
         },
         {
             "type": "Feature",
-            "id": "node/-140",
+            "id": "node/-155",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lurvelegg barnehage avd. 2",
+                "no-barnehage:nsrid": "1013334",
+                "operator": "Fbhd Drift AS",
+                "operator:type": "private",
+                "id": "node/-155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.98415,
+                    59.22317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-150",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -81,19 +121,19 @@
                 "no-barnehage:nsrid": "1012708",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-140"
+                "id": "node/-150"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9633,
+                    10.96333,
                     59.2298
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-133",
+            "id": "node/-143",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "102",
@@ -103,13 +143,13 @@
                 "no-barnehage:nsrid": "1017094",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-133"
+                "id": "node/-143"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9832,
-                    59.2374
+                    10.98324,
+                    59.23737
                 ]
             }
         }

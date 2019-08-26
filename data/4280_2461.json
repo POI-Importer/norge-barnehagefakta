@@ -3,26 +3,28 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3529",
+            "id": "node/-3853",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Randesund Åpne barnehage",
-                "no-barnehage:nsrid": "1013447",
-                "operator": "Åpne Barnehager AS",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tømmerstien familiebarnehage",
+                "no-barnehage:nsrid": "1021918",
+                "operator": "Tømmerstien Familiebarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3529"
+                "id": "node/-3853"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.09891,
-                    58.1247
+                    8.09289,
+                    58.12678
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3528",
+            "id": "node/-3820",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -33,19 +35,19 @@
                 "no-barnehage:nsrid": "1018548",
                 "operator": "Rakkerungan Barnehagedrift AS",
                 "operator:type": "private",
-                "id": "node/-3528"
+                "id": "node/-3820"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.12064,
-                    58.1296
+                    8.12065,
+                    58.12962
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3484",
+            "id": "node/-3767",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
@@ -56,19 +58,19 @@
                 "no-barnehage:nsrid": "1020853",
                 "operator": "Fidje barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3484"
+                "id": "node/-3767"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.095383,
+                    8.09538,
                     58.12696
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3473",
+            "id": "node/-3754",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "18",
@@ -78,13 +80,13 @@
                 "no-barnehage:nsrid": "1020248",
                 "operator": "Blekkulf barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-3473"
+                "id": "node/-3754"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.11494,
-                    58.13205
+                    8.11493,
+                    58.13204
                 ]
             }
         }

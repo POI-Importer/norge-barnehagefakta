@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3004",
+            "id": "node/-3268",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Stabbursmoen familiebarnehage",
+                "no-barnehage:nsrid": "1021414",
+                "operator": "Stabbursmoen Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-3268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34709,
+                    63.35328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3254",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -13,41 +32,38 @@
                 "no-barnehage:nsrid": "1017808",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3004"
+                "id": "node/-3254"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3445,
-                    63.3608
+                    10.34445,
+                    63.36082
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3003",
+            "id": "node/-3238",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skuta barnehage",
-                "no-barnehage:nsrid": "1019836",
-                "operator": "Skuta barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3003"
+                "name": "Saupstadringen barnehager",
+                "no-barnehage:nsrid": "1019557",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3238"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.37085,
-                    63.36265
+                    10.3572,
+                    63.36554
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2991",
+            "id": "node/-3237",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -57,19 +73,19 @@
                 "no-barnehage:nsrid": "1018432",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2991"
+                "id": "node/-3237"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3452,
-                    63.3655
+                    10.34518,
+                    63.36548
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2980",
+            "id": "node/-3224",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -79,19 +95,19 @@
                 "no-barnehage:nsrid": "1018220",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2980"
+                "id": "node/-3224"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.3572,
-                    63.3655
+                    63.36554
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2917",
+            "id": "node/-3158",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -101,19 +117,19 @@
                 "no-barnehage:nsrid": "1014008",
                 "operator": "Prima Arena AS",
                 "operator:type": "private",
-                "id": "node/-2917"
+                "id": "node/-3158"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3429,
-                    63.3571
+                    10.34235,
+                    63.35712
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2914",
+            "id": "node/-3155",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -123,41 +139,19 @@
                 "no-barnehage:nsrid": "1014004",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2914"
+                "id": "node/-3155"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3515,
-                    63.3614
+                    10.35149,
+                    63.36135
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2913",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "76",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kolstad barnehage",
-                "no-barnehage:nsrid": "1018214",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-2913"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.3501,
-                    63.3683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2898",
+            "id": "node/-3139",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -167,19 +161,19 @@
                 "no-barnehage:nsrid": "1018213",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2898"
+                "id": "node/-3139"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.3418,
-                    63.3688
+                    10.34176,
+                    63.36883
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2865",
+            "id": "node/-3100",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -189,13 +183,32 @@
                 "no-barnehage:nsrid": "1022089",
                 "operator": "Duttestien barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2865"
+                "id": "node/-3100"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.34101,
-                    63.35356
+                    10.34155,
+                    63.3536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3074",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bamsehiet familiebarnehage  Tove Thorolvsen",
+                "no-barnehage:nsrid": "1021931",
+                "operator": "Bamsehiet Familiebarnehage V/ Tove Thorolvsen",
+                "operator:type": "private",
+                "id": "node/-3074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36938,
+                    63.35966
                 ]
             }
         }

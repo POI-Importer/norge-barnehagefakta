@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2255",
+            "id": "node/-2451",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "43",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1013921",
                 "operator": "Hol kommune",
                 "operator:type": "public",
-                "id": "node/-2255"
+                "id": "node/-2451"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.2287,
-                    60.5266
+                    8.22689,
+                    60.52555
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2253",
+            "id": "node/-2449",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -35,13 +35,35 @@
                 "no-barnehage:nsrid": "1021289",
                 "operator": "Småtroll barnehage",
                 "operator:type": "private",
-                "id": "node/-2253"
+                "id": "node/-2449"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.22366,
+                    8.22352,
                     60.52792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2445",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Geilo barnehage",
+                "no-barnehage:nsrid": "1018013",
+                "operator": "Hol kommune",
+                "operator:type": "public",
+                "id": "node/-2445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.23347,
+                    60.53994
                 ]
             }
         }

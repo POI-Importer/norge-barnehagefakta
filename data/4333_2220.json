@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3321",
+            "id": "node/-3597",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1018255",
                 "operator": "Klæbu kommune",
                 "operator:type": "public",
-                "id": "node/-3321"
+                "id": "node/-3597"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4264,
-                    63.3075
+                    10.42671,
+                    63.30748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3590",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brannåsen barnehage",
+                "no-barnehage:nsrid": "1018254",
+                "operator": "Klæbu kommune",
+                "operator:type": "public",
+                "id": "node/-3590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43436,
+                    63.30754
                 ]
             }
         }

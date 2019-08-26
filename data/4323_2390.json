@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2314",
+            "id": "node/-2520",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Åpen barnehage Foreldre/barn Gruppen",
+                "no-barnehage:nsrid": "1015865",
+                "operator": "Nedre Eiker kommune",
+                "operator:type": "public",
+                "id": "node/-2520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00801,
+                    59.7493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2518",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "91",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1012622",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-2314"
+                "id": "node/-2518"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0162,
-                    59.746
+                    10.01624,
+                    59.74596
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2304",
+            "id": "node/-2506",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -35,35 +54,51 @@
                 "no-barnehage:nsrid": "1016257",
                 "operator": "Nedre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-2304"
+                "id": "node/-2506"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.0032,
-                    59.7503
+                    10.00322,
+                    59.75036
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2298",
+            "id": "node/-2500",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "111",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bakkefaret FUS barnehage",
-                "no-barnehage:nsrid": "1021640",
-                "operator": "Bakkefaret Fus barnehage AS",
+                "name": "Bråta familiebarnehage Jorunn Solli",
+                "no-barnehage:nsrid": "1020610",
+                "operator": "Bråta Familiebarnehage Jorunn Solli",
                 "operator:type": "private",
-                "id": "node/-2298"
+                "id": "node/-2500"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.01419,
-                    59.74976
+                    9.99701,
+                    59.74629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2497",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Askeladden familiebarnehage Hege Bråthen",
+                "no-barnehage:nsrid": "1020537",
+                "operator": "Askeladden Familiebarnehage Hege Bråthen",
+                "operator:type": "private",
+                "id": "node/-2497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99761,
+                    59.74615
                 ]
             }
         }

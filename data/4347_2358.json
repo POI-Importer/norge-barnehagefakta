@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-967",
+            "id": "node/-1034",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1014141",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-967"
+                "id": "node/-1034"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0676,
-                    60.4383
+                    11.06845,
+                    60.43716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1032",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:website": "http://www.hoppensprett.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hoppensprett Hurdal",
+                "no-barnehage:nsrid": "1022403",
+                "operator": "Hoppensprett Hurdal AS",
+                "operator:type": "private",
+                "id": "node/-1032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04607,
+                    60.44855
                 ]
             }
         }

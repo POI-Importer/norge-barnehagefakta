@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-875",
+            "id": "node/-963",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:website": "http://www.laringsverkstedet.no/borgen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Borgen",
+                "no-barnehage:nsrid": "1015115",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.22164,
+                    60.09868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-938",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -13,13 +36,13 @@
                 "no-barnehage:nsrid": "1021129",
                 "operator": "Borgen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-875"
+                "id": "node/-938"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.21916,
-                    60.10096
+                    11.2193,
+                    60.10088
                 ]
             }
         }

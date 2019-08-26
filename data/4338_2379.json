@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1675",
+            "id": "node/-1822",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1015042",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1675"
+                "id": "node/-1822"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6645,
-                    59.9803
+                    10.66454,
+                    59.98034
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1632",
+            "id": "node/-1775",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "34",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1021256",
                 "operator": "Turi Sletners Barnehave AS",
                 "operator:type": "private",
-                "id": "node/-1632"
+                "id": "node/-1775"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.65229,
-                    59.97976
+                    10.65311,
+                    59.97947
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1613",
+            "id": "node/-1756",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1022298",
                 "operator": "Tommlekollen Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1613"
+                "id": "node/-1756"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1612",
+            "id": "node/-1755",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -80,13 +80,55 @@
                 "no-barnehage:nsrid": "1022358",
                 "operator": "Tomm Murstad Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1612"
+                "id": "node/-1755"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.67616,
-                    59.97722
+                    10.66693,
+                    59.98167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1572",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://www.norlandia.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Onkel Tomm's Hytte",
+                "no-barnehage:nsrid": "1015720",
+                "operator": "Onkel Tomm'S Hytte AS",
+                "operator:type": "private",
+                "id": "node/-1572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67245,
+                    59.98436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1558",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Norlandia Voksentoppen Ski og friluftsbarnehage",
+                "no-barnehage:nsrid": "2000159",
+                "operator": "Norlandia Voksentoppen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66517,
+                    59.97729
                 ]
             }
         }

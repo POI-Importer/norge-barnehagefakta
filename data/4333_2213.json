@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3065",
+            "id": "node/-3321",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1020377",
                 "operator": "Weidemannsveien barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3065"
+                "id": "node/-3321"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.42275,
-                    63.43421
+                    10.4227,
+                    63.43426
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3063",
+            "id": "node/-3319",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "42",
@@ -36,26 +36,26 @@
                 "no-barnehage:nsrid": "1016908",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3063"
+                "id": "node/-3319"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4289,
-                    63.4376
+                    10.43022,
+                    63.43784
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3046",
+            "id": "node/-3299",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Trondheim International Playground",
                 "no-barnehage:nsrid": "1014098",
                 "operator": "Aziz Drums Kunya",
                 "operator:type": "private",
-                "id": "node/-3046"
+                "id": "node/-3299"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3029",
+            "id": "node/-3281",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -77,19 +77,19 @@
                 "no-barnehage:nsrid": "1016958",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3029"
+                "id": "node/-3281"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4234,
-                    63.4382
+                    10.42283,
+                    63.43862
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3017",
+            "id": "node/-3267",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -99,19 +99,38 @@
                 "no-barnehage:nsrid": "1016846",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3017"
+                "id": "node/-3267"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4405,
-                    63.4489
+                    10.44046,
+                    63.44889
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2992",
+            "id": "node/-3241",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sentrum barnehager",
+                "no-barnehage:nsrid": "1019552",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43022,
+                    63.43784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3239",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "37",
@@ -122,7 +141,7 @@
                 "no-barnehage:nsrid": "1021406",
                 "operator": "Saxenborg barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2992"
+                "id": "node/-3239"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +153,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2989",
+            "id": "node/-3235",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -144,42 +163,79 @@
                 "no-barnehage:nsrid": "1025412",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2989"
+                "id": "node/-3235"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4415,
-                    63.4351
+                    10.44155,
+                    63.43507
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2951",
+            "id": "node/-3232",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "15",
-                "contact:website": "http://www.motbakken.no",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Motbakken barnehage",
-                "no-barnehage:nsrid": "1020095",
-                "operator": "Motbakken barnehage Sa",
+                "name": "Rosenborg barnehageforening",
+                "no-barnehage:nsrid": "1020148",
+                "operator": "Rosenborg Barnehageforening",
                 "operator:type": "private",
-                "id": "node/-2951"
+                "id": "node/-3232"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.43338,
-                    63.43534
+                    10.43476,
+                    63.4407
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2943",
+            "id": "node/-3231",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rosenborg barnehage",
+                "no-barnehage:nsrid": "1022334",
+                "operator": "Rosenborg barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43476,
+                    63.4407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3196",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://www.musikkmanesjen.no",
+                "name": "Musikkmanesjen",
+                "no-barnehage:nsrid": "1021564",
+                "operator": "Kulset Musikkmanesjen",
+                "operator:type": "private",
+                "id": "node/-3196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4361,
+                    63.44297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3186",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "64",
@@ -189,19 +245,19 @@
                 "no-barnehage:nsrid": "1017741",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2943"
+                "id": "node/-3186"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4415,
-                    63.4309
+                    10.44151,
+                    63.43092
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2925",
+            "id": "node/-3166",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -211,19 +267,19 @@
                 "no-barnehage:nsrid": "1016778",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-2925"
+                "id": "node/-3166"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4212,
-                    63.4369
+                    10.42116,
+                    63.43687
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2918",
+            "id": "node/-3159",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -233,19 +289,19 @@
                 "no-barnehage:nsrid": "1014782",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2918"
+                "id": "node/-3159"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4333,
-                    63.4492
+                    10.43326,
+                    63.44919
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2864",
+            "id": "node/-3099",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -255,19 +311,19 @@
                 "no-barnehage:nsrid": "1025402",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-2864"
+                "id": "node/-3099"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.4477,
-                    63.4389
+                    63.43887
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2838",
+            "id": "node/-3071",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -278,31 +334,31 @@
                 "no-barnehage:nsrid": "1014823",
                 "operator": "Stiftelsen Aurora",
                 "operator:type": "private",
-                "id": "node/-2838"
+                "id": "node/-3071"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4521,
+                    10.45215,
                     63.4325
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2834",
+            "id": "node/-3067",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Aktiv åpen barnehage",
                 "no-barnehage:nsrid": "1020910",
                 "operator": "Aktiv Åpen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2834"
+                "id": "node/-3067"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.41556,
+                    10.41555,
                     63.43911
                 ]
             }

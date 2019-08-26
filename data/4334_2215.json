@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3008",
+            "id": "node/-3258",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "116",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1021714",
                 "operator": "Solbakken Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3008"
+                "id": "node/-3258"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2995",
+            "id": "node/-3244",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -36,13 +36,32 @@
                 "no-barnehage:nsrid": "1016840",
                 "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
                 "operator:type": "private",
-                "id": "node/-2995"
+                "id": "node/-3244"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4638,
-                    63.4097
+                    10.46377,
+                    63.40967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3243",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "no-barnehage:nsrid": "1019511",
+                "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+                "operator:type": "private",
+                "id": "node/-3243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48078,
+                    63.40742
                 ]
             }
         }

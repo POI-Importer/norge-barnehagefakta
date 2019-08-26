@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-225",
+            "id": "node/-243",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "131",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1017352",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-225"
+                "id": "node/-243"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1903,
-                    59.5909
+                    11.19029,
+                    59.59087
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-218",
+            "id": "node/-235",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -36,19 +36,82 @@
                 "no-barnehage:nsrid": "1016660",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-218"
+                "id": "node/-235"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1766,
-                    59.5907
+                    11.17676,
+                    59.59063
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-215",
+            "id": "node/-234",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Lyngåsen familiebarnehage",
+                "no-barnehage:nsrid": "1020393",
+                "operator": "Lyngåsen Familiebarnehage, avd Randi Espesæter",
+                "operator:type": "private",
+                "id": "node/-234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1925,
+                    59.59208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-231",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Henstad barnehage",
+                "no-barnehage:nsrid": "1017351",
+                "operator": "Askim kommune",
+                "operator:type": "public",
+                "id": "node/-231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16842,
+                    59.58421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-230",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grøtvedt barnehage",
+                "no-barnehage:nsrid": "1017505",
+                "operator": "Askim kommune",
+                "operator:type": "public",
+                "id": "node/-230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1813,
+                    59.59336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-228",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "110",
@@ -58,32 +121,32 @@
                 "no-barnehage:nsrid": "2000143",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-215"
+                "id": "node/-228"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.17982,
-                    59.59313
+                    11.17889,
+                    59.59219
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-214",
+            "id": "node/-227",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Askim kommune åpen barnehage",
                 "no-barnehage:nsrid": "1015585",
                 "operator": "Askim kommune",
                 "operator:type": "public",
-                "id": "node/-214"
+                "id": "node/-227"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.178,
-                    59.5859
+                    11.17889,
+                    59.59219
                 ]
             }
         }

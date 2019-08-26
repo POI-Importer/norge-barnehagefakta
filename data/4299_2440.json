@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3195",
+            "id": "node/-3461",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1017100",
                 "operator": "Tvedestrand kommune",
                 "operator:type": "public",
-                "id": "node/-3195"
+                "id": "node/-3461"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.92735,
-                    58.6228
+                    8.92717,
+                    58.62298
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3193",
+            "id": "node/-3459",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "23",
@@ -35,19 +35,41 @@
                 "no-barnehage:nsrid": "1014923",
                 "operator": "Tvedestrand kommune",
                 "operator:type": "public",
-                "id": "node/-3193"
+                "id": "node/-3459"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.92753,
-                    58.6249
+                    58.62491
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3185",
+            "id": "node/-3455",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lyngbakken barnehage",
+                "no-barnehage:nsrid": "1016052",
+                "operator": "Tvedestrand kommune",
+                "operator:type": "public",
+                "id": "node/-3455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93556,
+                    58.6279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3450",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "13",
@@ -57,13 +79,13 @@
                 "no-barnehage:nsrid": "1022268",
                 "operator": "Blåbærskogen Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3185"
+                "id": "node/-3450"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.931399,
-                    58.62228
+                    8.93182,
+                    58.61217
                 ]
             }
         }

@@ -3,29 +3,49 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3539",
+            "id": "node/-3836",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "159",
-                "max_age": "5",
+                "max_age": "2",
                 "min_age": "1",
-                "name": "Solkollen barnehage Hånes",
-                "no-barnehage:nsrid": "1022098",
-                "operator": "Læringsverkstedet AS",
+                "name": "Stiftegården familiebarnehage",
+                "no-barnehage:nsrid": "1020036",
+                "operator": "Stiftegården Familiebarnehage Ans",
                 "operator:type": "private",
-                "id": "node/-3539"
+                "id": "node/-3836"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.029471,
-                    58.14982
+                    8.00422,
+                    58.15365
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3533",
+            "id": "node/-3829",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sløyden barnehage",
+                "no-barnehage:nsrid": "1016056",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.00034,
+                    58.14972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3825",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "214",
@@ -35,19 +55,19 @@
                 "no-barnehage:nsrid": "1016172",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3533"
+                "id": "node/-3825"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.02859,
-                    58.149
+                    58.14903
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3526",
+            "id": "node/-3818",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "114",
@@ -58,19 +78,19 @@
                 "no-barnehage:nsrid": "1020835",
                 "operator": "Presteheia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3526"
+                "id": "node/-3818"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.012456,
+                    8.01245,
                     58.16578
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3515",
+            "id": "node/-3805",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -81,19 +101,19 @@
                 "no-barnehage:nsrid": "1015979",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3515"
+                "id": "node/-3805"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.0228,
-                    58.1584
+                    58.15844
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3513",
+            "id": "node/-3803",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -103,19 +123,19 @@
                 "no-barnehage:nsrid": "1022068",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3513"
+                "id": "node/-3803"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.029471,
-                    58.14982
+                    8.03194,
+                    58.14923
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3509",
+            "id": "node/-3798",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -126,41 +146,19 @@
                 "no-barnehage:nsrid": "1021960",
                 "operator": "Lund barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3509"
+                "id": "node/-3798"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.011456,
+                    8.01147,
                     58.15263
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3503",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "50",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kongsgård barnehagesenter",
-                "no-barnehage:nsrid": "1015716",
-                "operator": "Kristiansand kommune",
-                "operator:type": "public",
-                "id": "node/-3503"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.01741,
-                    58.1566
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3492",
+            "id": "node/-3779",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "132",
@@ -170,42 +168,19 @@
                 "no-barnehage:nsrid": "1014939",
                 "operator": "Studentsamskipnaden i Agder",
                 "operator:type": "private",
-                "id": "node/-3492"
+                "id": "node/-3779"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.99927,
-                    58.1647
+                    58.16467
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3478",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "142",
-                "contact:website": "http://laringsverkstedet.no/barnehage/eidet",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Eidet barnehage",
-                "no-barnehage:nsrid": "1021900",
-                "operator": "Eidet barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3478"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.018207,
-                    58.15991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3474",
+            "id": "node/-3755",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -215,19 +190,38 @@
                 "no-barnehage:nsrid": "1020477",
                 "operator": "Blåmann Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-3474"
+                "id": "node/-3755"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.015239,
+                    8.01523,
                     58.15918
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3469",
+            "id": "node/-3752",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bispegra og Marvika 3 barnehage",
+                "no-barnehage:nsrid": "1015219",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02414,
+                    58.16021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3749",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -237,12 +231,12 @@
                 "no-barnehage:nsrid": "1014830",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3469"
+                "id": "node/-3749"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.02103,
+                    8.02104,
                     58.1501
                 ]
             }

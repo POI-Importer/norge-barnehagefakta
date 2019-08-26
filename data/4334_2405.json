@@ -3,48 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2412",
+            "id": "node/-2628",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Åpen barnehage",
                 "no-barnehage:nsrid": "1022450",
                 "operator": "Silvia Kristoffersen Kosmo",
                 "operator:type": "private",
-                "id": "node/-2412"
+                "id": "node/-2628"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.48074,
-                    59.40607
+                    10.48075,
+                    59.40606
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2410",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "34",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Trimveien barnehage",
-                "no-barnehage:nsrid": "1020695",
-                "operator": "Trimveien barnehage Da",
-                "operator:type": "private",
-                "id": "node/-2410"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.46232,
-                    59.40516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2409",
+            "id": "node/-2624",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -54,19 +32,19 @@
                 "no-barnehage:nsrid": "1016998",
                 "operator": "Horten kommune",
                 "operator:type": "public",
-                "id": "node/-2409"
+                "id": "node/-2624"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.4836,
-                    59.4057
+                    10.48361,
+                    59.40601
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2402",
+            "id": "node/-2617",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -76,19 +54,19 @@
                 "no-barnehage:nsrid": "1022067",
                 "operator": "Barnas-Barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2402"
+                "id": "node/-2617"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.46043,
-                    59.41496
+                    10.46072,
+                    59.41976
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2401",
+            "id": "node/-2616",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "20",
@@ -98,7 +76,7 @@
                 "no-barnehage:nsrid": "1020694",
                 "operator": "Lilaas Gård Barnehage, Inger Marie Semb Avdal",
                 "operator:type": "private",
-                "id": "node/-2401"
+                "id": "node/-2616"
             },
             "geometry": {
                 "type": "Point",
@@ -110,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2398",
+            "id": "node/-2612",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "66",
@@ -120,19 +98,40 @@
                 "no-barnehage:nsrid": "1012882",
                 "operator": "Horten kommune",
                 "operator:type": "public",
-                "id": "node/-2398"
+                "id": "node/-2612"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.4681,
-                    59.4087
+                    59.40865
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2396",
+            "id": "node/-2611",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Familiebarnehage Strandparken",
+                "no-barnehage:nsrid": "1019645",
+                "operator": "Horten kommune",
+                "operator:type": "public",
+                "id": "node/-2611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48361,
+                    59.40601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2609",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "167",
@@ -142,13 +141,34 @@
                 "no-barnehage:nsrid": "1025673",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-2396"
+                "id": "node/-2609"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.46589,
-                    59.40471
+                    10.46678,
+                    59.40421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2605",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Baggerød barnehage",
+                "no-barnehage:nsrid": "1015829",
+                "operator": "Borre Student- og Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-2605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46454,
+                    59.40358
                 ]
             }
         }

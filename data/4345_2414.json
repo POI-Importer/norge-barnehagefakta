@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-170",
+            "id": "node/-182",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "2000014",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-170"
+                "id": "node/-182"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-149",
+            "id": "node/-160",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -35,19 +35,19 @@
                 "no-barnehage:nsrid": "1012707",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-149"
+                "id": "node/-160"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9735,
-                    59.2145
+                    10.97282,
+                    59.21495
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-134",
+            "id": "node/-144",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -57,19 +57,19 @@
                 "no-barnehage:nsrid": "1025356",
                 "operator": "Fredrikstad kommune",
                 "operator:type": "public",
-                "id": "node/-134"
+                "id": "node/-144"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9599,
-                    59.2149
+                    10.95987,
+                    59.21508
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-130",
+            "id": "node/-140",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -79,13 +79,32 @@
                 "no-barnehage:nsrid": "1016653",
                 "operator": "Samvirkebarnehagene Sa",
                 "operator:type": "private",
-                "id": "node/-130"
+                "id": "node/-140"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9659,
-                    59.2076
+                    10.96587,
+                    59.20756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-131",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fredrikstad Internasjonale skole avd. åpen barnehage",
+                "no-barnehage:nsrid": "1018556",
+                "operator": "Fredrikstad kommune",
+                "operator:type": "public",
+                "id": "node/-131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95326,
+                    59.20289
                 ]
             }
         }

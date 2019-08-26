@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-827",
+            "id": "node/-889",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1019920",
                 "operator": "Skedsmo Barnehager Sa",
                 "operator:type": "private",
-                "id": "node/-827"
+                "id": "node/-889"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.03462,
+                    11.03463,
                     59.98477
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-823",
+            "id": "node/-884",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "103",
@@ -36,19 +36,41 @@
                 "no-barnehage:nsrid": "1017049",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-823"
+                "id": "node/-884"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0384,
-                    59.994
+                    11.03837,
+                    59.99402
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-799",
+            "id": "node/-878",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "216",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Riisløkka barnehage",
+                "no-barnehage:nsrid": "1016960",
+                "operator": "Skedsmo kommune",
+                "operator:type": "public",
+                "id": "node/-878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04104,
+                    59.97792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-856",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -58,12 +80,12 @@
                 "no-barnehage:nsrid": "1019923",
                 "operator": "Holthagen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-799"
+                "id": "node/-856"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.03947,
+                    11.03946,
                     59.98732
                 ]
             }

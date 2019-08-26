@@ -3,7 +3,28 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1624",
+            "id": "node/-1845",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsland barnehage",
+                "no-barnehage:nsrid": "1013840",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-1845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.83803,
+                    59.82116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1767",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -14,19 +35,19 @@
                 "no-barnehage:nsrid": "1020457",
                 "operator": "Trollskogen barnehage Bjørndal Sa",
                 "operator:type": "private",
-                "id": "node/-1624"
+                "id": "node/-1767"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8406,
-                    59.81795
+                    10.84068,
+                    59.8177
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1595",
+            "id": "node/-1738",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -36,19 +57,19 @@
                 "no-barnehage:nsrid": "1015624",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1595"
+                "id": "node/-1738"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8409,
-                    59.8215
+                    10.84095,
+                    59.82153
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-428",
+            "id": "node/-457",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -58,19 +79,19 @@
                 "no-barnehage:nsrid": "1012769",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-428"
+                "id": "node/-457"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8215,
-                    59.8052
+                    10.82153,
+                    59.80518
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-406",
+            "id": "node/-432",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -80,19 +101,19 @@
                 "no-barnehage:nsrid": "1012767",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-406"
+                "id": "node/-432"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8156,
-                    59.8085
+                    10.81558,
+                    59.80855
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-404",
+            "id": "node/-430",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -102,19 +123,41 @@
                 "no-barnehage:nsrid": "1013516",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-404"
+                "id": "node/-430"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8148,
-                    59.8135
+                    10.81561,
+                    59.81253
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-402",
+            "id": "node/-429",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Greverudlia barnehage",
+                "no-barnehage:nsrid": "1013866",
+                "operator": "Oppegård kommune",
+                "operator:type": "public",
+                "id": "node/-429"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82075,
+                    59.80288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-428",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "62",
@@ -124,19 +167,19 @@
                 "no-barnehage:nsrid": "1013112",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-402"
+                "id": "node/-428"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8187,
-                    59.8178
+                    10.81869,
+                    59.81778
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-399",
+            "id": "node/-425",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "45",
@@ -146,19 +189,19 @@
                 "no-barnehage:nsrid": "1012779",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-399"
+                "id": "node/-425"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8128,
-                    59.8146
+                    10.81284,
+                    59.81462
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-398",
+            "id": "node/-424",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -168,13 +211,13 @@
                 "no-barnehage:nsrid": "1012771",
                 "operator": "Oppegård kommune",
                 "operator:type": "public",
-                "id": "node/-398"
+                "id": "node/-424"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.8203,
-                    59.812
+                    59.81205
                 ]
             }
         }

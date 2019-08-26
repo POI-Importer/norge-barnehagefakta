@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2234",
+            "id": "node/-2428",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nesbyen barnehage",
+                "no-barnehage:nsrid": "1017136",
+                "operator": "Nes kommune",
+                "operator:type": "public",
+                "id": "node/-2428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.09551,
+                    60.5703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2426",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "25",
@@ -13,13 +35,13 @@
                 "no-barnehage:nsrid": "1018006",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-2234"
+                "id": "node/-2426"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.09491,
-                    60.5712
+                    9.09577,
+                    60.56915
                 ]
             }
         }

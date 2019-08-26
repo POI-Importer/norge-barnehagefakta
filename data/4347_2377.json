@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-698",
+            "id": "node/-751",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -13,13 +13,56 @@
                 "no-barnehage:nsrid": "1019890",
                 "operator": "Sorknes barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-698"
+                "id": "node/-751"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.06175,
                     60.02261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-737",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fjellbovegen barnehage",
+                "no-barnehage:nsrid": "1021895",
+                "operator": "Sørum kommune",
+                "operator:type": "public",
+                "id": "node/-737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06592,
+                    60.03102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-734",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Askeladden familiebarnehage",
+                "no-barnehage:nsrid": "1020290",
+                "operator": "Askeladden Familiebarnehage Berit Thoresen",
+                "operator:type": "private",
+                "id": "node/-734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06747,
+                    60.02445
                 ]
             }
         }

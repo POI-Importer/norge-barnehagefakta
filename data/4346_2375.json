@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-867",
+            "id": "node/-930",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -13,19 +13,41 @@
                 "no-barnehage:nsrid": "1012626",
                 "operator": "Gjerdrum kommune",
                 "operator:type": "public",
-                "id": "node/-867"
+                "id": "node/-930"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.0006,
-                    60.0744
+                    60.07438
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-864",
+            "id": "node/-929",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjerdrum friluftsbarnehage",
+                "no-barnehage:nsrid": "1015159",
+                "operator": "Ulna AS",
+                "operator:type": "private",
+                "id": "node/-929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9866,
+                    60.08182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-927",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "115",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1021315",
                 "operator": "Espira Brådalsfjellet AS",
                 "operator:type": "private",
-                "id": "node/-864"
+                "id": "node/-927"
             },
             "geometry": {
                 "type": "Point",

@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-932",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "13",
-                "contact:website": "http://www.hoppensprett.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Udnes naturbarnehage",
-                "no-barnehage:nsrid": "1019570",
-                "operator": "Udnes Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-932"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.36794,
-                    60.1088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-929",
+            "id": "node/-995",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "93",
@@ -36,19 +13,19 @@
                 "no-barnehage:nsrid": "1013101",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-929"
+                "id": "node/-995"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.3431,
-                    60.1244
+                    11.34134,
+                    60.12559
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-928",
+            "id": "node/-994",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "119",
@@ -58,13 +35,36 @@
                 "no-barnehage:nsrid": "1013029",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-928"
+                "id": "node/-994"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.3416,
-                    60.1263
+                    11.33846,
+                    60.12464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-991",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "contact:website": "http://www.laringsverkstedet.no/barnehage/neskollen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Øvre Neskollen",
+                "no-barnehage:nsrid": "2000145",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34142,
+                    60.11633
                 ]
             }
         }

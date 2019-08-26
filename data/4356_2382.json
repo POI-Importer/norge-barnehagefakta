@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-672",
+            "id": "node/-721",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Epletunet barnehage avd. Trampen",
+                "no-barnehage:nsrid": "2000357",
+                "operator": "Epletunet barnehage AS",
+                "operator:type": "private",
+                "id": "node/-721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46453,
+                    59.92614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-720",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "75",
@@ -13,41 +32,19 @@
                 "no-barnehage:nsrid": "1020773",
                 "operator": "Epletunet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-672"
+                "id": "node/-720"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.44053,
-                    59.93022
+                    11.44048,
+                    59.93024
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-668",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "38",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnehagegården",
-                "no-barnehage:nsrid": "1021790",
-                "operator": "Barnehagegården AS",
-                "operator:type": "private",
-                "id": "node/-668"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.46804,
-                    59.92684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-667",
+            "id": "node/-715",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "68",
@@ -57,13 +54,13 @@
                 "no-barnehage:nsrid": "1012790",
                 "operator": "Aurskog-Høland kommune",
                 "operator:type": "public",
-                "id": "node/-667"
+                "id": "node/-715"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.446,
-                    59.9258
+                    11.44604,
+                    59.92585
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3564",
+            "id": "node/-3861",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -13,19 +13,38 @@
                 "no-barnehage:nsrid": "1016752",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3564"
+                "id": "node/-3861"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.93402,
-                    58.1364
+                    7.93448,
+                    58.13612
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3500",
+            "id": "node/-3859",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Vågsbygd Åpne barnehage Vågsbygd Helsestasjon",
+                "no-barnehage:nsrid": "1015876",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.95329,
+                    58.12484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3788",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -35,19 +54,19 @@
                 "no-barnehage:nsrid": "1016063",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3500"
+                "id": "node/-3788"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.94885,
-                    58.1288
+                    58.12878
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3490",
+            "id": "node/-3776",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -57,19 +76,40 @@
                 "no-barnehage:nsrid": "1016060",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3490"
+                "id": "node/-3776"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.93787,
-                    58.147
+                    7.93778,
+                    58.14708
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3468",
+            "id": "node/-3756",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Bokfinken familiebarnehage",
+                "no-barnehage:nsrid": "1021801",
+                "operator": "Bokfinken Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-3756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.94872,
+                    58.13149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3748",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -79,13 +119,13 @@
                 "no-barnehage:nsrid": "1016061",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3468"
+                "id": "node/-3748"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.93585,
-                    58.126
+                    58.12604
                 ]
             }
         }

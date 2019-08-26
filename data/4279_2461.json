@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3543",
+            "id": "node/-3837",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "129",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1020034",
                 "operator": "Stiftelsen Maritippen barnehage",
                 "operator:type": "private",
-                "id": "node/-3543"
+                "id": "node/-3837"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.072199,
-                    58.13719
+                    8.07043,
+                    58.13651
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3518",
+            "id": "node/-3808",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -37,19 +37,38 @@
                 "no-barnehage:nsrid": "1020159",
                 "operator": "Maurtua barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3518"
+                "id": "node/-3808"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.078762,
+                    8.07876,
                     58.13622
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3480",
+            "id": "node/-3799",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Lundeparken barnehage",
+                "no-barnehage:nsrid": "1021951",
+                "operator": "Lundeparken barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0659,
+                    58.12916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3762",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "124",
@@ -60,38 +79,38 @@
                 "no-barnehage:nsrid": "1021632",
                 "operator": "Espira Dvergsnes AS",
                 "operator:type": "private",
-                "id": "node/-3480"
+                "id": "node/-3762"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.070884,
+                    8.07088,
                     58.13162
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3472",
+            "id": "node/-3753",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Bjørndalen barnehage",
                 "no-barnehage:nsrid": "2000506",
                 "operator": "Bjørndalen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3472"
+                "id": "node/-3753"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.065898,
+                    8.0659,
                     58.12916
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3467",
+            "id": "node/-3747",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "38",
@@ -101,13 +120,13 @@
                 "no-barnehage:nsrid": "1016059",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3467"
+                "id": "node/-3747"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.06392,
-                    58.1419
+                    58.14187
                 ]
             }
         }

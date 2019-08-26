@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-821",
+            "id": "node/-882",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1015613",
                 "operator": "Romerike Barnehager Sa",
                 "operator:type": "private",
-                "id": "node/-821"
+                "id": "node/-882"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0233,
-                    59.9957
+                    11.02325,
+                    59.99566
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-820",
+            "id": "node/-881",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "88",
@@ -35,19 +35,38 @@
                 "no-barnehage:nsrid": "1021223",
                 "operator": "Skolsegglia Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-820"
+                "id": "node/-881"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.02068,
-                    59.99893
+                    59.99894
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-793",
+            "id": "node/-867",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Lille Krabat familiebarnehage avd. Skjetten",
+                "no-barnehage:nsrid": "1020549",
+                "operator": "Lille Krabat Aina Lie",
+                "operator:type": "private",
+                "id": "node/-867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.00875,
+                    59.97807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-850",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -57,13 +76,13 @@
                 "no-barnehage:nsrid": "1020782",
                 "operator": "Brånåstoppen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-793"
+                "id": "node/-850"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.01966,
-                    59.99682
+                    59.99681
                 ]
             }
         }

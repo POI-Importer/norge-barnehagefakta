@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1804",
+            "id": "node/-1961",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019875",
                 "operator": "Utsikten barnehage Ottestad Sa",
                 "operator:type": "private",
-                "id": "node/-1804"
+                "id": "node/-1961"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,50 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1727",
+            "id": "node/-1941",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas Rett barnehage",
+                "no-barnehage:nsrid": "1019685",
+                "operator": "Barnas Rett barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-1941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11287,
+                    60.78727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1886",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjønsberg barnehage",
+                "no-barnehage:nsrid": "1017554",
+                "operator": "Hamar kommune",
+                "operator:type": "public",
+                "id": "node/-1886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07944,
+                    60.80173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1878",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -36,19 +79,19 @@
                 "no-barnehage:nsrid": "1014304",
                 "operator": "Hamar kommune",
                 "operator:type": "public",
-                "id": "node/-1727"
+                "id": "node/-1878"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.0762,
-                    60.7981
+                    60.79807
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1723",
+            "id": "node/-1874",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -58,7 +101,7 @@
                 "no-barnehage:nsrid": "1019886",
                 "operator": "Hvitveisen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1723"
+                "id": "node/-1874"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +113,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1720",
+            "id": "node/-1871",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -80,19 +123,19 @@
                 "no-barnehage:nsrid": "1017362",
                 "operator": "Hamar kommune",
                 "operator:type": "public",
-                "id": "node/-1720"
+                "id": "node/-1871"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0921,
-                    60.7996
+                    11.09207,
+                    60.79964
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1719",
+            "id": "node/-1870",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "67",
@@ -103,19 +146,38 @@
                 "no-barnehage:nsrid": "1021980",
                 "operator": "Hamarbarnehagen AS",
                 "operator:type": "private",
-                "id": "node/-1719"
+                "id": "node/-1870"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.08773,
-                    60.79347
+                    11.08789,
+                    60.7934
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1715",
+            "id": "node/-1868",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Gullungen Evelyn Hekne Sund",
+                "no-barnehage:nsrid": "1020906",
+                "operator": "Gullungen Evelyn Hekne Sund",
+                "operator:type": "private",
+                "id": "node/-1868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08068,
+                    60.79213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1865",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "46",
@@ -125,7 +187,7 @@
                 "no-barnehage:nsrid": "1022072",
                 "operator": "Briskebyen Montessori International AS",
                 "operator:type": "private",
-                "id": "node/-1715"
+                "id": "node/-1865"
             },
             "geometry": {
                 "type": "Point",

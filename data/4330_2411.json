@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2444",
+            "id": "node/-2661",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Semsløkka barnehage",
+                "no-barnehage:nsrid": "1013392",
+                "operator": "Tønsbergkirkenes Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-2661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32622,
+                    59.2838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2660",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -13,19 +35,19 @@
                 "no-barnehage:nsrid": "1012819",
                 "operator": "Tønsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2444"
+                "id": "node/-2660"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.3248,
-                    59.2795
+                    59.27954
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2438",
+            "id": "node/-2654",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "21",
@@ -35,13 +57,13 @@
                 "no-barnehage:nsrid": "1020615",
                 "operator": "Rannveig'S Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2438"
+                "id": "node/-2654"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.29033,
-                    59.28087
+                    59.28086
                 ]
             }
         }

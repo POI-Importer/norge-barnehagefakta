@@ -3,71 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3760",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "27",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Vatne barnehage",
-                "no-barnehage:nsrid": "1012894",
-                "operator": "Sandnes kommune",
-                "operator:type": "public",
-                "id": "node/-3760"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.79016,
-                    58.8635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3754",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Tripp Trapp åpen barnehage",
-                "no-barnehage:nsrid": "1016896",
-                "operator": "Sandnes Kirkelige Fellesråd",
-                "operator:type": "private",
-                "id": "node/-3754"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75777,
-                    58.8641
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3741",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "56",
-                "contact:website": "http://www.sandtoppen.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sandtoppen naturbarnehage",
-                "no-barnehage:nsrid": "1021539",
-                "operator": "Sandtoppen Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-3741"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.766661,
-                    58.87074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3706",
+            "id": "node/-4011",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -78,13 +14,34 @@
                 "no-barnehage:nsrid": "1020193",
                 "operator": "Espira Taremareby AS",
                 "operator:type": "private",
-                "id": "node/-3706"
+                "id": "node/-4011"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.765859,
+                    5.76586,
                     58.87008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4000",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Asperholen barnehage",
+                "no-barnehage:nsrid": "1012896",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7625,
+                    58.86444
                 ]
             }
         }

@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-342",
+            "id": "node/-376",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:website": "http://akebakke.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åkebakke barnehage",
+                "no-barnehage:nsrid": "1020025",
+                "operator": "Stiftelsen Åkebakke barnehage",
+                "operator:type": "private",
+                "id": "node/-376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77292,
+                    59.66777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-365",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "36",
@@ -13,19 +36,19 @@
                 "no-barnehage:nsrid": "1012874",
                 "operator": "Ås kommune",
                 "operator:type": "public",
-                "id": "node/-342"
+                "id": "node/-365"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.8071,
-                    59.6678
+                    10.80706,
+                    59.66777
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-334",
+            "id": "node/-357",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "71",
@@ -35,13 +58,13 @@
                 "no-barnehage:nsrid": "1012873",
                 "operator": "Ås kommune",
                 "operator:type": "public",
-                "id": "node/-334"
+                "id": "node/-357"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.7806,
-                    59.6687
+                    10.78061,
+                    59.66869
                 ]
             }
         }

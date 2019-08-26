@@ -3,7 +3,28 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-488",
+            "id": "node/-623",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Trygg Start familiebarnehage avd. Grevlingåsen",
+                "no-barnehage:nsrid": "1018323",
+                "operator": "Trygg Start V/håkon Sletnes",
+                "operator:type": "private",
+                "id": "node/-623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.58718,
+                    59.93847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-525",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "90",
@@ -13,19 +34,40 @@
                 "no-barnehage:nsrid": "1013176",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-488"
+                "id": "node/-525"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.5866,
-                    59.9357
+                    10.58662,
+                    59.93567
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-433",
+            "id": "node/-524",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hosle barnehage avd. Klubbhuset",
+                "no-barnehage:nsrid": "1018612",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.58788,
+                    59.93431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-462",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "109",
@@ -35,13 +77,13 @@
                 "no-barnehage:nsrid": "1025883",
                 "operator": "Theas Bærum AS",
                 "operator:type": "private",
-                "id": "node/-433"
+                "id": "node/-462"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.58616,
-                    59.94175
+                    10.58585,
+                    59.9404
                 ]
             }
         }

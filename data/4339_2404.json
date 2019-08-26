@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-62",
+            "id": "node/-69",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "112",
@@ -13,19 +13,41 @@
                 "no-barnehage:nsrid": "1015966",
                 "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-62"
+                "id": "node/-69"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6838,
+                    10.67916,
                     59.4238
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-57",
+            "id": "node/-68",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Verket barnehage",
+                "no-barnehage:nsrid": "1020495",
+                "operator": "Verket barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67873,
+                    59.44353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-64",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -35,13 +57,34 @@
                 "no-barnehage:nsrid": "1013043",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-57"
+                "id": "node/-64"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6966,
-                    59.4344
+                    10.6967,
+                    59.43447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-46",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjerrebogen barnehage",
+                "no-barnehage:nsrid": "1017509",
+                "operator": "Moss kommune",
+                "operator:type": "public",
+                "id": "node/-46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69106,
+                    59.44327
                 ]
             }
         }

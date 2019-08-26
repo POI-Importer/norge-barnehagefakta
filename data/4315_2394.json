@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2193",
+            "id": "node/-2380",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1012741",
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2193"
+                "id": "node/-2380"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.63723,
-                    59.66
+                    59.65994
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2192",
+            "id": "node/-2379",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "86",
@@ -35,19 +35,42 @@
                 "no-barnehage:nsrid": "1012744",
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2192"
+                "id": "node/-2379"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.65376,
-                    59.6579
+                    9.65377,
+                    59.65788
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2179",
+            "id": "node/-2378",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:website": "http://sølvstuffen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sølvstuffen barnehage",
+                "no-barnehage:nsrid": "1021709",
+                "operator": "Sølvstuffen AS",
+                "operator:type": "private",
+                "id": "node/-2378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64824,
+                    59.66388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2363",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -57,42 +80,19 @@
                 "no-barnehage:nsrid": "1014880",
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2179"
+                "id": "node/-2363"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.64612,
+                    9.64613,
                     59.6584
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2177",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "23",
-                "contact:website": "http://fus.no/kip",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kongsberg International Preschool FUS",
-                "no-barnehage:nsrid": "1022022",
-                "operator": "Kongsberg International Preschool Fus AS",
-                "operator:type": "private",
-                "id": "node/-2177"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.659603,
-                    59.64745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2173",
+            "id": "node/-2356",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -102,19 +102,19 @@
                 "no-barnehage:nsrid": "1014801",
                 "operator": "Idea Kompetanse AS",
                 "operator:type": "private",
-                "id": "node/-2173"
+                "id": "node/-2356"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.635007,
-                    59.6485
+                    9.63501,
+                    59.64849
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2169",
+            "id": "node/-2352",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -124,13 +124,32 @@
                 "no-barnehage:nsrid": "1012743",
                 "operator": "Kongsberg kommune",
                 "operator:type": "public",
-                "id": "node/-2169"
+                "id": "node/-2352"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.66167,
-                    59.6517
+                    9.66166,
+                    59.65166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2348",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bingeplass FUS barnehage",
+                "no-barnehage:nsrid": "1021880",
+                "operator": "Bingeplass Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65439,
+                    59.64715
                 ]
             }
         }

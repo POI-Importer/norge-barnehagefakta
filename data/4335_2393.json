@@ -3,29 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2381",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sætre Kunst & musikk barnehage",
-                "no-barnehage:nsrid": "1016389",
-                "operator": "Bjørndalen Gård M/barnehage Heidi Stav",
-                "operator:type": "private",
-                "id": "node/-2381"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.52737,
-                    59.68131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2372",
+            "id": "node/-2582",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -35,12 +13,31 @@
                 "no-barnehage:nsrid": "1022160",
                 "operator": "Bjørndalen Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2372"
+                "id": "node/-2582"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.51772,
+                    10.51773,
+                    59.67551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2581",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bjørndalen gård M/ barnehage Heidi Stav",
+                "no-barnehage:nsrid": "1020133",
+                "operator": "Bjørndalen Gård M/barnehage Heidi Stav",
+                "operator:type": "private",
+                "id": "node/-2581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51773,
                     59.67551
                 ]
             }

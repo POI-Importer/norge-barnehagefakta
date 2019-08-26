@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1817",
+            "id": "node/-1976",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Tronbølgrinda barnehage",
+                "no-barnehage:nsrid": "1019603",
+                "operator": "Sør-Odal kommune",
+                "operator:type": "public",
+                "id": "node/-1976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.68123,
+                    60.24462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1975",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "47",
@@ -13,19 +32,41 @@
                 "no-barnehage:nsrid": "1017578",
                 "operator": "Sør-Odal kommune",
                 "operator:type": "public",
-                "id": "node/-1817"
+                "id": "node/-1975"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.6825,
-                    60.2451
+                    11.68132,
+                    60.24498
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1813",
+            "id": "node/-1973",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sander barnehage",
+                "no-barnehage:nsrid": "1015569",
+                "operator": "Sør-Odal kommune",
+                "operator:type": "public",
+                "id": "node/-1973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.68124,
+                    60.2527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1971",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -35,13 +76,13 @@
                 "no-barnehage:nsrid": "1016019",
                 "operator": "Sør-Odal kommune",
                 "operator:type": "public",
-                "id": "node/-1813"
+                "id": "node/-1971"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.6689,
-                    60.2525
+                    11.66888,
+                    60.25251
                 ]
             }
         }

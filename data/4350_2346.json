@@ -3,7 +3,26 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1795",
+            "id": "node/-1963",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Åpen barnehage Vallbo Stange menighetssenter",
+                "no-barnehage:nsrid": "1020409",
+                "operator": "Stange Sokn",
+                "operator:type": "private",
+                "id": "node/-1963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.19032,
+                    60.71418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1951",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "120",
@@ -13,19 +32,19 @@
                 "no-barnehage:nsrid": "1015933",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-1795"
+                "id": "node/-1951"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1946,
-                    60.7155
+                    11.19651,
+                    60.71487
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1788",
+            "id": "node/-1944",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -35,12 +54,12 @@
                 "no-barnehage:nsrid": "1017569",
                 "operator": "Stange kommune",
                 "operator:type": "public",
-                "id": "node/-1788"
+                "id": "node/-1944"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1846,
+                    11.18457,
                     60.7156
                 ]
             }

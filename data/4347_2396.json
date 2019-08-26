@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-209",
+            "id": "node/-226",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vollene naturbarnehage",
+                "no-barnehage:nsrid": "1013180",
+                "operator": "Spydeberg kommune",
+                "operator:type": "public",
+                "id": "node/-226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06914,
+                    59.60405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-222",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "84",
@@ -14,13 +36,35 @@
                 "no-barnehage:nsrid": "1021834",
                 "operator": "Espira Løvestad AS",
                 "operator:type": "private",
-                "id": "node/-209"
+                "id": "node/-222"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.06594,
                     59.61772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-221",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blomsterenga barnehage",
+                "no-barnehage:nsrid": "1015170",
+                "operator": "Spydeberg kommune",
+                "operator:type": "public",
+                "id": "node/-221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06342,
+                    59.61517
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1398",
+            "id": "node/-1516",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "151",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1022340",
                 "operator": "Munkebekken Idrettsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1398"
+                "id": "node/-1516"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.91564,
-                    59.93091
+                    10.91435,
+                    59.93117
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-787",
+            "id": "node/-843",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -36,41 +36,19 @@
                 "no-barnehage:nsrid": "1017541",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-787"
+                "id": "node/-843"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9365,
-                    59.9138
+                    10.93646,
+                    59.91375
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-784",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "28",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Takt og Tone",
-                "no-barnehage:nsrid": "1020616",
-                "operator": "Takt og Tone Unni Sørenbye",
-                "operator:type": "private",
-                "id": "node/-784"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.93051,
-                    59.92428
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-782",
+            "id": "node/-838",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -80,7 +58,7 @@
                 "no-barnehage:nsrid": "1019764",
                 "operator": "Stiftelsen Idavollen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-782"
+                "id": "node/-838"
             },
             "geometry": {
                 "type": "Point",
@@ -92,30 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-776",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:website": "http://regnbuenbarnehage.net",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Regnbuen barnehage Lørenskog",
-                "no-barnehage:nsrid": "1022057",
-                "operator": "Regnbuen barnehage Lørenskog",
-                "operator:type": "private",
-                "id": "node/-776"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.9291,
-                    59.93113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-775",
+            "id": "node/-831",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "111",
@@ -125,13 +80,78 @@
                 "no-barnehage:nsrid": "1017539",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-775"
+                "id": "node/-831"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9406,
-                    59.9231
+                    10.94055,
+                    59.92312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-820",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://knertenfamiliebarnehage.no",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Knerten familiebarnehage",
+                "no-barnehage:nsrid": "1020274",
+                "operator": "Knerten Familiebarnehage Monika Roger",
+                "operator:type": "private",
+                "id": "node/-820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92802,
+                    59.92868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-815",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hundremeterskogen familiebarnehage Nasse Nøff",
+                "no-barnehage:nsrid": "1020355",
+                "operator": "Hundremeterskogen Familiebarnehage avd Nasse Nøff Marianne O Knardahl",
+                "operator:type": "private",
+                "id": "node/-815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92895,
+                    59.91497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-806",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventyrstua barnehage",
+                "no-barnehage:nsrid": "1017841",
+                "operator": "Lørenskog kommune",
+                "operator:type": "public",
+                "id": "node/-806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93947,
+                    59.92303
                 ]
             }
         }

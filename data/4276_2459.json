@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3544",
+            "id": "node/-3838",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -14,19 +14,40 @@
                 "no-barnehage:nsrid": "1019888",
                 "operator": "Strai barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3544"
+                "id": "node/-3838"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.925419,
-                    58.18848
+                    7.92542,
+                    58.18849
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3481",
+            "id": "node/-3772",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Gangdalen familiebarnehage",
+                "no-barnehage:nsrid": "1021890",
+                "operator": "Gangdalen Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-3772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.93122,
+                    58.18882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3763",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "33",
@@ -36,13 +57,13 @@
                 "no-barnehage:nsrid": "1021826",
                 "operator": "Eventyrskogen barnehage Helleland AS",
                 "operator:type": "private",
-                "id": "node/-3481"
+                "id": "node/-3763"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.920055,
-                    58.19048
+                    7.92005,
+                    58.19047
                 ]
             }
         }

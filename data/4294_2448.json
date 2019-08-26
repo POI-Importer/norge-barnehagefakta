@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3127",
+            "id": "node/-3392",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "81",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1022322",
                 "operator": "Vippa Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3127"
+                "id": "node/-3392"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.723052,
-                    58.4262
+                    8.72303,
+                    58.42611
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3105",
+            "id": "node/-3367",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "29",
@@ -37,19 +37,42 @@
                 "no-barnehage:nsrid": "1025686",
                 "operator": "Nidelvåsen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3105"
+                "id": "node/-3367"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.715956,
-                    58.44239
+                    8.71609,
+                    58.4423
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3071",
+            "id": "node/-3342",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://eplehagenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eplehagen barnehagen",
+                "no-barnehage:nsrid": "1025748",
+                "operator": "Eplehagen Barnehagen AS",
+                "operator:type": "private",
+                "id": "node/-3342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70744,
+                    58.43809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3329",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "58",
@@ -60,13 +83,13 @@
                 "no-barnehage:nsrid": "1021765",
                 "operator": "Alvehetta Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3071"
+                "id": "node/-3329"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.713614,
-                    58.44208
+                    8.71366,
+                    58.44235
                 ]
             }
         }

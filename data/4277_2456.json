@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3618",
+            "id": "node/-3919",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solsletta barnehage",
+                "no-barnehage:nsrid": "1013259",
+                "operator": "Vennesla kommune",
+                "operator:type": "public",
+                "id": "node/-3919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9645,
+                    58.25768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3918",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -13,19 +35,19 @@
                 "no-barnehage:nsrid": "1020451",
                 "operator": "Snømyra barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3618"
+                "id": "node/-3918"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.986815,
+                    7.98682,
                     58.2571
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3616",
+            "id": "node/-3916",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "83",
@@ -35,19 +57,19 @@
                 "no-barnehage:nsrid": "1016957",
                 "operator": "Mariknotten barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3616"
+                "id": "node/-3916"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.96364,
-                    58.252
+                    58.25199
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3613",
+            "id": "node/-3913",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -57,13 +79,13 @@
                 "no-barnehage:nsrid": "1013485",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3613"
+                "id": "node/-3913"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.98649,
-                    58.2511
+                    7.98663,
+                    58.25111
                 ]
             }
         }

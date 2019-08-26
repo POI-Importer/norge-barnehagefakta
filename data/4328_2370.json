@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2207",
+            "id": "node/-2394",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -14,13 +14,35 @@
                 "no-barnehage:nsrid": "1017999",
                 "operator": "Ringerike kommune",
                 "operator:type": "public",
-                "id": "node/-2207"
+                "id": "node/-2394"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1979,
+                    10.19792,
                     60.1816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2393",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heggen barnehage",
+                "no-barnehage:nsrid": "1015139",
+                "operator": "Ringerike kommune",
+                "operator:type": "public",
+                "id": "node/-2393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21152,
+                    60.17609
                 ]
             }
         }

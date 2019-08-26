@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2162",
+            "id": "node/-2344",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://www.aasly.barnehage.no",
+                "name": "Åsly barnehage",
+                "no-barnehage:nsrid": "1020123",
+                "operator": "Åsly Barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1544,
+                    59.75613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2341",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "60",
@@ -13,19 +33,19 @@
                 "no-barnehage:nsrid": "1020680",
                 "operator": "Øren Andelslag Sa",
                 "operator:type": "private",
-                "id": "node/-2162"
+                "id": "node/-2341"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.16933,
-                    59.75161
+                    10.16934,
+                    59.75162
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2161",
+            "id": "node/-2339",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -35,19 +55,19 @@
                 "no-barnehage:nsrid": "1015936",
                 "operator": "Stiftelsen Teknabarnehagene Drammen",
                 "operator:type": "private",
-                "id": "node/-2161"
+                "id": "node/-2339"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1566,
-                    59.7466
+                    10.15664,
+                    59.74663
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2159",
+            "id": "node/-2337",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "98",
@@ -57,19 +77,19 @@
                 "no-barnehage:nsrid": "1016646",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2159"
+                "id": "node/-2337"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.192,
-                    59.7495
+                    10.19201,
+                    59.74947
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2154",
+            "id": "node/-2332",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -79,7 +99,7 @@
                 "no-barnehage:nsrid": "1020683",
                 "operator": "Stiftelsen Lassebakken barnehage",
                 "operator:type": "private",
-                "id": "node/-2154"
+                "id": "node/-2332"
             },
             "geometry": {
                 "type": "Point",
@@ -91,7 +111,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2146",
+            "id": "node/-2325",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sarah Økologiske familiebarnehage Rukiye Tug",
+                "no-barnehage:nsrid": "1022449",
+                "operator": "Sarah Økologiske Familiebarnehage Rukiye Tug",
+                "operator:type": "private",
+                "id": "node/-2325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.17338,
+                    59.73643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2323",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "97",
@@ -101,19 +140,19 @@
                 "no-barnehage:nsrid": "1017996",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2146"
+                "id": "node/-2323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1945,
-                    59.7456
+                    10.19452,
+                    59.74562
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2129",
+            "id": "node/-2306",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "89",
@@ -123,19 +162,19 @@
                 "no-barnehage:nsrid": "1017904",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2129"
+                "id": "node/-2306"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1571,
-                    59.7473
+                    10.15705,
+                    59.74733
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2128",
+            "id": "node/-2305",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "31",
@@ -145,19 +184,19 @@
                 "no-barnehage:nsrid": "1017991",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2128"
+                "id": "node/-2305"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1539,
-                    59.7454
+                    10.15374,
+                    59.74546
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2121",
+            "id": "node/-2298",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -168,7 +207,7 @@
                 "no-barnehage:nsrid": "1019937",
                 "operator": "Ekornheia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2121"
+                "id": "node/-2298"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +219,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2120",
+            "id": "node/-2297",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -191,19 +230,38 @@
                 "no-barnehage:nsrid": "1022147",
                 "operator": "Norlights Montessoribarnehage Drammen AS",
                 "operator:type": "private",
-                "id": "node/-2120"
+                "id": "node/-2297"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.16955,
-                    59.74916
+                    10.16923,
+                    59.74894
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2117",
+            "id": "node/-2294",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Dampsentralen Midlertidige barnehage",
+                "no-barnehage:nsrid": "1019593",
+                "operator": "Drammen kommune",
+                "operator:type": "public",
+                "id": "node/-2294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19456,
+                    59.74919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2293",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "65",
@@ -213,19 +271,19 @@
                 "no-barnehage:nsrid": "1014170",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2117"
+                "id": "node/-2293"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1943,
-                    59.7496
+                    10.19425,
+                    59.74964
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2107",
+            "id": "node/-2283",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "72",
@@ -235,13 +293,13 @@
                 "no-barnehage:nsrid": "1017986",
                 "operator": "Drammen kommune",
                 "operator:type": "public",
-                "id": "node/-2107"
+                "id": "node/-2283"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.1676,
-                    59.7501
+                    10.16756,
+                    59.75013
                 ]
             }
         }

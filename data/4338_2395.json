@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-387",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Frogn/drøbak natur og gårdsbarnehage",
+                "no-barnehage:nsrid": "1021580",
+                "operator": "Gry Hultgren",
+                "operator:type": "private",
+                "id": "node/-387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67628,
+                    59.64156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-386",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Frogn Pedagogiske Senter",
+                "no-barnehage:nsrid": "1022431",
+                "operator": "Frogn Pedagogiske Senter AS",
+                "operator:type": "private",
+                "id": "node/-386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67628,
+                    59.64156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-383",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Elleflaten barnehage",
+                "no-barnehage:nsrid": "1017524",
+                "operator": "Frogn kommune",
+                "operator:type": "public",
+                "id": "node/-383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64134,
+                    59.64462
+                ]
+            }
+        }
+    ]
+}

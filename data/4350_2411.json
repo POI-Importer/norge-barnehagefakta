@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-91",
+            "id": "node/-99",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -14,19 +14,19 @@
                 "no-barnehage:nsrid": "1019929",
                 "operator": "Nygårdshaugen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-91"
+                "id": "node/-99"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.17256,
+                    11.17257,
                     59.2726
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-87",
+            "id": "node/-95",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -36,19 +36,19 @@
                 "no-barnehage:nsrid": "1012976",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-87"
+                "id": "node/-95"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.1927,
-                    59.2791
+                    11.19266,
+                    59.27908
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-75",
+            "id": "node/-83",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "55",
@@ -58,13 +58,32 @@
                 "no-barnehage:nsrid": "1021697",
                 "operator": "Fjelldal barnehage AS",
                 "operator:type": "private",
-                "id": "node/-75"
+                "id": "node/-83"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.18456,
-                    59.26664
+                    59.26665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-79",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bekketroll familiebarnehage",
+                "no-barnehage:nsrid": "1022310",
+                "operator": "Ellen Marie Bekkevold",
+                "operator:type": "private",
+                "id": "node/-79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1909,
+                    59.2743
                 ]
             }
         }

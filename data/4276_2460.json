@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3538",
+            "id": "node/-3831",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "139",
@@ -13,19 +13,19 @@
                 "no-barnehage:nsrid": "1020713",
                 "operator": "Solkollen barnehage Hellemyr AS",
                 "operator:type": "private",
-                "id": "node/-3538"
+                "id": "node/-3831"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.927243,
+                    7.92724,
                     58.15156
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-3517",
+            "id": "node/-3807",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "39",
@@ -36,13 +36,32 @@
                 "no-barnehage:nsrid": "1014812",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3517"
+                "id": "node/-3807"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.92275,
-                    58.1478
+                    58.14785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3777",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Hellemyr åpen barnehage",
+                "no-barnehage:nsrid": "1020490",
+                "operator": "Hellemyr Sokn",
+                "operator:type": "private",
+                "id": "node/-3777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.92203,
+                    58.14801
                 ]
             }
         }

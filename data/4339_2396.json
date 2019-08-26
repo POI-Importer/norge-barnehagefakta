@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-290",
+            "id": "node/-310",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -14,13 +14,35 @@
                 "no-barnehage:nsrid": "1013131",
                 "operator": "Borg Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-290"
+                "id": "node/-310"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.7125,
-                    59.6192
+                    10.71249,
+                    59.61924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-308",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Pepperstadmarka barnehage",
+                "no-barnehage:nsrid": "1017523",
+                "operator": "Vestby kommune",
+                "operator:type": "public",
+                "id": "node/-308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70829,
+                    59.6037
                 ]
             }
         }

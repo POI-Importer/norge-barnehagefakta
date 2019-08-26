@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1772",
+            "id": "node/-1929",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "154",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øverkvern FUS barnehage",
+                "no-barnehage:nsrid": "1013475",
+                "operator": "Øverkvern Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95271,
+                    60.88965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1926",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -13,35 +35,32 @@
                 "no-barnehage:nsrid": "1013114",
                 "operator": "Ringsaker kommune",
                 "operator:type": "public",
-                "id": "node/-1772"
+                "id": "node/-1926"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.943,
-                    60.8967
+                    10.94296,
+                    60.89666
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1753",
+            "id": "node/-1896",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "49",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hempa barnehage",
-                "no-barnehage:nsrid": "1017560",
+                "name": "Brumunddal, Moelv og Nes åpen barnehage",
+                "no-barnehage:nsrid": "1013040",
                 "operator": "Ringsaker kommune",
                 "operator:type": "public",
-                "id": "node/-1753"
+                "id": "node/-1896"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.9583,
-                    60.8993
+                    10.94781,
+                    60.888
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-300",
+            "id": "node/-320",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "70",
@@ -13,19 +13,42 @@
                 "no-barnehage:nsrid": "1017147",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-300"
+                "id": "node/-320"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.7564,
-                    59.5993
+                    10.75641,
+                    59.59932
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-292",
+            "id": "node/-317",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:website": "http://www.vestbynaturbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestby naturbarnehage avd. Sundbytoppen",
+                "no-barnehage:nsrid": "1017653",
+                "operator": "Bjørg Tveit Strøm",
+                "operator:type": "private",
+                "id": "node/-317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74743,
+                    59.59524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-312",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "80",
@@ -35,13 +58,32 @@
                 "no-barnehage:nsrid": "1017503",
                 "operator": "Vestby kommune",
                 "operator:type": "public",
-                "id": "node/-292"
+                "id": "node/-312"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.761,
-                    59.5957
+                    10.75798,
+                    59.59512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-306",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Johnsrudhuset barnehage",
+                "no-barnehage:nsrid": "2000043",
+                "operator": "Elisabeth Lillemoen Teigen",
+                "operator:type": "private",
+                "id": "node/-306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7595,
+                    59.59958
                 ]
             }
         }

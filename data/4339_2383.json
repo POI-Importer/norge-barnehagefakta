@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1609",
+            "id": "node/-1752",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "59",
@@ -14,19 +14,38 @@
                 "no-barnehage:nsrid": "1021551",
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
-                "id": "node/-1609"
+                "id": "node/-1752"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.72065,
-                    59.9049
+                    10.72048,
+                    59.90779
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1403",
+            "id": "node/-1730",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sundt Barn",
+                "no-barnehage:nsrid": "1022003",
+                "operator": "Ulna AS",
+                "operator:type": "private",
+                "id": "node/-1730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69813,
+                    59.90826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1522",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -37,19 +56,19 @@
                 "no-barnehage:nsrid": "1020427",
                 "operator": "Musehuset Norsk Folkemuseums barnehage",
                 "operator:type": "private",
-                "id": "node/-1403"
+                "id": "node/-1522"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.68644,
-                    59.90757
+                    10.68672,
+                    59.90748
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1185",
+            "id": "node/-1279",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -59,19 +78,19 @@
                 "no-barnehage:nsrid": "1021102",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1185"
+                "id": "node/-1279"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.68083,
-                    59.90057
+                    10.68079,
+                    59.90055
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1115",
+            "id": "node/-1204",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -82,19 +101,38 @@
                 "no-barnehage:nsrid": "1025515",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1115"
+                "id": "node/-1204"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.71853,
+                    10.71854,
                     59.9107
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1044",
+            "id": "node/-1122",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bygdøynes familiebarnehage",
+                "no-barnehage:nsrid": "1022247",
+                "operator": "Bygdøynes Familiebarnehage Lindgren",
+                "operator:type": "private",
+                "id": "node/-1122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69317,
+                    59.90213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1121",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "10",
@@ -104,19 +142,19 @@
                 "no-barnehage:nsrid": "1019775",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1044"
+                "id": "node/-1121"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.68083,
-                    59.90057
+                    10.68079,
+                    59.90055
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1010",
+            "id": "node/-1083",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -126,35 +164,13 @@
                 "no-barnehage:nsrid": "1017413",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1010"
+                "id": "node/-1083"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.6803,
-                    59.9005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-970",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "45",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "100 Meterskogen barnehage",
-                "no-barnehage:nsrid": "2000068",
-                "operator": "100 Meterskogen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-970"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.71956,
-                    59.90646
+                    10.68009,
+                    59.90043
                 ]
             }
         }
