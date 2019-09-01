@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4744",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vallalia barnehage",
+                "no-barnehage:nsrid": "1016226",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38436,
+                    60.29373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4543",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.fanatunet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fanatunet barnehage",
+                "no-barnehage:nsrid": "1020749",
+                "operator": "Fanatunet barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37937,
+                    60.3035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4534",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:website": "http://eventus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventus Birk barnehage friluftsbarnehage",
+                "no-barnehage:nsrid": "2000152",
+                "operator": "Eventus Birk barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37746,
+                    60.30045
+                ]
+            }
+        }
+    ]
+}

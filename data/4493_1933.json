@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5649",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hoppensprett Narvik",
+                "no-barnehage:nsrid": "1021566",
+                "operator": "Hoppensprett Narvik AS",
+                "operator:type": "private",
+                "id": "node/-5649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4615,
+                    68.44604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5647",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:website": "http://www.furutoppen-barnehage.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Furutoppen barnehage",
+                "no-barnehage:nsrid": "1020246",
+                "operator": "Narvik Foreldrelagsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.45608,
+                    68.44191
+                ]
+            }
+        }
+    ]
+}

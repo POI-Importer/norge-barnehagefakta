@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5284",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åse barnehage",
+                "no-barnehage:nsrid": "1020963",
+                "operator": "Åse barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.31819,
+                    62.46389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5260",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lykkeliten barnehage",
+                "no-barnehage:nsrid": "1018584",
+                "operator": "Ludens Norge AS",
+                "operator:type": "private",
+                "id": "node/-5260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.31882,
+                    62.46388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5259",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lerstad barnehage",
+                "no-barnehage:nsrid": "1012517",
+                "operator": "Ålesund kommune",
+                "operator:type": "public",
+                "id": "node/-5259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.30697,
+                    62.46777
+                ]
+            }
+        }
+    ]
+}

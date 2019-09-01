@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4833",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:website": "http://rabben.barnehage.odda.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabben barnehage",
+                "no-barnehage:nsrid": "1018110",
+                "operator": "Odda kommune",
+                "operator:type": "public",
+                "id": "node/-4833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.54751,
+                    60.05555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4830",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://eidesasen.barnehage.odda.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eidesåsen barnehage",
+                "no-barnehage:nsrid": "1014689",
+                "operator": "Odda kommune",
+                "operator:type": "public",
+                "id": "node/-4830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.54056,
+                    60.05
+                ]
+            }
+        }
+    ]
+}

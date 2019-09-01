@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5243",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Emblem FUS barnehage",
+                "no-barnehage:nsrid": "1021807",
+                "operator": "Emblem Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44771,
+                    62.43417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5241",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:website": "http://www.ebbegarden.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ebbegarden barnehage",
+                "no-barnehage:nsrid": "1020847",
+                "operator": "Ebbegarden barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.45328,
+                    62.43657
+                ]
+            }
+        }
+    ]
+}

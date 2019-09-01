@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5165",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "12",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Snøkrystall",
+                "no-barnehage:nsrid": "1021536",
+                "operator": "Snøkrystall AS",
+                "operator:type": "private",
+                "id": "node/-5165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99155,
+                    61.91789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5163",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.laringsverkstedet.no/barnehage/eid",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Eid",
+                "no-barnehage:nsrid": "1021419",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99349,
+                    61.90786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5160",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "134",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Golvsengane barnehage",
+                "no-barnehage:nsrid": "1014789",
+                "operator": "Eid kommune",
+                "operator:type": "public",
+                "id": "node/-5160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99287,
+                    61.91484
+                ]
+            }
+        }
+    ]
+}

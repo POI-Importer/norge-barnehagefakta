@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5425",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Tryggheim barnehage Brattvåg",
+                "no-barnehage:nsrid": "1016186",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.45016,
+                    62.58202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5418",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brattvåg barnehage",
+                "no-barnehage:nsrid": "1020023",
+                "operator": "Brattvåg barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44023,
+                    62.5906
+                ]
+            }
+        }
+    ]
+}

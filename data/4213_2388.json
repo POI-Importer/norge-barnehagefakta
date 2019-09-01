@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4778",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "138",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Salamonskogen barnehage",
+                "no-barnehage:nsrid": "1021400",
+                "operator": "Espira Salamonskogen AS",
+                "operator:type": "private",
+                "id": "node/-4778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18469,
+                    59.79176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4775",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "107",
+                "contact:website": "http://hollund.espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Hollund barnehage",
+                "no-barnehage:nsrid": "1019864",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1854,
+                    59.80059
+                ]
+            }
+        }
+    ]
+}

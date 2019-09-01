@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5185",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikalida barnehage",
+                "no-barnehage:nsrid": "1017824",
+                "operator": "Stryn kommune",
+                "operator:type": "public",
+                "id": "node/-5185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.69741,
+                    61.90496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5184",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tonning barnehage",
+                "no-barnehage:nsrid": "1018167",
+                "operator": "Stryn kommune",
+                "operator:type": "public",
+                "id": "node/-5184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.72147,
+                    61.90627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5183",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stryn bedriftsbarnehage",
+                "no-barnehage:nsrid": "1020029",
+                "operator": "Stryn Bedriftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-5183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.71349,
+                    61.90585
+                ]
+            }
+        }
+    ]
+}

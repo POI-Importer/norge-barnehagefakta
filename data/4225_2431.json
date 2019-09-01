@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4009",
+            "id": "node/-4032",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lundehagen FUS barnehage",
+                "no-barnehage:nsrid": "1021359",
+                "operator": "Lundehagen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70584,
+                    58.82009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4008",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "126",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1021789",
                 "operator": "Espira Krystallveien AS",
                 "operator:type": "private",
-                "id": "node/-4009"
+                "id": "node/-4008"
             },
             "geometry": {
                 "type": "Point",

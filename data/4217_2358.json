@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4561",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "111",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Rollandslia",
+                "no-barnehage:nsrid": "1021594",
+                "operator": "Gnist Barnehager Rollandslia AS",
+                "operator:type": "private",
+                "id": "node/-4561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32921,
+                    60.4562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4525",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/ervik-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ervik barnehage",
+                "no-barnehage:nsrid": "1016718",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32364,
+                    60.44108
+                ]
+            }
+        }
+    ]
+}

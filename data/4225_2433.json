@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4282",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Orstad naturbarnehage",
+                "no-barnehage:nsrid": "1017484",
+                "operator": "Klepp kommune",
+                "operator:type": "public",
+                "id": "node/-4282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71081,
+                    58.78736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4273",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Engelsvoll barnehage",
+                "no-barnehage:nsrid": "1016479",
+                "operator": "Klepp kommune",
+                "operator:type": "public",
+                "id": "node/-4273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68252,
+                    58.77538
+                ]
+            }
+        }
+    ]
+}

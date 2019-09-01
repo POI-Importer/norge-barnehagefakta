@@ -3,7 +3,75 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4007",
+            "id": "node/-4061",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:website": "http://www.trollhaugen-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollhaugen foreldrelagsbarnehage",
+                "no-barnehage:nsrid": "1021003",
+                "operator": "Trollhaugen Foreldrelagsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84279,
+                    58.92524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4035",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:website": "http://maudland.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maudland FUS barnehage avd. Riskatun",
+                "no-barnehage:nsrid": "1026524",
+                "operator": "Maudland Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83387,
+                    58.91508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4030",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lekeland barnehage",
+                "no-barnehage:nsrid": "1017001",
+                "operator": "Pinsemenigheten Betel",
+                "operator:type": "private",
+                "id": "node/-4030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84244,
+                    58.92353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4006",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -14,7 +82,7 @@
                 "no-barnehage:nsrid": "1021319",
                 "operator": "Eikenøtta Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4007"
+                "id": "node/-4006"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6160",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vardø barnehage",
+                "no-barnehage:nsrid": "1014265",
+                "operator": "Vardø kommune",
+                "operator:type": "public",
+                "id": "node/-6160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.08572,
+                    70.37731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6159",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:website": "http://www.sentrum.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sentrumbarnehage",
+                "no-barnehage:nsrid": "1020961",
+                "operator": "Sentrumbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.08572,
+                    70.37731
+                ]
+            }
+        }
+    ]
+}

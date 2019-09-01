@@ -3,20 +3,221 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4032",
+            "id": "node/-5636",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vollen barnehage",
+                "no-barnehage:nsrid": "1015497",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43371,
+                    67.29292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5632",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stordalen friluftsbarnehage",
+                "no-barnehage:nsrid": "1015457",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44511,
+                    67.29364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5625",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skivik barnehage",
+                "no-barnehage:nsrid": "1016636",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43726,
+                    67.30589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5618",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:website": "http://www.englebarn.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rønvik menighetsbarnehage",
+                "no-barnehage:nsrid": "1019807",
+                "operator": "Stiftelsen Rønvik Menighetsbarnehage",
+                "operator:type": "private",
+                "id": "node/-5618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42541,
+                    67.29252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5617",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rønvik barnehage",
+                "no-barnehage:nsrid": "1016639",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42236,
+                    67.29473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5610",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Nerenga barnehage",
                 "no-barnehage:nsrid": "1020871",
                 "operator": "Nerenga Barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-4032"
+                "id": "node/-5610"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.41624,
                     67.29615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5600",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://laringsverkstedet.no/barnehage/maskinisten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Maskinisten friluftsbarnehage",
+                "no-barnehage:nsrid": "1021105",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4543,
+                    67.29169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5597",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Nerenga",
+                "no-barnehage:nsrid": "1022281",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41624,
+                    67.29615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5596",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://laringsverkstedet.no/barnehage/knerten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Knerten",
+                "no-barnehage:nsrid": "1019821",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42646,
+                    67.29428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5578",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkenga miljøbarnehage",
+                "no-barnehage:nsrid": "1016634",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41724,
+                    67.28939
                 ]
             }
         }

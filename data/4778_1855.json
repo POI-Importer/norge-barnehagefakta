@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6271",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Villaveien naturbarnehage",
+                "no-barnehage:nsrid": "1020111",
+                "operator": "Villaveien Naturbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.99066,
+                    69.66902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6267",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rallaren barnehage",
+                "no-barnehage:nsrid": "1014768",
+                "operator": "Sør-Varanger kommune",
+                "operator:type": "public",
+                "id": "node/-6267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.98415,
+                    69.66798
+                ]
+            }
+        }
+    ]
+}

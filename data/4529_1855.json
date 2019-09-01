@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5963",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lunheim barnehage",
+                "no-barnehage:nsrid": "1012718",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04095,
+                    69.67068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5949",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "108",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Isbjørnen barnehage i",
+                "no-barnehage:nsrid": "1020526",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03077,
+                    69.66631
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4458",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://vea.vigilo.no/web/index",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vea barnehage",
+                "no-barnehage:nsrid": "1015926",
+                "operator": "Karmøy kommune",
+                "operator:type": "public",
+                "id": "node/-4458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.24387,
+                    59.28745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4430",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "112",
+                "contact:website": "http://www.sletten.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Sletten barnehage",
+                "no-barnehage:nsrid": "1021836",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23801,
+                    59.28723
+                ]
+            }
+        }
+    ]
+}

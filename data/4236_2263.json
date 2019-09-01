@@ -3,14 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4030",
+            "id": "node/-5404",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Sula kommune Spes.ped Hjelp Barneha",
-                "no-barnehage:nsrid": "1019500",
+                "name": "Sula kommune Styrket barnehage Funksjonshemmede",
+                "no-barnehage:nsrid": "1019499",
                 "operator": "Sula kommune",
                 "operator:type": "public",
-                "id": "node/-4030"
+                "id": "node/-5404"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,67 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4028",
+            "id": "node/-5403",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Sula kommune Spes.ped Hjelp Barneha",
+                "no-barnehage:nsrid": "1019500",
+                "operator": "Sula kommune",
+                "operator:type": "public",
+                "id": "node/-5403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.19224,
+                    62.44012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5401",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Røde Kors Langevåg",
+                "no-barnehage:nsrid": "1019781",
+                "operator": "Langevåg Røde Kors Molvær",
+                "operator:type": "private",
+                "id": "node/-5401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.18368,
+                    62.43789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5398",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Molvær barnehage",
+                "no-barnehage:nsrid": "1016892",
+                "operator": "Sula kommune",
+                "operator:type": "public",
+                "id": "node/-5398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.18457,
+                    62.43901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5397",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -32,7 +92,7 @@
                 "no-barnehage:nsrid": "1012520",
                 "operator": "Sula kommune",
                 "operator:type": "public",
-                "id": "node/-4028"
+                "id": "node/-5397"
             },
             "geometry": {
                 "type": "Point",

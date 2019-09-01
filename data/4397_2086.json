@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5704",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:website": "http://www.mkaf.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fagertun barnehage, Mkaf",
+                "no-barnehage:nsrid": "1020798",
+                "operator": "Mosjøen Kjemiske Arbeiderforening",
+                "operator:type": "private",
+                "id": "node/-5704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23162,
+                    65.82332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5698",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "contact:website": "http://vefsn.custompublish.com/andaas-barnehage.357252.no.html",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Andås barnehage",
+                "no-barnehage:nsrid": "1026295",
+                "operator": "Vefsn kommune",
+                "operator:type": "public",
+                "id": "node/-5698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2474,
+                    65.83347
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6178",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rypefjord barnehage",
+                "no-barnehage:nsrid": "1013727",
+                "operator": "Hammerfest kommune",
+                "operator:type": "public",
+                "id": "node/-6178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.68027,
+                    70.63572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6169",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fjordadalen FUS barnehage",
+                "no-barnehage:nsrid": "1022158",
+                "operator": "Fjordadalen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-6169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.68318,
+                    70.63267
+                ]
+            }
+        }
+    ]
+}

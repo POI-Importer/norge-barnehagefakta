@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5410",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "97",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Sætra",
+                "no-barnehage:nsrid": "1022085",
+                "operator": "Gnist Barnehager Sætra AS",
+                "operator:type": "private",
+                "id": "node/-5410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11923,
+                    62.5269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5409",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "124",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Nordstrand",
+                "no-barnehage:nsrid": "1021661",
+                "operator": "Gnist Barnehager Nordstrand AS",
+                "operator:type": "private",
+                "id": "node/-5409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13038,
+                    62.51615
+                ]
+            }
+        }
+    ]
+}

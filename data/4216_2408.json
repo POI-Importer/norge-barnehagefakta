@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4432",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "93",
+                "contact:website": "http://veldetun.espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Veldetun barnehage",
+                "no-barnehage:nsrid": "1020897",
+                "operator": "Espira Veldetun AS",
+                "operator:type": "private",
+                "id": "node/-4432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27827,
+                    59.34787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4425",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:website": "http://avaldsnes.vigilo.no/web/index",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Avaldsnes barnehage",
+                "no-barnehage:nsrid": "1013751",
+                "operator": "Karmøy kommune",
+                "operator:type": "public",
+                "id": "node/-4425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28169,
+                    59.35424
+                ]
+            }
+        }
+    ]
+}

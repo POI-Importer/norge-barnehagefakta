@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5267",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:website": "http://www.puskhola.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Puskhola barnehage",
+                "no-barnehage:nsrid": "1019918",
+                "operator": "Puskhola barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4008,
+                    62.43378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5263",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:website": "http://laringsverkstedet.no/barnehage/blindheim",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Blindheim barnehage",
+                "no-barnehage:nsrid": "1020288",
+                "operator": "Blindheim barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.38636,
+                    62.44074
+                ]
+            }
+        }
+    ]
+}

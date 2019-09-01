@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4919",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gardstunet barnehage",
+                "no-barnehage:nsrid": "1020480",
+                "operator": "Gardstunet barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07666,
+                    60.32919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4917",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fjell KFUK KFUM avd. Fjell",
+                "no-barnehage:nsrid": "1017645",
+                "operator": "Fjell Kfuk-Kfum",
+                "operator:type": "private",
+                "id": "node/-4917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07587,
+                    60.33171
+                ]
+            }
+        }
+    ]
+}

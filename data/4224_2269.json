@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5328",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Troll-myra barnehage",
+                "no-barnehage:nsrid": "1021280",
+                "operator": "Troll-Myra barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63442,
+                    62.32507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5321",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Myklebust",
+                "no-barnehage:nsrid": "1021547",
+                "operator": "Gnist Barnehager Myklebust AS",
+                "operator:type": "private",
+                "id": "node/-5321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63771,
+                    62.32788
+                ]
+            }
+        }
+    ]
+}

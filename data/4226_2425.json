@@ -3,14 +3,388 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4013",
+            "id": "node/-4193",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:website": "http://beta.minbarnehage.no/stpetri/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vålandshaugen barnehage",
+                "no-barnehage:nsrid": "1015515",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72958,
+                    58.95763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4188",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1015513",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75185,
+                    58.95948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4176",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://www.openbarnehage.dinstudio.se/",
+                "name": "Storhaug åpen barnehage",
+                "no-barnehage:nsrid": "1016558",
+                "operator": "St. Johannes Sokn",
+                "operator:type": "private",
+                "id": "node/-4176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74558,
+                    58.96936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4175",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokkatunet barnehage avd. Hertervigtunet",
+                "no-barnehage:nsrid": "1026492",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71993,
+                    58.97181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4169",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.minbarnehage.no/steinhagen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Steinhagen barnehage",
+                "no-barnehage:nsrid": "1012899",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75502,
+                    58.96651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4167",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solvang barnehage",
+                "no-barnehage:nsrid": "1018538",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72404,
+                    58.96872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4150",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nymansveien barnehage",
+                "no-barnehage:nsrid": "1016072",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74859,
+                    58.96751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4143",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtua barnehage",
+                "no-barnehage:nsrid": "1013770",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72564,
+                    58.95041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4131",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kløvereng barnehage avd. Storhaug",
+                "no-barnehage:nsrid": "1018541",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74044,
+                    58.96398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4128",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Innføringsbarnehagen Johannes Læringssenter",
+                "no-barnehage:nsrid": "1012611",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75493,
+                    58.96731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4123",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "121",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hillevåg barnehage",
+                "no-barnehage:nsrid": "1013769",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73442,
+                    58.95116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4092",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bokkaskogen-kampen barnehage avd. Bokkaskogen",
+                "no-barnehage:nsrid": "1016173",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72109,
+                    58.95931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4088",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Biå Steinerbarnehage avd. Storhaug",
+                "no-barnehage:nsrid": "1020921",
+                "operator": "Biå Steinerbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4088"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75068,
+                    58.96306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4087",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "200",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bekketunet barnehage",
+                "no-barnehage:nsrid": "1014723",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72797,
+                    58.95059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4086",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:website": "http://minbarnehage.no/hkogv",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagene Haugtussa Krabat og Våland avd. Våland",
+                "no-barnehage:nsrid": "1017041",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73687,
+                    58.95723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4079",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas Hus barnehage",
+                "no-barnehage:nsrid": "1016757",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72245,
+                    58.95064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4078",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas Hus barnehage avd. Bekkefaret kirke",
+                "no-barnehage:nsrid": "1016755",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72835,
+                    58.95098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4012",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Esso-ansattes barnehage",
                 "no-barnehage:nsrid": "1020466",
                 "operator": "Esso-Ansattes barnehage",
                 "operator:type": "private",
-                "id": "node/-4013"
+                "id": "node/-4012"
             },
             "geometry": {
                 "type": "Point",

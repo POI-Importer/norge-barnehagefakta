@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5406",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vasset barnehage",
+                "no-barnehage:nsrid": "1019730",
+                "operator": "Vasset barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21079,
+                    62.43765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5396",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hatlebakken barnehage",
+                "no-barnehage:nsrid": "1020553",
+                "operator": "Hatlebakken barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.22017,
+                    62.44728
+                ]
+            }
+        }
+    ]
+}

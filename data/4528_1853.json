@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6016",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1015581",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-6016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99271,
+                    69.69401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6015",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "contact:website": "http://utsikten.tromso.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Utsikten barnehage",
+                "no-barnehage:nsrid": "1019757",
+                "operator": "Utsikten barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00269,
+                    69.69439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5994",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stakkevollan barnehage",
+                "no-barnehage:nsrid": "1012719",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99434,
+                    69.69198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5988",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:website": "http://www.soldagen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soldagen barnehage",
+                "no-barnehage:nsrid": "1020026",
+                "operator": "Soldagen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0064,
+                    69.69774
+                ]
+            }
+        }
+    ]
+}

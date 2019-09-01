@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6177",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Reindalen barnehage",
+                "no-barnehage:nsrid": "1013801",
+                "operator": "Hammerfest kommune",
+                "operator:type": "public",
+                "id": "node/-6177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.70079,
+                    70.6909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6175",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "contact:website": "http://www.prarienbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prærien barnehage",
+                "no-barnehage:nsrid": "1019841",
+                "operator": "Stiftelsen Prærien barnehage",
+                "operator:type": "private",
+                "id": "node/-6175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.69184,
+                    70.68969
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4200",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:website": "http://espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Bjørgene barnehage",
+                "no-barnehage:nsrid": "1021279",
+                "operator": "Espira Bjørgene AS",
+                "operator:type": "private",
+                "id": "node/-4200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30152,
+                    59.39361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4197",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.amanda.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Amanda barnehage",
+                "no-barnehage:nsrid": "1020785",
+                "operator": "Amanda barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3092,
+                    59.39209
+                ]
+            }
+        }
+    ]
+}

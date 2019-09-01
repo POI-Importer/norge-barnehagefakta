@@ -1,0 +1,92 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4756",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://www.openbarnehage.no/",
+                "name": "Åpen barnehage Fana Km",
+                "no-barnehage:nsrid": "1020421",
+                "operator": "Fana Kfuk-Kfum",
+                "operator:type": "private",
+                "id": "node/-4756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34837,
+                    60.26335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4665",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Montessoribarnehagen Knerten",
+                "no-barnehage:nsrid": "1019792",
+                "operator": "Montessoribarnehagen Knerten AS",
+                "operator:type": "private",
+                "id": "node/-4665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35811,
+                    60.26605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4648",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://laringsverkstedet.no/barnehage/kvernabekken-milj%C3%B8barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Kvernabekken",
+                "no-barnehage:nsrid": "1021626",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35861,
+                    60.26596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4476",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "119",
+                "contact:website": "http://www.fanabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Fana barnehage",
+                "no-barnehage:nsrid": "1021394",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34286,
+                    60.26358
+                ]
+            }
+        }
+    ]
+}

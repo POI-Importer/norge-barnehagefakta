@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5635",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tverlandet kirkebarnehage",
+                "no-barnehage:nsrid": "1016762",
+                "operator": "Saltstraumen Sokn",
+                "operator:type": "private",
+                "id": "node/-5635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73938,
+                    67.29718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5603",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løding barnehage avd. Maurtua",
+                "no-barnehage:nsrid": "1016643",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7362,
+                    67.29624
+                ]
+            }
+        }
+    ]
+}

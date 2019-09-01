@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5277",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Stokke Maritime FUS barnehage",
+                "no-barnehage:nsrid": "2000265",
+                "operator": "Stokke Maritime Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.39629,
+                    62.50392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5276",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokke barnehage",
+                "no-barnehage:nsrid": "1018182",
+                "operator": "Ålesund kommune",
+                "operator:type": "public",
+                "id": "node/-5276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.40395,
+                    62.50461
+                ]
+            }
+        }
+    ]
+}

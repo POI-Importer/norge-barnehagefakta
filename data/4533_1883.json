@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6123",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollskogen barnehage",
+                "no-barnehage:nsrid": "1020183",
+                "operator": "Trollskogen barnehage Storsteinnes Sa",
+                "operator:type": "private",
+                "id": "node/-6123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.21679,
+                    69.23859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6120",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Moan barnehage",
+                "no-barnehage:nsrid": "1016158",
+                "operator": "Balsfjord kommune",
+                "operator:type": "public",
+                "id": "node/-6120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.21171,
+                    69.23515
+                ]
+            }
+        }
+    ]
+}

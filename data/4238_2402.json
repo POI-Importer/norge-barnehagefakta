@@ -3,14 +3,55 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4016",
+            "id": "node/-4391",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Suldal barnehage avd. barnehageadministrasjon Avd barnehageadministrasjon",
                 "no-barnehage:nsrid": "1023781",
                 "operator": "Suldal kommune",
                 "operator:type": "public",
-                "id": "node/-4016"
+                "id": "node/-4391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.25225,
+                    59.48569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4388",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sand barnehage avd. Randåsen",
+                "no-barnehage:nsrid": "1012545",
+                "operator": "Suldal kommune",
+                "operator:type": "public",
+                "id": "node/-4388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.26242,
+                    59.48704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4384",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Barnehagefagleg Rådgjevar",
+                "no-barnehage:nsrid": "1025174",
+                "operator": "Suldal kommune",
+                "operator:type": "public",
+                "id": "node/-4384"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5568",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:website": "http://ruffen.kanvas.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ruffen Kanvas-barnehage",
+                "no-barnehage:nsrid": "1021680",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-5568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2814,
+                    63.74255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5559",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Momarka barnehage avd. Momarka",
+                "no-barnehage:nsrid": "1013938",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "id": "node/-5559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.28917,
+                    63.72756
+                ]
+            }
+        }
+    ]
+}

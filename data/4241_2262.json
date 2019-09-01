@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5283",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.veslefrikk.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Veslefrikk barnehage Ålesund",
+                "no-barnehage:nsrid": "1019815",
+                "operator": "Veslefrikk barnehage Ålesund Sa",
+                "operator:type": "private",
+                "id": "node/-5283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37262,
+                    62.46051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5247",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fremmerholen barnehage",
+                "no-barnehage:nsrid": "1018176",
+                "operator": "Ålesund kommune",
+                "operator:type": "public",
+                "id": "node/-5247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37838,
+                    62.46601
+                ]
+            }
+        }
+    ]
+}

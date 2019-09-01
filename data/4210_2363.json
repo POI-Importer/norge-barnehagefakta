@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4941",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ulveseth barnehage avd. Fjell",
+                "no-barnehage:nsrid": "1014714",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "id": "node/-4941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03866,
+                    60.33005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4940",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:website": "http://ulven.norlandiabarnehagene.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ulven naturbarnehage",
+                "no-barnehage:nsrid": "1013274",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0309,
+                    60.32835
+                ]
+            }
+        }
+    ]
+}

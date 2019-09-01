@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4950",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "contact:website": "http://www.fridahuset.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fridahuset",
+                "no-barnehage:nsrid": "1021317",
+                "operator": "Fridahuset AS",
+                "operator:type": "private",
+                "id": "node/-4950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22244,
+                    60.44678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4947",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Erdal barnehage",
+                "no-barnehage:nsrid": "1012868",
+                "operator": "Askøy kommune",
+                "operator:type": "public",
+                "id": "node/-4947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20318,
+                    60.44897
+                ]
+            }
+        }
+    ]
+}

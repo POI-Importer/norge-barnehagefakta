@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4433",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Østrem barnehage",
+                "no-barnehage:nsrid": "1021059",
+                "operator": "Espira Østrem AS",
+                "operator:type": "private",
+                "id": "node/-4433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2948,
+                    59.28902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4426",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "contact:website": "http://bygnesbarnehage.vigilo.no/web/index",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bygnes vitenbarnehage",
+                "no-barnehage:nsrid": "1015587",
+                "operator": "Karmøy kommune",
+                "operator:type": "public",
+                "id": "node/-4426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28473,
+                    59.28904
+                ]
+            }
+        }
+    ]
+}

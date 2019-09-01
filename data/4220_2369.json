@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4891",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "145",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Os barnehage",
+                "no-barnehage:nsrid": "1018117",
+                "operator": "Os kommune",
+                "operator:type": "public",
+                "id": "node/-4891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45784,
+                    60.19619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4882",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://borgafjell.vigilo.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Borgafjell barnehage",
+                "no-barnehage:nsrid": "1021953",
+                "operator": "Borgafjell barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.48975,
+                    60.20177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4881",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Banktjørhaugen barnehage",
+                "no-barnehage:nsrid": "1020688",
+                "operator": "Banktjørnhaugen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.46116,
+                    60.20344
+                ]
+            }
+        }
+    ]
+}

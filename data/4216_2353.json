@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5013",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "114",
+                "contact:website": "http://www.knarvikbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Knarvik barnehage",
+                "no-barnehage:nsrid": "1021884",
+                "operator": "Knarvik barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29231,
+                    60.55093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5012",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "113",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Juvikstølen barnehage",
+                "no-barnehage:nsrid": "1017858",
+                "operator": "Lindås kommune",
+                "operator:type": "public",
+                "id": "node/-5012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27774,
+                    60.55288
+                ]
+            }
+        }
+    ]
+}

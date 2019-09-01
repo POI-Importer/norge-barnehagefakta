@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5463",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "contact:website": "http://www.lyngen.mobarn.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mobarn Lyngen barnehage",
+                "no-barnehage:nsrid": "2000054",
+                "operator": "Mobarn Sa",
+                "operator:type": "private",
+                "id": "node/-5463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.02427,
+                    62.78883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5459",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jendem barnehage",
+                "no-barnehage:nsrid": "1021068",
+                "operator": "Fræna kommune",
+                "operator:type": "public",
+                "id": "node/-5459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00738,
+                    62.78763
+                ]
+            }
+        }
+    ]
+}

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1832",
+            "id": "node/-1831",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019871",
                 "operator": "Øraker barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1832"
+                "id": "node/-1831"
             },
             "geometry": {
                 "type": "Point",
@@ -66,6 +66,25 @@
                 "coordinates": [
                     10.63401,
                     59.92881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1337",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Idrettsbarnehage",
+                "no-barnehage:nsrid": "2000333",
+                "operator": "Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-1337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6321774,
+                    59.92289
                 ]
             }
         },

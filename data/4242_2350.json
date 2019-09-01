@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4862",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Voss kommune Barnehagane Fellesfunksjonar",
+                "no-barnehage:nsrid": "1019527",
+                "operator": "Voss kommune",
+                "operator:type": "public",
+                "id": "node/-4862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.41838,
+                    60.62784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4860",
+            "properties": {
+                "amenity": "kindergarten",
+                "contact:website": "http://facebook.com/vonheimopenbarnehage",
+                "name": "Vonheim Open barnehage",
+                "no-barnehage:nsrid": "1020375",
+                "operator": "Voss Kfuk - Kfum",
+                "operator:type": "private",
+                "id": "node/-4860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42094,
+                    60.62733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4856",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:website": "http://www.rogne.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rogne barnehage",
+                "no-barnehage:nsrid": "1020154",
+                "operator": "Rogne barnehage",
+                "operator:type": "private",
+                "id": "node/-4856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42257,
+                    60.62985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4849",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjernes barnehage",
+                "no-barnehage:nsrid": "1012850",
+                "operator": "Voss kommune",
+                "operator:type": "public",
+                "id": "node/-4849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.41964,
+                    60.6158
+                ]
+            }
+        }
+    ]
+}

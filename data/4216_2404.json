@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4235",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.udland.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Udland FUS barnehage",
+                "no-barnehage:nsrid": "1021181",
+                "operator": "Udland Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27741,
+                    59.4432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4230",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solandsbakken barnehage",
+                "no-barnehage:nsrid": "1018084",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29273,
+                    59.43367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4206",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "contact:website": "http://www.grutle.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grutle barnehage",
+                "no-barnehage:nsrid": "1019814",
+                "operator": "Grutle barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27834,
+                    59.44287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4199",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bleikemyr barnehage",
+                "no-barnehage:nsrid": "1018082",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28586,
+                    59.43756
+                ]
+            }
+        }
+    ]
+}

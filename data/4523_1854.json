@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6023",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:website": "http://www.asland.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsland barnehage",
+                "no-barnehage:nsrid": "1019756",
+                "operator": "Åsland barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77033,
+                    69.67851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5976",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "132",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Polarmåsen barnehage",
+                "no-barnehage:nsrid": "1015660",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80746,
+                    69.68535
+                ]
+            }
+        }
+    ]
+}

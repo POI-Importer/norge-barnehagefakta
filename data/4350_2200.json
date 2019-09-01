@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5555",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hompetitten barnehage",
+                "no-barnehage:nsrid": "1020923",
+                "operator": "Hompetitten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18456,
+                    63.70393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5554",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Holåsen barnehage",
+                "no-barnehage:nsrid": "2000558",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "id": "node/-5554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18456,
+                    63.70393
+                ]
+            }
+        }
+    ]
+}

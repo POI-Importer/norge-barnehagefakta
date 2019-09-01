@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4031",
+            "id": "node/-5413",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjong barnehage",
+                "no-barnehage:nsrid": "1020213",
+                "operator": "Skjong barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10971,
+                    62.50375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5407",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "73",
@@ -13,7 +35,7 @@
                 "no-barnehage:nsrid": "1015545",
                 "operator": "Imf Sunnmøre",
                 "operator:type": "private",
-                "id": "node/-4031"
+                "id": "node/-5407"
             },
             "geometry": {
                 "type": "Point",

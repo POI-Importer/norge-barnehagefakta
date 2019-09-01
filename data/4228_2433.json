@@ -3,7 +3,70 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4008",
+            "id": "node/-4325",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Trollungen familiebarnehage Gro Kristin Tollefsen",
+                "no-barnehage:nsrid": "1020640",
+                "operator": "Trollungen Familiebarnehage Gro Kristin Tollefsen",
+                "operator:type": "private",
+                "id": "node/-4325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83061,
+                    58.77155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4314",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsebo barnehage",
+                "no-barnehage:nsrid": "1015004",
+                "operator": "Gjesdal kommune",
+                "operator:type": "public",
+                "id": "node/-4314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83878,
+                    58.77381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4013",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Figgjo barnehage",
+                "no-barnehage:nsrid": "1015533",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.81413,
+                    58.78395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4007",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "26",
@@ -14,7 +77,7 @@
                 "no-barnehage:nsrid": "1021642",
                 "operator": "Engleongane barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4008"
+                "id": "node/-4007"
             },
             "geometry": {
                 "type": "Point",

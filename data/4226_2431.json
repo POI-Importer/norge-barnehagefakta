@@ -3,7 +3,230 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4006",
+            "id": "node/-4063",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Utsikten Vest FUS barnehage",
+                "no-barnehage:nsrid": "1021177",
+                "operator": "Utsikten Vest Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74373,
+                    58.81752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4059",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørbø barnehage Nord",
+                "no-barnehage:nsrid": "2000191",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73108,
+                    58.82876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4058",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "97",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørbø barnehage",
+                "no-barnehage:nsrid": "1025445",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7319,
+                    58.82673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4055",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "150",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Strutsen Et Pedagogisk Barnesenter",
+                "no-barnehage:nsrid": "1009241",
+                "operator": "Strutsen Et Pedagogisk Barnesenter AS",
+                "operator:type": "private",
+                "id": "node/-4055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75638,
+                    58.83572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4031",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://www.minbarnehage.no/lundegard",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lundegård barnehage",
+                "no-barnehage:nsrid": "1020858",
+                "operator": "Lundegård barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72366,
+                    58.8264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4028",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kreativ barnehage Hove",
+                "no-barnehage:nsrid": "1026202",
+                "operator": "Kreativ barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73095,
+                    58.83239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4027",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kreativ barnehage Bogafjell",
+                "no-barnehage:nsrid": "1021195",
+                "operator": "Kreativ barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74753,
+                    58.81401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4021",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:website": "http://www.haabet-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Håbet FUS barnehage",
+                "no-barnehage:nsrid": "1020129",
+                "operator": "Håbet Fus Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75336,
+                    58.82541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4020",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://www.minbarnehage.no/idrettsbarnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Håbafjell idrettsbarnehage",
+                "no-barnehage:nsrid": "1020561",
+                "operator": "Håbafjell Idrettsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75179,
+                    58.82469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4014",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ganddal barnehage",
+                "no-barnehage:nsrid": "1025377",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7162,
+                    58.82008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4005",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "69",
@@ -14,7 +237,7 @@
                 "no-barnehage:nsrid": "1021148",
                 "operator": "Buggeland barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4006"
+                "id": "node/-4005"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +249,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4003",
+            "id": "node/-4002",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "76",
@@ -37,7 +260,7 @@
                 "no-barnehage:nsrid": "1020839",
                 "operator": "Bogafjellbakken Naturbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4003"
+                "id": "node/-4002"
             },
             "geometry": {
                 "type": "Point",
@@ -49,14 +272,14 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4002",
+            "id": "node/-4001",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Bogafjell Åpne barnehage",
                 "no-barnehage:nsrid": "1014080",
                 "operator": "Bogafjell Sokn",
                 "operator:type": "private",
-                "id": "node/-4002"
+                "id": "node/-4001"
             },
             "geometry": {
                 "type": "Point",

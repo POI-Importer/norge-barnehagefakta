@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5975",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://www.polarhagen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Polarhagen barnehage",
+                "no-barnehage:nsrid": "1019665",
+                "operator": "Polarhagen AS",
+                "operator:type": "private",
+                "id": "node/-5975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93511,
+                    69.67899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5974",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Olsgård barnehage",
+                "no-barnehage:nsrid": "1012726",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93681,
+                    69.67256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5948",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:website": "http://www.hvalrossen.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hvalrossen barnehage",
+                "no-barnehage:nsrid": "1015659",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93512,
+                    69.6796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5938",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:website": "http://www.einerabben.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Einerabben barnehage",
+                "no-barnehage:nsrid": "1020418",
+                "operator": "Einerabben barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93314,
+                    69.67787
+                ]
+            }
+        }
+    ]
+}

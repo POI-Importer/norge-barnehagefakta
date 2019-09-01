@@ -3,7 +3,208 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3999",
+            "id": "node/-4064",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varatun barnehage",
+                "no-barnehage:nsrid": "1025372",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.735,
+                    58.86516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4051",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://www.sandnes.kommune.no/barnehage-og-skole/barnehager-i-sandnes/kommunale-barnehager/smeaheia-barneha",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smeaheia barnehage",
+                "no-barnehage:nsrid": "1016307",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72162,
+                    58.86302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4042",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabalder barnehage",
+                "no-barnehage:nsrid": "1020327",
+                "operator": "Rabalder barnehage Da",
+                "operator:type": "private",
+                "id": "node/-4042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72758,
+                    58.87945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4041",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Porsholen barnehage",
+                "no-barnehage:nsrid": "1012895",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7365,
+                    58.8815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4039",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ormaskogen barnehage",
+                "no-barnehage:nsrid": "1020914",
+                "operator": "Ormaskogen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71922,
+                    58.86253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4038",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Lube barnehage",
+                "no-barnehage:nsrid": "1017868",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72912,
+                    58.87836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4037",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:website": "http://www.myrsnipa.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myrsnipa barnehage",
+                "no-barnehage:nsrid": "1020320",
+                "operator": "Porsholen 2 Sa",
+                "operator:type": "private",
+                "id": "node/-4037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73142,
+                    58.87962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4024",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jønningheia barnehage",
+                "no-barnehage:nsrid": "1012890",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72092,
+                    58.85955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4022",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:website": "http://www.haaholenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Håholen barnehage",
+                "no-barnehage:nsrid": "1019813",
+                "operator": "Håholen barnehage",
+                "operator:type": "private",
+                "id": "node/-4022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7321,
+                    58.87205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3998",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -14,7 +215,7 @@
                 "no-barnehage:nsrid": "1019779",
                 "operator": "Aktive Foreldre Sa",
                 "operator:type": "private",
-                "id": "node/-3999"
+                "id": "node/-3998"
             },
             "geometry": {
                 "type": "Point",

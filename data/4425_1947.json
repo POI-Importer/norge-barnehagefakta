@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5869",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://www.nordlysbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordlys barnehage",
+                "no-barnehage:nsrid": "1021839",
+                "operator": "Nordlys barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46598,
+                    68.20772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5868",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nakken barnehage",
+                "no-barnehage:nsrid": "1016144",
+                "operator": "Vågan kommune",
+                "operator:type": "public",
+                "id": "node/-5868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47627,
+                    68.20728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5862",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kabelvåg barnehage",
+                "no-barnehage:nsrid": "1022217",
+                "operator": "Kabelvåg barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46983,
+                    68.21015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5860",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "17",
+                "contact:website": "http://www.filipstua.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Filipstua friluftsbarnehage",
+                "no-barnehage:nsrid": "1020734",
+                "operator": "Filipstua Friluftsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48653,
+                    68.21297
+                ]
+            }
+        }
+    ]
+}

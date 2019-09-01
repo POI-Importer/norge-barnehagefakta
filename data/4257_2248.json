@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5232",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Molde Molde barnehage",
+                "no-barnehage:nsrid": "1014822",
+                "operator": "Studentsamskipnaden i Molde",
+                "operator:type": "private",
+                "id": "node/-5232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1047,
+                    62.73711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5216",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://www.molde.kommune.no/hjem.406017.no.html",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvam barnehage",
+                "no-barnehage:nsrid": "1018168",
+                "operator": "Molde kommune",
+                "operator:type": "public",
+                "id": "node/-5216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09675,
+                    62.7365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5209",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjørset barnehage",
+                "no-barnehage:nsrid": "1015558",
+                "operator": "Molde Indremisjon",
+                "operator:type": "private",
+                "id": "node/-5209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.11793,
+                    62.73763
+                ]
+            }
+        }
+    ]
+}

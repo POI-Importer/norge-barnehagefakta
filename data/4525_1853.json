@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6013",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://tusseladden.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tusseladden friluftsbarnehage",
+                "no-barnehage:nsrid": "1015553",
+                "operator": "Tusseladden Friluftsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86729,
+                    69.69236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5987",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Slettaelva barnehage",
+                "no-barnehage:nsrid": "1012725",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.89003,
+                    69.69995
+                ]
+            }
+        }
+    ]
+}

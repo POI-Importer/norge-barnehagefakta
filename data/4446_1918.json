@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5908",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "111",
+                "contact:website": "http://www.prestelvabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prestelva barnehage",
+                "no-barnehage:nsrid": "1020361",
+                "operator": "Prestelva barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.387,
+                    68.68204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5899",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåfjell barnehage",
+                "no-barnehage:nsrid": "1021067",
+                "operator": "Blåfjell barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39303,
+                    68.68687
+                ]
+            }
+        }
+    ]
+}

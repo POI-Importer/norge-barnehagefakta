@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4937",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svingen barnehage",
+                "no-barnehage:nsrid": "1012585",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "id": "node/-4937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14355,
+                    60.35347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4927",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "94",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Valen",
+                "no-barnehage:nsrid": "1015840",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.15805,
+                    60.36376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4647",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "91",
+                "contact:website": "http://laringsverkstedet.no/barnehage/kanutten/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Kanutten",
+                "no-barnehage:nsrid": "1013152",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18095,
+                    60.36768
+                ]
+            }
+        }
+    ]
+}

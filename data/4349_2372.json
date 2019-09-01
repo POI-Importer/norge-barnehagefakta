@@ -3,6 +3,28 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-971",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Romsaas barnehage",
+                "no-barnehage:nsrid": "1016433",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16111,
+                    60.14055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-962",
             "properties": {
                 "amenity": "kindergarten",

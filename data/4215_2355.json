@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4995",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Marihøna barnehage",
+                "no-barnehage:nsrid": "1018125",
+                "operator": "Meland kommune",
+                "operator:type": "public",
+                "id": "node/-4995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.24309,
+                    60.5172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4990",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leiketun barnehage",
+                "no-barnehage:nsrid": "1021369",
+                "operator": "Leiketun barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23942,
+                    60.51329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4699",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Salhus barnehage",
+                "no-barnehage:nsrid": "1015521",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26293,
+                    60.50378
+                ]
+            }
+        }
+    ]
+}

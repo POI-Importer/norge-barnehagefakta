@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5676",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soltun barnehage",
+                "no-barnehage:nsrid": "1019967",
+                "operator": "Soltun barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23761,
+                    65.49098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5675",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Salhus barnehage",
+                "no-barnehage:nsrid": "1015456",
+                "operator": "Brønnøy kommune",
+                "operator:type": "public",
+                "id": "node/-5675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22165,
+                    65.48483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5674",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://klovermarka.norlandiabarnehagene.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kløvermarka barnehage",
+                "no-barnehage:nsrid": "1012995",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25244,
+                    65.49174
+                ]
+            }
+        }
+    ]
+}

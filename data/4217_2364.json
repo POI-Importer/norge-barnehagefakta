@@ -3,20 +3,334 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4018",
+            "id": "node/-4722",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Stiftelsen Sesam",
+                "no-barnehage:nsrid": "1020070",
+                "operator": "Stiftelsen Sesam",
+                "operator:type": "private",
+                "id": "node/-4722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.356,
+                    60.31636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4709",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:website": "http://www.skjoldtunbarnehage.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjoldtun barnehage kulturbarnehage",
+                "no-barnehage:nsrid": "1020299",
+                "operator": "Skjoldtun Kvinne- og Familielag",
+                "operator:type": "private",
+                "id": "node/-4709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33694,
+                    60.30567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4708",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/skjold-barnehage/var-profil",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjold barnehage",
+                "no-barnehage:nsrid": "1016682",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33714,
+                    60.30907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4696",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rosenhagen Steinerbarnehage",
+                "no-barnehage:nsrid": "1020691",
+                "operator": "Stiftelsen Rosenhagen Steinerbarnehage",
+                "operator:type": "private",
+                "id": "node/-4696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32836,
+                    60.31112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4682",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "contact:website": "http://www.nordaastraeetbarnehage.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordåstræets barnehage",
+                "no-barnehage:nsrid": "1021441",
+                "operator": "Nordåstræets barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31844,
+                    60.30896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4681",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:website": "http://nordasgrenda.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordås Selegrend barnehage Kunst- og musikkbarnehage",
+                "no-barnehage:nsrid": "1019690",
+                "operator": "Nordås Selegrend Borettslag",
+                "operator:type": "private",
+                "id": "node/-4681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32339,
+                    60.30941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4621",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Øvsttun",
+                "no-barnehage:nsrid": "1014280",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36111,
+                    60.31354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4585",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Iristunet barnehage",
+                "no-barnehage:nsrid": "1016706",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32248,
+                    60.30696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4581",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/idavollen-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Idavollen barnehage",
+                "no-barnehage:nsrid": "1016228",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34642,
+                    60.31051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4578",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hop oppveksttun barnehage",
+                "no-barnehage:nsrid": "1016712",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34337,
+                    60.32418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4539",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Eventyrdalen barnehage",
                 "no-barnehage:nsrid": "1020904",
                 "operator": "Eventyrdalen Barnehage Monica Dyrøy",
                 "operator:type": "private",
-                "id": "node/-4018"
+                "id": "node/-4539"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.35387,
                     60.30849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4537",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "102",
+                "contact:website": "http://eventus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventus Midtun barnehage",
+                "no-barnehage:nsrid": "1022432",
+                "operator": "Eventus Midtun barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36005,
+                    60.32115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4535",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:website": "http://eventus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventus Eventyrdalen barnehage",
+                "no-barnehage:nsrid": "1022221",
+                "operator": "Eventus Eventyrdalen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35387,
+                    60.30849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4487",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "contact:website": "http://skjoldmenighet.akasiabarnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Skjold menighetsbarnehage",
+                "no-barnehage:nsrid": "1017928",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33242,
+                    60.30623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4484",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:website": "http://akasiabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Ramstad barnehage",
+                "no-barnehage:nsrid": "1022441",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33772,
+                    60.31435
                 ]
             }
         }

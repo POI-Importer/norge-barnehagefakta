@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6005",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Toftveien barnehage",
+                "no-barnehage:nsrid": "1020105",
+                "operator": "Toftveien barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-6005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97537,
+                    69.69772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5989",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solneset barnehage",
+                "no-barnehage:nsrid": "1018441",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95301,
+                    69.696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5959",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvitungen barnehage",
+                "no-barnehage:nsrid": "1015977",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97693,
+                    69.70203
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5690",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stamnes barnehage",
+                "no-barnehage:nsrid": "1012531",
+                "operator": "Alstahaug kommune",
+                "operator:type": "public",
+                "id": "node/-5690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60785,
+                    66.01671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5689",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.segelberganbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Småbarnsforeldrenes barnehage Alstahaug",
+                "no-barnehage:nsrid": "1020174",
+                "operator": "Småbarnsforeldrenes barnehage Alstahaug Sa",
+                "operator:type": "private",
+                "id": "node/-5689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58215,
+                    66.01095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5688",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "contact:website": "http://forshaugen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandnessjøen barnehage",
+                "no-barnehage:nsrid": "1021774",
+                "operator": "Sandnessjøen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6061,
+                    66.01003
+                ]
+            }
+        }
+    ]
+}

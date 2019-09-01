@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5570",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Staup barnehage",
+                "no-barnehage:nsrid": "1017258",
+                "operator": "Levanger kommune",
+                "operator:type": "public",
+                "id": "node/-5570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27824,
+                    63.74577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5565",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad avd. Trimia barnehage",
+                "no-barnehage:nsrid": "1015995",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "id": "node/-5565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29305,
+                    63.74819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5549",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Farmen menighetsbarnehage",
+                "no-barnehage:nsrid": "1016194",
+                "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
+                "operator:type": "private",
+                "id": "node/-5549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27267,
+                    63.75249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5548",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Gjemble barnehage",
+                "no-barnehage:nsrid": "1020704",
+                "operator": "Espira Gjemble AS",
+                "operator:type": "private",
+                "id": "node/-5548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27403,
+                    63.75593
+                ]
+            }
+        }
+    ]
+}

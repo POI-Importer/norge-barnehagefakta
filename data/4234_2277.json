@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5352",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "contact:website": "http://www.sivolda.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Volda avd. Røysmarka studentbarnehage",
+                "no-barnehage:nsrid": "1015508",
+                "operator": "Studentsamskipnaden i Volda",
+                "operator:type": "private",
+                "id": "node/-5352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.08144,
+                    62.14926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5351",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sollia barnehage",
+                "no-barnehage:nsrid": "1018185",
+                "operator": "Volda kommune",
+                "operator:type": "public",
+                "id": "node/-5351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09521,
+                    62.15062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5349",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Oppigarden barnehage",
+                "no-barnehage:nsrid": "1016728",
+                "operator": "Volda kommune",
+                "operator:type": "public",
+                "id": "node/-5349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09414,
+                    62.15018
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6266",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prestøya barnehage",
+                "no-barnehage:nsrid": "1016743",
+                "operator": "Sør-Varanger kommune",
+                "operator:type": "public",
+                "id": "node/-6266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.08519,
+                    69.72192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6258",
+            "properties": {
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Einerveien barnehage",
+                "no-barnehage:nsrid": "1017501",
+                "operator": "Sør-Varanger kommune",
+                "operator:type": "public",
+                "id": "node/-6258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.08932,
+                    69.72335
+                ]
+            }
+        }
+    ]
+}

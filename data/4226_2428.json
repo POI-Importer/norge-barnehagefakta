@@ -3,7 +3,337 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4010",
+            "id": "node/-4168",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.biss.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stavanger British Pre-school",
+                "no-barnehage:nsrid": "1014120",
+                "operator": "The British International School Of Stavanger",
+                "operator:type": "private",
+                "id": "node/-4168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73376,
+                    58.89721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4153",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:website": "http://regnbuen.kanvas.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbuen Kanvas-barnehage",
+                "no-barnehage:nsrid": "1016211",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-4153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71911,
+                    58.89281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4141",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mariamarka barnehage",
+                "no-barnehage:nsrid": "1016075",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71294,
+                    58.90222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4122",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heddeveien FUS barnehage",
+                "no-barnehage:nsrid": "1021384",
+                "operator": "Heddeveien Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72118,
+                    58.90101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4114",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:website": "http://www.geitastova.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Geitastova barnehage",
+                "no-barnehage:nsrid": "1020219",
+                "operator": "Geitastova barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73935,
+                    58.8895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4113",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gautesete barnehage",
+                "no-barnehage:nsrid": "1018599",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72035,
+                    58.90227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4112",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://gauselbakken.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gauselbakken barnehage",
+                "no-barnehage:nsrid": "1021006",
+                "operator": "Gauselbakken barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72963,
+                    58.90448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4111",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fun4kids",
+                "no-barnehage:nsrid": "1025916",
+                "operator": "Fun4kids - Adams",
+                "operator:type": "private",
+                "id": "node/-4111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72743,
+                    58.89592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4110",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frøystad barnehage",
+                "no-barnehage:nsrid": "1020280",
+                "operator": "Frøystad barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74345,
+                    58.89914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4100",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dronningåsen barnehage",
+                "no-barnehage:nsrid": "1020557",
+                "operator": "Dronningåsen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73264,
+                    58.8996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4077",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Bamsefaret åpen barnehage",
+                "no-barnehage:nsrid": "2000338",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72232,
+                    58.89889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4076",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://www.minbarnehage.no/bamsefaret",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsefaret barnehage",
+                "no-barnehage:nsrid": "1012919",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72607,
+                    58.89837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4075",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:website": "http://www.minbarnehage.no/djupamyra",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsefaret barnehage avd. Djupmyrå",
+                "no-barnehage:nsrid": "1012901",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72101,
+                    58.89622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4044",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rissebærstraen barnehage",
+                "no-barnehage:nsrid": "1015603",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74668,
+                    58.88364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4036",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myklaberget barnehage",
+                "no-barnehage:nsrid": "1016068",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7345,
+                    58.88482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4009",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "92",
@@ -14,7 +344,7 @@
                 "no-barnehage:nsrid": "1022028",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4010"
+                "id": "node/-4009"
             },
             "geometry": {
                 "type": "Point",

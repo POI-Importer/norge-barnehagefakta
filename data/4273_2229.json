@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5297",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "91",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Draget",
+                "no-barnehage:nsrid": "1014065",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.80135,
+                    63.12551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5289",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dale barnehage",
+                "no-barnehage:nsrid": "1018169",
+                "operator": "Kristiansund kommune",
+                "operator:type": "public",
+                "id": "node/-5289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78906,
+                    63.11939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5287",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Abc Bakken barnehage",
+                "no-barnehage:nsrid": "1020086",
+                "operator": "Kristiansund barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78931,
+                    63.12243
+                ]
+            }
+        }
+    ]
+}

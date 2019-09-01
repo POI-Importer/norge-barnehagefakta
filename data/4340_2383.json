@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1736",
+            "id": "node/-1735",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "61",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1015157",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1736"
+                "id": "node/-1735"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1713",
+            "id": "node/-1712",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "48",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "2000103",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1713"
+                "id": "node/-1712"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1470",
+            "id": "node/-1580",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Pioneer Public Properties V",
+                "no-barnehage:nsrid": "2000030",
+                "operator": "Pioneer Public Properties V AS",
+                "operator:type": "private",
+                "id": "node/-1580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7380428,
+                    59.9107552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1469",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -58,13 +77,51 @@
                 "no-barnehage:nsrid": "1025509",
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
-                "id": "node/-1470"
+                "id": "node/-1469"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.75467,
                     59.90234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1368",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kidsa Eiendom",
+                "no-barnehage:nsrid": "1025938",
+                "operator": "Kidsa Eiendom AS",
+                "operator:type": "private",
+                "id": "node/-1368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7380428,
+                    59.9107552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1073",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Barnehagen Breistein",
+                "no-barnehage:nsrid": "1021552",
+                "operator": "Kidsa Bygg AS",
+                "operator:type": "private",
+                "id": "node/-1073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7380428,
+                    59.9107552
                 ]
             }
         },
