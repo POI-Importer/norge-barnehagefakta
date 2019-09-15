@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6266",
+            "id": "node/-6259",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "52",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1016743",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-6266"
+                "id": "node/-6259"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6258",
+            "id": "node/-6254",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirkenes barnehage",
+                "no-barnehage:nsrid": "1017380",
+                "operator": "Sør-Varanger kommune",
+                "operator:type": "public",
+                "id": "node/-6254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.08932,
+                    69.72335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6251",
             "properties": {
                 "amenity": "kindergarten",
                 "max_age": "5",
@@ -34,7 +56,7 @@
                 "no-barnehage:nsrid": "1017501",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-6258"
+                "id": "node/-6251"
             },
             "geometry": {
                 "type": "Point",

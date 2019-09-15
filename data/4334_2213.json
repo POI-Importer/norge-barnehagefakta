@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3274",
+            "id": "node/-3268",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1021049",
                 "operator": "Stiftelsen Steinerbarnehagen Rotnissen",
                 "operator:type": "private",
-                "id": "node/-3274"
+                "id": "node/-3268"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3270",
+            "id": "node/-3264",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "82",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "1020149",
                 "operator": "Stiftelsen Fjæraskogen barnehage",
                 "operator:type": "private",
-                "id": "node/-3270"
+                "id": "node/-3264"
             },
             "geometry": {
                 "type": "Point",
@@ -47,14 +47,36 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3167",
+            "id": "node/-3186",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Montessoribarnehagene Trondheim",
+                "no-barnehage:nsrid": "1021969",
+                "operator": "Montessoribarnehagene Trondheim AS",
+                "operator:type": "private",
+                "id": "node/-3186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48351,
+                    63.43896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3161",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Ladestien barnehager",
                 "no-barnehage:nsrid": "1019556",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3167"
+                "id": "node/-3161"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +88,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3166",
+            "id": "node/-3160",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "85",
@@ -76,7 +98,7 @@
                 "no-barnehage:nsrid": "1017212",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3166"
+                "id": "node/-3160"
             },
             "geometry": {
                 "type": "Point",
