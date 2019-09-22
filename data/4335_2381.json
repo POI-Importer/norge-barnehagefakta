@@ -3,29 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-621",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "41",
-                "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/toppenhaug-barnehage-avdeling-ovre-toppenh",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Toppenhaug barnehage avd. Øvre Toppenhaug",
-                "no-barnehage:nsrid": "1012676",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-621"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.51326,
-                    59.93835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-620",
             "properties": {
                 "amenity": "kindergarten",
@@ -52,13 +29,36 @@
             "id": "node/-619",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/toppenhaug-barnehage-avdeling-ovre-toppenh",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Toppenhaug barnehage avd. Øvre Toppenhaug",
+                "no-barnehage:nsrid": "1012676",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51326,
+                    59.93835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-618",
+            "properties": {
+                "amenity": "kindergarten",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Toppenhaug barnehage avd. Utigarden",
                 "no-barnehage:nsrid": "1013546",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-619"
+                "id": "node/-618"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +70,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-600",
+            "id": "node/-599",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "50",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1012675",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-600"
+                "id": "node/-599"
             },
             "geometry": {
                 "type": "Point",

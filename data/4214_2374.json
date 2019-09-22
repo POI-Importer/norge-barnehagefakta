@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4899",
+            "id": "node/-4898",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "63",
@@ -13,36 +13,13 @@
                 "no-barnehage:nsrid": "1022161",
                 "operator": "Storebø Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4899"
+                "id": "node/-4898"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.22532,
                     60.09632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4894",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "34",
-                "contact:website": "http://eventus.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Eventus Haugland barnehage",
-                "no-barnehage:nsrid": "1021166",
-                "operator": "Hoppensprett Haugland Gårdsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-4894"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22088,
-                    60.10191
                 ]
             }
         },
@@ -65,6 +42,29 @@
                 "coordinates": [
                     5.21931,
                     60.09793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4892",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://eventus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventus Haugland barnehage",
+                "no-barnehage:nsrid": "1021166",
+                "operator": "Eventus Haugland barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22088,
+                    60.10191
                 ]
             }
         }

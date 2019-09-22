@@ -69,30 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-390",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "23",
-                "contact:website": "http://www.lindebakken.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lindebakken barnehage",
-                "no-barnehage:nsrid": "1019855",
-                "operator": "Lindebakken barnehage",
-                "operator:type": "private",
-                "id": "node/-390"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.64939,
-                    59.65718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-385",
+            "id": "node/-392",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -103,13 +80,36 @@
                 "no-barnehage:nsrid": "1020276",
                 "operator": "Sogstieika barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-385"
+                "id": "node/-392"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.64239,
                     59.65748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-389",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "contact:website": "http://www.lindebakken.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lindebakken barnehage",
+                "no-barnehage:nsrid": "1019855",
+                "operator": "Lindebakken barnehage",
+                "operator:type": "private",
+                "id": "node/-389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64939,
+                    59.65718
                 ]
             }
         },

@@ -3,28 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-994",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "93",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Neskollen Tellusvegen barnehage",
-                "no-barnehage:nsrid": "1013101",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-994"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.34134,
-                    60.12559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-993",
             "properties": {
                 "amenity": "kindergarten",
@@ -47,7 +25,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-990",
+            "id": "node/-992",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "93",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Neskollen Tellusvegen barnehage",
+                "no-barnehage:nsrid": "1013101",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34134,
+                    60.12559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-989",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "2000145",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-990"
+                "id": "node/-989"
             },
             "geometry": {
                 "type": "Point",

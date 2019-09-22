@@ -25,7 +25,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4926",
+            "id": "node/-4934",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Fjell KFUK KFUM avd. Landro",
+                "no-barnehage:nsrid": "1017924",
+                "operator": "Øygarden Kfuk-Kfum",
+                "operator:type": "private",
+                "id": "node/-4934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99887,
+                    60.40421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4923",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "87",
@@ -36,32 +55,13 @@
                 "no-barnehage:nsrid": "1017266",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4926"
+                "id": "node/-4923"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     4.98662,
                     60.40643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4911",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Fjell KFUK KFUM avd. Landro",
-                "no-barnehage:nsrid": "1017924",
-                "operator": "Fjell Kfuk-Kfum",
-                "operator:type": "private",
-                "id": "node/-4911"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.99887,
-                    60.40421
                 ]
             }
         }

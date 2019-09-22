@@ -3,29 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6042",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "27",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nordhusan barnehager avd. Bergseng",
-                "no-barnehage:nsrid": "1016624",
-                "operator": "Harstad kommune / Hársttáid Suohkan",
-                "operator:type": "public",
-                "id": "node/-6042"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.50792,
-                    68.81438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-6039",
+            "id": "node/-6043",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "57",
@@ -35,13 +13,35 @@
                 "no-barnehage:nsrid": "1018293",
                 "operator": "Harstad kommune / Hársttáid Suohkan",
                 "operator:type": "public",
-                "id": "node/-6039"
+                "id": "node/-6043"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     16.50806,
                     68.81577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6041",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordhusan barnehager avd. Bergseng",
+                "no-barnehage:nsrid": "1016624",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-6041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50792,
+                    68.81438
                 ]
             }
         }

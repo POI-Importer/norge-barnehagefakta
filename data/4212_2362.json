@@ -3,103 +3,14 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4928",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "44",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Straume barnehage",
-                "no-barnehage:nsrid": "1012510",
-                "operator": "Fjell kommune",
-                "operator:type": "public",
-                "id": "node/-4928"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.11766,
-                    60.36243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4922",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "contact:website": "http://laringsverkstedet.no/laringsverkstedet-aronien-barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Aronien",
-                "no-barnehage:nsrid": "1015458",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-4922"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.1317,
-                    60.35931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4921",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "112",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Straume",
-                "no-barnehage:nsrid": "1013384",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-4921"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.12112,
-                    60.36482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4918",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "80",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Leirstaden barnehage",
-                "no-barnehage:nsrid": "1017133",
-                "operator": "Fjell kommune",
-                "operator:type": "public",
-                "id": "node/-4918"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.12536,
-                    60.36779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4909",
+            "id": "node/-4932",
             "properties": {
                 "amenity": "kindergarten",
                 "name": "Fjell KFUK KFUM avd. Straume",
                 "no-barnehage:nsrid": "1017644",
-                "operator": "Fjell Kfuk-Kfum",
+                "operator": "Øygarden Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-4909"
+                "id": "node/-4932"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +22,96 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4907",
+            "id": "node/-4925",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Straume barnehage",
+                "no-barnehage:nsrid": "1012510",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "id": "node/-4925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11766,
+                    60.36243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4918",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "112",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Straume",
+                "no-barnehage:nsrid": "1013384",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12112,
+                    60.36482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4917",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "contact:website": "http://laringsverkstedet.no/laringsverkstedet-aronien-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Aronien",
+                "no-barnehage:nsrid": "1015458",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1317,
+                    60.35931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4914",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Leirstaden barnehage",
+                "no-barnehage:nsrid": "1017133",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "id": "node/-4914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12536,
+                    60.36779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4906",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -121,7 +121,7 @@
                 "no-barnehage:nsrid": "1014790",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4907"
+                "id": "node/-4906"
             },
             "geometry": {
                 "type": "Point",

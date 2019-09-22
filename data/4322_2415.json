@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2776",
+            "id": "node/-2774",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "77",
@@ -13,7 +13,26 @@
                 "no-barnehage:nsrid": "1012809",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2776"
+                "id": "node/-2774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.96789,
+                    59.19133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2754",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Kvelde åpen barnehage",
+                "no-barnehage:nsrid": "1025681",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2754"
             },
             "geometry": {
                 "type": "Point",
@@ -28,25 +47,6 @@
             "id": "node/-2753",
             "properties": {
                 "amenity": "kindergarten",
-                "name": "Kvelde åpen barnehage",
-                "no-barnehage:nsrid": "1025681",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "id": "node/-2753"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.96789,
-                    59.19133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2752",
-            "properties": {
-                "amenity": "kindergarten",
                 "capacity": "49",
                 "max_age": "5",
                 "min_age": "1",
@@ -54,7 +54,7 @@
                 "no-barnehage:nsrid": "1019660",
                 "operator": "Kvelde barnehage",
                 "operator:type": "private",
-                "id": "node/-2752"
+                "id": "node/-2753"
             },
             "geometry": {
                 "type": "Point",

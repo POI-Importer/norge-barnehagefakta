@@ -116,6 +116,28 @@
             "id": "node/-502",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Glitre barnehage avd. Bakkeplassen",
+                "no-barnehage:nsrid": "1012654",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48768,
+                    59.92975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-501",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "44",
                 "max_age": "5",
                 "min_age": "1",
@@ -123,7 +145,7 @@
                 "no-barnehage:nsrid": "1012661",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-502"
+                "id": "node/-501"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +157,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-501",
+            "id": "node/-500",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -145,35 +167,13 @@
                 "no-barnehage:nsrid": "1012658",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-501"
+                "id": "node/-500"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.49205,
                     59.92785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-500",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "57",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Glitre barnehage avd. Bakkeplassen",
-                "no-barnehage:nsrid": "1012654",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-500"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48768,
-                    59.92975
                 ]
             }
         },
