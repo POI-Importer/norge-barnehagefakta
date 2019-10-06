@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-550",
+            "id": "node/-549",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "16",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1015789",
                 "operator": "Lommedalen Sokn",
                 "operator:type": "private",
-                "id": "node/-550"
+                "id": "node/-549"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-513",
+            "id": "node/-512",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "11",
@@ -36,28 +36,6 @@
                 "no-barnehage:nsrid": "1020166",
                 "operator": "Gulltoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-513"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.49303,
-                    59.94099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-512",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "52",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gullhaug barnehage",
-                "no-barnehage:nsrid": "1012647",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
                 "id": "node/-512"
             },
             "geometry": {
@@ -70,7 +48,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-508",
+            "id": "node/-511",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gullhaug barnehage",
+                "no-barnehage:nsrid": "1012647",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49303,
+                    59.94099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-507",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "53",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1020281",
                 "operator": "Grindaberget barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-508"
+                "id": "node/-507"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-466",
+            "id": "node/-465",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "14",
@@ -102,7 +102,7 @@
                 "no-barnehage:nsrid": "1019785",
                 "operator": "Barnelåven Janne Rosenlind",
                 "operator:type": "private",
-                "id": "node/-466"
+                "id": "node/-465"
             },
             "geometry": {
                 "type": "Point",

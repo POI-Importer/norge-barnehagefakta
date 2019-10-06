@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3192",
+            "id": "node/-3191",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -13,13 +13,35 @@
                 "no-barnehage:nsrid": "1017798",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3192"
+                "id": "node/-3191"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.41335,
                     63.43636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3174",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løkkan barnehage",
+                "no-barnehage:nsrid": "1014781",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38122,
+                    63.43105
                 ]
             }
         }
