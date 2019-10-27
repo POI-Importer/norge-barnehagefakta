@@ -3,29 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4053",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "104",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Vatnekrossen barnehage",
-                "no-barnehage:nsrid": "1021367",
-                "operator": "Vatnekrossen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4053"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.77371,
-                    58.85572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4036",
+            "id": "node/-4039",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -35,13 +13,35 @@
                 "no-barnehage:nsrid": "1020731",
                 "operator": "Skaarlia barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4036"
+                "id": "node/-4039"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.77251,
                     58.84196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4020",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "104",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Vatnekrossen barnehage",
+                "no-barnehage:nsrid": "1021367",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.77371,
+                    58.85572
                 ]
             }
         }

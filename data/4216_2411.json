@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4428",
+            "id": "node/-4450",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "108",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åsebøen FUS barnehage",
+                "no-barnehage:nsrid": "1021647",
+                "operator": "Åsebøen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30811,
+                    59.27736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4432",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -11,9 +33,9 @@
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Kopervik menighetsbarnehage",
                 "no-barnehage:nsrid": "1022086",
-                "operator": "Kopervik Menighetsbarnehage AS",
+                "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4428"
+                "id": "node/-4432"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4412",
+            "id": "node/-4414",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "96",
@@ -36,7 +58,7 @@
                 "no-barnehage:nsrid": "1025324",
                 "operator": "Aski AS",
                 "operator:type": "private",
-                "id": "node/-4412"
+                "id": "node/-4414"
             },
             "geometry": {
                 "type": "Point",

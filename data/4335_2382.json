@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-537",
+            "id": "node/-536",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "28",
@@ -11,28 +11,6 @@
                 "min_age": "1",
                 "name": "Kolsås barnehage avd. Småbarnshuset",
                 "no-barnehage:nsrid": "1017643",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-537"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.50875,
-                    59.91439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-536",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Kolsås barnehage avd. Knerten",
-                "no-barnehage:nsrid": "1017642",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "id": "node/-536"
@@ -50,6 +28,28 @@
             "id": "node/-535",
             "properties": {
                 "amenity": "kindergarten",
+                "capacity": "12",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Kolsås barnehage avd. Knerten",
+                "no-barnehage:nsrid": "1017642",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50875,
+                    59.91439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-534",
+            "properties": {
+                "amenity": "kindergarten",
                 "capacity": "59",
                 "max_age": "5",
                 "min_age": "1",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1012657",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-535"
+                "id": "node/-534"
             },
             "geometry": {
                 "type": "Point",

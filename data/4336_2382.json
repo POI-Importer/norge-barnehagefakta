@@ -182,12 +182,9 @@
             "id": "node/-558",
             "properties": {
                 "amenity": "kindergarten",
-                "capacity": "20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Myrsnipa barnehage",
-                "no-barnehage:nsrid": "1019681",
-                "operator": "Myrsnipa Naturbarnehage Sa",
+                "name": "Myrsnipa FUS barnehage",
+                "no-barnehage:nsrid": "2000579",
+                "operator": "Myrsnipa Fus barnehage AS",
                 "operator:type": "private",
                 "id": "node/-558"
             },
@@ -201,7 +198,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-552",
+            "id": "node/-557",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myrsnipa barnehage",
+                "no-barnehage:nsrid": "1019681",
+                "operator": "Myrsnipa Naturbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57117,
+                    59.91888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-551",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "108",
@@ -211,7 +230,7 @@
                 "no-barnehage:nsrid": "1021783",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-552"
+                "id": "node/-551"
             },
             "geometry": {
                 "type": "Point",
