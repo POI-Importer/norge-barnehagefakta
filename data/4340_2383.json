@@ -127,7 +127,26 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1040",
+            "id": "node/-1070",
+            "properties": {
+                "amenity": "kindergarten",
+                "name": "Barnehage Frivåg",
+                "no-barnehage:nsrid": "2000583",
+                "operator": "Barnehage Frivåg AS",
+                "operator:type": "private",
+                "id": "node/-1070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75343,
+                    59.90278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1039",
             "properties": {
                 "amenity": "kindergarten",
                 "capacity": "44",
@@ -138,7 +157,7 @@
                 "no-barnehage:nsrid": "1019882",
                 "operator": "Aker Brygge barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1040"
+                "id": "node/-1039"
             },
             "geometry": {
                 "type": "Point",

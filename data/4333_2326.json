@@ -3,6 +3,29 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-2078",
+            "properties": {
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://sinn.no/lillehammer/om-sopp-barnehage/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smestad studentbarnehage",
+                "no-barnehage:nsrid": "1015499",
+                "operator": "Studentsamskipnaden i Innlandet",
+                "operator:type": "private",
+                "id": "node/-2078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44819,
+                    61.13474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-2074",
             "properties": {
                 "amenity": "kindergarten",
