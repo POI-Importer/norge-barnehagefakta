@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1727",
+            "id": "node/-1724",
             "properties": {
+                "ADDRESS": "Sørengkaia 76, 0194 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "61",
                 "max_age": "5",
@@ -13,7 +14,7 @@
                 "no-barnehage:nsrid": "1015157",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1727"
+                "id": "node/-1724"
             },
             "geometry": {
                 "type": "Point",
@@ -25,8 +26,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1704",
+            "id": "node/-1701",
             "properties": {
+                "ADDRESS": "Trelastgata 23, 0191 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "max_age": "5",
@@ -35,7 +37,7 @@
                 "no-barnehage:nsrid": "2000103",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1704"
+                "id": "node/-1701"
             },
             "geometry": {
                 "type": "Point",
@@ -47,14 +49,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1572",
+            "id": "node/-1570",
             "properties": {
+                "ADDRESS": "C/o Pioneer Management AS Rådhusgata 23, 0158 OSLO",
                 "amenity": "kindergarten",
                 "name": "Pioneer Public Properties V",
                 "no-barnehage:nsrid": "2000030",
                 "operator": "Pioneer Public Properties V AS",
                 "operator:type": "private",
-                "id": "node/-1572"
+                "id": "node/-1570"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +69,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1461",
+            "id": "node/-1459",
             "properties": {
+                "ADDRESS": "Sørengkaia 78, 0194 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "52",
                 "contact:website": "http://laringsverkstedet.no/barnehage/sorengkaia",
@@ -77,7 +81,7 @@
                 "no-barnehage:nsrid": "1025509",
                 "operator": "Læringsverkstedet Sørengkaia AS",
                 "operator:type": "private",
-                "id": "node/-1461"
+                "id": "node/-1459"
             },
             "geometry": {
                 "type": "Point",
@@ -89,27 +93,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1363",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Kidsa Eiendom",
-                "no-barnehage:nsrid": "1025938",
-                "operator": "Kidsa Eiendom AS",
-                "operator:type": "private",
-                "id": "node/-1363"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7380428,
-                    59.9107552
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-1071",
             "properties": {
+                "ADDRESS": "C/o Pioneer Management AS Rådhusgata 23, 0158 OSLO",
                 "amenity": "kindergarten",
                 "name": "Barnehagen Breistein",
                 "no-barnehage:nsrid": "1021552",
@@ -129,6 +115,7 @@
             "type": "Feature",
             "id": "node/-1070",
             "properties": {
+                "ADDRESS": "Sørengkaia 97, 0194 OSLO",
                 "amenity": "kindergarten",
                 "name": "Barnehage Frivåg",
                 "no-barnehage:nsrid": "2000583",
@@ -148,6 +135,7 @@
             "type": "Feature",
             "id": "node/-1039",
             "properties": {
+                "ADDRESS": "Bryggetorget 19, 0250 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "44",
                 "contact:website": "http://www.akerbryggebarnehage.no",

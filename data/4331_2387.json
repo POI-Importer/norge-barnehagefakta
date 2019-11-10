@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2535",
+            "id": "node/-2532",
             "properties": {
+                "ADDRESS": "Heiaveien 2, 3420 LIERSKOGEN",
                 "amenity": "kindergarten",
                 "capacity": "30",
                 "contact:website": "http://www.regnbuen-barnehage.com",
@@ -14,7 +15,7 @@
                 "no-barnehage:nsrid": "1019702",
                 "operator": "Regnbuen barnehage",
                 "operator:type": "private",
-                "id": "node/-2535"
+                "id": "node/-2532"
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2532",
+            "id": "node/-2529",
             "properties": {
+                "ADDRESS": "Drammensveien 292, 3420 LIERSKOGEN",
                 "amenity": "kindergarten",
                 "capacity": "44",
                 "max_age": "5",
@@ -36,7 +38,7 @@
                 "no-barnehage:nsrid": "1021335",
                 "operator": "Nedre Stabæk barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2532"
+                "id": "node/-2529"
             },
             "geometry": {
                 "type": "Point",
@@ -48,30 +50,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2521",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "121",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Heia FUS barnehage avd. Lierskogen",
-                "no-barnehage:nsrid": "1021175",
-                "operator": "Heia Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-2521"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.32815,
-                    59.82
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-650",
             "properties": {
+                "ADDRESS": "Nordvannslia 29, 1385 ASKER",
                 "amenity": "kindergarten",
                 "capacity": "26",
                 "max_age": "5",

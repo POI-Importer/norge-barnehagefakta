@@ -3,18 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1743",
+            "id": "node/-1740",
             "properties": {
+                "ADDRESS": "Landgangen 6, 0252 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "59",
                 "contact:website": "http://tjuvholmen.norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Tjuvholmen barnehage",
+                "name": "Norlandia Tjuvholmen barnehage",
                 "no-barnehage:nsrid": "1021551",
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
-                "id": "node/-1743"
+                "id": "node/-1740"
             },
             "geometry": {
                 "type": "Point",
@@ -26,14 +27,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1721",
+            "id": "node/-1718",
             "properties": {
+                "ADDRESS": "Dronningen 1, 0287 OSLO",
                 "amenity": "kindergarten",
                 "name": "Sundt Barn",
                 "no-barnehage:nsrid": "1022003",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1721"
+                "id": "node/-1718"
             },
             "geometry": {
                 "type": "Point",
@@ -45,8 +47,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1513",
+            "id": "node/-1511",
             "properties": {
+                "ADDRESS": "Museumsveien 10, 0287 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "contact:website": "http://www.musehuset.no",
@@ -56,7 +59,7 @@
                 "no-barnehage:nsrid": "1020427",
                 "operator": "Musehuset Norsk Folkemuseums barnehage",
                 "operator:type": "private",
-                "id": "node/-1513"
+                "id": "node/-1511"
             },
             "geometry": {
                 "type": "Point",
@@ -68,8 +71,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1276",
+            "id": "node/-1275",
             "properties": {
+                "ADDRESS": "Huk Aveny 55, 0287 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "40",
                 "max_age": "5",
@@ -78,7 +82,7 @@
                 "no-barnehage:nsrid": "1021102",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1276"
+                "id": "node/-1275"
             },
             "geometry": {
                 "type": "Point",
@@ -90,8 +94,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1200",
+            "id": "node/-1199",
             "properties": {
+                "ADDRESS": "Munkedamsveien 62a, 0270 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "69",
                 "contact:website": "http://www.fjordbyenbarnehage.no",
@@ -101,7 +106,7 @@
                 "no-barnehage:nsrid": "1025515",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-1200"
+                "id": "node/-1199"
             },
             "geometry": {
                 "type": "Point",
@@ -115,6 +120,7 @@
             "type": "Feature",
             "id": "node/-1118",
             "properties": {
+                "ADDRESS": "Bygdøynesveien 22b, 0286 OSLO",
                 "amenity": "kindergarten",
                 "name": "Bygdøynes familiebarnehage",
                 "no-barnehage:nsrid": "1022247",
@@ -134,6 +140,7 @@
             "type": "Feature",
             "id": "node/-1117",
             "properties": {
+                "ADDRESS": "Huk Aveny 55, 0287 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "max_age": "5",
@@ -156,6 +163,7 @@
             "type": "Feature",
             "id": "node/-1081",
             "properties": {
+                "ADDRESS": "Huk Aveny 57, 0287 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "76",
                 "max_age": "5",

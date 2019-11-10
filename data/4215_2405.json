@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4418",
+            "id": "node/-4410",
             "properties": {
+                "ADDRESS": "Fagervollvegen 4, 4260 TORVASTAD",
                 "amenity": "kindergarten",
                 "capacity": "120",
                 "contact:website": "http://www.espira.no",
@@ -14,7 +15,7 @@
                 "no-barnehage:nsrid": "1021753",
                 "operator": "Espira Litlasund AS",
                 "operator:type": "private",
-                "id": "node/-4418"
+                "id": "node/-4410"
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4200",
+            "id": "node/-4192",
             "properties": {
+                "ADDRESS": "Haugevegen 48, 5523 HAUGESUND",
                 "amenity": "kindergarten",
                 "capacity": "65",
                 "max_age": "5",
@@ -36,32 +38,13 @@
                 "no-barnehage:nsrid": "1021157",
                 "operator": "Kyvikdalen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4200"
+                "id": "node/-4192"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.26193,
                     59.42139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4191",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Førland barnehage Eiendom",
-                "no-barnehage:nsrid": "1021633",
-                "operator": "Førland barnehage Eiendom AS",
-                "operator:type": "private",
-                "id": "node/-4191"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.27236,
-                    59.4102
                 ]
             }
         }

@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2827",
+            "id": "node/-2822",
             "properties": {
+                "ADDRESS": "Øvre Smidsrødvei 46, 3120 NØTTERØY",
                 "amenity": "kindergarten",
                 "capacity": "77",
                 "contact:website": "http://www.smidsrød.bhg.no",
@@ -14,7 +15,7 @@
                 "no-barnehage:nsrid": "1021858",
                 "operator": "Smidsrød Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2827"
+                "id": "node/-2822"
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2826",
+            "id": "node/-2821",
             "properties": {
+                "ADDRESS": "Skarphagaveien 48b, 3120 NØTTERØY",
                 "amenity": "kindergarten",
                 "max_age": "5",
                 "min_age": "1",
@@ -35,7 +37,7 @@
                 "no-barnehage:nsrid": "1020736",
                 "operator": "Skarphaga Familiebarnehage Christine H Eikeset",
                 "operator:type": "private",
-                "id": "node/-2826"
+                "id": "node/-2821"
             },
             "geometry": {
                 "type": "Point",
@@ -47,8 +49,32 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2817",
+            "id": "node/-2819",
             "properties": {
+                "ADDRESS": "Fjærholmveien 5a, 3132 HUSØYSUND",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Knerten Føynland barnehage",
+                "no-barnehage:nsrid": "1021683",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-2819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45044,
+                    59.23555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2811",
+            "properties": {
+                "ADDRESS": "Semsveien 18, 3140 NØTTERØY",
                 "amenity": "kindergarten",
                 "capacity": "26",
                 "max_age": "5",
@@ -57,7 +83,7 @@
                 "no-barnehage:nsrid": "1018031",
                 "operator": "Færder kommune",
                 "operator:type": "public",
-                "id": "node/-2817"
+                "id": "node/-2811"
             },
             "geometry": {
                 "type": "Point",
@@ -69,8 +95,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2816",
+            "id": "node/-2810",
             "properties": {
+                "ADDRESS": "Bjørnebuveien 4, 3132 HUSØYSUND",
                 "amenity": "kindergarten",
                 "capacity": "43",
                 "max_age": "5",
@@ -79,7 +106,7 @@
                 "no-barnehage:nsrid": "1018030",
                 "operator": "Færder kommune",
                 "operator:type": "public",
-                "id": "node/-2816"
+                "id": "node/-2810"
             },
             "geometry": {
                 "type": "Point",

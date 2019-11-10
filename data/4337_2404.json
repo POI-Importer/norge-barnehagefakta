@@ -5,6 +5,7 @@
             "type": "Feature",
             "id": "node/-67",
             "properties": {
+                "ADDRESS": "Kortbølgen 15, 1519 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "92",
                 "contact:website": "http://www.tronvikgaard.no",
@@ -28,6 +29,7 @@
             "type": "Feature",
             "id": "node/-57",
             "properties": {
+                "ADDRESS": "Brageveien 9, 1517 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "65",
                 "max_age": "5",
@@ -50,6 +52,7 @@
             "type": "Feature",
             "id": "node/-56",
             "properties": {
+                "ADDRESS": "Engfaret 8, 1518 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "62",
                 "max_age": "5",
@@ -72,6 +75,7 @@
             "type": "Feature",
             "id": "node/-55",
             "properties": {
+                "ADDRESS": "Bjerkealleen 38, 1512 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "45",
                 "contact:website": "http://www.moss.kommune.no",
@@ -95,6 +99,7 @@
             "type": "Feature",
             "id": "node/-44",
             "properties": {
+                "ADDRESS": "Bråtengata 79, 1517 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "max_age": "5",
@@ -115,8 +120,32 @@
         },
         {
             "type": "Feature",
+            "id": "node/-43",
+            "properties": {
+                "ADDRESS": "Orkerødgata 41, 1511 MOSS",
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bellevue barnehage",
+                "no-barnehage:nsrid": "1017883",
+                "operator": "Espira Jeløy AS",
+                "operator:type": "private",
+                "id": "node/-43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63442,
+                    59.43687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-42",
             "properties": {
+                "ADDRESS": "Bassengveien 17, 1512 MOSS",
                 "amenity": "kindergarten",
                 "max_age": "5",
                 "min_age": "1",
@@ -138,6 +167,7 @@
             "type": "Feature",
             "id": "node/-41",
             "properties": {
+                "ADDRESS": "Biørn Biørnstads Vei 27, 1519 MOSS",
                 "amenity": "kindergarten",
                 "capacity": "53",
                 "max_age": "5",

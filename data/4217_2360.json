@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4697",
+            "id": "node/-4689",
             "properties": {
+                "ADDRESS": "Ole Irgens' Vei 90, 5019 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "58",
                 "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/skansemyren-barnehage/kontakt",
@@ -14,7 +15,7 @@
                 "no-barnehage:nsrid": "2000091",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4697"
+                "id": "node/-4689"
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4657",
+            "id": "node/-4649",
             "properties": {
+                "ADDRESS": "Mulesvingen 2, 5034 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "80",
                 "contact:website": "http://www.bergen.kommune.no/organisasjonsenhet/barnehage/mulesvingen",
@@ -37,7 +39,7 @@
                 "no-barnehage:nsrid": "1018397",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4657"
+                "id": "node/-4649"
             },
             "geometry": {
                 "type": "Point",
@@ -49,15 +51,16 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4647",
+            "id": "node/-4639",
             "properties": {
+                "ADDRESS": "Absalon Beyers Gate 1, 5034 BERGEN",
                 "amenity": "kindergarten",
                 "contact:website": "http://bergendomkirke.no/barn-og-unge/apne-barnehager/",
                 "name": "Mariakirken åpen barnehage",
                 "no-barnehage:nsrid": "1014086",
                 "operator": "Bergen Domkirke Sokn",
                 "operator:type": "private",
-                "id": "node/-4647"
+                "id": "node/-4639"
             },
             "geometry": {
                 "type": "Point",
@@ -69,37 +72,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4592",
+            "id": "node/-4584",
             "properties": {
+                "ADDRESS": "Hans Hauges Gate 3, 5033 BERGEN",
                 "amenity": "kindergarten",
                 "name": "Kidsa Ladegården",
                 "no-barnehage:nsrid": "1022142",
                 "operator": "Kidsa Bergenhus AS",
                 "operator:type": "private",
-                "id": "node/-4592"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.32509,
-                    60.40118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4591",
-            "properties": {
-                "amenity": "kindergarten",
-                "capacity": "85",
-                "contact:website": "http://www.kidsabarnehager.no/ladegarden/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kidsa Ladegården friluftsbarnehage",
-                "no-barnehage:nsrid": "1022427",
-                "operator": "Kidsa Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-4591"
+                "id": "node/-4584"
             },
             "geometry": {
                 "type": "Point",
@@ -113,6 +94,31 @@
             "type": "Feature",
             "id": "node/-4583",
             "properties": {
+                "ADDRESS": "Hans Hauges Gate 3, 5033 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "contact:website": "http://www.kidsabarnehager.no/ladegarden/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Ladegården friluftsbarnehage",
+                "no-barnehage:nsrid": "1022427",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32509,
+                    60.40118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4575",
+            "properties": {
+                "ADDRESS": "Øvre Heien 11, 5037 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "49",
                 "contact:website": "http://www.kidsabarnehager.no/",
@@ -122,7 +128,7 @@
                 "no-barnehage:nsrid": "1022411",
                 "operator": "Kidsa Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4583"
+                "id": "node/-4575"
             },
             "geometry": {
                 "type": "Point",
@@ -134,8 +140,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4577",
+            "id": "node/-4569",
             "properties": {
+                "ADDRESS": "Kalmargaten 2, 5011 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "max_age": "5",
@@ -144,7 +151,7 @@
                 "no-barnehage:nsrid": "1016719",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4577"
+                "id": "node/-4569"
             },
             "geometry": {
                 "type": "Point",
@@ -156,8 +163,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4490",
+            "id": "node/-4482",
             "properties": {
+                "ADDRESS": "Asylplassen 2, 5018 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "62",
                 "max_age": "5",
@@ -166,7 +174,7 @@
                 "no-barnehage:nsrid": "1020202",
                 "operator": "Bergen Barneasyl",
                 "operator:type": "private",
-                "id": "node/-4490"
+                "id": "node/-4482"
             },
             "geometry": {
                 "type": "Point",
@@ -178,8 +186,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4476",
+            "id": "node/-4468",
             "properties": {
+                "ADDRESS": "Kirkegaten 1a, 5036 BERGEN",
                 "amenity": "kindergarten",
                 "capacity": "31",
                 "contact:website": "http://sandvikenmenighet.akasiabarnehage.no/",
@@ -189,7 +198,7 @@
                 "no-barnehage:nsrid": "1015525",
                 "operator": "Akasia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4476"
+                "id": "node/-4468"
             },
             "geometry": {
                 "type": "Point",

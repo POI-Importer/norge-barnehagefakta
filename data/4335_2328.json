@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2079",
+            "id": "node/-2076",
             "properties": {
+                "ADDRESS": "Feltspatvegen 8, 2611 LILLEHAMMER",
                 "amenity": "kindergarten",
                 "capacity": "71",
                 "contact:website": "http://steinroysa.barnehage.no",
@@ -14,7 +15,7 @@
                 "no-barnehage:nsrid": "1020132",
                 "operator": "Stiftelsen Steinrøysa barnehage",
                 "operator:type": "private",
-                "id": "node/-2079"
+                "id": "node/-2076"
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +27,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2075",
+            "id": "node/-2072",
             "properties": {
+                "ADDRESS": "Granittlia 2, 2611 LILLEHAMMER",
                 "amenity": "kindergarten",
                 "capacity": "61",
                 "max_age": "5",
@@ -36,13 +38,35 @@
                 "no-barnehage:nsrid": "1012787",
                 "operator": "Lillehammer kommune",
                 "operator:type": "public",
-                "id": "node/-2075"
+                "id": "node/-2072"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.51613,
                     61.0935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2054",
+            "properties": {
+                "ADDRESS": "Gabbrostien 95, 2611 LILLEHAMMER",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Borgersen familiebarnehage",
+                "no-barnehage:nsrid": "1020131",
+                "operator": "Borgersen Familiebarnehage",
+                "operator:type": "private",
+                "id": "node/-2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51375,
+                    61.09502
                 ]
             }
         }

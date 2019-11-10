@@ -3,8 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2006",
+            "id": "node/-2003",
             "properties": {
+                "ADDRESS": "Hamarvegen 114, 2406 ELVERUM",
                 "amenity": "kindergarten",
                 "capacity": "113",
                 "max_age": "5",
@@ -13,7 +14,7 @@
                 "no-barnehage:nsrid": "1018608",
                 "operator": "Elverum kommune",
                 "operator:type": "public",
-                "id": "node/-2006"
+                "id": "node/-2003"
             },
             "geometry": {
                 "type": "Point",
@@ -25,14 +26,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2005",
+            "id": "node/-2002",
             "properties": {
+                "ADDRESS": "Hamarvegen 114, 2406 ELVERUM",
                 "amenity": "kindergarten",
                 "name": "Terningen Arena barnehage",
                 "no-barnehage:nsrid": "1021934",
                 "operator": "Terningen Arena barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2005"
+                "id": "node/-2002"
             },
             "geometry": {
                 "type": "Point",
@@ -44,8 +46,9 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1990",
+            "id": "node/-1987",
             "properties": {
+                "ADDRESS": "Gaupevegen 12, 2406 ELVERUM",
                 "amenity": "kindergarten",
                 "capacity": "80",
                 "contact:website": "http://www.espira.no",
@@ -55,7 +58,7 @@
                 "no-barnehage:nsrid": "1020880",
                 "operator": "Espira Nordmo AS",
                 "operator:type": "private",
-                "id": "node/-1990"
+                "id": "node/-1987"
             },
             "geometry": {
                 "type": "Point",

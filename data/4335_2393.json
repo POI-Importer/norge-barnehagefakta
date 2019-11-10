@@ -3,8 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2572",
+            "id": "node/-2579",
             "properties": {
+                "ADDRESS": "Søndre Sætrevei 20, 3475 SÆTRE",
+                "amenity": "kindergarten",
+                "capacity": "12",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sætre Kunst & musikk barnehage",
+                "no-barnehage:nsrid": "1016389",
+                "operator": "Bjørndalen Gård M/barnehage Heidi Stav",
+                "operator:type": "private",
+                "id": "node/-2579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5372,
+                    59.67575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2569",
+            "properties": {
+                "ADDRESS": "Bjørndalen 18, 3475 SÆTRE",
                 "amenity": "kindergarten",
                 "capacity": "28",
                 "max_age": "5",
@@ -13,7 +37,7 @@
                 "no-barnehage:nsrid": "1022160",
                 "operator": "Bjørndalen Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2572"
+                "id": "node/-2569"
             },
             "geometry": {
                 "type": "Point",
@@ -25,14 +49,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2571",
+            "id": "node/-2568",
             "properties": {
+                "ADDRESS": "Bjørndalen 18, 3475 SÆTRE",
                 "amenity": "kindergarten",
                 "name": "Bjørndalen gård M/ barnehage Heidi Stav",
                 "no-barnehage:nsrid": "1020133",
                 "operator": "Bjørndalen Gård M/barnehage Heidi Stav",
                 "operator:type": "private",
-                "id": "node/-2571"
+                "id": "node/-2568"
             },
             "geometry": {
                 "type": "Point",
