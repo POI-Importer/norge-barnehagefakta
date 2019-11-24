@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4918",
+            "id": "node/-4919",
             "properties": {
                 "ADDRESS": "Hamramyra 4, 5363 ÅGOTNES",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1018118",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4918"
+                "id": "node/-4919"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4906",
+            "id": "node/-4918",
+            "properties": {
+                "ADDRESS": "Landrovegen, 5363 ÅGOTNES",
+                "amenity": "kindergarten",
+                "name": "Øygarden Kfuk-kfum avd. Landro",
+                "no-barnehage:nsrid": "1017924",
+                "operator": "Øygarden Kfuk-Kfum",
+                "operator:type": "private",
+                "id": "node/-4918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99662,
+                    60.40534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4907",
             "properties": {
                 "ADDRESS": "Grønebakkane 2, 5363 ÅGOTNES",
                 "amenity": "kindergarten",
@@ -38,7 +58,7 @@
                 "no-barnehage:nsrid": "1017266",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4906"
+                "id": "node/-4907"
             },
             "geometry": {
                 "type": "Point",

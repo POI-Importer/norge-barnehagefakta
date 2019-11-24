@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5144",
+            "id": "node/-5145",
             "properties": {
                 "ADDRESS": "Liavegen 39, 6823 SANDANE",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1021864",
                 "operator": "Bakkelidgrenda barnehage Else Lundestad Bakkelid",
                 "operator:type": "private",
-                "id": "node/-5144"
+                "id": "node/-5145"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.16011,
                     61.81179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5144",
+            "properties": {
+                "ADDRESS": "Øvre Nordstranda 351, 6823 SANDANE",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Austrheim barnehage",
+                "no-barnehage:nsrid": "1020569",
+                "operator": "Stiftinga Austrheim barnehage",
+                "operator:type": "private",
+                "id": "node/-5144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15306,
+                    61.80935
                 ]
             }
         }

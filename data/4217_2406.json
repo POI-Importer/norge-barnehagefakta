@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4432",
+            "id": "node/-4433",
             "properties": {
                 "ADDRESS": "Stemmemyr 71, 5542 KARMSUND",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020891",
                 "operator": "Stiftelsen Norheim barnehage",
                 "operator:type": "private",
-                "id": "node/-4432"
+                "id": "node/-4433"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4421",
+            "id": "node/-4422",
             "properties": {
                 "ADDRESS": "Norheimvegen, 5542 KARMSUND",
                 "amenity": "kindergarten",
@@ -35,7 +35,7 @@
                 "no-barnehage:nsrid": "2000078",
                 "operator": "Oasen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4421"
+                "id": "node/-4422"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4404",
+            "id": "node/-4405",
             "properties": {
                 "ADDRESS": "Spannavegen 320, 5542 KARMSUND",
                 "amenity": "kindergarten",
@@ -59,7 +59,7 @@
                 "no-barnehage:nsrid": "1021835",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4404"
+                "id": "node/-4405"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4211",
+            "id": "node/-4212",
             "properties": {
                 "ADDRESS": "Skonnertvegen 7, 5535 HAUGESUND",
                 "amenity": "kindergarten",
@@ -83,7 +83,7 @@
                 "no-barnehage:nsrid": "1020311",
                 "operator": "Villduen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4211"
+                "id": "node/-4212"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4210",
+            "id": "node/-4211",
             "properties": {
                 "ADDRESS": "Ørpetveitvegen 265, 5534 HAUGESUND",
                 "amenity": "kindergarten",
@@ -106,7 +106,7 @@
                 "no-barnehage:nsrid": "1021643",
                 "operator": "Vassbrekke Fus Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4210"
+                "id": "node/-4211"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +118,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4203",
+            "id": "node/-4204",
             "properties": {
                 "ADDRESS": "Galeasvegen 3, 5535 HAUGESUND",
                 "amenity": "kindergarten",
@@ -129,6 +129,29 @@
                 "name": "Småbarnehager Røvær",
                 "no-barnehage:nsrid": "2000179",
                 "operator": "Småbarnehager Røvær AS",
+                "operator:type": "private",
+                "id": "node/-4204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32155,
+                    59.39939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4203",
+            "properties": {
+                "ADDRESS": "Galeasvegen 3, 5535 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Små barnehager Sentrum",
+                "no-barnehage:nsrid": "1026278",
+                "operator": "Små Barnehager Sentrum AS",
                 "operator:type": "private",
                 "id": "node/-4203"
             },
@@ -142,30 +165,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4202",
-            "properties": {
-                "ADDRESS": "Galeasvegen 3, 5535 HAUGESUND",
-                "amenity": "kindergarten",
-                "capacity": "29",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Små barnehager Sentrum",
-                "no-barnehage:nsrid": "1026278",
-                "operator": "Små Barnehager Sentrum AS",
-                "operator:type": "private",
-                "id": "node/-4202"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.32155,
-                    59.39939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4200",
+            "id": "node/-4201",
             "properties": {
                 "ADDRESS": "Jektevegen 17, 5535 HAUGESUND",
                 "amenity": "kindergarten",
@@ -176,7 +176,7 @@
                 "no-barnehage:nsrid": "1025943",
                 "operator": "Små Barnehager Haugesund AS",
                 "operator:type": "private",
-                "id": "node/-4200"
+                "id": "node/-4201"
             },
             "geometry": {
                 "type": "Point",

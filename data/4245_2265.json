@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5357",
+            "id": "node/-5358",
             "properties": {
                 "ADDRESS": "Ullaviklia 23, 6230 SYKKYLVEN",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1014930",
                 "operator": "Sykkylven kommune",
                 "operator:type": "public",
-                "id": "node/-5357"
+                "id": "node/-5358"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.58232,
                     62.40239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5356",
+            "properties": {
+                "ADDRESS": "Haugneset, 6230 SYKKYLVEN",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Tryggheim barnehage Sykkylven",
+                "no-barnehage:nsrid": "1016179",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57532,
+                    62.39061
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4719",
+            "id": "node/-4720",
             "properties": {
                 "ADDRESS": "Vestre Vadmyra 2d, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1016685",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4719"
+                "id": "node/-4720"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4617",
+            "id": "node/-4618",
             "properties": {
                 "ADDRESS": "Vestre Vadmyra 2c, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1016690",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4617"
+                "id": "node/-4618"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4587",
+            "id": "node/-4588",
             "properties": {
                 "ADDRESS": "Vadmyrveien 69, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -62,6 +62,28 @@
                 "name": "Kidsa Sandgotna",
                 "no-barnehage:nsrid": "1022426",
                 "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22822,
+                    60.36381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4587",
+            "properties": {
+                "ADDRESS": "Vadmyrveien 69, 5172 LODDEFJORD",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Sandgotna",
+                "no-barnehage:nsrid": "1022141",
+                "operator": "Kidsa Laksevåg AS",
                 "operator:type": "private",
                 "id": "node/-4587"
             },
@@ -75,29 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4586",
-            "properties": {
-                "ADDRESS": "Vadmyrveien 69, 5172 LODDEFJORD",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kidsa Sandgotna",
-                "no-barnehage:nsrid": "1022141",
-                "operator": "Kidsa Laksevåg AS",
-                "operator:type": "private",
-                "id": "node/-4586"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22822,
-                    60.36381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4542",
+            "id": "node/-4543",
             "properties": {
                 "ADDRESS": "Vadmyrveien 79, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -108,7 +108,7 @@
                 "no-barnehage:nsrid": "1016707",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4542"
+                "id": "node/-4543"
             },
             "geometry": {
                 "type": "Point",

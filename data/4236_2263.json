@@ -3,12 +3,32 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5376",
+            "id": "node/-5377",
             "properties": {
                 "ADDRESS": "Sloghaugvegen 13, 6030 LANGEVÅG",
                 "amenity": "kindergarten",
                 "name": "Sula kommune Styrket barnehage Funksjonshemmede",
                 "no-barnehage:nsrid": "1019499",
+                "operator": "Sula kommune",
+                "operator:type": "public",
+                "id": "node/-5377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.19224,
+                    62.44012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5376",
+            "properties": {
+                "ADDRESS": "Sloghaugvegen 13, 6030 LANGEVÅG",
+                "amenity": "kindergarten",
+                "name": "Sula kommune Spes.ped Hjelp Barneha",
+                "no-barnehage:nsrid": "1019500",
                 "operator": "Sula kommune",
                 "operator:type": "public",
                 "id": "node/-5376"
@@ -23,27 +43,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5375",
-            "properties": {
-                "ADDRESS": "Sloghaugvegen 13, 6030 LANGEVÅG",
-                "amenity": "kindergarten",
-                "name": "Sula kommune Spes.ped Hjelp Barneha",
-                "no-barnehage:nsrid": "1019500",
-                "operator": "Sula kommune",
-                "operator:type": "public",
-                "id": "node/-5375"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.19224,
-                    62.44012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5373",
+            "id": "node/-5374",
             "properties": {
                 "ADDRESS": "Molværsvegen 74, 6030 LANGEVÅG",
                 "amenity": "kindergarten",
@@ -51,7 +51,7 @@
                 "no-barnehage:nsrid": "1019781",
                 "operator": "Langevåg Røde Kors Molvær",
                 "operator:type": "private",
-                "id": "node/-5373"
+                "id": "node/-5374"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +63,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5370",
+            "id": "node/-5371",
             "properties": {
                 "ADDRESS": "Geilneset 31, 6030 LANGEVÅG",
                 "amenity": "kindergarten",
@@ -74,7 +74,7 @@
                 "no-barnehage:nsrid": "1016892",
                 "operator": "Sula kommune",
                 "operator:type": "public",
-                "id": "node/-5370"
+                "id": "node/-5371"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +86,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5369",
+            "id": "node/-5370",
             "properties": {
                 "ADDRESS": "Molværsvegen 62, 6030 LANGEVÅG",
                 "amenity": "kindergarten",
@@ -97,7 +97,7 @@
                 "no-barnehage:nsrid": "1012520",
                 "operator": "Sula kommune",
                 "operator:type": "public",
-                "id": "node/-5369"
+                "id": "node/-5370"
             },
             "geometry": {
                 "type": "Point",
