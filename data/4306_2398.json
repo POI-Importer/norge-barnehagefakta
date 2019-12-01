@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2931",
+            "id": "node/-2936",
             "properties": {
                 "ADDRESS": "Orekåsgate 1, 3674 NOTODDEN",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1015964",
                 "operator": "Kattekleiv barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2931"
+                "id": "node/-2936"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2926",
+            "id": "node/-2931",
             "properties": {
                 "ADDRESS": "Solhaugveien 4, 3674 NOTODDEN",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1017334",
                 "operator": "Notodden kommune",
                 "operator:type": "public",
-                "id": "node/-2926"
+                "id": "node/-2931"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2923",
+            "id": "node/-2928",
             "properties": {
                 "ADDRESS": "Huvestads Gate 6, 3675 NOTODDEN",
                 "amenity": "kindergarten",
@@ -60,7 +60,7 @@
                 "no-barnehage:nsrid": "1016188",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-2923"
+                "id": "node/-2928"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2922",
+            "id": "node/-2927",
             "properties": {
                 "ADDRESS": "Langkåsveien 16, 3675 NOTODDEN",
                 "amenity": "kindergarten",
@@ -83,7 +83,7 @@
                 "no-barnehage:nsrid": "1015455",
                 "operator": "Notodden kommune",
                 "operator:type": "public",
-                "id": "node/-2922"
+                "id": "node/-2927"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2916",
+            "id": "node/-2925",
+            "properties": {
+                "ADDRESS": "Kattekleiv 6, 3683 NOTODDEN",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:website": "http://www.kattkleiv.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kattekleiv barnehage",
+                "no-barnehage:nsrid": "1016022",
+                "operator": "Kattekleiv barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27029,
+                    59.55973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2921",
             "properties": {
                 "ADDRESS": "Hydros Gate 9, 3674 NOTODDEN",
                 "amenity": "kindergarten",
@@ -106,7 +130,7 @@
                 "no-barnehage:nsrid": "1022350",
                 "operator": "Betania barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2916"
+                "id": "node/-2921"
             },
             "geometry": {
                 "type": "Point",

@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-749",
-            "properties": {
-                "ADDRESS": "Magnus Sørlis Vei 2, 1920 SØRUMSAND",
-                "amenity": "kindergarten",
-                "capacity": "112",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sørumsand barnehage",
-                "no-barnehage:nsrid": "1017050",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-749"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.23448,
-                    59.98074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-745",
+            "id": "node/-748",
             "properties": {
                 "ADDRESS": "Orderudveien 20, 1920 SØRUMSAND",
                 "amenity": "kindergarten",
@@ -37,13 +14,37 @@
                 "no-barnehage:nsrid": "1015954",
                 "operator": "Sennerud Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-745"
+                "id": "node/-748"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.24681,
                     59.97776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-746",
+            "properties": {
+                "ADDRESS": "Magnus Sørlis Vei 2, 1920 SØRUMSAND",
+                "amenity": "kindergarten",
+                "capacity": "112",
+                "contact:website": "http://sorumsand.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Sørumsand barnehage",
+                "no-barnehage:nsrid": "1017050",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23448,
+                    59.98074
                 ]
             }
         }

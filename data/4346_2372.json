@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1020",
+            "id": "node/-1023",
+            "properties": {
+                "ADDRESS": "Willy Moes Veg 4, 2034 HOLTER",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.eltonasen.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Eltonåsen barnehage",
+                "no-barnehage:nsrid": "1016434",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-1023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01336,
+                    60.13205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1019",
             "properties": {
                 "ADDRESS": "Øyungsvegen 10, 2034 HOLTER",
                 "amenity": "kindergarten",
@@ -15,37 +39,13 @@
                 "no-barnehage:nsrid": "1017548",
                 "operator": "Nannestad kommune",
                 "operator:type": "public",
-                "id": "node/-1020"
+                "id": "node/-1019"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.01437,
                     60.13517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1019",
-            "properties": {
-                "ADDRESS": "Willy Moes Veg 4, 2034 HOLTER",
-                "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:website": "http://www.eltonasen.norlandiabarnehagene.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Eltonåsen barnehage",
-                "no-barnehage:nsrid": "1016434",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-1019"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.01336,
-                    60.13205
                 ]
             }
         }

@@ -5,6 +5,29 @@
             "type": "Feature",
             "id": "node/-990",
             "properties": {
+                "ADDRESS": "Tellusvegen 2, 2165 HVAM",
+                "amenity": "kindergarten",
+                "capacity": "93",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Neskollen Tellusvegen barnehage",
+                "no-barnehage:nsrid": "1013101",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34134,
+                    60.12559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-989",
+            "properties": {
                 "ADDRESS": "Melkevegen 23, 2165 HVAM",
                 "amenity": "kindergarten",
                 "capacity": "119",
@@ -15,36 +38,13 @@
                 "no-barnehage:nsrid": "1013029",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-990"
+                "id": "node/-989"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.33846,
                     60.12464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-989",
-            "properties": {
-                "ADDRESS": "Tellusvegen 2, 2165 HVAM",
-                "amenity": "kindergarten",
-                "capacity": "93",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Neskollen Tellusvegen barnehage",
-                "no-barnehage:nsrid": "1013101",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-989"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.34134,
-                    60.12559
                 ]
             }
         },

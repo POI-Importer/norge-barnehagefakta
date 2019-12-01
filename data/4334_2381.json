@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-548",
+            "id": "node/-546",
             "properties": {
                 "ADDRESS": "Skollerudveien 100a, 1350 LOMMEDALEN",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1015789",
                 "operator": "Lommedalen Sokn",
                 "operator:type": "private",
-                "id": "node/-548"
+                "id": "node/-546"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-512",
+            "id": "node/-511",
             "properties": {
                 "ADDRESS": "Gullhaugveien 133, 1354 BÆRUMS VERK",
                 "amenity": "kindergarten",
@@ -38,29 +38,6 @@
                 "no-barnehage:nsrid": "1020166",
                 "operator": "Gulltoppen barnehage",
                 "operator:type": "private",
-                "id": "node/-512"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.49303,
-                    59.94099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-511",
-            "properties": {
-                "ADDRESS": "Gullhaugveien 133c, 1354 BÆRUMS VERK",
-                "amenity": "kindergarten",
-                "capacity": "52",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Gullhaug barnehage",
-                "no-barnehage:nsrid": "1012647",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
                 "id": "node/-511"
             },
             "geometry": {
@@ -73,7 +50,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-507",
+            "id": "node/-510",
+            "properties": {
+                "ADDRESS": "Gullhaugveien 133c, 1354 BÆRUMS VERK",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gullhaug barnehage",
+                "no-barnehage:nsrid": "1012647",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49303,
+                    59.94099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-506",
             "properties": {
                 "ADDRESS": "Grindaberget 1, 1354 BÆRUMS VERK",
                 "amenity": "kindergarten",
@@ -84,7 +84,7 @@
                 "no-barnehage:nsrid": "1020281",
                 "operator": "Grindaberget barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-507"
+                "id": "node/-506"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-465",
+            "id": "node/-466",
             "properties": {
                 "ADDRESS": "Otto Rykkinds Vei 7, 1349 RYKKINN",
                 "amenity": "kindergarten",
@@ -107,7 +107,7 @@
                 "no-barnehage:nsrid": "1019785",
                 "operator": "Barnelåven Janne Rosenlind",
                 "operator:type": "private",
-                "id": "node/-465"
+                "id": "node/-466"
             },
             "geometry": {
                 "type": "Point",

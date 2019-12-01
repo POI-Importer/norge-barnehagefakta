@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-885",
+            "id": "node/-886",
             "properties": {
                 "ADDRESS": "Lensmann Haaversens Vei 205, 2019 SKEDSMOKORSET",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019920",
                 "operator": "Skedsmo Barnehager Sa",
                 "operator:type": "private",
-                "id": "node/-885"
+                "id": "node/-886"
             },
             "geometry": {
                 "type": "Point",
@@ -27,30 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-880",
-            "properties": {
-                "ADDRESS": "Vestvollveien 31, 2019 SKEDSMOKORSET",
-                "amenity": "kindergarten",
-                "capacity": "103",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sten-tærud barnehage",
-                "no-barnehage:nsrid": "1017049",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-880"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.03837,
-                    59.99402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-874",
+            "id": "node/-875",
             "properties": {
                 "ADDRESS": "Trygve Haavelmos Vei 10, 2007 KJELLER",
                 "amenity": "kindergarten",
@@ -61,13 +38,36 @@
                 "no-barnehage:nsrid": "1016960",
                 "operator": "Skedsmo kommune",
                 "operator:type": "public",
-                "id": "node/-874"
+                "id": "node/-875"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.04104,
                     59.97792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-872",
+            "properties": {
+                "ADDRESS": "Vestvollveien 31, 2019 SKEDSMOKORSET",
+                "amenity": "kindergarten",
+                "capacity": "103",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Sten-tærud barnehage",
+                "no-barnehage:nsrid": "1017049",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.03837,
+                    59.99402
                 ]
             }
         },

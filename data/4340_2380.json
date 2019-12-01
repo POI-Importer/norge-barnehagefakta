@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1790",
+            "id": "node/-1794",
             "properties": {
                 "ADDRESS": "Folke Bernadottes Vei 32, 0862 OSLO",
                 "amenity": "kindergarten",
@@ -11,13 +11,60 @@
                 "no-barnehage:nsrid": "2000086",
                 "operator": "Veslefrikk - Musikk Da",
                 "operator:type": "private",
-                "id": "node/-1790"
+                "id": "node/-1794"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.73733,
                     59.96315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1713",
+            "properties": {
+                "ADDRESS": "Sognsveien 165, 0860 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Oslo og Akershus avd. 409 Frydenhaug barnehage",
+                "no-barnehage:nsrid": "1016787",
+                "operator": "Studentsamskipnaden i Oslo og Akershus",
+                "operator:type": "private",
+                "id": "node/-1713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7343,
+                    59.96294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1711",
+            "properties": {
+                "ADDRESS": "Olav M. Troviks Vei 16, 0864 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:website": "http://www.sio.no/barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Oslo og Akershus avd. 405 Skogly barnehage",
+                "no-barnehage:nsrid": "1016784",
+                "operator": "Studentsamskipnaden i Oslo og Akershus",
+                "operator:type": "private",
+                "id": "node/-1711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73102,
+                    59.96469
                 ]
             }
         },
@@ -46,54 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1706",
-            "properties": {
-                "ADDRESS": "Sognsveien 165, 0860 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "59",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Oslo og Akershus avd. 409 Frydenhaug barnehage",
-                "no-barnehage:nsrid": "1016787",
-                "operator": "Studentsamskipnaden i Oslo og Akershus",
-                "operator:type": "private",
-                "id": "node/-1706"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.7343,
-                    59.96294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1704",
-            "properties": {
-                "ADDRESS": "Olav M. Troviks Vei 16, 0864 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "44",
-                "contact:website": "http://www.sio.no/barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden i Oslo og Akershus avd. 405 Skogly barnehage",
-                "no-barnehage:nsrid": "1016784",
-                "operator": "Studentsamskipnaden i Oslo og Akershus",
-                "operator:type": "private",
-                "id": "node/-1704"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.73102,
-                    59.96469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1529",
+            "id": "node/-1524",
             "properties": {
                 "ADDRESS": "Kringsjågrenda 1, 0861 OSLO",
                 "amenity": "kindergarten",
@@ -104,7 +104,7 @@
                 "no-barnehage:nsrid": "1016659",
                 "operator": "Nordberg Sokn",
                 "operator:type": "private",
-                "id": "node/-1529"
+                "id": "node/-1524"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +116,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1498",
+            "id": "node/-1494",
             "properties": {
                 "ADDRESS": "Folke Bernadottes Vei 2, 0862 OSLO",
                 "amenity": "kindergarten",
@@ -127,7 +127,7 @@
                 "no-barnehage:nsrid": "1013156",
                 "operator": "Montessoribarnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1498"
+                "id": "node/-1494"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +139,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1392",
+            "id": "node/-1388",
             "properties": {
                 "ADDRESS": "Peder Ankers Vei 20, 0861 OSLO",
                 "amenity": "kindergarten",
@@ -150,7 +150,7 @@
                 "no-barnehage:nsrid": "1017296",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1392"
+                "id": "node/-1388"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +162,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1377",
+            "id": "node/-1372",
             "properties": {
                 "ADDRESS": "Carl Kjelsens Vei 63, 0880 OSLO",
                 "amenity": "kindergarten",
@@ -173,7 +173,7 @@
                 "no-barnehage:nsrid": "1015634",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1377"
+                "id": "node/-1372"
             },
             "geometry": {
                 "type": "Point",
@@ -185,7 +185,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1297",
+            "id": "node/-1292",
             "properties": {
                 "ADDRESS": "Havnabakken 46, 0874 OSLO",
                 "amenity": "kindergarten",
@@ -196,7 +196,7 @@
                 "no-barnehage:nsrid": "1020007",
                 "operator": "Havnabakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1297"
+                "id": "node/-1292"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +208,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1283",
+            "id": "node/-1278",
             "properties": {
                 "ADDRESS": "Hansemyrveien 18, 0880 OSLO",
                 "amenity": "kindergarten",
@@ -220,7 +220,7 @@
                 "no-barnehage:nsrid": "1021421",
                 "operator": "Hansemyra Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1283"
+                "id": "node/-1278"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +232,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1279",
+            "id": "node/-1274",
             "properties": {
                 "ADDRESS": "Langmyrveien 16, 0874 OSLO",
                 "amenity": "kindergarten",
@@ -244,7 +244,7 @@
                 "no-barnehage:nsrid": "1019833",
                 "operator": "Hamborgplassen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1279"
+                "id": "node/-1274"
             },
             "geometry": {
                 "type": "Point",

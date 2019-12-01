@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2985",
+            "id": "node/-2991",
+            "properties": {
+                "ADDRESS": "Brøløsvegen 8, 3840 SELJORD",
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tussejuv barnehage",
+                "no-barnehage:nsrid": "1018046",
+                "operator": "Seljord kommune",
+                "operator:type": "public",
+                "id": "node/-2991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.62189,
+                    59.48371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2990",
             "properties": {
                 "ADDRESS": "Gullnesvegen 13, 3840 SELJORD",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1018048",
                 "operator": "Seljord kommune",
                 "operator:type": "public",
-                "id": "node/-2985"
+                "id": "node/-2990"
             },
             "geometry": {
                 "type": "Point",

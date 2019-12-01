@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5277",
+            "id": "node/-5283",
             "properties": {
                 "ADDRESS": "Røsslyngveien 17, 6511 KRISTIANSUND N",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1018174",
                 "operator": "Kristiansund kommune",
                 "operator:type": "public",
-                "id": "node/-5277"
+                "id": "node/-5283"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5275",
+            "id": "node/-5281",
             "properties": {
                 "ADDRESS": "Kitty Williamsens Gate 2, 6512 KRISTIANSUND N",
                 "amenity": "kindergarten",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1021863",
                 "operator": "Nøtteliten barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5275"
+                "id": "node/-5281"
             },
             "geometry": {
                 "type": "Point",
@@ -48,31 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5272",
-            "properties": {
-                "ADDRESS": "Bentnesveien 57, 6512 KRISTIANSUND N",
-                "amenity": "kindergarten",
-                "capacity": "75",
-                "contact:website": "http://laringsverkstedet.no/barnehage/atlantis",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Atlantis",
-                "no-barnehage:nsrid": "1015753",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-5272"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.7543,
-                    63.12272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5271",
+            "id": "node/-5279",
             "properties": {
                 "ADDRESS": "Mildred Didriksens Vei 1, 6511 KRISTIANSUND N",
                 "amenity": "kindergarten",
@@ -84,7 +60,7 @@
                 "no-barnehage:nsrid": "1021567",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-5271"
+                "id": "node/-5279"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +72,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5263",
+            "id": "node/-5277",
+            "properties": {
+                "ADDRESS": "Bentnesveien 57, 6512 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:website": "http://laringsverkstedet.no/barnehage/atlantis",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Atlantis",
+                "no-barnehage:nsrid": "1015753",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7543,
+                    63.12272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5269",
             "properties": {
                 "ADDRESS": "Kitty Williamsens Gate 1, 6512 KRISTIANSUND N",
                 "amenity": "kindergarten",
@@ -107,7 +107,7 @@
                 "no-barnehage:nsrid": "1020509",
                 "operator": "Blåskjellet Barnepark Da",
                 "operator:type": "private",
-                "id": "node/-5263"
+                "id": "node/-5269"
             },
             "geometry": {
                 "type": "Point",

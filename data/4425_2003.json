@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5604",
-            "properties": {
-                "ADDRESS": "Soløyvannsveien 100, 8073 BODØ",
-                "amenity": "kindergarten",
-                "capacity": "99",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tusseladden barnehage",
-                "no-barnehage:nsrid": "1016098",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-5604"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.47583,
-                    67.2796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5601",
+            "id": "node/-5610",
             "properties": {
                 "ADDRESS": "Andreas Markussons Vei 2, 8019 BODØ",
                 "amenity": "kindergarten",
@@ -37,7 +14,7 @@
                 "no-barnehage:nsrid": "1016637",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-5601"
+                "id": "node/-5610"
             },
             "geometry": {
                 "type": "Point",
@@ -49,18 +26,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5585",
+            "id": "node/-5594",
+            "properties": {
+                "ADDRESS": "Soløyvannsveien 100, 8073 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "99",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Tusseladden barnehage",
+                "no-barnehage:nsrid": "1016098",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47583,
+                    67.2796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5591",
             "properties": {
                 "ADDRESS": "Paradisveien 15, 8072 BODØ",
                 "amenity": "kindergarten",
                 "capacity": "47",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Paradiset barnehage",
+                "name": "Norlandia Paradiset barnehage",
                 "no-barnehage:nsrid": "1014147",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-5585"
+                "id": "node/-5591"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5561",
+            "id": "node/-5566",
             "properties": {
                 "ADDRESS": "Petter Engens Vei 4, 8071 BODØ",
                 "amenity": "kindergarten",
@@ -83,7 +83,7 @@
                 "no-barnehage:nsrid": "1021453",
                 "operator": "Jensvoll barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5561"
+                "id": "node/-5566"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5558",
+            "id": "node/-5563",
             "properties": {
                 "ADDRESS": "Grønnåsen, 8073 BODØ",
                 "amenity": "kindergarten",
@@ -106,7 +106,7 @@
                 "no-barnehage:nsrid": "1020100",
                 "operator": "Grønnåsen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5558"
+                "id": "node/-5563"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +118,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5551",
+            "id": "node/-5557",
             "properties": {
                 "ADDRESS": "Grønnåsen 51, 8073 BODØ",
                 "amenity": "kindergarten",
@@ -129,7 +129,7 @@
                 "no-barnehage:nsrid": "1016880",
                 "operator": "Otto Koch AS",
                 "operator:type": "private",
-                "id": "node/-5551"
+                "id": "node/-5557"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +141,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5547",
+            "id": "node/-5553",
             "properties": {
                 "ADDRESS": "Garnveien 70, 8013 BODØ",
                 "amenity": "kindergarten",
@@ -152,7 +152,7 @@
                 "no-barnehage:nsrid": "1022116",
                 "operator": "Alsgård Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5547"
+                "id": "node/-5553"
             },
             "geometry": {
                 "type": "Point",
@@ -164,7 +164,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5546",
+            "id": "node/-5552",
             "properties": {
                 "ADDRESS": "Sneveien 75, 8072 BODØ",
                 "amenity": "kindergarten",
@@ -175,7 +175,7 @@
                 "no-barnehage:nsrid": "1021174",
                 "operator": "Abrakadabra barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5546"
+                "id": "node/-5552"
             },
             "geometry": {
                 "type": "Point",

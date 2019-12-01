@@ -3,21 +3,24 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-962",
+            "id": "node/-963",
             "properties": {
-                "ADDRESS": "Sørbakkvegen 1, 2054 MOGREINA",
+                "ADDRESS": "Løvenbergvegen 2, 2054 MOGREINA",
                 "amenity": "kindergarten",
-                "name": "Mogreina barnehage Ii",
-                "no-barnehage:nsrid": "2000352",
+                "capacity": "130",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Mogreina barnehage",
+                "no-barnehage:nsrid": "1016398",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-962"
+                "id": "node/-963"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.16798,
-                    60.22939
+                    11.16697,
+                    60.22943
                 ]
             }
         },
@@ -25,13 +28,10 @@
             "type": "Feature",
             "id": "node/-961",
             "properties": {
-                "ADDRESS": "Løvenbergvegen 2, 2054 MOGREINA",
+                "ADDRESS": "Sørbakkvegen 1, 2054 MOGREINA",
                 "amenity": "kindergarten",
-                "capacity": "130",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mogreina barnehage",
-                "no-barnehage:nsrid": "1016398",
+                "name": "Mogreina barnehage Ii",
+                "no-barnehage:nsrid": "2000352",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
                 "id": "node/-961"
@@ -39,8 +39,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.16697,
-                    60.22943
+                    11.16798,
+                    60.22939
                 ]
             }
         }

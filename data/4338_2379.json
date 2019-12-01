@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1808",
-            "properties": {
-                "ADDRESS": "Tomm Murstadbakken 1, 0791 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Voksenkollen friluftsbarnehage",
-                "no-barnehage:nsrid": "1015042",
-                "operator": "Norlandia Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-1808"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.66454,
-                    59.98034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1760",
+            "id": "node/-1765",
             "properties": {
                 "ADDRESS": "Lillevannsveien 82, 0788 OSLO",
                 "amenity": "kindergarten",
@@ -37,7 +14,7 @@
                 "no-barnehage:nsrid": "1021256",
                 "operator": "Turi Sletners Barnehave AS",
                 "operator:type": "private",
-                "id": "node/-1760"
+                "id": "node/-1765"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1741",
+            "id": "node/-1746",
             "properties": {
                 "ADDRESS": "Lillevannsveien 87, 0788 OSLO",
                 "amenity": "kindergarten",
@@ -60,7 +37,7 @@
                 "no-barnehage:nsrid": "1022298",
                 "operator": "Tommlekollen Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1741"
+                "id": "node/-1746"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1740",
+            "id": "node/-1745",
             "properties": {
                 "ADDRESS": "Øvreseterveien 30, 0791 OSLO",
                 "amenity": "kindergarten",
@@ -84,7 +61,7 @@
                 "no-barnehage:nsrid": "1022358",
                 "operator": "Tomm Murstad Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1740"
+                "id": "node/-1745"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +73,53 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1559",
+            "id": "node/-1554",
+            "properties": {
+                "ADDRESS": "Ullveien 14, 0791 OSLO",
+                "amenity": "kindergarten",
+                "contact:website": "http://voksentoppen.norlandiabarnehagene.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Voksentoppen Ski og friluftsbarnehage",
+                "no-barnehage:nsrid": "2000159",
+                "operator": "Norlandia Voksentoppen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66273,
+                    59.97803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1553",
+            "properties": {
+                "ADDRESS": "Tomm Murstadbakken 1, 0791 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Voksenkollen fritidsbarnehage",
+                "no-barnehage:nsrid": "1015042",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-1553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66454,
+                    59.98034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1547",
             "properties": {
                 "ADDRESS": "Tryvannsveien 59, 0791 OSLO",
                 "amenity": "kindergarten",
@@ -104,37 +127,17 @@
                 "contact:website": "http://www.norlandia.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Onkel Tomm's Hytte",
+                "name": "Norlandia Onkel Tomms Hytte Frilufts- og idrettsbarnehage",
                 "no-barnehage:nsrid": "1015720",
-                "operator": "Onkel Tomm'S Hytte AS",
+                "operator": "Norlandia Onkel Tomms Hytte Frilufts- og Idrettsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1559"
+                "id": "node/-1547"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.67245,
                     59.98436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1545",
-            "properties": {
-                "ADDRESS": "Ullveien 10, 0791 OSLO",
-                "amenity": "kindergarten",
-                "name": "Norlandia Voksentoppen Ski og friluftsbarnehage",
-                "no-barnehage:nsrid": "2000159",
-                "operator": "Norlandia Voksentoppen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1545"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.66517,
-                    59.97729
                 ]
             }
         }

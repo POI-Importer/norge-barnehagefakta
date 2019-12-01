@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-620",
+            "id": "node/-635",
+            "properties": {
+                "ADDRESS": "Gamle Ringeriksvei 125, 1356 BEKKESTUA",
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øverland barnehage",
+                "no-barnehage:nsrid": "1021396",
+                "operator": "Øverland barnehage AS",
+                "operator:type": "private",
+                "id": "node/-635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5619,
+                    59.93362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-621",
             "properties": {
                 "ADDRESS": "Grevlingåsen 22, 1362 HOSLE",
                 "amenity": "kindergarten",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1018323",
                 "operator": "Trygg Start V/håkon Sletnes",
                 "operator:type": "private",
-                "id": "node/-620"
+                "id": "node/-621"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-524",
+            "id": "node/-523",
             "properties": {
                 "ADDRESS": "Granåsen 11, 1362 HOSLE",
                 "amenity": "kindergarten",
@@ -36,7 +59,7 @@
                 "no-barnehage:nsrid": "1013176",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-524"
+                "id": "node/-523"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-523",
+            "id": "node/-522",
             "properties": {
                 "ADDRESS": "Bispeveien 69, 1362 HOSLE",
                 "amenity": "kindergarten",
@@ -58,7 +81,7 @@
                 "no-barnehage:nsrid": "1018612",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-523"
+                "id": "node/-522"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +93,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-461",
+            "id": "node/-462",
             "properties": {
                 "ADDRESS": "Berta Bråtens Vei 6, 1362 HOSLE",
                 "amenity": "kindergarten",
@@ -81,7 +104,7 @@
                 "no-barnehage:nsrid": "1025883",
                 "operator": "Theas Bærum AS",
                 "operator:type": "private",
-                "id": "node/-461"
+                "id": "node/-462"
             },
             "geometry": {
                 "type": "Point",

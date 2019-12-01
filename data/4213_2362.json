@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4911",
-            "properties": {
-                "ADDRESS": "Svingen 1, 5350 BRATTHOLMEN",
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Liljevatnet barnehage avd. Svingen",
-                "no-barnehage:nsrid": "1012585",
-                "operator": "Fjell kommune",
-                "operator:type": "public",
-                "id": "node/-4911"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.14355,
-                    60.35347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4903",
+            "id": "node/-4910",
             "properties": {
                 "ADDRESS": "Valavegen 56, 5355 KNARREVIK",
                 "amenity": "kindergarten",
@@ -37,7 +14,7 @@
                 "no-barnehage:nsrid": "1015840",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4903"
+                "id": "node/-4910"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4899",
+            "id": "node/-4906",
             "properties": {
                 "ADDRESS": "Arefjordvegen 290, 5355 KNARREVIK",
                 "amenity": "kindergarten",
@@ -57,7 +34,7 @@
                 "no-barnehage:nsrid": "2000562",
                 "operator": "Fjell kommune",
                 "operator:type": "public",
-                "id": "node/-4899"
+                "id": "node/-4906"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +46,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4624",
+            "id": "node/-4905",
+            "properties": {
+                "ADDRESS": "Svingen 1, 5350 BRATTHOLMEN",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Liljevatnet barnehage avd. Svingen",
+                "no-barnehage:nsrid": "1012585",
+                "operator": "Fjell kommune",
+                "operator:type": "public",
+                "id": "node/-4905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14355,
+                    60.35347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4629",
             "properties": {
                 "ADDRESS": "Janaveien 157, 5179 GODVIK",
                 "amenity": "kindergarten",
@@ -81,7 +81,7 @@
                 "no-barnehage:nsrid": "1013152",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4624"
+                "id": "node/-4629"
             },
             "geometry": {
                 "type": "Point",

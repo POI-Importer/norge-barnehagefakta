@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2900",
+            "id": "node/-2905",
             "properties": {
                 "ADDRESS": "Trokåsa 10, 3737 SKIEN",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1021788",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2900"
+                "id": "node/-2905"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2864",
+            "id": "node/-2869",
             "properties": {
                 "ADDRESS": "Norrønagata 1, 3920 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1015940",
                 "operator": "Vest-Tun barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2864"
+                "id": "node/-2869"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2863",
+            "id": "node/-2868",
             "properties": {
                 "ADDRESS": "Grønstensgate 16, 3919 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -60,7 +60,7 @@
                 "no-barnehage:nsrid": "1019583",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2863"
+                "id": "node/-2868"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2851",
+            "id": "node/-2856",
             "properties": {
                 "ADDRESS": "Storgata 215, 3912 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -83,7 +83,7 @@
                 "no-barnehage:nsrid": "1016329",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2851"
+                "id": "node/-2856"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2849",
+            "id": "node/-2853",
             "properties": {
                 "ADDRESS": "Plassen 8, 3919 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -107,7 +107,7 @@
                 "no-barnehage:nsrid": "1014228",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-2849"
+                "id": "node/-2853"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +119,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2846",
+            "id": "node/-2850",
             "properties": {
                 "ADDRESS": "Maristien 11, 3933 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -127,7 +127,7 @@
                 "no-barnehage:nsrid": "2000544",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2846"
+                "id": "node/-2850"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +139,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2841",
+            "id": "node/-2845",
             "properties": {
                 "ADDRESS": "Moldhaugvegen 3, 3919 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -149,7 +149,7 @@
                 "no-barnehage:nsrid": "1018034",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2841"
+                "id": "node/-2845"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +161,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2839",
+            "id": "node/-2843",
             "properties": {
                 "ADDRESS": "Nyorkgata 2, 3911 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -172,13 +172,34 @@
                 "no-barnehage:nsrid": "1012500",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2839"
+                "id": "node/-2843"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.66419,
                     59.14872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2842",
+            "properties": {
+                "ADDRESS": "Kirkegata 25, 3919 PORSGRUNN",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.hjerterommetbarnehage.no",
+                "name": "Hjerterommet åpen barnehage",
+                "no-barnehage:nsrid": "1016051",
+                "operator": "Porsgrunn Sokn",
+                "operator:type": "private",
+                "id": "node/-2842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64162,
+                    59.14342
                 ]
             }
         }

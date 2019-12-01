@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2953",
+            "id": "node/-2958",
             "properties": {
                 "ADDRESS": "Utsiktstoppen 1, 3770 KRAGERØ",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1017350",
                 "operator": "Kragerø kommune",
                 "operator:type": "public",
-                "id": "node/-2953"
+                "id": "node/-2958"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2949",
+            "id": "node/-2956",
+            "properties": {
+                "ADDRESS": "Gamle Kragerøvei 36, 3770 KRAGERØ",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rømerverven barnehage",
+                "no-barnehage:nsrid": "1015607",
+                "operator": "Kragerø kommune",
+                "operator:type": "public",
+                "id": "node/-2956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.40366,
+                    58.87938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2954",
             "properties": {
                 "ADDRESS": "Frydensborgveien 17, 3772 KRAGERØ",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1013963",
                 "operator": "Kragerø kommune",
                 "operator:type": "public",
-                "id": "node/-2949"
+                "id": "node/-2954"
             },
             "geometry": {
                 "type": "Point",
