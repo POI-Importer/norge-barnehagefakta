@@ -3,79 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4611",
-            "properties": {
-                "ADDRESS": "Sverre Hjetlands Vei 17, 5161 LAKSEVÅG",
-                "amenity": "kindergarten",
-                "capacity": "74",
-                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/laksevag-barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Laksevåg barnehage",
-                "no-barnehage:nsrid": "1016687",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4611"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.3052,
-                    60.37619
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4599",
-            "properties": {
-                "ADDRESS": "Vågedalen 12, 5163 LAKSEVÅG",
-                "amenity": "kindergarten",
-                "capacity": "70",
-                "contact:website": "http://www.kidsabarnehager.no/vagedalen/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kidsa Vågedalen",
-                "no-barnehage:nsrid": "1022416",
-                "operator": "Kidsa Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-4599"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28763,
-                    60.38839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4567",
-            "properties": {
-                "ADDRESS": "Magnus Lagabøtes Plass 5, 5010 BERGEN",
-                "amenity": "kindergarten",
-                "capacity": "97",
-                "contact:website": "http://www.sammen.no/no/bergen/barnehage/jekteviken",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Jekteviken barnehage",
-                "no-barnehage:nsrid": "1015505",
-                "operator": "Studentsamskipnaden på Vestlandet",
-                "operator:type": "private",
-                "id": "node/-4567"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.31512,
-                    60.38945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4500",
+            "id": "node/-3183",
             "properties": {
                 "ADDRESS": "Herman Grans Vei 6, 5162 LAKSEVÅG",
                 "amenity": "kindergarten",
@@ -87,108 +15,13 @@
                 "no-barnehage:nsrid": "1025329",
                 "operator": "Den Internasjonale Kvinnegruppen i Bergen",
                 "operator:type": "private",
-                "id": "node/-4500"
+                "id": "node/-3183"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.29872,
                     60.38229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4498",
-            "properties": {
-                "ADDRESS": "Øvre Fyllingsveien 37, 5161 LAKSEVÅG",
-                "amenity": "kindergarten",
-                "capacity": "80",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Damsgård Kanvas-barnehage",
-                "no-barnehage:nsrid": "1021504",
-                "operator": "Stiftelsen Kanvas",
-                "operator:type": "private",
-                "id": "node/-4498"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.30339,
-                    60.37741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4465",
-            "properties": {
-                "ADDRESS": "Alfred Offerdals Vei 24, 5165 LAKSEVÅG",
-                "amenity": "kindergarten",
-                "capacity": "50",
-                "contact:website": "http://nygaardmenighet.akasiabarnehage.no/?_ga=2.122751624.2085470763.1551259895-200877105.1549437826",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Akasia Nygård menighetsbarnehage",
-                "no-barnehage:nsrid": "1015561",
-                "operator": "Akasia barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4465"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.27345,
-                    60.38772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4463",
-            "properties": {
-                "ADDRESS": "Øvre Fyllingsveien 85, 5146 FYLLINGSDALEN",
-                "amenity": "kindergarten",
-                "capacity": "165",
-                "contact:website": "http://www.litlafjellbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Akasia Litlafjell barnehage",
-                "no-barnehage:nsrid": "1021899",
-                "operator": "Akasia barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4463"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.30163,
-                    60.37066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4461",
-            "properties": {
-                "ADDRESS": "Damsgårdsveien 180, 5160 LAKSEVÅG",
-                "amenity": "kindergarten",
-                "capacity": "46",
-                "contact:website": "http://www.akasiabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Akasia Laksevåg kirkes barnehage",
-                "no-barnehage:nsrid": "1015523",
-                "operator": "Akasia barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4461"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.30063,
-                    60.38523
                 ]
             }
         }

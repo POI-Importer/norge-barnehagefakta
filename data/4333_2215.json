@@ -3,76 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3311",
-            "properties": {
-                "ADDRESS": "Åsvangvegen 9, 7049 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Åsvang barnehage",
-                "no-barnehage:nsrid": "1013420",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3311"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.45023,
-                    63.41114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3304",
-            "properties": {
-                "ADDRESS": "Gamle Jonsvannsveien 1, 7049 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Voll gårdsbarnehage",
-                "no-barnehage:nsrid": "1021971",
-                "operator": "Voll Gårdsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-3304"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.44834,
-                    63.41034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3296",
-            "properties": {
-                "ADDRESS": "Bjarne Ness' Veg 31, 7033 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "104",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Vestlia barnehage",
-                "no-barnehage:nsrid": "1018228",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3296"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.43506,
-                    63.40266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3295",
+            "id": "node/-2923",
             "properties": {
                 "ADDRESS": "Jonsvannsveien 115, 7050 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -83,7 +14,7 @@
                 "no-barnehage:nsrid": "1018227",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3295"
+                "id": "node/-2923"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3244",
+            "id": "node/-2915",
             "properties": {
                 "ADDRESS": "Nordre Risvolltun 34, 7036 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -106,7 +37,7 @@
                 "no-barnehage:nsrid": "1013901",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3244"
+                "id": "node/-2915"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3230",
+            "id": "node/-2911",
             "properties": {
                 "ADDRESS": "Prestekragevegen 16, 7050 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -128,7 +59,7 @@
                 "no-barnehage:nsrid": "1016819",
                 "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
                 "operator:type": "private",
-                "id": "node/-3230"
+                "id": "node/-2911"
             },
             "geometry": {
                 "type": "Point",
@@ -140,77 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3229",
-            "properties": {
-                "ADDRESS": "Moholt Alle 9b, 7050 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "179",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "no-barnehage:nsrid": "1016818",
-                "operator": "Sit Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
-                "operator:type": "private",
-                "id": "node/-3229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.43104,
-                    63.41035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3210",
-            "properties": {
-                "ADDRESS": "Nordre Risvolltun 36, 7036 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "77",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Risvollan barnehage",
-                "no-barnehage:nsrid": "1018221",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3210"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.43228,
-                    63.39635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3191",
-            "properties": {
-                "ADDRESS": "Asbjørn Øverås Veg 13a, 7036 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "contact:website": "http://spiren.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "NLM barnehagene avd. Spiren barnehage",
-                "no-barnehage:nsrid": "1016780",
-                "operator": "Nlm-Barnehagene AS",
-                "operator:type": "private",
-                "id": "node/-3191"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.42858,
-                    63.39355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3185",
+            "id": "node/-2897",
             "properties": {
                 "ADDRESS": "Sørenga 2, 7032 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -221,7 +82,7 @@
                 "no-barnehage:nsrid": "1015950",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3185"
+                "id": "node/-2897"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3178",
+            "id": "node/-2895",
             "properties": {
                 "ADDRESS": "Sigurd Einbus Veg 2, 7036 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -245,7 +106,7 @@
                 "no-barnehage:nsrid": "1020095",
                 "operator": "Motbakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3178"
+                "id": "node/-2895"
             },
             "geometry": {
                 "type": "Point",
@@ -257,53 +118,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3159",
-            "properties": {
-                "ADDRESS": "Loholt Alle 21, 7049 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "69",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lohove barnehage",
-                "no-barnehage:nsrid": "1017826",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3159"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.45695,
-                    63.40508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3131",
-            "properties": {
-                "ADDRESS": "Jotunvegen 7, 7033 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Jotunheimen barnehage",
-                "no-barnehage:nsrid": "1017327",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3131"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.42594,
-                    63.40734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3120",
+            "id": "node/-2878",
             "properties": {
                 "ADDRESS": "Nordre Risvolltun 2, 7036 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -311,60 +126,13 @@
                 "no-barnehage:nsrid": "1015778",
                 "operator": "Hoeggen Sokn",
                 "operator:type": "private",
-                "id": "node/-3120"
+                "id": "node/-2878"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.42923,
                     63.39773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3066",
-            "properties": {
-                "ADDRESS": "Fiolsvingen 5, 7050 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "75",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Blomsterbyen barnehage",
-                "no-barnehage:nsrid": "1015922",
-                "operator": "Trondheim kommune",
-                "operator:type": "public",
-                "id": "node/-3066"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4211,
-                    63.41024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3063",
-            "properties": {
-                "ADDRESS": "Bergheimsvegen 24, 7049 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:website": "http://www.bergheim-barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bergheim barnehage",
-                "no-barnehage:nsrid": "1020954",
-                "operator": "Bergheim barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3063"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.45603,
-                    63.40947
                 ]
             }
         }

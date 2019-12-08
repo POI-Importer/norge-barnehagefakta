@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4682",
+            "id": "node/-3233",
             "properties": {
                 "ADDRESS": "Lakslia 21, 5261 INDRE ARNA",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1014113",
                 "operator": "Arna Sokn",
                 "operator:type": "private",
-                "id": "node/-4682"
+                "id": "node/-3233"
             },
             "geometry": {
                 "type": "Point",
@@ -23,31 +23,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4602",
-            "properties": {
-                "ADDRESS": "Ådnavegen 5, 5260 INDRE ARNA",
-                "amenity": "kindergarten",
-                "capacity": "115",
-                "contact:website": "http://www.kidsabarnehager.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kidsa Øyrane",
-                "no-barnehage:nsrid": "1014279",
-                "operator": "Kidsa Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-4602"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.46841,
-                    60.42597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4564",
+            "id": "node/-3204",
             "properties": {
                 "ADDRESS": "Andreas Gjellesviks Veg 23b, 5260 INDRE ARNA",
                 "amenity": "kindergarten",
@@ -55,7 +31,7 @@
                 "no-barnehage:nsrid": "1019566",
                 "operator": "Indre Arna Kvinne og Familielag",
                 "operator:type": "private",
-                "id": "node/-4564"
+                "id": "node/-3204"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +43,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4563",
+            "id": "node/-3203",
             "properties": {
                 "ADDRESS": "Ådnavegen 42, 5260 INDRE ARNA",
                 "amenity": "kindergarten",
@@ -78,61 +54,13 @@
                 "no-barnehage:nsrid": "1015059",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4563"
+                "id": "node/-3203"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.46968,
                     60.42213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4491",
-            "properties": {
-                "ADDRESS": "Bogane 3, 5260 INDRE ARNA",
-                "amenity": "kindergarten",
-                "capacity": "50",
-                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/bogane-barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bogane barnehage",
-                "no-barnehage:nsrid": "1016088",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4491"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.47224,
-                    60.4304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4456",
-            "properties": {
-                "ADDRESS": "Indre Arna-Vegen 115, 5261 INDRE ARNA",
-                "amenity": "kindergarten",
-                "capacity": "33",
-                "contact:website": "http://arnakyrkjelyd.akasiabarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Akasia Arna Kyrkjelyd Sin barnehage",
-                "no-barnehage:nsrid": "1016677",
-                "operator": "Akasia barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4456"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.47132,
-                    60.41771
                 ]
             }
         }

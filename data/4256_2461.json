@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3949",
+            "id": "node/-3087",
             "properties": {
                 "ADDRESS": "Måkeveien 3, 4580 LYNGDAL",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020085",
                 "operator": "Sangfuglen barnehage R Limmesand",
                 "operator:type": "private",
-                "id": "node/-3949"
+                "id": "node/-3087"
             },
             "geometry": {
                 "type": "Point",
@@ -26,31 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3945",
-            "properties": {
-                "ADDRESS": "Strandeveien 5, 4580 LYNGDAL",
-                "amenity": "kindergarten",
-                "capacity": "103",
-                "contact:website": "http://laringsverkstedet.no/barnehage/bergeheim",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Faråna",
-                "no-barnehage:nsrid": "1014196",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3945"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.05613,
-                    58.14451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3942",
+            "id": "node/-3086",
             "properties": {
                 "ADDRESS": "Gamle Myrvei 1, 4580 LYNGDAL",
                 "amenity": "kindergarten",
@@ -61,57 +37,13 @@
                 "no-barnehage:nsrid": "1012504",
                 "operator": "Lyngdal kommune",
                 "operator:type": "public",
-                "id": "node/-3942"
+                "id": "node/-3086"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.04734,
                     58.12838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3940",
-            "properties": {
-                "ADDRESS": "Alleen, 4580 LYNGDAL",
-                "amenity": "kindergarten",
-                "name": "Frikirken åpen barnehage",
-                "no-barnehage:nsrid": "1014242",
-                "operator": "Frikirken Lyngdal Menighet",
-                "operator:type": "private",
-                "id": "node/-3940"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.06694,
-                    58.13808
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3939",
-            "properties": {
-                "ADDRESS": "Stasjonsgata 30, 4580 LYNGDAL",
-                "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:website": "http://www.filadelfiabhg.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Filadelfia barnehage",
-                "no-barnehage:nsrid": "1019889",
-                "operator": "Lyngdal Pinsemenighet",
-                "operator:type": "private",
-                "id": "node/-3939"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.072,
-                    58.13676
                 ]
             }
         }

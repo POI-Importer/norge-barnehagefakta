@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4046",
-            "properties": {
-                "ADDRESS": "Bogafjellbakken 90, 4324 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "70",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Utsikten Vest FUS barnehage",
-                "no-barnehage:nsrid": "1021177",
-                "operator": "Utsikten Vest Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4046"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74373,
-                    58.81752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4042",
+            "id": "node/-3104",
             "properties": {
                 "ADDRESS": "Harahaugane 2, 4320 SANDNES",
                 "amenity": "kindergarten",
@@ -37,7 +14,7 @@
                 "no-barnehage:nsrid": "2000191",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-4042"
+                "id": "node/-3104"
             },
             "geometry": {
                 "type": "Point",
@@ -49,218 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4041",
-            "properties": {
-                "ADDRESS": "Sørbøveien 59, 4320 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "97",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sørbø barnehage",
-                "no-barnehage:nsrid": "1025445",
-                "operator": "Sandnes kommune",
-                "operator:type": "public",
-                "id": "node/-4041"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.7319,
-                    58.82673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4038",
-            "properties": {
-                "ADDRESS": "Svebastadveien 68, 4325 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "150",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Strutsen Et Pedagogisk Barnesenter",
-                "no-barnehage:nsrid": "1009241",
-                "operator": "Strutsen Et Pedagogisk Barnesenter AS",
-                "operator:type": "private",
-                "id": "node/-4038"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75638,
-                    58.83572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4012",
-            "properties": {
-                "ADDRESS": "Haugen 2, 4323 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "60",
-                "contact:website": "http://www.lundegardbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lundegård barnehage",
-                "no-barnehage:nsrid": "1020858",
-                "operator": "Lundegård barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-4012"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72366,
-                    58.8264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4009",
-            "properties": {
-                "ADDRESS": "Hafrakveien 11, 4320 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "89",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kreativ barnehage Hove",
-                "no-barnehage:nsrid": "1026202",
-                "operator": "Kreativ barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4009"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.73095,
-                    58.83239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4008",
-            "properties": {
-                "ADDRESS": "Buggelandsbakken 209, 4324 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "84",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kreativ barnehage Bogafjell",
-                "no-barnehage:nsrid": "1021195",
-                "operator": "Kreativ barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4008"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74753,
-                    58.81401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4002",
-            "properties": {
-                "ADDRESS": "Håbafjellveien 39, 4325 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "55",
-                "contact:website": "http://www.haabet-barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Håbet FUS barnehage",
-                "no-barnehage:nsrid": "1020129",
-                "operator": "Håbet Fus Friluftsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-4002"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75336,
-                    58.82541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4001",
-            "properties": {
-                "ADDRESS": "Håbafjellveien 45, 4325 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "66",
-                "contact:website": "http://www.minbarnehage.no/idrettsbarnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Håbafjell idrettsbarnehage",
-                "no-barnehage:nsrid": "1020561",
-                "operator": "Håbafjell Idrettsbarnehage Sa",
-                "operator:type": "private",
-                "id": "node/-4001"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75179,
-                    58.82469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3995",
-            "properties": {
-                "ADDRESS": "Kvålveien 11, 4323 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "66",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ganddal barnehage",
-                "no-barnehage:nsrid": "1025377",
-                "operator": "Sandnes kommune",
-                "operator:type": "public",
-                "id": "node/-3995"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.7162,
-                    58.82008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3986",
-            "properties": {
-                "ADDRESS": "Buggelandsbakken 145, 4324 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:website": "http://www.buggeland-barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Buggeland barnehage",
-                "no-barnehage:nsrid": "1021148",
-                "operator": "Buggeland barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3986"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75373,
-                    58.8166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3984",
+            "id": "node/-3095",
             "properties": {
                 "ADDRESS": "Lyngholen 2, 4324 SANDNES",
                 "amenity": "kindergarten",
@@ -272,33 +38,13 @@
                 "no-barnehage:nsrid": "1020839",
                 "operator": "Bogafjellbakken Naturbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3984"
+                "id": "node/-3095"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.74794,
                     58.81981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3983",
-            "properties": {
-                "ADDRESS": "Lyngholen 3, 4324 SANDNES",
-                "amenity": "kindergarten",
-                "name": "Bogafjell Åpne barnehage",
-                "no-barnehage:nsrid": "1014080",
-                "operator": "Bogafjell Sokn",
-                "operator:type": "private",
-                "id": "node/-3983"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74671,
-                    58.82052
                 ]
             }
         }

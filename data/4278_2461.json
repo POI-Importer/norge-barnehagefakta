@@ -3,27 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3809",
-            "properties": {
-                "ADDRESS": "Strandpromenaden 31, 4608 KRISTIANSAND S",
-                "amenity": "kindergarten",
-                "name": "Sentrum Åpne barnehage",
-                "no-barnehage:nsrid": "1018364",
-                "operator": "Åpne Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-3809"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.00289,
-                    58.14537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3789",
+            "id": "node/-3046",
             "properties": {
                 "ADDRESS": "Framnesveien 10, 4632 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -34,36 +14,13 @@
                 "no-barnehage:nsrid": "1016240",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3789"
+                "id": "node/-3046"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.03074,
                     58.14638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3771",
-            "properties": {
-                "ADDRESS": "Østre Strandgate 15, 4610 KRISTIANSAND S",
-                "amenity": "kindergarten",
-                "capacity": "54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kløvergården barnehage",
-                "no-barnehage:nsrid": "1015446",
-                "operator": "Kristiansand kommune",
-                "operator:type": "public",
-                "id": "node/-3771"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.99858,
-                    58.14402
                 ]
             }
         }

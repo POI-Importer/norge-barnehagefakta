@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3900",
+            "id": "node/-3075",
             "properties": {
                 "ADDRESS": "Drivenesvegen 24, 4706 VENNESLA",
                 "amenity": "kindergarten",
@@ -14,82 +14,13 @@
                 "no-barnehage:nsrid": "1013259",
                 "operator": "Vennesla kommune",
                 "operator:type": "public",
-                "id": "node/-3900"
+                "id": "node/-3075"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.9645,
                     58.25768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3899",
-            "properties": {
-                "ADDRESS": "Snømyr 16a, 4708 VENNESLA",
-                "amenity": "kindergarten",
-                "capacity": "108",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Snømyra barnehage",
-                "no-barnehage:nsrid": "1020451",
-                "operator": "Snømyra barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-3899"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.98682,
-                    58.2571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3897",
-            "properties": {
-                "ADDRESS": "Vigeland Brugs Veg 15, 4708 VENNESLA",
-                "amenity": "kindergarten",
-                "capacity": "83",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mariknotten barnehage",
-                "no-barnehage:nsrid": "1016957",
-                "operator": "Mariknotten barnehage AS",
-                "operator:type": "private",
-                "id": "node/-3897"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.96364,
-                    58.25199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3894",
-            "properties": {
-                "ADDRESS": "Ålefjærvegen 501, 4708 VENNESLA",
-                "amenity": "kindergarten",
-                "capacity": "52",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Vennesla",
-                "no-barnehage:nsrid": "1013485",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3894"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.98663,
-                    58.25111
                 ]
             }
         }

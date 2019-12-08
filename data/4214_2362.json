@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4726",
+            "id": "node/-3252",
             "properties": {
                 "ADDRESS": "Vestre Vadmyra 2d, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1016685",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4726"
+                "id": "node/-3252"
             },
             "geometry": {
                 "type": "Point",
@@ -27,55 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4623",
-            "properties": {
-                "ADDRESS": "Vestre Vadmyra 2c, 5172 LODDEFJORD",
-                "amenity": "kindergarten",
-                "capacity": "57",
-                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/lyngfaret-barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lyngfaret barnehage",
-                "no-barnehage:nsrid": "1016690",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4623"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22687,
-                    60.36142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4593",
-            "properties": {
-                "ADDRESS": "Vadmyrveien 69, 5172 LODDEFJORD",
-                "amenity": "kindergarten",
-                "capacity": "67",
-                "contact:website": "http://www.kidsabarnehager.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kidsa Sandgotna",
-                "no-barnehage:nsrid": "1022426",
-                "operator": "Kidsa Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-4593"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22822,
-                    60.36381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4592",
+            "id": "node/-3208",
             "properties": {
                 "ADDRESS": "Vadmyrveien 69, 5172 LODDEFJORD",
                 "amenity": "kindergarten",
@@ -85,36 +37,13 @@
                 "no-barnehage:nsrid": "1022141",
                 "operator": "Kidsa Laksevåg AS",
                 "operator:type": "private",
-                "id": "node/-4592"
+                "id": "node/-3208"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.22822,
                     60.36381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4548",
-            "properties": {
-                "ADDRESS": "Vadmyrveien 79, 5172 LODDEFJORD",
-                "amenity": "kindergarten",
-                "capacity": "102",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Haugatun barnehage",
-                "no-barnehage:nsrid": "1016707",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4548"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22836,
-                    60.36481
                 ]
             }
         }

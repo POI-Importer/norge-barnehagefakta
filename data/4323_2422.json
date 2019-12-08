@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2755",
+            "id": "node/-2756",
             "properties": {
                 "ADDRESS": "Bakåsveien 27, 3265 LARVIK",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1020693",
                 "operator": "Skattekista barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2755"
+                "id": "node/-2756"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.99325,
                     59.0368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2748",
+            "properties": {
+                "ADDRESS": "Gamle Stavernsveien 200, 3267 LARVIK",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lysheim barnehage",
+                "no-barnehage:nsrid": "1016886",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.01373,
+                    59.01855
                 ]
             }
         }

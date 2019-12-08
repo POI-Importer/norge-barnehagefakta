@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5972",
+            "id": "node/-3612",
             "properties": {
                 "ADDRESS": "Kveldrovegen 17, 9007 TROMSØ",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019765",
                 "operator": "Stiftelsen R Steiner barnehage i Tromsø",
                 "operator:type": "private",
-                "id": "node/-5972"
+                "id": "node/-3612"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5954",
+            "id": "node/-3602",
             "properties": {
                 "ADDRESS": "Olastien 11, 9012 TROMSØ",
                 "amenity": "kindergarten",
@@ -38,83 +38,13 @@
                 "no-barnehage:nsrid": "1016786",
                 "operator": "Norges Arktiske Studentsamskipnad",
                 "operator:type": "private",
-                "id": "node/-5954"
+                "id": "node/-3602"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     18.92745,
                     69.65662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5911",
-            "properties": {
-                "ADDRESS": "Sommerlystvegen 26, 9012 TROMSØ",
-                "amenity": "kindergarten",
-                "capacity": "33",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Domkirkens barnehage",
-                "no-barnehage:nsrid": "1016763",
-                "operator": "Domkirken Sokn",
-                "operator:type": "private",
-                "id": "node/-5911"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.92698,
-                    69.65115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5908",
-            "properties": {
-                "ADDRESS": "Langnesvegen 7, 9012 TROMSØ",
-                "amenity": "kindergarten",
-                "capacity": "97",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bymyra barnehage",
-                "no-barnehage:nsrid": "1017059",
-                "operator": "Tromsø kommune",
-                "operator:type": "public",
-                "id": "node/-5908"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.93361,
-                    69.65517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5903",
-            "properties": {
-                "ADDRESS": "Holtvegen 70, 9016 TROMSØ",
-                "amenity": "kindergarten",
-                "capacity": "43",
-                "contact:website": "http://www.barnehagenhundre.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnehagen Hundre",
-                "no-barnehage:nsrid": "1022324",
-                "operator": "Barnehagen Hundre Sa",
-                "operator:type": "private",
-                "id": "node/-5903"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.91259,
-                    69.65392
                 ]
             }
         }
