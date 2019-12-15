@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3609",
+            "id": "node/-5963",
+            "properties": {
+                "ADDRESS": "Hjalmar Johansens Gate 319, 9007 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:website": "http://www.fus.no/strandkanten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Strandkanten FUS barnehage",
+                "no-barnehage:nsrid": "1022184",
+                "operator": "Strandkanten Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93895,
+                    69.63962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5956",
             "properties": {
                 "ADDRESS": "Vesterlivegen 5, 9013 TROMSØ",
                 "amenity": "kindergarten",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1017019",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3609"
+                "id": "node/-5956"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +50,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3606",
+            "id": "node/-5955",
+            "properties": {
+                "ADDRESS": "Lars Thørings Veg 29, 9006 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sommereng barnehage",
+                "no-barnehage:nsrid": "1017061",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91538,
+                    69.63783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5949",
             "properties": {
                 "ADDRESS": "Lærerskolevegen 8, 9006 TROMSØ",
                 "amenity": "kindergarten",
@@ -37,7 +84,7 @@
                 "no-barnehage:nsrid": "1019988",
                 "operator": "Skogstua barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3606"
+                "id": "node/-5949"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3598",
+            "id": "node/-5931",
             "properties": {
                 "ADDRESS": "Nansenvegen 57, 9007 TROMSØ",
                 "amenity": "kindergarten",
@@ -59,7 +106,7 @@
                 "no-barnehage:nsrid": "1016153",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3598"
+                "id": "node/-5931"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +118,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3595",
+            "id": "node/-5919",
             "properties": {
                 "ADDRESS": "Kveldrovegen 74, 9007 TROMSØ",
                 "amenity": "kindergarten",
@@ -83,7 +130,7 @@
                 "no-barnehage:nsrid": "1020453",
                 "operator": "Kveldrovegen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3595"
+                "id": "node/-5919"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +142,78 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3585",
+            "id": "node/-5916",
+            "properties": {
+                "ADDRESS": "Overlege Meyers Veg 4, 9013 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.kulturbarnehagen.tromso.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kulturbarnehagen",
+                "no-barnehage:nsrid": "1020470",
+                "operator": "Kulturbarnehagen",
+                "operator:type": "private",
+                "id": "node/-5916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91349,
+                    69.64171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5892",
+            "properties": {
+                "ADDRESS": "Strandvegen 117a, 9006 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "contact:website": "http://www.bjerkakerbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkaker barnehage",
+                "no-barnehage:nsrid": "1019502",
+                "operator": "Bjerkaker barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.92741,
+                    69.63518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5889",
+            "properties": {
+                "ADDRESS": "Thorshaugvegen 8, 9006 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsestua barnehage",
+                "no-barnehage:nsrid": "1020358",
+                "operator": "Bamsestua barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91739,
+                    69.6318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5888",
             "properties": {
                 "ADDRESS": "Marielund 39, 9006 TROMSØ",
                 "amenity": "kindergarten",
@@ -107,7 +225,7 @@
                 "no-barnehage:nsrid": "1020106",
                 "operator": "Sørtromsøya Barnehage/ameliahaugen barnehage",
                 "operator:type": "private",
-                "id": "node/-3585"
+                "id": "node/-5888"
             },
             "geometry": {
                 "type": "Point",

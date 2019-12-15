@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3395",
+            "id": "node/-5235",
             "properties": {
                 "ADDRESS": "Ramsvika 1, 6012 ÅLESUND",
                 "amenity": "kindergarten",
@@ -15,13 +15,37 @@
                 "no-barnehage:nsrid": "1019918",
                 "operator": "Puskhola barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3395"
+                "id": "node/-5235"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.4008,
                     62.43378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5231",
+            "properties": {
+                "ADDRESS": "Ospedalssvingen 48, 6012 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "contact:website": "http://laringsverkstedet.no/barnehage/blindheim",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Blindheim barnehage",
+                "no-barnehage:nsrid": "1020288",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.38636,
+                    62.44074
                 ]
             }
         }

@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2845",
+            "id": "node/-2943",
+            "properties": {
+                "ADDRESS": "Reiduns Vei 5, 3961 STATHELLE",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:website": "http://www.tirilltoppen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tirilltoppen barnehage",
+                "no-barnehage:nsrid": "1020003",
+                "operator": "Tirilltoppen barnehage Bamble Sa",
+                "operator:type": "private",
+                "id": "node/-2943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70757,
+                    59.02397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2941",
+            "properties": {
+                "ADDRESS": "Europaveien 147, 3962 STATHELLE",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokkevannet barnehage",
+                "no-barnehage:nsrid": "1020896",
+                "operator": "Stokkevannet barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67256,
+                    59.03732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2940",
             "properties": {
                 "ADDRESS": "Reiduns Vei 1, 3961 STATHELLE",
                 "amenity": "kindergarten",
@@ -14,7 +61,7 @@
                 "no-barnehage:nsrid": "1020820",
                 "operator": "Solstua Kulturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2845"
+                "id": "node/-2940"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2842",
+            "id": "node/-2936",
             "properties": {
                 "ADDRESS": "Tønderveien 11, 3961 STATHELLE",
                 "amenity": "kindergarten",
@@ -38,7 +85,7 @@
                 "no-barnehage:nsrid": "1013087",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2842"
+                "id": "node/-2936"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +97,50 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2840",
+            "id": "node/-2935",
+            "properties": {
+                "ADDRESS": "Sundbyveien 233, 3961 STATHELLE",
+                "amenity": "kindergarten",
+                "name": "Grashoppa åpen barnehage",
+                "no-barnehage:nsrid": "1013189",
+                "operator": "Grashoppa barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70475,
+                    59.02569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2934",
+            "properties": {
+                "ADDRESS": "Sundbyveien 233, 3961 STATHELLE",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grashoppa barnehage",
+                "no-barnehage:nsrid": "1015087",
+                "operator": "Grashoppa barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70475,
+                    59.02569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2932",
             "properties": {
                 "ADDRESS": "Furuveien 29, 3960 STATHELLE",
                 "amenity": "kindergarten",
@@ -61,7 +151,7 @@
                 "no-barnehage:nsrid": "1026294",
                 "operator": "Bamble kommune",
                 "operator:type": "public",
-                "id": "node/-2840"
+                "id": "node/-2932"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3576",
+            "id": "node/-5838",
             "properties": {
                 "ADDRESS": "Blåtindveien 5, 8300 SVOLVÆR",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1012685",
                 "operator": "Vågan kommune",
                 "operator:type": "public",
-                "id": "node/-3576"
+                "id": "node/-5838"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3568",
+            "id": "node/-5836",
+            "properties": {
+                "ADDRESS": "Meyerbakken 23, 8300 SVOLVÆR",
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solheim barnehage",
+                "no-barnehage:nsrid": "1020493",
+                "operator": "Solheim barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55641,
+                    68.23911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5821",
             "properties": {
                 "ADDRESS": "Einar Bergs Vei 17, 8300 SVOLVÆR",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1020469",
                 "operator": "Barnehagen Gunhilds Minne AS",
                 "operator:type": "private",
-                "id": "node/-3568"
+                "id": "node/-5821"
             },
             "geometry": {
                 "type": "Point",

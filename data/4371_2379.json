@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1967",
+            "id": "node/-1966",
             "properties": {
                 "ADDRESS": "Matrandvegen 52, 2230 SKOTTERUD",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1022239",
                 "operator": "Skotterudløkka barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1967"
+                "id": "node/-1966"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     12.1248,
                     59.98669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1965",
+            "properties": {
+                "ADDRESS": "Vestmarkavegen 66, 2230 SKOTTERUD",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skotterud barnehage",
+                "no-barnehage:nsrid": "1017581",
+                "operator": "Eidskog kommune",
+                "operator:type": "public",
+                "id": "node/-1965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10727,
+                    59.98082
                 ]
             }
         }

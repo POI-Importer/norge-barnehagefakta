@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5354",
+            "properties": {
+                "ADDRESS": "Gråurvegen 2, 6230 SYKKYLVEN",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikedalen barnehage",
+                "no-barnehage:nsrid": "1016104",
+                "operator": "Sykkylven kommune",
+                "operator:type": "public",
+                "id": "node/-5354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.59013,
+                    62.37823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5353",
+            "properties": {
+                "ADDRESS": "Helledalen 2, 6230 SYKKYLVEN",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vik barnehage",
+                "no-barnehage:nsrid": "1015462",
+                "operator": "Sykkylven kommune",
+                "operator:type": "public",
+                "id": "node/-5353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57727,
+                    62.37848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5347",
+            "properties": {
+                "ADDRESS": "Jarnesvegen 6, 6222 IKORNNES",
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ikornnes FUS barnehage",
+                "no-barnehage:nsrid": "1021795",
+                "operator": "Ikornnes Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.55071,
+                    62.38724
+                ]
+            }
+        }
+    ]
+}

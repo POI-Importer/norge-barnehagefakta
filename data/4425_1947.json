@@ -3,7 +3,77 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3570",
+            "id": "node/-5832",
+            "properties": {
+                "ADDRESS": "Rækøyveien 42, 8310 KABELVÅG",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://www.nordlysbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordlys barnehage",
+                "no-barnehage:nsrid": "1021839",
+                "operator": "Nordlys barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46626,
+                    68.20774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5831",
+            "properties": {
+                "ADDRESS": "Kongsstien 3, 8310 KABELVÅG",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nakken barnehage",
+                "no-barnehage:nsrid": "1016144",
+                "operator": "Vågan kommune",
+                "operator:type": "public",
+                "id": "node/-5831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47627,
+                    68.20728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5825",
+            "properties": {
+                "ADDRESS": "Sommerskaret 22, 8310 KABELVÅG",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kabelvåg barnehage",
+                "no-barnehage:nsrid": "1022217",
+                "operator": "Kabelvåg barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46983,
+                    68.21015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5823",
             "properties": {
                 "ADDRESS": "Finnesveien 17, 8310 KABELVÅG",
                 "amenity": "kindergarten",
@@ -15,7 +85,7 @@
                 "no-barnehage:nsrid": "1020734",
                 "operator": "Filipstua Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3570"
+                "id": "node/-5823"
             },
             "geometry": {
                 "type": "Point",

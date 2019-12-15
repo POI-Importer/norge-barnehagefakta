@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2976",
+            "id": "node/-3474",
+            "properties": {
+                "ADDRESS": "Prestgårdslia 2, 7170 ÅFJORD",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Heggli barnehage",
+                "no-barnehage:nsrid": "1015550",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-3474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21926,
+                    63.96849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3473",
             "properties": {
                 "ADDRESS": "Gammelvegen 4, 7170 ÅFJORD",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1025337",
                 "operator": "Åfjord kommune",
                 "operator:type": "public",
-                "id": "node/-2976"
+                "id": "node/-3473"
             },
             "geometry": {
                 "type": "Point",

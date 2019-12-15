@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-972",
+            "id": "node/-971",
             "properties": {
                 "ADDRESS": "Kongsvingervegen 10, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020353",
                 "operator": "Stiftelsen Soria Moria barnehage",
                 "operator:type": "private",
-                "id": "node/-972"
+                "id": "node/-971"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-966",
+            "id": "node/-965",
             "properties": {
                 "ADDRESS": "Handelsvegen 4, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1020995",
                 "operator": "Olstadmoen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-966"
+                "id": "node/-965"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-960",
+            "id": "node/-959",
             "properties": {
                 "ADDRESS": "Reisoppvegen 9, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1021782",
                 "operator": "Mamma Mia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-960"
+                "id": "node/-959"
             },
             "geometry": {
                 "type": "Point",
@@ -75,6 +75,29 @@
             "type": "Feature",
             "id": "node/-949",
             "properties": {
+                "ADDRESS": "Gamlevegen 35, 2040 KLØFTA",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kløftahallen barnehage",
+                "no-barnehage:nsrid": "1017885",
+                "operator": "Ullensaker kommune",
+                "operator:type": "public",
+                "id": "node/-949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12553,
+                    60.07115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-948",
+            "properties": {
                 "ADDRESS": "Holmsmoen 9, 2040 KLØFTA",
                 "amenity": "kindergarten",
                 "capacity": "56",
@@ -84,19 +107,19 @@
                 "no-barnehage:nsrid": "1016919",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-949"
+                "id": "node/-948"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.14236,
-                    60.07727
+                    11.14168,
+                    60.07738
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-945",
+            "id": "node/-944",
             "properties": {
                 "ADDRESS": "Bakkevegen 1, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -108,7 +131,7 @@
                 "no-barnehage:nsrid": "1017701",
                 "operator": "Hoppensprett AS",
                 "operator:type": "private",
-                "id": "node/-945"
+                "id": "node/-944"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +143,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-931",
+            "id": "node/-930",
             "properties": {
                 "ADDRESS": "Skolevegen 12, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -131,7 +154,7 @@
                 "no-barnehage:nsrid": "1020555",
                 "operator": "Bakkedalen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-931"
+                "id": "node/-930"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +166,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-930",
+            "id": "node/-929",
             "properties": {
                 "ADDRESS": "Bakkestien 6, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -154,7 +177,7 @@
                 "no-barnehage:nsrid": "1017386",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-930"
+                "id": "node/-929"
             },
             "geometry": {
                 "type": "Point",

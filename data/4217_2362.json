@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3259",
+            "id": "node/-4728",
+            "properties": {
+                "ADDRESS": "Slettebakksveien 41, 5093 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "123",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Årstad Brannstasjon barnehage",
+                "no-barnehage:nsrid": "1017890",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3597,
+                    60.36477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4724",
             "properties": {
                 "ADDRESS": "Vilhelm Bjerknes' Vei 15, 5081 BERGEN",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1016087",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3259"
+                "id": "node/-4724"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,102 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3217",
+            "id": "node/-4706",
+            "properties": {
+                "ADDRESS": "Vilhelm Bjerknes' Vei 83, 5081 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tveitevannet barnehage",
+                "no-barnehage:nsrid": "1019679",
+                "operator": "Tveitevannet barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35619,
+                    60.34988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4682",
+            "properties": {
+                "ADDRESS": "Vilhelm Bjerknes' Vei 31, 5081 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:website": "http://www.slettebakken-kirke.no/slettebakk/barnehagen/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Slettebakken menighets barnehage",
+                "no-barnehage:nsrid": "1015568",
+                "operator": "Slettebakken Menighets barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35719,
+                    60.35282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4632",
+            "properties": {
+                "ADDRESS": "Bendixens Vei 49, 5067 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "133",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/minde-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Minde barnehage",
+                "no-barnehage:nsrid": "1016698",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35213,
+                    60.36091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4625",
+            "properties": {
+                "ADDRESS": "Conrad Mohrsvei 40, 5072 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:website": "http://laaven.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Låven barnehage",
+                "no-barnehage:nsrid": "1020058",
+                "operator": "Låven barnehage",
+                "operator:type": "private",
+                "id": "node/-4625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34201,
+                    60.35376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4622",
             "properties": {
                 "ADDRESS": "Løbergstien 12, 5073 BERGEN",
                 "amenity": "kindergarten",
@@ -38,7 +156,7 @@
                 "no-barnehage:nsrid": "1020534",
                 "operator": "Løbergstien barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3217"
+                "id": "node/-4622"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +168,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3211",
+            "id": "node/-4600",
             "properties": {
                 "ADDRESS": "Jacob Aalls Vei 26, 5063 BERGEN",
                 "amenity": "kindergarten",
@@ -62,7 +180,7 @@
                 "no-barnehage:nsrid": "2000090",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3211"
+                "id": "node/-4600"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +192,78 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3191",
+            "id": "node/-4595",
+            "properties": {
+                "ADDRESS": "Kniksens Plass 1, 5063 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kniksens Plass barnehage",
+                "no-barnehage:nsrid": "1015058",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35898,
+                    60.36712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4581",
+            "properties": {
+                "ADDRESS": "Adolph Bergs Vei 55, 5089 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Slettebakken",
+                "no-barnehage:nsrid": "1022415",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3599,
+                    60.35568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4569",
+            "properties": {
+                "ADDRESS": "Inndalsveien 88, 5063 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Inndalen",
+                "no-barnehage:nsrid": "1022414",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35289,
+                    60.36431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4522",
             "properties": {
                 "ADDRESS": "Roald Amundsens Vei 100, 5067 BERGEN",
                 "amenity": "kindergarten",
@@ -82,7 +271,7 @@
                 "no-barnehage:nsrid": "1013128",
                 "operator": "Fridalen Sokn",
                 "operator:type": "private",
-                "id": "node/-3191"
+                "id": "node/-4522"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +283,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3190",
+            "id": "node/-4521",
             "properties": {
                 "ADDRESS": "Bøkeveien 19, 5093 BERGEN",
                 "amenity": "kindergarten",
@@ -106,13 +295,37 @@
                 "no-barnehage:nsrid": "1017700",
                 "operator": "Bergen Racketsenter AS",
                 "operator:type": "private",
-                "id": "node/-3190"
+                "id": "node/-4521"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.35982,
                     60.36337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4497",
+            "properties": {
+                "ADDRESS": "Fredlundveien 45, 5073 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Grønnestølen barnehage",
+                "no-barnehage:nsrid": "1022008",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33584,
+                    60.35591
                 ]
             }
         }

@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4121",
+            "properties": {
+                "ADDRESS": "Søre Ramsvigvei 46, 4015 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ramsvigskogen barnehage",
+                "no-barnehage:nsrid": "1012902",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75975,
+                    58.9591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4104",
+            "properties": {
+                "ADDRESS": "Lervigbrygga 188, 4014 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "contact:website": "http://www.laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lervig Brygge barnehage",
+                "no-barnehage:nsrid": "1022279",
+                "operator": "Lervig Brygge barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76585,
+                    58.96632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4072",
+            "properties": {
+                "ADDRESS": "Rosenli 7, 4015 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "237",
+                "contact:website": "http://www.minbarnehage.no/emmaus",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Emmaus barnehage",
+                "no-barnehage:nsrid": "1015555",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76112,
+                    58.96208
+                ]
+            }
+        }
+    ]
+}

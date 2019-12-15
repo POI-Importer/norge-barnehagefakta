@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3304",
+            "id": "node/-4934",
             "properties": {
                 "ADDRESS": "Ospedalen 268, 5308 KLEPPESTØ",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1013210",
                 "operator": "Du og Jeg Krokåsfeltet Nord AS",
                 "operator:type": "private",
-                "id": "node/-3304"
+                "id": "node/-4934"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3302",
+            "id": "node/-4931",
+            "properties": {
+                "ADDRESS": "Rostaliene 6, 5308 KLEPPESTØ",
+                "amenity": "kindergarten",
+                "capacity": "144",
+                "contact:website": "http://www.laringsverkstedet.no/laringsverkestedet-du-og-jeg-juvik",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Du og Jeg Juvik",
+                "no-barnehage:nsrid": "1021893",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18936,
+                    60.42803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4930",
             "properties": {
                 "ADDRESS": "Kleppevegen 124, 5308 KLEPPESTØ",
                 "amenity": "kindergarten",
@@ -37,13 +61,37 @@
                 "no-barnehage:nsrid": "1021179",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3302"
+                "id": "node/-4930"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.19907,
                     60.42315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4925",
+            "properties": {
+                "ADDRESS": "Kvernhusdalen 72b, 5308 KLEPPESTØ",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "contact:website": "http://Haugen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Haugen barnehage natur og Friluftsliv",
+                "no-barnehage:nsrid": "1020920",
+                "operator": "Haugen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20094,
+                    60.42007
                 ]
             }
         }

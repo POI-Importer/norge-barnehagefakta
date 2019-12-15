@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3186",
+            "id": "node/-4621",
+            "properties": {
+                "ADDRESS": "Steinsvikvegen 4, 5251 SØREIDGREND",
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Søreidtunet barnehage",
+                "no-barnehage:nsrid": "1021852",
+                "operator": "Læringsverkstedet Søreidtunet AS",
+                "operator:type": "private",
+                "id": "node/-4621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2726,
+                    60.31567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4493",
             "properties": {
                 "ADDRESS": "Storrinden 117a, 5252 SØREIDGREND",
                 "amenity": "kindergarten",
@@ -15,13 +38,37 @@
                 "no-barnehage:nsrid": "1019999",
                 "operator": "Stiftelsen Barnekraft",
                 "operator:type": "private",
-                "id": "node/-3186"
+                "id": "node/-4493"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.26526,
                     60.30595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4461",
+            "properties": {
+                "ADDRESS": "Steinsvikvegen 19, 5251 SØREIDGREND",
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://akasiabarnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Søreide menighetsbarnehage",
+                "no-barnehage:nsrid": "1015520",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27321,
+                    60.3149
                 ]
             }
         }

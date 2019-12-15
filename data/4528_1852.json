@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5909",
+            "properties": {
+                "ADDRESS": "Otervegen 35, 9017 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hamna friluftsbarnehage",
+                "no-barnehage:nsrid": "1019823",
+                "operator": "Hamna Friluftsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.98727,
+                    69.70704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5894",
+            "properties": {
+                "ADDRESS": "Jervvegen 128, 9017 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:website": "http://www.bukkesprangetnaturbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bukkespranget naturbarnehage",
+                "no-barnehage:nsrid": "1021247",
+                "operator": "Bukkespranget Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-5894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00143,
+                    69.71117
+                ]
+            }
+        }
+    ]
+}

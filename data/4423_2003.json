@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3500",
+            "id": "node/-5590",
+            "properties": {
+                "ADDRESS": "Leif Jensonsplass, 8003 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sentrum barnehage avd. Vestbyen",
+                "no-barnehage:nsrid": "1016638",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37096,
+                    67.27705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5589",
             "properties": {
                 "ADDRESS": "Parkveien 51, 8005 BODØ",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1016633",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3500"
+                "id": "node/-5589"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3496",
+            "id": "node/-5584",
             "properties": {
                 "ADDRESS": "Sivert Nielsens Gate 58, 8007 BODØ",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1025382",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3496"
+                "id": "node/-5584"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +72,53 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3486",
+            "id": "node/-5583",
+            "properties": {
+                "ADDRESS": "Tordenskjolds Gate 11, 8006 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbuen barnehage",
+                "no-barnehage:nsrid": "1016642",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38999,
+                    67.28378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5579",
+            "properties": {
+                "ADDRESS": "Tennisveien 8, 8008 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Stadionparken barnehage",
+                "no-barnehage:nsrid": "1015498",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41095,
+                    67.27999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5556",
             "properties": {
                 "ADDRESS": "Sivert Nielsens Gate 70, 8007 BODØ",
                 "amenity": "kindergarten",
@@ -61,7 +130,7 @@
                 "no-barnehage:nsrid": "1020302",
                 "operator": "Labbetuss barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3486"
+                "id": "node/-5556"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +142,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3480",
+            "id": "node/-5549",
+            "properties": {
+                "ADDRESS": "Sivert Nielsens Gate 57, 8007 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gla'ungan",
+                "no-barnehage:nsrid": "1021113",
+                "operator": "Gla'Ungan AS",
+                "operator:type": "private",
+                "id": "node/-5549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40086,
+                    67.28248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5542",
             "properties": {
                 "ADDRESS": "Tordenskjolds Gate 11, 8006 BODØ",
                 "amenity": "kindergarten",
@@ -84,13 +176,36 @@
                 "no-barnehage:nsrid": "1016125",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3480"
+                "id": "node/-5542"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.38999,
                     67.28378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5541",
+            "properties": {
+                "ADDRESS": "Parkveien 42b, 8005 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Asphaugen barnehage",
+                "no-barnehage:nsrid": "1016206",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3827,
+                    67.27941
                 ]
             }
         }

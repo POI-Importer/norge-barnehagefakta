@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3260",
+            "id": "node/-4726",
             "properties": {
                 "ADDRESS": "Fanavegen 320, 5244 FANA",
                 "amenity": "kindergarten",
@@ -12,7 +12,7 @@
                 "no-barnehage:nsrid": "1020421",
                 "operator": "Fana Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-3260"
+                "id": "node/-4726"
             },
             "geometry": {
                 "type": "Point",
@@ -24,7 +24,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3223",
+            "id": "node/-4635",
             "properties": {
                 "ADDRESS": "Kvernabekkvegen 111, 5243 FANA",
                 "amenity": "kindergarten",
@@ -34,7 +34,7 @@
                 "no-barnehage:nsrid": "1019792",
                 "operator": "Montessoribarnehagen Knerten AS",
                 "operator:type": "private",
-                "id": "node/-3223"
+                "id": "node/-4635"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +46,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3216",
+            "id": "node/-4618",
             "properties": {
                 "ADDRESS": "Nordheimsvegen 24, 5243 FANA",
                 "amenity": "kindergarten",
@@ -58,13 +58,37 @@
                 "no-barnehage:nsrid": "1021626",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3216"
+                "id": "node/-4618"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.35861,
                     60.26596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4447",
+            "properties": {
+                "ADDRESS": "Høgsetebrotet 8, 5244 FANA",
+                "amenity": "kindergarten",
+                "capacity": "119",
+                "contact:website": "http://www.fanabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Fana barnehage",
+                "no-barnehage:nsrid": "1021394",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34286,
+                    60.26358
                 ]
             }
         }

@@ -3,7 +3,76 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3625",
+            "id": "node/-6001",
+            "properties": {
+                "ADDRESS": "Gullhaugen Alle 14, 9406 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heggen barnehager avd. Gullhaugen",
+                "no-barnehage:nsrid": "1025489",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-6001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52654,
+                    68.79506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5999",
+            "properties": {
+                "ADDRESS": "Marcus Pedersens Vei 23, 9406 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heggen barnehager avd. Sletta",
+                "no-barnehage:nsrid": "1016625",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-5999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52633,
+                    68.78918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5996",
+            "properties": {
+                "ADDRESS": "Gangsåsveien 8, 9408 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "123",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gangsåstoppen barnehager avd. Byggeklossen",
+                "no-barnehage:nsrid": "1017876",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-5996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56152,
+                    68.78584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5992",
             "properties": {
                 "ADDRESS": "Hans Egedes Gate 12, 9405 HARSTAD",
                 "amenity": "kindergarten",
@@ -11,7 +80,7 @@
                 "no-barnehage:nsrid": "2000190",
                 "operator": "Harstad kommune / Hársttáid Suohkan",
                 "operator:type": "public",
-                "id": "node/-3625"
+                "id": "node/-5992"
             },
             "geometry": {
                 "type": "Point",

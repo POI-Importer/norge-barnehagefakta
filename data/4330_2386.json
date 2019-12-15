@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2509",
+            "id": "node/-2514",
+            "properties": {
+                "ADDRESS": "Ovenstadveien, 3420 LIERSKOGEN",
+                "amenity": "kindergarten",
+                "capacity": "121",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heia FUS barnehage avd. Lierskogen",
+                "no-barnehage:nsrid": "1021175",
+                "operator": "Heia Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.31903,
+                    59.82516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2506",
             "properties": {
                 "ADDRESS": "Ringveien 20, 3409 TRANBY",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1020431",
                 "operator": "Akebakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2509"
+                "id": "node/-2506"
             },
             "geometry": {
                 "type": "Point",

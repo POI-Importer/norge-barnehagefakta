@@ -3,7 +3,28 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2814",
+            "id": "node/-2830",
+            "properties": {
+                "ADDRESS": "Kapellveien 2, 3135 TORØD",
+                "amenity": "kindergarten",
+                "contact:website": "http://kirken.no/nb-NO/fellesrad/faerder-kirkelige-fellesrad/virksomhetsomrader/barn-og-ungdom/barn-og-ungd",
+                "name": "Tripp-trapp åpen barnehage",
+                "no-barnehage:nsrid": "1014007",
+                "operator": "Færder Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-2830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4409,
+                    59.18105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2829",
             "properties": {
                 "ADDRESS": "Torødveien 39, 3135 TORØD",
                 "amenity": "kindergarten",
@@ -14,7 +35,7 @@
                 "no-barnehage:nsrid": "1013337",
                 "operator": "Færder kommune",
                 "operator:type": "public",
-                "id": "node/-2814"
+                "id": "node/-2829"
             },
             "geometry": {
                 "type": "Point",

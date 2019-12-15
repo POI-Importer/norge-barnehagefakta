@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3675",
+            "id": "node/-6138",
             "properties": {
                 "ADDRESS": "Storvannsveien 96, 9603 HAMMERFEST",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1013714",
                 "operator": "Hammerfest kommune",
                 "operator:type": "public",
-                "id": "node/-3675"
+                "id": "node/-6138"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     23.71801,
                     70.65986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6132",
+            "properties": {
+                "ADDRESS": "Moreneveien 19, 9603 HAMMERFEST",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Elvetun barnehage",
+                "no-barnehage:nsrid": "1025344",
+                "operator": "Hammerfest kommune",
+                "operator:type": "public",
+                "id": "node/-6132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.69663,
+                    70.66605
                 ]
             }
         }

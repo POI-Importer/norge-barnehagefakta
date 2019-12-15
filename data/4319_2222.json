@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5164",
+            "properties": {
+                "ADDRESS": "Blomstervegen 1, 7320 FANNREM",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Liavoll barnehage",
+                "no-barnehage:nsrid": "1016739",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8189,
+                    63.26638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5163",
+            "properties": {
+                "ADDRESS": "Myrtunet 4, 7320 FANNREM",
+                "amenity": "kindergarten",
+                "capacity": "162",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grøtte barnehage",
+                "no-barnehage:nsrid": "1015016",
+                "operator": "Orkdal kommune",
+                "operator:type": "public",
+                "id": "node/-5163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.81348,
+                    63.25946
+                ]
+            }
+        }
+    ]
+}

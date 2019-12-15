@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-2893",
+            "properties": {
+                "ADDRESS": "Klyvevegen 48, 3740 SKIEN",
+                "amenity": "kindergarten",
+                "capacity": "110",
+                "contact:website": "http://laringsverkstedet.no/barnehage/klyveskogen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Klyveskogen barnehage",
+                "no-barnehage:nsrid": "1021850",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-2893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.62383,
+                    59.148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2890",
+            "properties": {
+                "ADDRESS": "Klyvevegen 91, 3739 SKIEN",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.skien.kommune.no/kverndammenbhg",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kverndammen barnehage",
+                "no-barnehage:nsrid": "1016044",
+                "operator": "Skien kommune",
+                "operator:type": "public",
+                "id": "node/-2890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.61354,
+                    59.14548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2887",
+            "properties": {
+                "ADDRESS": "Kongerødvegen 8, 3737 SKIEN",
+                "amenity": "kindergarten",
+                "name": "Klyve åpen barnehage",
+                "no-barnehage:nsrid": "1017117",
+                "operator": "Gimsøy og Nenset Sokn",
+                "operator:type": "private",
+                "id": "node/-2887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.62189,
+                    59.14822
+                ]
+            }
+        }
+    ]
+}

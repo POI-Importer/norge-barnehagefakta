@@ -3,7 +3,29 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3665",
+            "id": "node/-6110",
+            "properties": {
+                "ADDRESS": "Ringveien 1, 9195 ÅRVIKSAND",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Årviksand barnehage",
+                "no-barnehage:nsrid": "1021548",
+                "operator": "Årviksand barnehage Da",
+                "operator:type": "private",
+                "id": "node/-6110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.53085,
+                    70.19337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6109",
             "properties": {
                 "ADDRESS": "Ringveien 4, 9195 ÅRVIKSAND",
                 "amenity": "kindergarten",
@@ -14,7 +36,7 @@
                 "no-barnehage:nsrid": "1026032",
                 "operator": "Skjervøy kommune",
                 "operator:type": "public",
-                "id": "node/-3665"
+                "id": "node/-6109"
             },
             "geometry": {
                 "type": "Point",

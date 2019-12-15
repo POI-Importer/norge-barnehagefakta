@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3567",
+            "id": "node/-5817",
+            "properties": {
+                "ADDRESS": "Storgata 127, 8370 LEKNES",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skautrollet naturbarnehage",
+                "no-barnehage:nsrid": "1021778",
+                "operator": "Skautrollet Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-5817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5946,
+                    68.14437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5810",
             "properties": {
                 "ADDRESS": "Elvegårdsveien 12, 8370 LEKNES",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1019950",
                 "operator": "Samvirkeforetaket Marihøna barnehage Leknes Sa",
                 "operator:type": "private",
-                "id": "node/-3567"
+                "id": "node/-5810"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5044",
+            "properties": {
+                "ADDRESS": "Dalavegen 10, 6856 SOGNDAL",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sogndal studentbarnehage",
+                "no-barnehage:nsrid": "1015612",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "id": "node/-5044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09513,
+                    61.23313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5043",
+            "properties": {
+                "ADDRESS": "Helgheimsvegen 7, 6856 SOGNDAL",
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rones barnehage",
+                "no-barnehage:nsrid": "1019662",
+                "operator": "Rones barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.11544,
+                    61.23256
+                ]
+            }
+        }
+    ]
+}

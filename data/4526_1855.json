@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3620",
+            "id": "node/-5984",
+            "properties": {
+                "ADDRESS": "Huldervegen 79, 9016 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Workinnmarka barnehage",
+                "no-barnehage:nsrid": "1017020",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.92989,
+                    69.6673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5981",
             "properties": {
                 "ADDRESS": "Vestavinden 69, 9015 TROMSØ",
                 "amenity": "kindergarten",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1020116",
                 "operator": "Vestavinden Familiebarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3620"
+                "id": "node/-5981"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3600",
+            "id": "node/-5938",
             "properties": {
                 "ADDRESS": "Simen Workinns Veg 7, 9016 TROMSØ",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1019658",
                 "operator": "As Norrøna barnehage",
                 "operator:type": "private",
-                "id": "node/-3600"
+                "id": "node/-5938"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +72,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3590",
+            "id": "node/-5921",
+            "properties": {
+                "ADDRESS": "Kløvervegen 7 A, 9016 TROMSØ",
+                "amenity": "kindergarten",
+                "name": "Langnes åpen barnehage",
+                "no-barnehage:nsrid": "1015093",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91913,
+                    69.66452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5907",
             "properties": {
                 "ADDRESS": "Prestvannvegen 44, 9011 TROMSØ",
                 "amenity": "kindergarten",
@@ -60,7 +103,7 @@
                 "no-barnehage:nsrid": "1012723",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3590"
+                "id": "node/-5907"
             },
             "geometry": {
                 "type": "Point",

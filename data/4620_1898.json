@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3680",
+            "id": "node/-6151",
             "properties": {
                 "ADDRESS": "Gartnetluohkká 7, 9520 KAUTOKEINO",
                 "amenity": "kindergarten",
@@ -11,13 +11,57 @@
                 "no-barnehage:nsrid": "1025636",
                 "operator": "Nuortamielli Bearaimanaidgardi Kristine Buljo",
                 "operator:type": "private",
-                "id": "node/-3680"
+                "id": "node/-6151"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     23.0583,
                     69.00233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6149",
+            "properties": {
+                "ADDRESS": "Gartnetluohkká 7, 9520 KAUTOKEINO",
+                "amenity": "kindergarten",
+                "name": "Håkon Hansen",
+                "no-barnehage:nsrid": "1022446",
+                "operator": "Håkon Hansen",
+                "operator:type": "private",
+                "id": "node/-6149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0583,
+                    69.00233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6146",
+            "properties": {
+                "ADDRESS": "Gahkkorcorru 1, 9520 KAUTOKEINO",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "contact:website": "http://siiif.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gahkkorcorru Manaigardi",
+                "no-barnehage:nsrid": "1016826",
+                "operator": "Sis Finnmarkku Studeanttaid Ovttastus Sso",
+                "operator:type": "private",
+                "id": "node/-6146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.05993,
+                    69.00079
                 ]
             }
         }

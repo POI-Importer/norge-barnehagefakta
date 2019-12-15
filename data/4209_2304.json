@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3323",
+            "id": "node/-5008",
+            "properties": {
+                "ADDRESS": "Nyheimvegen 8, 6905 FLORØ",
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nyheimvegen barnehage",
+                "no-barnehage:nsrid": "1014787",
+                "operator": "Flora kommune",
+                "operator:type": "public",
+                "id": "node/-5008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00923,
+                    61.59369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5005",
             "properties": {
                 "ADDRESS": "Porsvegen 11, 6905 FLORØ",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1018131",
                 "operator": "Flora kommune",
                 "operator:type": "public",
-                "id": "node/-3323"
+                "id": "node/-5005"
             },
             "geometry": {
                 "type": "Point",

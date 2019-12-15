@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5852",
+            "properties": {
+                "ADDRESS": "Fjellveien 19, 8450 STOKMARKNES",
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tumlebo barnehage",
+                "no-barnehage:nsrid": "1019809",
+                "operator": "Tumlebo barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89969,
+                    68.56004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5851",
+            "properties": {
+                "ADDRESS": "Ivar Bergsmos Gate 15, 8450 STOKMARKNES",
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Søndre barnehage",
+                "no-barnehage:nsrid": "1016145",
+                "operator": "Hadsel kommune",
+                "operator:type": "public",
+                "id": "node/-5851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91021,
+                    68.55745
+                ]
+            }
+        }
+    ]
+}

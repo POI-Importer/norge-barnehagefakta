@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2208",
+            "id": "node/-2207",
+            "properties": {
+                "ADDRESS": "Sagbråtan 42, 2740 ROA",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Roa barnehage",
+                "no-barnehage:nsrid": "1017969",
+                "operator": "Lunner kommune",
+                "operator:type": "public",
+                "id": "node/-2207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61098,
+                    60.29263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2206",
             "properties": {
                 "ADDRESS": "Sandsvegen 1, 2740 ROA",
                 "amenity": "kindergarten",
@@ -11,7 +34,7 @@
                 "no-barnehage:nsrid": "2000290",
                 "operator": "Lunner kommune",
                 "operator:type": "public",
-                "id": "node/-2208"
+                "id": "node/-2206"
             },
             "geometry": {
                 "type": "Point",

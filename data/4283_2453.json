@@ -3,7 +3,76 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2985",
+            "id": "node/-3516",
+            "properties": {
+                "ADDRESS": "Natveitåsen 70, 4760 BIRKELAND",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Natveitåsen barnehage",
+                "no-barnehage:nsrid": "1013137",
+                "operator": "Birkenes kommune",
+                "operator:type": "public",
+                "id": "node/-3516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24553,
+                    58.31722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3514",
+            "properties": {
+                "ADDRESS": "Valtjønnvegen 40, 4760 BIRKELAND",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hampehaugen barnehage",
+                "no-barnehage:nsrid": "1021393",
+                "operator": "Hampehaugen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24007,
+                    58.32067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3512",
+            "properties": {
+                "ADDRESS": "Stoppedalsmyra 2, 4760 BIRKELAND",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Birkenes FUS barnehage avd. Birkeland",
+                "no-barnehage:nsrid": "1022306",
+                "operator": "Birkenes Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.23839,
+                    58.32837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3510",
             "properties": {
                 "ADDRESS": "Folkehøgskoleveien 4, 4760 BIRKELAND",
                 "amenity": "kindergarten",
@@ -14,7 +83,7 @@
                 "no-barnehage:nsrid": "1016201",
                 "operator": "Birkenes kommune",
                 "operator:type": "public",
-                "id": "node/-2985"
+                "id": "node/-3510"
             },
             "geometry": {
                 "type": "Point",

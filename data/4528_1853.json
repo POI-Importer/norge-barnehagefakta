@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3618",
+            "id": "node/-5979",
+            "properties": {
+                "ADDRESS": "Nordøyvegen 119, 9018 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1015581",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99271,
+                    69.69401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5978",
             "properties": {
                 "ADDRESS": "Utsikten 57b, 9018 TROMSØ",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1019757",
                 "operator": "Utsikten barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3618"
+                "id": "node/-5978"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3610",
+            "id": "node/-5957",
             "properties": {
                 "ADDRESS": "Nordøyvegen 101, 9018 TROMSØ",
                 "amenity": "kindergarten",
@@ -38,7 +61,7 @@
                 "no-barnehage:nsrid": "1012719",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3610"
+                "id": "node/-5957"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3608",
+            "id": "node/-5951",
             "properties": {
                 "ADDRESS": "Skattøra 151, 9018 TROMSØ",
                 "amenity": "kindergarten",
@@ -62,7 +85,7 @@
                 "no-barnehage:nsrid": "1020026",
                 "operator": "Soldagen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3608"
+                "id": "node/-5951"
             },
             "geometry": {
                 "type": "Point",

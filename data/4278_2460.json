@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3054",
+            "id": "node/-3800",
             "properties": {
                 "ADDRESS": "Gyldenløves Gate 70, 4614 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1016056",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3054"
+                "id": "node/-3800"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3052",
+            "id": "node/-3796",
+            "properties": {
+                "ADDRESS": "Teglverksveien 54, 4632 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "214",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Roligheden barnehage",
+                "no-barnehage:nsrid": "1016172",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02859,
+                    58.14903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3789",
             "properties": {
                 "ADDRESS": "Presteheia 14, 4633 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1020835",
                 "operator": "Presteheia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3052"
+                "id": "node/-3789"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +72,147 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3029",
+            "id": "node/-3776",
+            "properties": {
+                "ADDRESS": "Bispegra 28, 4632 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://laringsverkstedet.no/barnehage/bispegra",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Bispegra",
+                "no-barnehage:nsrid": "1015979",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0228,
+                    58.15844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3774",
+            "properties": {
+                "ADDRESS": "Marviksveien 140, 4632 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Lindebøskauen",
+                "no-barnehage:nsrid": "1022068",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.03194,
+                    58.14923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3768",
+            "properties": {
+                "ADDRESS": "Marviksveien 5, 4631 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:website": "http://www.lundbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lund barnehage",
+                "no-barnehage:nsrid": "1021960",
+                "operator": "Lund barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.01147,
+                    58.15263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3761",
+            "properties": {
+                "ADDRESS": "Kongsgård Alle 33b, 4631 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kongsgård barnehagesenter",
+                "no-barnehage:nsrid": "1015716",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.01695,
+                    58.15681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3749",
+            "properties": {
+                "ADDRESS": "Kaserneveien 4, 4630 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "132",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hokus Pokus barnehage Kristiansand",
+                "no-barnehage:nsrid": "1014939",
+                "operator": "Studentsamskipnaden i Agder",
+                "operator:type": "private",
+                "id": "node/-3749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99927,
+                    58.16467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3725",
+            "properties": {
+                "ADDRESS": "Tryms Vei 13, 4631 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåmann Steinerbarnehage",
+                "no-barnehage:nsrid": "1020477",
+                "operator": "Blåmann Steinerbarnehage",
+                "operator:type": "private",
+                "id": "node/-3725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.01523,
+                    58.15918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3722",
             "properties": {
                 "ADDRESS": "Bispegra 42, 4632 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -57,13 +220,36 @@
                 "no-barnehage:nsrid": "1015219",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3029"
+                "id": "node/-3722"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.02414,
                     58.16021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3720",
+            "properties": {
+                "ADDRESS": "Johan Øydegards Vei 12, 4632 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsebo barnehage",
+                "no-barnehage:nsrid": "1014830",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02104,
+                    58.1501
                 ]
             }
         }

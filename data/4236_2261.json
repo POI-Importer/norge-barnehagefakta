@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3394",
+            "id": "node/-5232",
             "properties": {
                 "ADDRESS": "Losgata 2, 6002 ÅLESUND",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1018177",
                 "operator": "Ålesund kommune",
                 "operator:type": "public",
-                "id": "node/-3394"
+                "id": "node/-5232"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3391",
+            "id": "node/-5224",
             "properties": {
                 "ADDRESS": "Fjellgata 55, 6007 ÅLESUND",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1019724",
                 "operator": "Klipra barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3391"
+                "id": "node/-5224"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3388",
+            "id": "node/-5223",
+            "properties": {
+                "ADDRESS": "Fjellgata 57, 6007 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jugendby barnehage",
+                "no-barnehage:nsrid": "1021846",
+                "operator": "Jugendby barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.18009,
+                    62.4721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5213",
             "properties": {
                 "ADDRESS": "Kråmyrvegen 3, 6007 ÅLESUND",
                 "amenity": "kindergarten",
@@ -60,7 +83,7 @@
                 "no-barnehage:nsrid": "1016839",
                 "operator": "Ålesund Barnehager Sa",
                 "operator:type": "private",
-                "id": "node/-3388"
+                "id": "node/-5213"
             },
             "geometry": {
                 "type": "Point",

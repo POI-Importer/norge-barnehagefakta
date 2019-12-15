@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3247",
+            "id": "node/-4704",
             "properties": {
                 "ADDRESS": "Olav Bjordals Veg 19, 5111 BREISTEIN",
                 "amenity": "kindergarten",
@@ -11,13 +11,61 @@
                 "no-barnehage:nsrid": "1015890",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3247"
+                "id": "node/-4704"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.38373,
                     60.49538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4684",
+            "properties": {
+                "ADDRESS": "Olav Bjordals Veg 43, 5111 BREISTEIN",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:website": "http://www.sofus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sofusbarnehagen",
+                "no-barnehage:nsrid": "1022344",
+                "operator": "Sofusbarnehagen AS",
+                "operator:type": "private",
+                "id": "node/-4684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38157,
+                    60.49678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4561",
+            "properties": {
+                "ADDRESS": "Leikvangvegen 6, 5111 BREISTEIN",
+                "amenity": "kindergarten",
+                "capacity": "105",
+                "contact:website": "http://www.kidsabarnehager.no/breistein/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Breistein",
+                "no-barnehage:nsrid": "1020163",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38431,
+                    60.49181
                 ]
             }
         }

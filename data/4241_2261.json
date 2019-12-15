@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3392",
+            "id": "node/-5229",
             "properties": {
                 "ADDRESS": "Nyelvmyrvegen 11, 6019 ÅLESUND",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1021641",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3392"
+                "id": "node/-5229"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.37741,
                     62.48044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5204",
+            "properties": {
+                "ADDRESS": "Olsvollen 16, 6019 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Askepott barnehage",
+                "no-barnehage:nsrid": "1016480",
+                "operator": "Ludens Norge AS",
+                "operator:type": "private",
+                "id": "node/-5204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37907,
+                    62.47795
                 ]
             }
         }

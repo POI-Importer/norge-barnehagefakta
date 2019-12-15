@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3286",
+            "id": "node/-4831",
             "properties": {
                 "ADDRESS": "Uttrågata 9, 5700 VOSS",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1019527",
                 "operator": "Voss kommune",
                 "operator:type": "public",
-                "id": "node/-3286"
+                "id": "node/-4831"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +23,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3285",
+            "id": "node/-4829",
             "properties": {
                 "ADDRESS": "Hestabakkvegen 1, 5700 VOSS",
                 "amenity": "kindergarten",
@@ -32,7 +32,7 @@
                 "no-barnehage:nsrid": "1020375",
                 "operator": "Voss Kfuk - Kfum",
                 "operator:type": "private",
-                "id": "node/-3285"
+                "id": "node/-4829"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +44,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3281",
+            "id": "node/-4825",
+            "properties": {
+                "ADDRESS": "Strengjarhaugen 11, 5704 VOSS",
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:website": "http://www.rogne.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rogne barnehage",
+                "no-barnehage:nsrid": "1020154",
+                "operator": "Rogne barnehage",
+                "operator:type": "private",
+                "id": "node/-4825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42257,
+                    60.62985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4818",
             "properties": {
                 "ADDRESS": "Gjernesmoen 2, 5700 VOSS",
                 "amenity": "kindergarten",
@@ -55,7 +79,7 @@
                 "no-barnehage:nsrid": "1012850",
                 "operator": "Voss kommune",
                 "operator:type": "public",
-                "id": "node/-3281"
+                "id": "node/-4818"
             },
             "geometry": {
                 "type": "Point",

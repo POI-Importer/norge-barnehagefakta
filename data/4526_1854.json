@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3601",
+            "id": "node/-5940",
             "properties": {
                 "ADDRESS": "Ørnevegen 7, 9015 TROMSØ",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019665",
                 "operator": "Polarhagen AS",
                 "operator:type": "private",
-                "id": "node/-3601"
+                "id": "node/-5940"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,54 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3588",
+            "id": "node/-5939",
+            "properties": {
+                "ADDRESS": "Nordavinden 2, 9015 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Olsgård barnehage",
+                "no-barnehage:nsrid": "1012726",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93681,
+                    69.67256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5933",
+            "properties": {
+                "ADDRESS": "Ørnevegen 3, 9015 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:website": "http://www.hvalrossen.norlandiabarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Hvalrossen barnehage",
+                "no-barnehage:nsrid": "1015659",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93512,
+                    69.6796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5901",
             "properties": {
                 "ADDRESS": "Alkevegen 14, 9015 TROMSØ",
                 "amenity": "kindergarten",
@@ -39,13 +86,13 @@
                 "no-barnehage:nsrid": "1020418",
                 "operator": "Einerabben barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3588"
+                "id": "node/-5901"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.93314,
-                    69.67787
+                    18.93374,
+                    69.6783
                 ]
             }
         }

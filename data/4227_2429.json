@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3105",
+            "id": "node/-4036",
+            "properties": {
+                "ADDRESS": "Skytebaneveien 15, 4309 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vatne barnehage",
+                "no-barnehage:nsrid": "1012894",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-4036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.79016,
+                    58.86352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4030",
             "properties": {
                 "ADDRESS": "Åsveien 124, 4328 SANDNES",
                 "amenity": "kindergarten",
@@ -11,13 +34,83 @@
                 "no-barnehage:nsrid": "1016896",
                 "operator": "Sandnes Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-3105"
+                "id": "node/-4030"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.75776,
                     58.86409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4017",
+            "properties": {
+                "ADDRESS": "Sandvikbakken 21, 4329 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:website": "http://www.sandtoppen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandtoppen naturbarnehage",
+                "no-barnehage:nsrid": "1021539",
+                "operator": "Sandtoppen Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76692,
+                    58.87069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3978",
+            "properties": {
+                "ADDRESS": "Sandvikbakken 23, 4329 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Taremareby barnehage",
+                "no-barnehage:nsrid": "1020193",
+                "operator": "Espira Taremareby AS",
+                "operator:type": "private",
+                "id": "node/-3978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76586,
+                    58.87008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3968",
+            "properties": {
+                "ADDRESS": "Asperholen 87, 4329 SANDNES",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Asperholen barnehage",
+                "no-barnehage:nsrid": "1012896",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7625,
+                    58.86444
                 ]
             }
         }

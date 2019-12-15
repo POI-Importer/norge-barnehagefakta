@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3934",
+            "properties": {
+                "ADDRESS": "Nygårdsveien 2, 4580 LYNGDAL",
+                "amenity": "kindergarten",
+                "capacity": "124",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nygård barnehage",
+                "no-barnehage:nsrid": "1018074",
+                "operator": "Lyngdal kommune",
+                "operator:type": "public",
+                "id": "node/-3934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09115,
+                    58.15076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3930",
+            "properties": {
+                "ADDRESS": "Flekkefjordveien 36, 4580 LYNGDAL",
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Eplehagen barnehage",
+                "no-barnehage:nsrid": "1022092",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.08516,
+                    58.1572
+                ]
+            }
+        }
+    ]
+}

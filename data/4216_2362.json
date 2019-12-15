@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3258",
+            "id": "node/-4722",
             "properties": {
                 "ADDRESS": "Ørnahaugen 25, 5144 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1020359",
                 "operator": "Ørnehaugen barnehage V/turid Svendsen",
                 "operator:type": "private",
-                "id": "node/-3258"
+                "id": "node/-4722"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3234",
+            "id": "node/-4674",
             "properties": {
                 "ADDRESS": "Seljesvingen 33, 5145 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1016723",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3234"
+                "id": "node/-4674"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3225",
+            "id": "node/-4644",
             "properties": {
                 "ADDRESS": "Folke Bernadottes Vei 32, 5147 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -59,7 +59,7 @@
                 "no-barnehage:nsrid": "1016688",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3225"
+                "id": "node/-4644"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3221",
+            "id": "node/-4633",
             "properties": {
                 "ADDRESS": "Nebbestølen 81, 5144 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -83,7 +83,7 @@
                 "no-barnehage:nsrid": "1019959",
                 "operator": "Minken barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3221"
+                "id": "node/-4633"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +95,122 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3179",
+            "id": "node/-4624",
+            "properties": {
+                "ADDRESS": "Nebbeveien 1, 5144 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/lovas-oppveksttun-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løvås oppveksttun - barnehage",
+                "no-barnehage:nsrid": "1014069",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29173,
+                    60.35355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4609",
+            "properties": {
+                "ADDRESS": "Nebbeveien 20, 5144 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "contact:website": "http://bergen.kirken.no/fyllingsdalen",
+                "name": "Liten og Stor åpen barnehage",
+                "no-barnehage:nsrid": "1020415",
+                "operator": "Fyllingsdalen Sokn",
+                "operator:type": "private",
+                "id": "node/-4609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29637,
+                    60.35293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4605",
+            "properties": {
+                "ADDRESS": "Storhammeren 21, 5145 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Lekeklossen barnehage avd. Storhammeren",
+                "no-barnehage:nsrid": "1017760",
+                "operator": "Lekeklossen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28986,
+                    60.36103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4603",
+            "properties": {
+                "ADDRESS": "Løvåsveien 80, 5145 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lekeklossen barnehage avd. Løvåsen",
+                "no-barnehage:nsrid": "1015915",
+                "operator": "Lekeklossen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28045,
+                    60.35695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4573",
+            "properties": {
+                "ADDRESS": "Løvåsbakken 20, 5145 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Løvåsbakken",
+                "no-barnehage:nsrid": "1022425",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28668,
+                    60.35632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4472",
             "properties": {
                 "ADDRESS": "Vestlundveien 21, 5145 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -107,7 +222,7 @@
                 "no-barnehage:nsrid": "1016891",
                 "operator": "Stiftelsen Betanien Bergen",
                 "operator:type": "private",
-                "id": "node/-3179"
+                "id": "node/-4472"
             },
             "geometry": {
                 "type": "Point",

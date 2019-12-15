@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3912",
+            "properties": {
+                "ADDRESS": "Årosveien 220, 4640 SØGNE",
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åros barnehage",
+                "no-barnehage:nsrid": "1013027",
+                "operator": "Søgne kommune",
+                "operator:type": "public",
+                "id": "node/-3912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.83524,
+                    58.07868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3911",
+            "properties": {
+                "ADDRESS": "Torvmoen 2, 4640 SØGNE",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torvmoen barnehage",
+                "no-barnehage:nsrid": "1018559",
+                "operator": "Søgne kommune",
+                "operator:type": "public",
+                "id": "node/-3911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82818,
+                    58.08703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3908",
+            "properties": {
+                "ADDRESS": "Linneflaten 7, 4640 SØGNE",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "contact:website": "http://www.spiren-bhg.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Spiren barnehage",
+                "no-barnehage:nsrid": "1018310",
+                "operator": "Spiren barnehage Søgne AS",
+                "operator:type": "private",
+                "id": "node/-3908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82525,
+                    58.09017
+                ]
+            }
+        }
+    ]
+}

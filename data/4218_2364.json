@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3250",
+            "id": "node/-4710",
             "properties": {
                 "ADDRESS": "Solåsen 52, 5223 NESTTUN",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1016697",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3250"
+                "id": "node/-4710"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3231",
+            "id": "node/-4665",
             "properties": {
                 "ADDRESS": "Midtunhaugen 10, 5224 NESTTUN",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1016321",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3231"
+                "id": "node/-4665"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3226",
+            "id": "node/-4646",
             "properties": {
                 "ADDRESS": "Øvsttunvegen 58, 5223 NESTTUN",
                 "amenity": "kindergarten",
@@ -61,13 +61,83 @@
                 "no-barnehage:nsrid": "1019615",
                 "operator": "Nesttun Indremisjon",
                 "operator:type": "private",
-                "id": "node/-3226"
+                "id": "node/-4646"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.3632,
                     60.31061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4631",
+            "properties": {
+                "ADDRESS": "Midtunheia 14, 5224 NESTTUN",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:website": "http://laringsverkstedet.no/barnehage/midtunbratet-doremi",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Midtunbråtet barnehage",
+                "no-barnehage:nsrid": "1021176",
+                "operator": "Midtunbråtet barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36547,
+                    60.32053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4527",
+            "properties": {
+                "ADDRESS": "Avdeling 1 Øvsttunbrekka 5, 5223 NESTTUN",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gledesbarna familiebarnehage",
+                "no-barnehage:nsrid": "1021336",
+                "operator": "Gledesbarna Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-4527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36496,
+                    60.31628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4501",
+            "properties": {
+                "ADDRESS": "Solåsen 2, 5223 NESTTUN",
+                "amenity": "kindergarten",
+                "capacity": "160",
+                "contact:website": "http://solknatten.espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Solknatten barnehage",
+                "no-barnehage:nsrid": "1021561",
+                "operator": "Espira Solknatten AS",
+                "operator:type": "private",
+                "id": "node/-4501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36532,
+                    60.31011
                 ]
             }
         }

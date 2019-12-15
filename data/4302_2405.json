@@ -3,7 +3,101 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2851",
+            "id": "node/-2969",
+            "properties": {
+                "ADDRESS": "Lundevegen 63, 3800 BØ I TELEMARK",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "contact:website": "http://www.ssn.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Sørøst-norge Veslekroa studentbarnehage",
+                "no-barnehage:nsrid": "1025317",
+                "operator": "Studentsamskipnaden i Sørøst-Norge",
+                "operator:type": "private",
+                "id": "node/-2969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05835,
+                    59.40806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2968",
+            "properties": {
+                "ADDRESS": "Kåsinvegen 16, 3801 BØ I TELEMARK",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:website": "http://maurtuva.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtuva barnehage",
+                "no-barnehage:nsrid": "1020371",
+                "operator": "Maurtuva barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.07538,
+                    59.40425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2967",
+            "properties": {
+                "ADDRESS": "Sandvinvegen 25, 3802 BØ I TELEMARK",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Sandvoll barnehage",
+                "no-barnehage:nsrid": "1020978",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-2967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.07681,
+                    59.42073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2966",
+            "properties": {
+                "ADDRESS": "Gullbringvegen 31, 3800 BØ I TELEMARK",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gullbring barnehage",
+                "no-barnehage:nsrid": "1013803",
+                "operator": "Bø kommune",
+                "operator:type": "public",
+                "id": "node/-2966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0593,
+                    59.41077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2964",
             "properties": {
                 "ADDRESS": "Lundevegen 63, 3800 BØ I TELEMARK",
                 "amenity": "kindergarten",
@@ -14,7 +108,7 @@
                 "no-barnehage:nsrid": "1014708",
                 "operator": "Bø kommune",
                 "operator:type": "public",
-                "id": "node/-2851"
+                "id": "node/-2964"
             },
             "geometry": {
                 "type": "Point",

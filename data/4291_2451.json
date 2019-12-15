@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3040",
+            "properties": {
+                "ADDRESS": "J. M. Uglands Vei 17, 4878 GRIMSTAD",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.jjuc.no",
+                "name": "Ugland gård barnehage",
+                "no-barnehage:nsrid": "2000118",
+                "operator": "J J Ugland AS",
+                "operator:type": "private",
+                "id": "node/-3040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.60583,
+                    58.35995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3017",
+            "properties": {
+                "ADDRESS": "Laugevoldveien 30, 4878 GRIMSTAD",
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "contact:website": "http://www.firearstider.no/fjare",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fjære barnehage",
+                "no-barnehage:nsrid": "1015144",
+                "operator": "Fjære barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.60054,
+                    58.3638
+                ]
+            }
+        }
+    ]
+}

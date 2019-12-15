@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4015",
+            "properties": {
+                "ADDRESS": "Kvernelandsveien 135, 4323 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://royrvik-gard.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Røyrvik gårdsbarnehage",
+                "no-barnehage:nsrid": "1021690",
+                "operator": "Røyrvik Gårdsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72645,
+                    58.804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3979",
+            "properties": {
+                "ADDRESS": "Buggelandsbakken 276, 4324 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "99",
+                "contact:website": "http://vagletjorn.espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Vagletjørn barnehage",
+                "no-barnehage:nsrid": "1021444",
+                "operator": "Espira Vagletjørn AS",
+                "operator:type": "private",
+                "id": "node/-3979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73794,
+                    58.81182
+                ]
+            }
+        }
+    ]
+}

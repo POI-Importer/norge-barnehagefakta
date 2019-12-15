@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2325",
+            "id": "node/-2322",
             "properties": {
                 "ADDRESS": "Jarlsbergveien 225, 3032 DRAMMEN",
                 "amenity": "kindergarten",
@@ -15,13 +15,36 @@
                 "no-barnehage:nsrid": "1016588",
                 "operator": "Stiftelsen Teknabarnehagene Drammen",
                 "operator:type": "private",
-                "id": "node/-2325"
+                "id": "node/-2322"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.15944,
                     59.70325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2292",
+            "properties": {
+                "ADDRESS": "Jarlsbergveien 201, 3032 DRAMMEN",
+                "amenity": "kindergarten",
+                "capacity": "97",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jordbrekkskogen barnehage",
+                "no-barnehage:nsrid": "1017992",
+                "operator": "Drammen kommune",
+                "operator:type": "public",
+                "id": "node/-2292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.15734,
+                    59.70675
                 ]
             }
         }

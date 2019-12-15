@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4425",
+            "properties": {
+                "ADDRESS": "Stølane 1, 5541 KOLNES",
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Steinhaugane FUS barnehage",
+                "no-barnehage:nsrid": "1021162",
+                "operator": "Steinhaugane Fus Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36991,
+                    59.39386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4409",
+            "properties": {
+                "ADDRESS": "Stølane 40, 5541 KOLNES",
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:website": "http://kolnes.vigilo.no/web/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kolnes barnehage",
+                "no-barnehage:nsrid": "1014928",
+                "operator": "Karmøy kommune",
+                "operator:type": "public",
+                "id": "node/-4409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36549,
+                    59.39151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4404",
+            "properties": {
+                "ADDRESS": "Eikjevegen 255, 5541 KOLNES",
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Århaug barnehage",
+                "no-barnehage:nsrid": "1021216",
+                "operator": "Espira Århaug AS",
+                "operator:type": "private",
+                "id": "node/-4404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36625,
+                    59.39015
+                ]
+            }
+        }
+    ]
+}

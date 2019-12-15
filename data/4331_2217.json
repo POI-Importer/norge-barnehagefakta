@@ -3,7 +3,139 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2885",
+            "id": "node/-3243",
+            "properties": {
+                "ADDRESS": "Ole Laulos Veg 16, 7088 HEIMDAL",
+                "amenity": "kindergarten",
+                "name": "Stabbursmoen familiebarnehage",
+                "no-barnehage:nsrid": "1021414",
+                "operator": "Stabbursmoen Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-3243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34709,
+                    63.35328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3229",
+            "properties": {
+                "ADDRESS": "Skyttervegen 8, 7088 HEIMDAL",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skyttervegen barnehage",
+                "no-barnehage:nsrid": "1017808",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34445,
+                    63.36082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3213",
+            "properties": {
+                "ADDRESS": "Saupstadringen 37c, 7078 SAUPSTAD",
+                "amenity": "kindergarten",
+                "name": "Saupstadringen barnehager",
+                "no-barnehage:nsrid": "1019557",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3572,
+                    63.36554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3212",
+            "properties": {
+                "ADDRESS": "Reier Søbstads Veg 5, 7078 SAUPSTAD",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Saupstad barnehage",
+                "no-barnehage:nsrid": "1018432",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34518,
+                    63.36548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3199",
+            "properties": {
+                "ADDRESS": "Saupstadringen 37c, 7078 SAUPSTAD",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ringen barnehage",
+                "no-barnehage:nsrid": "1018220",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3572,
+                    63.36554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3135",
+            "properties": {
+                "ADDRESS": "Kongsvegen 80, 7088 HEIMDAL",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kongsvegen barnehage",
+                "no-barnehage:nsrid": "1014008",
+                "operator": "Prima Arena AS",
+                "operator:type": "private",
+                "id": "node/-3135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34235,
+                    63.35712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3132",
             "properties": {
                 "ADDRESS": "Søbstadvegen 65, 7088 HEIMDAL",
                 "amenity": "kindergarten",
@@ -14,7 +146,7 @@
                 "no-barnehage:nsrid": "1014004",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2885"
+                "id": "node/-3132"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +158,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2880",
+            "id": "node/-3116",
             "properties": {
                 "ADDRESS": "Nordre Husebytun 2, 7097 SAUPSTAD",
                 "amenity": "kindergarten",
@@ -37,13 +169,57 @@
                 "no-barnehage:nsrid": "1018213",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2880"
+                "id": "node/-3116"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.34176,
                     63.36883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3077",
+            "properties": {
+                "ADDRESS": "Kongsvegen 59, 7088 HEIMDAL",
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://www.duttestien.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Duttestien barnehage",
+                "no-barnehage:nsrid": "1022089",
+                "operator": "Duttestien barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34155,
+                    63.3536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3051",
+            "properties": {
+                "ADDRESS": "Jarveien 46, 7072 HEIMDAL",
+                "amenity": "kindergarten",
+                "name": "Bamsehiet familiebarnehage  Tove Thorolvsen",
+                "no-barnehage:nsrid": "1021931",
+                "operator": "Bamsehiet Familiebarnehage V/ Tove Thorolvsen",
+                "operator:type": "private",
+                "id": "node/-3051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36938,
+                    63.35966
                 ]
             }
         }

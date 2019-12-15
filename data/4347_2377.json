@@ -3,6 +3,52 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-751",
+            "properties": {
+                "ADDRESS": "Åsheimveien 39, 2016 FROGNER",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sorknes barnehage",
+                "no-barnehage:nsrid": "1019890",
+                "operator": "Sorknes barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06175,
+                    60.02261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-735",
+            "properties": {
+                "ADDRESS": "Fjellboveien 77, 2016 FROGNER",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fjellbovegen barnehage",
+                "no-barnehage:nsrid": "1021895",
+                "operator": "Sørum kommune",
+                "operator:type": "public",
+                "id": "node/-735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06592,
+                    60.03102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-732",
             "properties": {
                 "ADDRESS": "Åsheimveien 3, 2016 FROGNER",

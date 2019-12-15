@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2953",
+            "id": "node/-3392",
             "properties": {
                 "ADDRESS": "Kanefartsvegen 8, 7712 STEINKJER",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1017344",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-2953"
+                "id": "node/-3392"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2950",
+            "id": "node/-3389",
             "properties": {
                 "ADDRESS": "Steinkjersannan 6, 7713 STEINKJER",
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "115",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Nord Studentsamskipnad avd. studentbarnehagen Steinkjer",
-                "no-barnehage:nsrid": "1015994",
-                "operator": "Nord Studentsamskipnad",
-                "operator:type": "private",
-                "id": "node/-2950"
+                "name": "Steinkjersannan barnehage",
+                "no-barnehage:nsrid": "1017109",
+                "operator": "Steinkjer kommune",
+                "operator:type": "public",
+                "id": "node/-3389"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,77 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2946",
+            "id": "node/-3387",
+            "properties": {
+                "ADDRESS": "Øvre Ringveg 9, 7713 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjefte barnehage",
+                "no-barnehage:nsrid": "1021213",
+                "operator": "Skjefte barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51194,
+                    64.01252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3384",
+            "properties": {
+                "ADDRESS": "Teglverksvegen 1, 7713 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://www.poppellunden.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Poppellunden barnehage Stiftelse",
+                "no-barnehage:nsrid": "1020357",
+                "operator": "Poppellunden barnehage Stiftelse",
+                "operator:type": "private",
+                "id": "node/-3384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5049,
+                    64.00341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3382",
+            "properties": {
+                "ADDRESS": "Steinkjersannan 6, 7713 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad avd. studentbarnehagen Steinkjer",
+                "no-barnehage:nsrid": "1015994",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "id": "node/-3382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503,
+                    64.01102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3370",
             "properties": {
                 "ADDRESS": "Løsmarka 61, 7712 STEINKJER",
                 "amenity": "kindergarten",
@@ -61,7 +131,7 @@
                 "no-barnehage:nsrid": "1020619",
                 "operator": "Figga barnehage",
                 "operator:type": "private",
-                "id": "node/-2946"
+                "id": "node/-3370"
             },
             "geometry": {
                 "type": "Point",

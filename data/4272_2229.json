@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5270",
+            "properties": {
+                "ADDRESS": "Røsslyngveien 17, 6511 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Røsslyngveien barnehage",
+                "no-barnehage:nsrid": "1018174",
+                "operator": "Kristiansund kommune",
+                "operator:type": "public",
+                "id": "node/-5270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75023,
+                    63.12241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5268",
+            "properties": {
+                "ADDRESS": "Kitty Williamsens Gate 2, 6512 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nøtteliten barnehage",
+                "no-barnehage:nsrid": "1021863",
+                "operator": "Nøtteliten barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75039,
+                    63.11636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5266",
+            "properties": {
+                "ADDRESS": "Mildred Didriksens Vei 1, 6511 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "121",
+                "contact:website": "http://laringsverskstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Kristiansund idrettsbarnehage",
+                "no-barnehage:nsrid": "1021567",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.73799,
+                    63.1242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5264",
+            "properties": {
+                "ADDRESS": "Bentnesveien 57, 6512 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "contact:website": "http://laringsverkstedet.no/barnehage/atlantis",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Atlantis",
+                "no-barnehage:nsrid": "1015753",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7543,
+                    63.12272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5256",
+            "properties": {
+                "ADDRESS": "Kitty Williamsens Gate 1, 6512 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåskjellet barnehage",
+                "no-barnehage:nsrid": "1020509",
+                "operator": "Blåskjellet Barnepark Da",
+                "operator:type": "private",
+                "id": "node/-5256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75161,
+                    63.11655
+                ]
+            }
+        }
+    ]
+}

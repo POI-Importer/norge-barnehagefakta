@@ -3,7 +3,76 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3321",
+            "id": "node/-5012",
+            "properties": {
+                "ADDRESS": "Sørstrandvegen 18, 6906 FLORØ",
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sørstrand Maritime FUS barnehage",
+                "no-barnehage:nsrid": "1021670",
+                "operator": "Sørstrand Maritime Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03092,
+                    61.58697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5011",
+            "properties": {
+                "ADDRESS": "Em Holevegen 23, 6900 FLORØ",
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Storevatn barnehage",
+                "no-barnehage:nsrid": "1018136",
+                "operator": "Flora kommune",
+                "operator:type": "public",
+                "id": "node/-5011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03965,
+                    61.59517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5007",
+            "properties": {
+                "ADDRESS": "Evjegata, 6900 FLORØ",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nepjarhaugen barnehage",
+                "no-barnehage:nsrid": "1018133",
+                "operator": "Flora kommune",
+                "operator:type": "public",
+                "id": "node/-5007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04178,
+                    61.59883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5002",
             "properties": {
                 "ADDRESS": "Dalvegen 1, 6906 FLORØ",
                 "amenity": "kindergarten",
@@ -14,7 +83,7 @@
                 "no-barnehage:nsrid": "1018129",
                 "operator": "Flora kommune",
                 "operator:type": "public",
-                "id": "node/-3321"
+                "id": "node/-5002"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +95,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3320",
+            "id": "node/-5000",
             "properties": {
                 "ADDRESS": "Bergmovegen 2, 6905 FLORØ",
                 "amenity": "kindergarten",
@@ -36,7 +105,7 @@
                 "no-barnehage:nsrid": "1020244",
                 "operator": "Bergsmovg Familiebarnehage Vigdis Midtbø",
                 "operator:type": "private",
-                "id": "node/-3320"
+                "id": "node/-5000"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2942",
+            "id": "node/-3360",
             "properties": {
                 "ADDRESS": "Fyrforvalter Knudsens Vei 15, 4817 HIS",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1021869",
                 "operator": "Trollungen Familiebarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2942"
+                "id": "node/-3360"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +23,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2937",
+            "id": "node/-3334",
+            "properties": {
+                "ADDRESS": "Julius Smiths Vei 3, 4817 HIS",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:website": "http://laringsverkstedet.no/barnehage/his",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Portveien His",
+                "no-barnehage:nsrid": "1015908",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74603,
+                    58.43328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3329",
             "properties": {
                 "ADDRESS": "Sandvigveien 120, 4816 KOLBJØRNSVIK",
                 "amenity": "kindergarten",
@@ -35,7 +59,7 @@
                 "no-barnehage:nsrid": "1015167",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2937"
+                "id": "node/-3329"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2936",
+            "id": "node/-3326",
             "properties": {
                 "ADDRESS": "Sandvigveien 104, 4816 KOLBJØRNSVIK",
                 "amenity": "kindergarten",
@@ -59,13 +83,37 @@
                 "no-barnehage:nsrid": "1017015",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2936"
+                "id": "node/-3326"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.77293,
                     58.44499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3317",
+            "properties": {
+                "ADDRESS": "Trommestadveien 90, 4817 HIS",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://www.stemmehagen.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hisøy barnehageenhet, Stemmehagen",
+                "no-barnehage:nsrid": "1025443",
+                "operator": "Arendal kommune",
+                "operator:type": "public",
+                "id": "node/-3317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7637,
+                    58.44221
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2862",
+            "id": "node/-3032",
             "properties": {
                 "ADDRESS": "Gjærbrøndveien 284, 4886 GRIMSTAD",
                 "amenity": "kindergarten",
@@ -15,13 +15,85 @@
                 "no-barnehage:nsrid": "1019723",
                 "operator": "Resvik Bedehus",
                 "operator:type": "private",
-                "id": "node/-2862"
+                "id": "node/-3032"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.53052,
                     58.35021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3031",
+            "properties": {
+                "ADDRESS": "Holbekkveien 47, 4886 GRIMSTAD",
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://regnbuebarna.as",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbuebarna",
+                "no-barnehage:nsrid": "1017072",
+                "operator": "Regnbuebarna AS",
+                "operator:type": "private",
+                "id": "node/-3031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.55689,
+                    58.34582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3023",
+            "properties": {
+                "ADDRESS": "Myråsen 9, 4886 GRIMSTAD",
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "contact:website": "http://www.laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Myråsen barnehage",
+                "no-barnehage:nsrid": "1018506",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53252,
+                    58.33709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3013",
+            "properties": {
+                "ADDRESS": "Holbekkveien 64, 4876 GRIMSTAD",
+                "amenity": "kindergarten",
+                "capacity": "99",
+                "contact:website": "http://www.barnehagetunet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Askeladden idrettsbarnehage",
+                "no-barnehage:nsrid": "1021535",
+                "operator": "Askeladden Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.55995,
+                    58.34847
                 ]
             }
         }

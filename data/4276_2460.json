@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3038",
+            "id": "node/-3802",
+            "properties": {
+                "ADDRESS": "Breimyrveien 100, 4628 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "139",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solkollen barnehage Hellemyr",
+                "no-barnehage:nsrid": "1020713",
+                "operator": "Solkollen barnehage Hellemyr AS",
+                "operator:type": "private",
+                "id": "node/-3802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.92724,
+                    58.15156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3778",
+            "properties": {
+                "ADDRESS": "Skomagergada 8, 4628 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://laringsverkstedet.no/skomagergada",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Skomakergada",
+                "no-barnehage:nsrid": "1014812",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.92275,
+                    58.14785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3747",
             "properties": {
                 "ADDRESS": "Bydalsveien 19, 4628 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -11,7 +58,7 @@
                 "no-barnehage:nsrid": "1020490",
                 "operator": "Hellemyr Sokn",
                 "operator:type": "private",
-                "id": "node/-3038"
+                "id": "node/-3747"
             },
             "geometry": {
                 "type": "Point",

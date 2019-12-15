@@ -3,7 +3,74 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2914",
+            "id": "node/-3262",
+            "properties": {
+                "ADDRESS": "Tempevegen 11b, 7031 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.tempebarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tempe barnehage",
+                "no-barnehage:nsrid": "1020725",
+                "operator": "Tempe barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39441,
+                    63.40755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3254",
+            "properties": {
+                "ADDRESS": "Klæbuveien 211, 7037 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sunnland barnehage",
+                "no-barnehage:nsrid": "1014733",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41034,
+                    63.40149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3253",
+            "properties": {
+                "ADDRESS": "Orionvegen 9, 7037 TRONDHEIM",
+                "amenity": "kindergarten",
+                "name": "Stubban familiebarnehage Marit Gjelvold",
+                "no-barnehage:nsrid": "1021423",
+                "operator": "Stubban Familiebarnehage Marit Gjelvold",
+                "operator:type": "private",
+                "id": "node/-3253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41094,
+                    63.39586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3234",
             "properties": {
                 "ADDRESS": "Øystein Møylas Veg 35, 7031 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -15,13 +82,128 @@
                 "no-barnehage:nsrid": "1019873",
                 "operator": "Stiftelsen Barnas Beste",
                 "operator:type": "private",
-                "id": "node/-2914"
+                "id": "node/-3234"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.40206,
                     63.4054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3230",
+            "properties": {
+                "ADDRESS": "Sluppenvegen 12f, 7037 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sluppen barnehage",
+                "no-barnehage:nsrid": "1015948",
+                "operator": "Stiftelsen Aurora",
+                "operator:type": "private",
+                "id": "node/-3230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3963,
+                    63.39492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3215",
+            "properties": {
+                "ADDRESS": "Waldemar Aunes Veg 17, 7027 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Selsbakkhøgda barnehage",
+                "no-barnehage:nsrid": "1016306",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37987,
+                    63.39615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3182",
+            "properties": {
+                "ADDRESS": "Njords Veg 53, 7035 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nidarvoll barnehage",
+                "no-barnehage:nsrid": "1016843",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41174,
+                    63.40234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3104",
+            "properties": {
+                "ADDRESS": "Martin Stokkens Veg 8, 7027 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hallsetreina FUS barnehage",
+                "no-barnehage:nsrid": "1021361",
+                "operator": "Hallsetreina Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37326,
+                    63.39241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3086",
+            "properties": {
+                "ADDRESS": "Hornebergvegen 3, 7038 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fossegrenda barnehage Roger Lørendal",
+                "no-barnehage:nsrid": "1020667",
+                "operator": "Fossegrenda barnehage Roger Lørendal",
+                "operator:type": "private",
+                "id": "node/-3086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40156,
+                    63.39231
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2021",
+            "id": "node/-2020",
             "properties": {
                 "ADDRESS": "Birkebeinerveien, 2450 RENA",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1015726",
                 "operator": "Åmot kommune",
                 "operator:type": "public",
-                "id": "node/-2021"
+                "id": "node/-2020"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2016",
+            "id": "node/-2018",
+            "properties": {
+                "ADDRESS": "Skoleveien, 2460 OSEN",
+                "amenity": "kindergarten",
+                "capacity": "11",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Osen oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1017590",
+                "operator": "Åmot kommune",
+                "operator:type": "public",
+                "id": "node/-2018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36915,
+                    61.13748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2015",
             "properties": {
                 "ADDRESS": "Sliperiveien 5, 2450 RENA",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1013480",
                 "operator": "Åmot kommune",
                 "operator:type": "public",
-                "id": "node/-2016"
+                "id": "node/-2015"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3140",
+            "id": "node/-4293",
             "properties": {
                 "ADDRESS": "Myrullveien 9, 4330 ÅLGÅRD",
                 "amenity": "kindergarten",
@@ -11,13 +11,83 @@
                 "no-barnehage:nsrid": "1020640",
                 "operator": "Trollungen Familiebarnehage Gro Kristin Tollefsen",
                 "operator:type": "private",
-                "id": "node/-3140"
+                "id": "node/-4293"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.83061,
                     58.77155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4282",
+            "properties": {
+                "ADDRESS": "Skogveien 4b, 4330 ÅLGÅRD",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bamsebo barnehage",
+                "no-barnehage:nsrid": "1015004",
+                "operator": "Gjesdal kommune",
+                "operator:type": "public",
+                "id": "node/-4282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83878,
+                    58.77381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3981",
+            "properties": {
+                "ADDRESS": "Utslåtten 2a, 4332 FIGGJO",
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Figgjo barnehage",
+                "no-barnehage:nsrid": "1015533",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.81413,
+                    58.78395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3975",
+            "properties": {
+                "ADDRESS": "Tjessheimveien 8, 4332 FIGGJO",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://www.facebook.com/login.EngleOnganeBarnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Engleongane barnehage",
+                "no-barnehage:nsrid": "1021642",
+                "operator": "Engleongane barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.81398,
+                    58.78743
                 ]
             }
         }

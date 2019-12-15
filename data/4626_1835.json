@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6154",
+            "properties": {
+                "ADDRESS": "Holstbakkveien, 9514 ALTA",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Aronnes barnehage",
+                "no-barnehage:nsrid": "1016167",
+                "operator": "Alta kommune",
+                "operator:type": "public",
+                "id": "node/-6154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.30487,
+                    69.97485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6153",
+            "properties": {
+                "ADDRESS": "Nøkkelstien 2, 9510 ALTA",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://www.altasiida.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Áltta Siida",
+                "no-barnehage:nsrid": "1021191",
+                "operator": "Áltta Siida AS",
+                "operator:type": "private",
+                "id": "node/-6153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.29234,
+                    69.97182
+                ]
+            }
+        }
+    ]
+}

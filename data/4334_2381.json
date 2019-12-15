@@ -3,6 +3,30 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-593",
+            "properties": {
+                "ADDRESS": "Skarvaveien 101-103, 1350 LOMMEDALEN",
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:website": "http://www.skarva-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skarva grendehus avd. barnehage",
+                "no-barnehage:nsrid": "1020048",
+                "operator": "Skarva barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49436,
+                    59.9457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-546",
             "properties": {
                 "ADDRESS": "Skollerudveien 100a, 1350 LOMMEDALEN",
@@ -43,8 +67,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.49303,
-                    59.94099
+                    10.49331,
+                    59.94091
                 ]
             }
         },

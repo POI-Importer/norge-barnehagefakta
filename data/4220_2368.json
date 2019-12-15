@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3292",
+            "id": "node/-4859",
             "properties": {
                 "ADDRESS": "Moldmyro 7, 5212 SØFTELAND",
                 "amenity": "kindergarten",
@@ -15,13 +15,36 @@
                 "no-barnehage:nsrid": "1020607",
                 "operator": "Stiftelsen Nøtteliten barnehage",
                 "operator:type": "private",
-                "id": "node/-3292"
+                "id": "node/-4859"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.451,
                     60.23798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4856",
+            "properties": {
+                "ADDRESS": "Storestraumen 275, 5212 SØFTELAND",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hjellemarka FUS barnehage",
+                "no-barnehage:nsrid": "1021738",
+                "operator": "Hjellemarka Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45374,
+                    60.22503
                 ]
             }
         }

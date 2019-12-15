@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2957",
+            "id": "node/-3405",
             "properties": {
                 "ADDRESS": "Gymnasvegen 3, 7804 NAMSOS",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020928",
                 "operator": "Namsos Musikkbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2957"
+                "id": "node/-3405"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2956",
+            "id": "node/-3404",
+            "properties": {
+                "ADDRESS": "Holmenvegen 6, 7820 SPILLUM",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Namsos barnehage",
+                "no-barnehage:nsrid": "1019970",
+                "operator": "Namsos barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5379,
+                    64.45946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3403",
             "properties": {
                 "ADDRESS": "Hallvegen 1, 7805 NAMSOS",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1018263",
                 "operator": "Namsos kommune",
                 "operator:type": "public",
-                "id": "node/-2956"
+                "id": "node/-3403"
             },
             "geometry": {
                 "type": "Point",

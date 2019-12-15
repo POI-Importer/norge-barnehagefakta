@@ -3,7 +3,52 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3501",
+            "id": "node/-5600",
+            "properties": {
+                "ADDRESS": "Forskerveien 3, 8076 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://vagones.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vågønes barnehage",
+                "no-barnehage:nsrid": "1020099",
+                "operator": "Vågønes barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44956,
+                    67.28661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5596",
+            "properties": {
+                "ADDRESS": "Thalleveien 27, 8076 BODØ",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.n4h.no/bodin",
+                "name": "Stiftelsen Bodin 4h-gård",
+                "no-barnehage:nsrid": "1020496",
+                "operator": "Stiftelsen Bodin 4h-Gård",
+                "operator:type": "private",
+                "id": "node/-5596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4273,
+                    67.28516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5592",
             "properties": {
                 "ADDRESS": "Per Helgesens Vei 82a, 8013 BODØ",
                 "amenity": "kindergarten",
@@ -14,7 +59,7 @@
                 "no-barnehage:nsrid": "1019952",
                 "operator": "Skeidhaugen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3501"
+                "id": "node/-5592"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +71,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3499",
+            "id": "node/-5588",
             "properties": {
                 "ADDRESS": "Børsingveien 12, 8075 BODØ",
                 "amenity": "kindergarten",
@@ -37,7 +82,7 @@
                 "no-barnehage:nsrid": "1019835",
                 "operator": "Samvirkeforetaket Befalsfruene Bodø Garnison Sa - Bamsebo barnehage",
                 "operator:type": "private",
-                "id": "node/-3499"
+                "id": "node/-5588"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +94,78 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3490",
+            "id": "node/-5577",
+            "properties": {
+                "ADDRESS": "Garnveien 28, 8013 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Nissebo barnehage",
+                "no-barnehage:nsrid": "1014916",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45681,
+                    67.27429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5572",
+            "properties": {
+                "ADDRESS": "Thalleveien 39, 8076 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "contact:website": "http://www.nestasen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Neståsen barnehage",
+                "no-barnehage:nsrid": "1020328",
+                "operator": "Neståsen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43629,
+                    67.28461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5565",
+            "properties": {
+                "ADDRESS": "Trålveien 2, 8013 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://laringsverkstedet.no/barnehage/tralveien",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Trålveien",
+                "no-barnehage:nsrid": "1022220",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45369,
+                    67.27269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5562",
             "properties": {
                 "ADDRESS": "Notveien 2, 8013 BODØ",
                 "amenity": "kindergarten",
@@ -61,7 +177,7 @@
                 "no-barnehage:nsrid": "1013012",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3490"
+                "id": "node/-5562"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +189,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3489",
+            "id": "node/-5561",
             "properties": {
                 "ADDRESS": "Bodinveien 64, 8010 BODØ",
                 "amenity": "kindergarten",
@@ -85,13 +201,36 @@
                 "no-barnehage:nsrid": "1013184",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3489"
+                "id": "node/-5561"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.42914,
                     67.28873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5554",
+            "properties": {
+                "ADDRESS": "Edvardsons Vei 4, 8010 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jentoftsletta barnehage",
+                "no-barnehage:nsrid": "1025385",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41517,
+                    67.28396
                 ]
             }
         }

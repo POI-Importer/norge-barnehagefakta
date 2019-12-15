@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3580",
+            "id": "node/-5871",
             "properties": {
                 "ADDRESS": "Møllenbakkveien 1, 8403 SORTLAND",
                 "amenity": "kindergarten",
@@ -15,13 +15,36 @@
                 "no-barnehage:nsrid": "1020361",
                 "operator": "Prestelva barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3580"
+                "id": "node/-5871"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     15.387,
                     68.68204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5862",
+            "properties": {
+                "ADDRESS": "Bakkelia 4, 8403 SORTLAND",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blåfjell barnehage",
+                "no-barnehage:nsrid": "1021067",
+                "operator": "Blåfjell barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39303,
+                    68.68687
                 ]
             }
         }

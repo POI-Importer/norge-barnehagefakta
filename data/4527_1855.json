@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3614",
+            "id": "node/-5961",
             "properties": {
                 "ADDRESS": "Luleåvegen 13, 9011 TROMSØ",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1016822",
                 "operator": "Norges Arktiske Studentsamskipnad",
                 "operator:type": "private",
-                "id": "node/-3614"
+                "id": "node/-5961"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3594",
+            "id": "node/-5918",
             "properties": {
                 "ADDRESS": "Anton Iversens Veg 1, 9009 TROMSØ",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1012716",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3594"
+                "id": "node/-5918"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3593",
+            "id": "node/-5915",
             "properties": {
                 "ADDRESS": "Dramsvegen 87, 9010 TROMSØ",
                 "amenity": "kindergarten",
@@ -60,13 +60,59 @@
                 "no-barnehage:nsrid": "1019634",
                 "operator": "Kråkeslottet barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3593"
+                "id": "node/-5915"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     18.96118,
                     69.66219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5908",
+            "properties": {
+                "ADDRESS": "Dramsvegen 141, 9010 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gyllenvang barnehage",
+                "no-barnehage:nsrid": "1018466",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.96328,
+                    69.66863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5896",
+            "properties": {
+                "ADDRESS": "Conrad Holmboes Veg 106, 9011 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Charlottenlund barnehage",
+                "no-barnehage:nsrid": "1016821",
+                "operator": "Rehabiliteringssenteret Nord-Norges Kurbad AS",
+                "operator:type": "private",
+                "id": "node/-5896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95307,
+                    69.66512
                 ]
             }
         }

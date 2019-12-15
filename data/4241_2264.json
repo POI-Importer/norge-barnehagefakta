@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5216",
+            "properties": {
+                "ADDRESS": "Flisnesvegen 60, 6013 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "125",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Flisnes",
+                "no-barnehage:nsrid": "1021874",
+                "operator": "Gnist Barnehager Flisnes AS",
+                "operator:type": "private",
+                "id": "node/-5216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.40703,
+                    62.42884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5214",
+            "properties": {
+                "ADDRESS": "Flisnes, 6012 ÅLESUND",
+                "amenity": "kindergarten",
+                "name": "Flisnes FUS barnehage",
+                "no-barnehage:nsrid": "1021822",
+                "operator": "Flisnes Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.40784,
+                    62.42485
+                ]
+            }
+        }
+    ]
+}

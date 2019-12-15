@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3960",
+            "properties": {
+                "ADDRESS": "Uførfjellveien 37, 4374 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Robåten FUS barnehage",
+                "no-barnehage:nsrid": "1021363",
+                "operator": "Robåten Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9662,
+                    58.4532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3950",
+            "properties": {
+                "ADDRESS": "Uførfjellveien 35, 4374 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "contact:website": "http://www.eigeroy-barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eigerøy barnehage",
+                "no-barnehage:nsrid": "1021187",
+                "operator": "Eigerøy barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.96702,
+                    58.45356
+                ]
+            }
+        }
+    ]
+}

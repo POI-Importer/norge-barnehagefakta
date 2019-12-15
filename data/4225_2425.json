@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3116",
+            "id": "node/-4165",
+            "properties": {
+                "ADDRESS": "Longebakke 31, 4042 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:website": "http://www.ogbh.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ørnestein gårdsbarnehage",
+                "no-barnehage:nsrid": "1020016",
+                "operator": "Ørnestein Gårdsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.66929,
+                    58.95705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4143",
+            "properties": {
+                "ADDRESS": "Christian Skredsvigs Vei 25, 4023 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokkatunet barnehage",
+                "no-barnehage:nsrid": "1012912",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69088,
+                    58.96336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4142",
             "properties": {
                 "ADDRESS": "Adjunkt Hauglands Gate 50, 4022 STAVANGER",
                 "amenity": "kindergarten",
@@ -11,7 +58,7 @@
                 "no-barnehage:nsrid": "1020686",
                 "operator": "Brunstad Kristelige Menighet Stavanger",
                 "operator:type": "private",
-                "id": "node/-3116"
+                "id": "node/-4142"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +70,238 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3110",
+            "id": "node/-4141",
+            "properties": {
+                "ADDRESS": "Christian Skredsvigs Vei 27, 4023 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "122",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokka barnehage",
+                "no-barnehage:nsrid": "1012916",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69095,
+                    58.96265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4140",
+            "properties": {
+                "ADDRESS": "Nedre Stokkavei 44, 4023 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "145",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stokka barnehage avd. Stokkadalen",
+                "no-barnehage:nsrid": "2000339",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70558,
+                    58.96908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4135",
+            "properties": {
+                "ADDRESS": "Tjensvollveien 44c, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solborg barnehage",
+                "no-barnehage:nsrid": "1016176",
+                "operator": "Foreningen Solborg folkehøgskole",
+                "operator:type": "private",
+                "id": "node/-4135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70336,
+                    58.9528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4126",
+            "properties": {
+                "ADDRESS": "Fasanveien 19, 4042 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandal barnehage",
+                "no-barnehage:nsrid": "1012903",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68212,
+                    58.95473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4117",
+            "properties": {
+                "ADDRESS": "Lassaveien 6, 4022 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://lasseliten.net",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. misjonsbarnehagen Lasseliten",
+                "no-barnehage:nsrid": "1016181",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69475,
+                    58.96096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4115",
+            "properties": {
+                "ADDRESS": "Ytre Eiganesveien 3, 4022 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:website": "http://www.muldvarpen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Muldvarpen barnehage",
+                "no-barnehage:nsrid": "1021262",
+                "operator": "Muldvarpen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69853,
+                    58.95894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4114",
+            "properties": {
+                "ADDRESS": "Madlamarkveien 4, 4041 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "74",
+                "contact:website": "http://www.minbarnehage.no/molkeholen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Molkeholen barnehage",
+                "no-barnehage:nsrid": "1012906",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68454,
+                    58.95237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4108",
+            "properties": {
+                "ADDRESS": "Solborgveien 35, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Hannes Lekestue Tjensvoll",
+                "no-barnehage:nsrid": "1020515",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69837141,
+                    58.9516373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4103",
+            "properties": {
+                "ADDRESS": "Ytre Eiganesveien 21, 4022 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "contact:website": "http://www.minbarnehage.no/lassamyra",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lassamyra barnehage",
+                "no-barnehage:nsrid": "1013987",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69612,
+                    58.9577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4093",
+            "properties": {
+                "ADDRESS": "Gunnar Warebergs Gate 15, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "name": "Imi åpen barnehage",
+                "no-barnehage:nsrid": "2000261",
+                "operator": "Imi Åpen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69944,
+                    58.95488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4092",
             "properties": {
                 "ADDRESS": "Gunnar Warebergs Gate 15, 4021 STAVANGER",
                 "amenity": "kindergarten",
@@ -31,13 +309,177 @@
                 "no-barnehage:nsrid": "1013064",
                 "operator": "Imi-Kirken",
                 "operator:type": "private",
-                "id": "node/-3110"
+                "id": "node/-4092"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.69944,
                     58.95488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4091",
+            "properties": {
+                "ADDRESS": "Eiganesveien 175a, 4009 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://www.huskestua.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Huskestua barnehage",
+                "no-barnehage:nsrid": "1019919",
+                "operator": "Huskestua barnehage",
+                "operator:type": "private",
+                "id": "node/-4091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69969,
+                    58.95781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4085",
+            "properties": {
+                "ADDRESS": "Christian Skredsvigs Vei 23, 4023 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:website": "http://www.hakkebakkeskogen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hakkebakkeskogen private barnehage avd. Stokka",
+                "no-barnehage:nsrid": "1017096",
+                "operator": "Hakkebakkeskogen Private barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69049,
+                    58.96412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4084",
+            "properties": {
+                "ADDRESS": "Tellusveien 43, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "contact:website": "http://www.hakkebakkeskogen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hakkebakkeskogen private barnehage avd. Tjensvoll",
+                "no-barnehage:nsrid": "1016758",
+                "operator": "Hakkebakkeskogen Private barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70225,
+                    58.95042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4071",
+            "properties": {
+                "ADDRESS": "Bretlandsgata 31, 4009 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Egenes idrettsbarnehage",
+                "no-barnehage:nsrid": "1021598",
+                "operator": "Nye Egenes Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71072,
+                    58.96392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4062",
+            "properties": {
+                "ADDRESS": "Bekkelundsgata 3, 4024 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bokkaskogen-kampen barnehage avd. Kampen",
+                "no-barnehage:nsrid": "1016676",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71205,
+                    58.96946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4058",
+            "properties": {
+                "ADDRESS": "Mosvangen 4, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Biå Steinerbarnehage avd. Mosvangen",
+                "no-barnehage:nsrid": "2000348",
+                "operator": "Biå Steinerbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71139,
+                    58.95232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4052",
+            "properties": {
+                "ADDRESS": "Ole Reistads Gate 2, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagen Tjensvoll avd. Tjensvoll",
+                "no-barnehage:nsrid": "1016078",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69092,
+                    58.95148
                 ]
             }
         }

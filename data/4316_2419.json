@@ -3,7 +3,55 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2815",
+            "id": "node/-2849",
+            "properties": {
+                "ADDRESS": "Saturnvegen 54, 3942 PORSGRUNN",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.melkeveien.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Melkeveien barnehage",
+                "no-barnehage:nsrid": "1022289",
+                "operator": "Melkeveien barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68601,
+                    59.09113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2842",
+            "properties": {
+                "ADDRESS": "Granatvegen 21, 3931 PORSGRUNN",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "contact:website": "http://www.hovettunet.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hovettunet barnehage",
+                "no-barnehage:nsrid": "1019856",
+                "operator": "Hovettunet barnehage",
+                "operator:type": "private",
+                "id": "node/-2842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68838,
+                    59.10704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2839",
             "properties": {
                 "ADDRESS": "Lundedalen 35, 3940 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -14,13 +62,36 @@
                 "no-barnehage:nsrid": "1013300",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2815"
+                "id": "node/-2839"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.68191,
                     59.08618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2833",
+            "properties": {
+                "ADDRESS": "Tellusvegen 1, 3942 PORSGRUNN",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brattås barnehage",
+                "no-barnehage:nsrid": "1013935",
+                "operator": "Porsgrunn kommune",
+                "operator:type": "public",
+                "id": "node/-2833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67128,
+                    59.09692
                 ]
             }
         }

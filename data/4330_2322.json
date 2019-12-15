@@ -5,6 +5,29 @@
             "type": "Feature",
             "id": "node/-2163",
             "properties": {
+                "ADDRESS": "Kornhaug 13, 2656 FOLLEBU",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kornhaug barnehage",
+                "no-barnehage:nsrid": "1017956",
+                "operator": "Gausdal kommune",
+                "operator:type": "public",
+                "id": "node/-2163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28828,
+                    61.21588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2161",
+            "properties": {
                 "ADDRESS": "Kornhaug 2, 2656 FOLLEBU",
                 "amenity": "kindergarten",
                 "capacity": "54",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1021737",
                 "operator": "Follebu Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2163"
+                "id": "node/-2161"
             },
             "geometry": {
                 "type": "Point",

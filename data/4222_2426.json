@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3143",
+            "id": "node/-4306",
             "properties": {
                 "ADDRESS": "Risnesvegen 28b, 4056 TANANGER",
                 "amenity": "kindergarten",
@@ -14,13 +14,37 @@
                 "no-barnehage:nsrid": "1012798",
                 "operator": "Sola kommune",
                 "operator:type": "public",
-                "id": "node/-3143"
+                "id": "node/-4306"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.57276,
                     58.93659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4300",
+            "properties": {
+                "ADDRESS": "Havnealleen 99, 4056 TANANGER",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:website": "http://www.sola.kommune.no/havnealleen-barnehage/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Havnealleen barnehage",
+                "no-barnehage:nsrid": "1012796",
+                "operator": "Sola kommune",
+                "operator:type": "public",
+                "id": "node/-4300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5786,
+                    58.93815
                 ]
             }
         }

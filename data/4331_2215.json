@@ -3,7 +3,101 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2896",
+            "id": "node/-3240",
+            "properties": {
+                "ADDRESS": "Havsteinekra 7, 7021 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.sommerfuglen.steinerbarnehagene.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sommerfuglen Steinerbarnehage",
+                "no-barnehage:nsrid": "1021142",
+                "operator": "Sommerfuglen Steinerbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36276,
+                    63.40434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3239",
+            "properties": {
+                "ADDRESS": "Solvangen 181, 7027 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://solvangen.vigilo.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solvangen barnehage",
+                "no-barnehage:nsrid": "1020780",
+                "operator": "Solvangen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36269,
+                    63.39236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3225",
+            "properties": {
+                "ADDRESS": "Skjermvegen 78b, 7023 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjermvegen barnehage",
+                "no-barnehage:nsrid": "1016909",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36419,
+                    63.39725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3186",
+            "properties": {
+                "ADDRESS": "Benjaminsveien 4, 7020 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nyborg barnehage",
+                "no-barnehage:nsrid": "1014900",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35164,
+                    63.41007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3174",
             "properties": {
                 "ADDRESS": "Olaf Grilstads Veg 1, 7025 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -14,7 +108,7 @@
                 "no-barnehage:nsrid": "1016737",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2896"
+                "id": "node/-3174"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +120,100 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2887",
+            "id": "node/-3172",
+            "properties": {
+                "ADDRESS": "Munkvollstien 2, 7022 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Munkvoll barnehage",
+                "no-barnehage:nsrid": "1016910",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36097,
+                    63.40034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3161",
+            "properties": {
+                "ADDRESS": "Dalgårdvegen 8, 7024 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Dalgårdtunet barnehage",
+                "no-barnehage:nsrid": "1021154",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34382,
+                    63.39463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3158",
+            "properties": {
+                "ADDRESS": "Statsråd Krohgs Veg 9, 7021 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:website": "http://laringsverkstedet.no/barnehage/varres",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Vårres",
+                "no-barnehage:nsrid": "1020091",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36375,
+                    63.40753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3141",
+            "properties": {
+                "ADDRESS": "Antonie Løchens Vei 19, 7020 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kyvatnet naturbarnehage",
+                "no-barnehage:nsrid": "1013419",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34383,
+                    63.40763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3140",
             "properties": {
                 "ADDRESS": "Inge Krokanns Veg 3, 7071 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -37,13 +224,60 @@
                 "no-barnehage:nsrid": "1018215",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2887"
+                "id": "node/-3140"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.32966,
                     63.39644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3109",
+            "properties": {
+                "ADDRESS": "Karolinerveien 5, 7021 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Havsteinaunet barnehage",
+                "no-barnehage:nsrid": "1018212",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35697,
+                    63.40983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3093",
+            "properties": {
+                "ADDRESS": "Gjørtlervegen 5, 7021 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "contact:website": "http://intranett.trondheim.kommune.no/content/1130952175/Gjortlervegen-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gjørtlervegen barnehage",
+                "no-barnehage:nsrid": "1016986",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35712,
+                    63.40486
                 ]
             }
         }

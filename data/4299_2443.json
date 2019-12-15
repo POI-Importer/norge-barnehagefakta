@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2941",
+            "id": "node/-3359",
             "properties": {
                 "ADDRESS": "Kilsundveien 11, 4920 STAUBØ",
                 "amenity": "kindergarten",
@@ -11,7 +11,31 @@
                 "no-barnehage:nsrid": "1020829",
                 "operator": "Trollstubben barnehage Da",
                 "operator:type": "private",
-                "id": "node/-2941"
+                "id": "node/-3359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95575,
+                    58.55754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3358",
+            "properties": {
+                "ADDRESS": "Kilsundveien 11, 4920 STAUBØ",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:website": "http://trollstubben.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollstubben barnehage",
+                "no-barnehage:nsrid": "1021569",
+                "operator": "Trollstubben barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3358"
             },
             "geometry": {
                 "type": "Point",

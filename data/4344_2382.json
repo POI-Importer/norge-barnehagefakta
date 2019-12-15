@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1497",
+            "id": "node/-1496",
             "properties": {
                 "ADDRESS": "Munkebekken 292, 1061 OSLO",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1022340",
                 "operator": "Munkebekken Idrettsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-1497"
+                "id": "node/-1496"
             },
             "geometry": {
                 "type": "Point",
@@ -50,6 +50,29 @@
         },
         {
             "type": "Feature",
+            "id": "node/-838",
+            "properties": {
+                "ADDRESS": "Vestadveien 29, 1476 RASTA",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Takt og Tone",
+                "no-barnehage:nsrid": "1020616",
+                "operator": "Takt og Tone Unni Sørenbye",
+                "operator:type": "private",
+                "id": "node/-838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93051,
+                    59.92428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-836",
             "properties": {
                 "ADDRESS": "Kantarellveien 20, 1476 RASTA",
@@ -68,6 +91,30 @@
                 "coordinates": [
                     10.93817,
                     59.9136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-830",
+            "properties": {
+                "ADDRESS": "Industriveien 7 A, 1461 ",
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:website": "http://regnbuenbarnehage.net",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbuen barnehage Lørenskog",
+                "no-barnehage:nsrid": "1022057",
+                "operator": "Regnbuen barnehage Lørenskog",
+                "operator:type": "private",
+                "id": "node/-830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92934,
+                    59.93135
                 ]
             }
         },

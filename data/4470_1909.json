@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-6013",
+            "properties": {
+                "ADDRESS": "Ervik, 9402 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordhusan barnehager avd. Ervik",
+                "no-barnehage:nsrid": "1026066",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-6013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47174,
+                    68.82343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6008",
+            "properties": {
+                "ADDRESS": "Ervik, 9402 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Bygdestua",
+                "no-barnehage:nsrid": "1019961",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-6008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47174,
+                    68.82343
+                ]
+            }
+        }
+    ]
+}

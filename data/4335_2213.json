@@ -3,18 +3,39 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2876",
+            "id": "node/-3112",
+            "properties": {
+                "ADDRESS": "Hitravegen 8, 7055 RANHEIM",
+                "amenity": "kindergarten",
+                "name": "Hitraveien familiebarnehage",
+                "no-barnehage:nsrid": "1021063",
+                "operator": "Hitraveien Familiebarnehage Verkland",
+                "operator:type": "private",
+                "id": "node/-3112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51676,
+                    63.43148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3098",
             "properties": {
                 "ADDRESS": "Grillstadfjæra 42, 7053 RANHEIM",
                 "amenity": "kindergarten",
                 "capacity": "83",
+                "contact:website": "http://www.trondheim.kommune.no/grillstadfjara-bhg/",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Grillstadfjæra barnehage",
                 "no-barnehage:nsrid": "1015185",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2876"
+                "id": "node/-3098"
             },
             "geometry": {
                 "type": "Point",

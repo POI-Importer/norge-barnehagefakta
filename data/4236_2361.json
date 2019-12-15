@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4838",
+            "properties": {
+                "ADDRESS": "Vavollen 137, 5610 ØYSTESE",
+                "amenity": "kindergarten",
+                "capacity": "156",
+                "contact:website": "http://øystesebarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øystese barnehage",
+                "no-barnehage:nsrid": "1016095",
+                "operator": "Kvam kommune",
+                "operator:type": "public",
+                "id": "node/-4838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.19526,
+                    60.37801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4836",
+            "properties": {
+                "ADDRESS": "Tolomarka, 5600 NORHEIMSUND",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tolomarka barnehage",
+                "no-barnehage:nsrid": "1025323",
+                "operator": "Kvam kommune",
+                "operator:type": "public",
+                "id": "node/-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.16591,
+                    60.37065
+                ]
+            }
+        }
+    ]
+}

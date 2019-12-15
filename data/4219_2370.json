@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4863",
+            "properties": {
+                "ADDRESS": "Skeismyra 49, 5217 HAGAVIK",
+                "amenity": "kindergarten",
+                "capacity": "133",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skorvane FUS barnehage",
+                "no-barnehage:nsrid": "1021995",
+                "operator": "Skorvane Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.41286,
+                    60.17702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4852",
+            "properties": {
+                "ADDRESS": "Industrivegen 111, 5210 OS",
+                "amenity": "kindergarten",
+                "capacity": "114",
+                "contact:website": "http://ulvenvatnet.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Ulvenvatnet barnehage",
+                "no-barnehage:nsrid": "1021939",
+                "operator": "Espira Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44665,
+                    60.19496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4851",
+            "properties": {
+                "ADDRESS": "Industrivegen 99, 5210 OS",
+                "amenity": "kindergarten",
+                "capacity": "159",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Kuventræ barnehage",
+                "no-barnehage:nsrid": "1021443",
+                "operator": "Espira Kuventræ AS",
+                "operator:type": "private",
+                "id": "node/-4851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44688,
+                    60.19609
+                ]
+            }
+        }
+    ]
+}

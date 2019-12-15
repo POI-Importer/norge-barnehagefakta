@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4280",
+            "properties": {
+                "ADDRESS": "Vestlyvegen 117, 4347 LYE",
+                "amenity": "kindergarten",
+                "capacity": "114",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestly idrettsbarnehage",
+                "no-barnehage:nsrid": "1015153",
+                "operator": "Time kommune",
+                "operator:type": "public",
+                "id": "node/-4280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70931,
+                    58.72913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4270",
+            "properties": {
+                "ADDRESS": "Norheim Lonarmyrvegen 1, 4345 BRYNE",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.minibarnehage.no/maurtua",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtuå barnehage",
+                "no-barnehage:nsrid": "1015467",
+                "operator": "Time kommune",
+                "operator:type": "public",
+                "id": "node/-4270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67821,
+                    58.73073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4267",
+            "properties": {
+                "ADDRESS": "Lonarmyrvegen 18, 4345 BRYNE",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Jærbarnehagen FUS",
+                "no-barnehage:nsrid": "1021612",
+                "operator": "Jærbarnehagen Fus AS",
+                "operator:type": "private",
+                "id": "node/-4267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67764,
+                    58.73005
+                ]
+            }
+        }
+    ]
+}

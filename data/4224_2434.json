@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4256",
+            "properties": {
+                "ADDRESS": "Austvegen 46, 4341 BRYNE",
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tu barnehage",
+                "no-barnehage:nsrid": "1012599",
+                "operator": "Klepp kommune",
+                "operator:type": "public",
+                "id": "node/-4256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63439,
+                    58.74673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4245",
+            "properties": {
+                "ADDRESS": "Kornvegen 23, 4350 ",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kleppestemmen FUS barnehage",
+                "no-barnehage:nsrid": "1021382",
+                "operator": "Kleppestemmen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63266,
+                    58.76717
+                ]
+            }
+        }
+    ]
+}

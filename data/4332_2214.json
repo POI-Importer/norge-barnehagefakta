@@ -3,7 +3,214 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2894",
+            "id": "node/-3301",
+            "properties": {
+                "ADDRESS": "Harald Hardrådes Gate 18, 7030 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "107",
+                "contact:website": "http://www.trondheim.kommune.no/org/oppvekst/barnehager/oya-bhg/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øya barnehage",
+                "no-barnehage:nsrid": "1016734",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3909,
+                    63.41812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3275",
+            "properties": {
+                "ADDRESS": "Festningsgata 2, 7014 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "38",
+                "contact:website": "http://www.preschool.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Trondheim International Preschool",
+                "no-barnehage:nsrid": "1021342",
+                "operator": "Trondheim International Preschool",
+                "operator:type": "private",
+                "id": "node/-3275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41373,
+                    63.42935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3249",
+            "properties": {
+                "ADDRESS": "Mellomila 1b, 7018 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "23",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stiftelsen steinerbarnehagen i Ila",
+                "no-barnehage:nsrid": "1021600",
+                "operator": "Stiftelsen Steinerbarnehagen i Ila",
+                "operator:type": "private",
+                "id": "node/-3249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37315,
+                    63.43057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3247",
+            "properties": {
+                "ADDRESS": "Munkegata 4, 7013 TRONDHEIM",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.bymisjon.no",
+                "name": "Stiftelsen kirkens Bymisjon i Trondheim",
+                "no-barnehage:nsrid": "1020399",
+                "operator": "Stiftelsen Kirkens Bymisjon i Trondheim",
+                "operator:type": "private",
+                "id": "node/-3247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39597,
+                    63.42804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3231",
+            "properties": {
+                "ADDRESS": "Festningsgata 2, 7014 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Småbergan barnehage",
+                "no-barnehage:nsrid": "1017048",
+                "operator": "Pinsemenigheten Betel, Trondheim",
+                "operator:type": "private",
+                "id": "node/-3231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41373,
+                    63.42935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3217",
+            "properties": {
+                "ADDRESS": "Jonsvannsveien 2, 7016 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Singsaker barnehage",
+                "no-barnehage:nsrid": "1017323",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41366,
+                    63.42351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3198",
+            "properties": {
+                "ADDRESS": "Lars Onsagers Veg 3, 7051 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbuen barnehage",
+                "no-barnehage:nsrid": "1016835",
+                "operator": "Stiftelsen Aurora",
+                "operator:type": "private",
+                "id": "node/-3198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41475,
+                    63.41463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3195",
+            "properties": {
+                "ADDRESS": "Lars Onsagers Veg 5, 7051 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Prestegårdsjordet barnehage",
+                "no-barnehage:nsrid": "1016824",
+                "operator": "Barnehagene Prestegårdsjordet og Tyholttunet Sa",
+                "operator:type": "private",
+                "id": "node/-3195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41416,
+                    63.41488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3177",
+            "properties": {
+                "ADDRESS": "Øvre Møllenberg Gate 36-40, 7014 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Møllenberg barnehage",
+                "no-barnehage:nsrid": "1018218",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4103,
+                    63.43043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3168",
             "properties": {
                 "ADDRESS": "Elvegata 1b, 7012 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -14,7 +221,7 @@
                 "no-barnehage:nsrid": "1025398",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-2894"
+                "id": "node/-3168"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +233,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2886",
+            "id": "node/-3138",
+            "properties": {
+                "ADDRESS": "Festningsgata 36, 7015 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kristiansten barnehage",
+                "no-barnehage:nsrid": "1013915",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41493,
+                    63.42597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3137",
             "properties": {
                 "ADDRESS": "Harald Hardrådes Gate 16, 7030 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -37,7 +267,7 @@
                 "no-barnehage:nsrid": "1016736",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2886"
+                "id": "node/-3137"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +279,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2884",
+            "id": "node/-3129",
             "properties": {
                 "ADDRESS": "Hans Osnes' Veg 2, 7030 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -60,7 +290,7 @@
                 "no-barnehage:nsrid": "1017818",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2884"
+                "id": "node/-3129"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +302,121 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2869",
+            "id": "node/-3092",
+            "properties": {
+                "ADDRESS": "Magnus Den Godes Gate 24, 7030 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gartneriet barnehage",
+                "no-barnehage:nsrid": "1017627",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39213,
+                    63.41768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3080",
+            "properties": {
+                "ADDRESS": "Magnus Den Godes Gate 24, 7030 TRONDHEIM",
+                "amenity": "kindergarten",
+                "name": "Elgeseter barnehager",
+                "no-barnehage:nsrid": "1019553",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39213,
+                    63.41768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3074",
+            "properties": {
+                "ADDRESS": "Strindvegen 18a, 7051 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Domkirken barnehage",
+                "no-barnehage:nsrid": "1016861",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41222,
+                    63.41785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3071",
+            "properties": {
+                "ADDRESS": "Nils Stavnes Veg 9, 7019 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "contact:website": "http://stavne-barnehage.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Byåsen Tospråklige barnehage avd. Nils Stavnes Veg",
+                "no-barnehage:nsrid": "1021001",
+                "operator": "Byåsen Tospråklige barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37909,
+                    63.41492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3057",
+            "properties": {
+                "ADDRESS": "Bispegata 9c, 7012 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "contact:website": "http://birralee.barnehage.no",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Birralee International Kindergarten Trondheim",
+                "no-barnehage:nsrid": "1022314",
+                "operator": "Birralee International Kindergarten Trondheim AS",
+                "operator:type": "private",
+                "id": "node/-3057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39011,
+                    63.42709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3052",
             "properties": {
                 "ADDRESS": "Guttorms Gate 4, 7030 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -83,7 +427,7 @@
                 "no-barnehage:nsrid": "1016817",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-2869"
+                "id": "node/-3052"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +439,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2865",
+            "id": "node/-3047",
+            "properties": {
+                "ADDRESS": "Nedre Allè 11, 7030 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bakklandet barnehage",
+                "no-barnehage:nsrid": "1016816",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40942,
+                    63.42246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3045",
             "properties": {
                 "ADDRESS": "Klostergata 82, 7030 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -106,7 +473,7 @@
                 "no-barnehage:nsrid": "1020093",
                 "operator": "Andungen barnehage Trondheim Sa",
                 "operator:type": "private",
-                "id": "node/-2865"
+                "id": "node/-3045"
             },
             "geometry": {
                 "type": "Point",

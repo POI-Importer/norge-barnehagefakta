@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3151",
+            "id": "node/-4322",
             "properties": {
                 "ADDRESS": "Risavika Havnering 100, 4056 TANANGER",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1015981",
                 "operator": "Tananger Sokn",
                 "operator:type": "private",
-                "id": "node/-3151"
+                "id": "node/-4322"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3144",
+            "id": "node/-4307",
             "properties": {
                 "ADDRESS": "Rodamyrvegen 60, 4056 TANANGER",
                 "amenity": "kindergarten",
@@ -39,13 +39,36 @@
                 "no-barnehage:nsrid": "1020458",
                 "operator": "Rodamyr barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3144"
+                "id": "node/-4307"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.59452,
                     58.93908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4297",
+            "properties": {
+                "ADDRESS": "Ekofiskvegen 24, 4056 TANANGER",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ekofisk Junior barnehage",
+                "no-barnehage:nsrid": "1019783",
+                "operator": "Stiftelsen Ekofisk Junior",
+                "operator:type": "private",
+                "id": "node/-4297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5959,
+                    58.93184
                 ]
             }
         }

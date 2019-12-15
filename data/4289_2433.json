@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3519",
+            "properties": {
+                "ADDRESS": "Negardskleiva 41, 4865 ÅMLI",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Klokkargarden barnehage",
+                "no-barnehage:nsrid": "1021862",
+                "operator": "Klokkargarden barnehage Da",
+                "operator:type": "private",
+                "id": "node/-3519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.49248,
+                    58.77029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3517",
+            "properties": {
+                "ADDRESS": "Skytehusrabben, 4865 ÅMLI",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Beverborga barnehage",
+                "no-barnehage:nsrid": "1013129",
+                "operator": "Åmli kommune",
+                "operator:type": "public",
+                "id": "node/-3517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4917,
+                    58.77236
+                ]
+            }
+        }
+    ]
+}

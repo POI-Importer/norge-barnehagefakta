@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2828",
+            "id": "node/-2908",
             "properties": {
                 "ADDRESS": "Tiedemannsjordet 1, 3727 SKIEN",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1012690",
                 "operator": "Skien kommune",
                 "operator:type": "public",
-                "id": "node/-2828"
+                "id": "node/-2908"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2825",
+            "id": "node/-2891",
+            "properties": {
+                "ADDRESS": "Gulsetvegen 165, 3726 SKIEN",
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lillefot barnehage",
+                "no-barnehage:nsrid": "1014003",
+                "operator": "Gulset og Skotfoss Sokn",
+                "operator:type": "private",
+                "id": "node/-2891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5669,
+                    59.21752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2889",
             "properties": {
                 "ADDRESS": "Gulsetringen 155, 3727 SKIEN",
                 "amenity": "kindergarten",
@@ -38,13 +61,60 @@
                 "no-barnehage:nsrid": "1016038",
                 "operator": "Skien kommune",
                 "operator:type": "public",
-                "id": "node/-2825"
+                "id": "node/-2889"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.55783,
                     59.21141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2882",
+            "properties": {
+                "ADDRESS": "Gulsetkåsa 43, 3743 SKIEN",
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gulset barnehage",
+                "no-barnehage:nsrid": "1012688",
+                "operator": "Skien kommune",
+                "operator:type": "public",
+                "id": "node/-2882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56051,
+                    59.2176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2871",
+            "properties": {
+                "ADDRESS": "Vestre Einaren 5, 3744 SKIEN",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://www.einaren.barnehage.skien.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Einaren barnehage",
+                "no-barnehage:nsrid": "1019902",
+                "operator": "Einaren barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55761,
+                    59.2095
                 ]
             }
         }

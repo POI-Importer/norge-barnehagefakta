@@ -3,7 +3,53 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3142",
+            "id": "node/-4325",
+            "properties": {
+                "ADDRESS": "Grannesbakken 25, 4044 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "105",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tjodmarka barnehage",
+                "no-barnehage:nsrid": "1015180",
+                "operator": "A2 Holding AS",
+                "operator:type": "private",
+                "id": "node/-4325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69318,
+                    58.93267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4318",
+            "properties": {
+                "ADDRESS": "Novarmen 10, 4044 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden i Stavanger Sis barnehage",
+                "no-barnehage:nsrid": "1015503",
+                "operator": "Studentsamskipnaden i Stavanger",
+                "operator:type": "private",
+                "id": "node/-4318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69985,
+                    58.93138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4299",
             "properties": {
                 "ADDRESS": "Grannesbakken 19, 4044 HAFRSFJORD",
                 "amenity": "kindergarten",
@@ -14,7 +60,7 @@
                 "no-barnehage:nsrid": "1012797",
                 "operator": "Sola kommune",
                 "operator:type": "public",
-                "id": "node/-3142"
+                "id": "node/-4299"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +72,54 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3115",
+            "id": "node/-4152",
+            "properties": {
+                "ADDRESS": "Magnus Karlsons Gate 13, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:website": "http://www.tommeliten.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tommeliten barnehage",
+                "no-barnehage:nsrid": "1020273",
+                "operator": "Tommeliten barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70608,
+                    58.94998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4129",
+            "properties": {
+                "ADDRESS": "Jupiterveien 22, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Satelitten barnehage",
+                "no-barnehage:nsrid": "1012911",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70086,
+                    58.9467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4125",
             "properties": {
                 "ADDRESS": "Åsta Kongsmors Gate 22, 4044 HAFRSFJORD",
                 "amenity": "kindergarten",
@@ -38,7 +131,7 @@
                 "no-barnehage:nsrid": "1019857",
                 "operator": "Stiftelsen Sr Bank barnehage",
                 "operator:type": "private",
-                "id": "node/-3115"
+                "id": "node/-4125"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +143,171 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3107",
+            "id": "node/-4109",
+            "properties": {
+                "ADDRESS": "Norvald Frafjords Gate 42, 4041 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.minbarnehage.no/madlavollbhg",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Madlavoll barnehage",
+                "no-barnehage:nsrid": "1015504",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69093,
+                    58.94424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4107",
+            "properties": {
+                "ADDRESS": "Sulkes Gate 30, 4041 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Læringsverkstedet barnehage avd. Hannes Lekestue Madla",
+                "no-barnehage:nsrid": "2000170",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67833,
+                    58.94732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4087",
+            "properties": {
+                "ADDRESS": "Professor Olav Hanssens Vei 12, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Havhesten barnehage",
+                "no-barnehage:nsrid": "1014792",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70393,
+                    58.93574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4083",
+            "properties": {
+                "ADDRESS": "Gosenlund 14, 4041 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "contact:website": "http://www.minbarnehage.no/gosenbhg",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gosen barnehage",
+                "no-barnehage:nsrid": "1012918",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69016,
+                    58.94153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4054",
+            "properties": {
+                "ADDRESS": "Åroliljastien 2, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagene Haugtussa Krabat og Våland avd. Haugtussa",
+                "no-barnehage:nsrid": "1012915",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6981,
+                    58.94587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4053",
+            "properties": {
+                "ADDRESS": "Kjell Arholms Gate 26, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://minbarnehage.no/hkogv",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagene Haugtussa Krabat og Våland avd. Krabat",
+                "no-barnehage:nsrid": "1016210",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69765,
+                    58.93903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4051",
+            "properties": {
+                "ADDRESS": "Hemmestveitbakken 11, 4021 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnehagen Tjensvoll avd. Tjensås",
+                "no-barnehage:nsrid": "1025375",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-4051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69404,
+                    58.94871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4049",
             "properties": {
                 "ADDRESS": "Madlamarkveien 135, 4041 HAFRSFJORD",
                 "amenity": "kindergarten",
@@ -62,7 +319,7 @@
                 "no-barnehage:nsrid": "1020414",
                 "operator": "Madlamark Sokn",
                 "operator:type": "private",
-                "id": "node/-3107"
+                "id": "node/-4049"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2924",
+            "id": "node/-3291",
+            "properties": {
+                "ADDRESS": "Vikåsen 16, 7054 RANHEIM",
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikåsen barnehage",
+                "no-barnehage:nsrid": "1014783",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53466,
+                    63.4129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3289",
             "properties": {
                 "ADDRESS": "Ranheimshøgda 3d, 7054 RANHEIM",
                 "amenity": "kindergarten",
@@ -13,7 +36,7 @@
                 "no-barnehage:nsrid": "1020270",
                 "operator": "Vikelva Familiebarnehage Britt Berger",
                 "operator:type": "private",
-                "id": "node/-2924"
+                "id": "node/-3289"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +48,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2906",
+            "id": "node/-3224",
+            "properties": {
+                "ADDRESS": "Ranheimsvegen 177b, 7055 RANHEIM",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sjøskogbekken FUS barnehage",
+                "no-barnehage:nsrid": "1021143",
+                "operator": "Sjøskogbekken Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5229,
+                    63.42683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3197",
             "properties": {
                 "ADDRESS": "Lutelvvegen 1, 7055 RANHEIM",
                 "amenity": "kindergarten",
@@ -33,7 +79,7 @@
                 "no-barnehage:nsrid": "2000528",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2906"
+                "id": "node/-3197"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +91,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2892",
+            "id": "node/-3196",
+            "properties": {
+                "ADDRESS": "Presthusvegen 31, 7056 RANHEIM",
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Presthus gård barnehage",
+                "no-barnehage:nsrid": "1017819",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51513,
+                    63.42386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3166",
             "properties": {
                 "ADDRESS": "Markaplassen 192, 7054 RANHEIM",
                 "amenity": "kindergarten",
@@ -57,13 +126,60 @@
                 "no-barnehage:nsrid": "1020150",
                 "operator": "Markaplassen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2892"
+                "id": "node/-3166"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.53103,
                     63.41468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3160",
+            "properties": {
+                "ADDRESS": "Ranheimslivegen 3, 7055 RANHEIM",
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "contact:website": "http://laringsverkstedet.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Humlehaugen",
+                "no-barnehage:nsrid": "1015120",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53916,
+                    63.42813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3099",
+            "properties": {
+                "ADDRESS": "Anders Søyseths Veg 26, 7056 RANHEIM",
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Grilstad FUS barnehage",
+                "no-barnehage:nsrid": "1021587",
+                "operator": "Grilstad Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50501,
+                    63.43045
                 ]
             }
         }

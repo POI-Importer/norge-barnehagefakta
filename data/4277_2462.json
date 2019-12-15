@@ -3,7 +3,53 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3057",
+            "id": "node/-3827",
+            "properties": {
+                "ADDRESS": "Hundebakken 6, 4622 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "192",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vågsbygd FUS barnehage",
+                "no-barnehage:nsrid": "1022070",
+                "operator": "Vågsbygd Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.95518,
+                    58.11658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3825",
+            "properties": {
+                "ADDRESS": "Sjekteveien 1, 4624 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Voietun barnehage",
+                "no-barnehage:nsrid": "1016753",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.95798,
+                    58.10403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3812",
             "properties": {
                 "ADDRESS": "Ærfuglveien 13b, 4623 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -14,7 +60,7 @@
                 "no-barnehage:nsrid": "1020386",
                 "operator": "Ternevig barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3057"
+                "id": "node/-3812"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +72,73 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3028",
+            "id": "node/-3798",
+            "properties": {
+                "ADDRESS": "Vågsbygdveien 63, 4622 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skårungen barnehage",
+                "no-barnehage:nsrid": "1012862",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.96338,
+                    58.11847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3782",
+            "properties": {
+                "ADDRESS": "Villandveien 2, 4623 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mummidalen barnehage",
+                "no-barnehage:nsrid": "1022102",
+                "operator": "Mummidalen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97358,
+                    58.10355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3717",
+            "properties": {
+                "ADDRESS": "Andøysløyfen 161, 4623 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "name": "Andøysløyfen familiebarnehage",
+                "no-barnehage:nsrid": "1021861",
+                "operator": "Andøysløyfen Familiebarnehage Da",
+                "operator:type": "private",
+                "id": "node/-3717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98374,
+                    58.10979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3716",
             "properties": {
                 "ADDRESS": "Andøyveien 101, 4623 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -38,7 +150,7 @@
                 "no-barnehage:nsrid": "1020032",
                 "operator": "Andungen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3028"
+                "id": "node/-3716"
             },
             "geometry": {
                 "type": "Point",

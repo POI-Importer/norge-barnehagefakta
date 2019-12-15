@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4403",
+            "properties": {
+                "ADDRESS": "Austreivegen 1, 4250 KOPERVIK",
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Østrem barnehage",
+                "no-barnehage:nsrid": "1021059",
+                "operator": "Espira Østrem AS",
+                "operator:type": "private",
+                "id": "node/-4403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2948,
+                    59.28902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4396",
+            "properties": {
+                "ADDRESS": "Asalheimvegen 2, 4250 KOPERVIK",
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "contact:website": "http://bygnesbarnehage.vigilo.no/web/index",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bygnes vitenbarnehage",
+                "no-barnehage:nsrid": "1015587",
+                "operator": "Karmøy kommune",
+                "operator:type": "public",
+                "id": "node/-4396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28473,
+                    59.28904
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3406",
+            "properties": {
+                "ADDRESS": "Bråten, 7800 NAMSOS",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Natur & idrettsbarnehagen avd. Bråten",
+                "no-barnehage:nsrid": "1016507",
+                "operator": "Natur & Idrettsbarnehagen AS",
+                "operator:type": "private",
+                "id": "node/-3406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39231,
+                    64.39394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3396",
+            "properties": {
+                "ADDRESS": "Klingavegen 1317, 7822 BANGSUND",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:website": "http://minbarnehage.no/bangsund",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bangsund barnehage",
+                "no-barnehage:nsrid": "1018261",
+                "operator": "Namsos kommune",
+                "operator:type": "public",
+                "id": "node/-3396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.40166,
+                    64.39197
+                ]
+            }
+        }
+    ]
+}

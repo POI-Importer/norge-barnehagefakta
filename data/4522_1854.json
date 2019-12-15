@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3587",
+            "id": "node/-5913",
+            "properties": {
+                "ADDRESS": "Ropnesvegen 30, 9107 KVALØYA",
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kjosen barnehage",
+                "no-barnehage:nsrid": "1013439",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73951,
+                    69.68513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5900",
             "properties": {
                 "ADDRESS": "Åslandvegen 30, 9105 KVALØYA",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1017058",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3587"
+                "id": "node/-5900"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2565",
+            "id": "node/-2562",
             "properties": {
                 "ADDRESS": "Kirkealleen 114, 3470 SLEMMESTAD",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1014005",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2565"
+                "id": "node/-2562"
             },
             "geometry": {
                 "type": "Point",
@@ -27,19 +27,43 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2554",
+            "id": "node/-2561",
+            "properties": {
+                "ADDRESS": "Østskogveien 40, 3470 SLEMMESTAD",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "contact:website": "http://torvbraten.kanvas.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torvbråten Kanvas-barnehage",
+                "no-barnehage:nsrid": "1015990",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-2561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47794,
+                    59.76114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2551",
             "properties": {
                 "ADDRESS": "Sundbyveien 5, 3478 NÆRSNES",
                 "amenity": "kindergarten",
                 "capacity": "14",
-                "contact:website": "http://www.nærsnes-barnehage.no",
+                "contact:website": "http://fus.no/naersnes",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nærsnes FUS barnehage",
                 "no-barnehage:nsrid": "1020318",
                 "operator": "Nærsnes Fus barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2554"
+                "id": "node/-2551"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2552",
+            "id": "node/-2549",
             "properties": {
                 "ADDRESS": "Nyveien 39, 3470 SLEMMESTAD",
                 "amenity": "kindergarten",
@@ -62,7 +86,7 @@
                 "no-barnehage:nsrid": "1021301",
                 "operator": "Morbergtoppen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2552"
+                "id": "node/-2549"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2540",
+            "id": "node/-2537",
             "properties": {
                 "ADDRESS": "Tors Vei 80, 3472 BØDALEN",
                 "amenity": "kindergarten",
@@ -82,7 +106,7 @@
                 "no-barnehage:nsrid": "2000040",
                 "operator": "Bødalen Idrettsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2540"
+                "id": "node/-2537"
             },
             "geometry": {
                 "type": "Point",

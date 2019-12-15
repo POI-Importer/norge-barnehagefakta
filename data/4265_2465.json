@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3067",
+            "id": "node/-3838",
             "properties": {
                 "ADDRESS": "Legatveien 1, 4517 MANDAL",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1019957",
                 "operator": "Hurlumhei barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3067"
+                "id": "node/-3838"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.46404,
                     58.03693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3836",
+            "properties": {
+                "ADDRESS": "Livegen 67, 4517 MANDAL",
+                "amenity": "kindergarten",
+                "capacity": "85",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Frøysland barnehage",
+                "no-barnehage:nsrid": "1014726",
+                "operator": "Mandal kommune",
+                "operator:type": "public",
+                "id": "node/-3836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.45995,
+                    58.03749
                 ]
             }
         }

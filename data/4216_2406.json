@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4199",
+            "properties": {
+                "ADDRESS": "Salhusvegen 28, 5529 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "St. Olav barnehage",
+                "no-barnehage:nsrid": "1016845",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30014,
+                    59.38551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4175",
+            "properties": {
+                "ADDRESS": "Industrigata 10-12, 5537 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:website": "http://www.haugaland-industri.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Haugaland idrettsbarnehage",
+                "no-barnehage:nsrid": "1016587",
+                "operator": "As Haugaland Industri",
+                "operator:type": "private",
+                "id": "node/-4175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30762,
+                    59.3876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4169",
+            "properties": {
+                "ADDRESS": "Peer Gynts Veg 6e, 5538 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:website": "http://espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Bjørgene barnehage",
+                "no-barnehage:nsrid": "1021279",
+                "operator": "Espira Bjørgene AS",
+                "operator:type": "private",
+                "id": "node/-4169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30152,
+                    59.39361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4166",
+            "properties": {
+                "ADDRESS": "Rossabøskogen 5c, 5537 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.amanda.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Amanda barnehage",
+                "no-barnehage:nsrid": "1020785",
+                "operator": "Amanda barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3092,
+                    59.39209
+                ]
+            }
+        }
+    ]
+}

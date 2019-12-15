@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4584",
+            "properties": {
+                "ADDRESS": "Nordre Toppe 3, 5136 MJØLKERÅEN",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Toppemyr",
+                "no-barnehage:nsrid": "1022410",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27067,
+                    60.4859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4538",
+            "properties": {
+                "ADDRESS": "Marikollen 7, 5136 MJØLKERÅEN",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "contact:website": "http://heimly.bhg.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heimly barnehage",
+                "no-barnehage:nsrid": "1020319",
+                "operator": "Heimly barnehage",
+                "operator:type": "private",
+                "id": "node/-4538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2652,
+                    60.48661
+                ]
+            }
+        }
+    ]
+}

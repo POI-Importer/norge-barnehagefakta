@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3420",
+            "properties": {
+                "ADDRESS": "Olstadveien 10, 4985 VEGÅRSHEI",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vegårshei barnehage avd. Myra",
+                "no-barnehage:nsrid": "1018056",
+                "operator": "Vegårshei kommune",
+                "operator:type": "public",
+                "id": "node/-3420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.85984,
+                    58.74825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3418",
+            "properties": {
+                "ADDRESS": "Presteveien 1610, 4985 VEGÅRSHEI",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://dyrebogaardsbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dyrebo gårdsbarnehage",
+                "no-barnehage:nsrid": "1021780",
+                "operator": "Dyrebo Gårdsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.86617,
+                    58.7665
+                ]
+            }
+        }
+    ]
+}

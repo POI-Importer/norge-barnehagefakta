@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4346",
+            "properties": {
+                "ADDRESS": "Rødlandsvegen 28, 4120 TAU",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rødlandsmyrå barnehage",
+                "no-barnehage:nsrid": "1021081",
+                "operator": "Rødlandsmyrå barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.92912,
+                    59.06111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4345",
+            "properties": {
+                "ADDRESS": "Einerhaugvegen 9, 4120 TAU",
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://www.fjordsyn.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Fjordsyn barnehage",
+                "no-barnehage:nsrid": "1016191",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.91961,
+                    59.0542
+                ]
+            }
+        }
+    ]
+}

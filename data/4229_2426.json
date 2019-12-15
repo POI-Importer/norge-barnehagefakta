@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3099",
+            "id": "node/-3994",
             "properties": {
                 "ADDRESS": "Amboltveien 2, 4311 HOMMERSÅK",
                 "amenity": "kindergarten",
@@ -11,13 +11,36 @@
                 "no-barnehage:nsrid": "1015878",
                 "operator": "Sandnes Kirkelige Fellesråd",
                 "operator:type": "private",
-                "id": "node/-3099"
+                "id": "node/-3994"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.85494,
                     58.92776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3986",
+            "properties": {
+                "ADDRESS": "Teineveien 2, 4310 HOMMERSÅK",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hommersåk barnehage",
+                "no-barnehage:nsrid": "1012888",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.84808,
+                    58.92764
                 ]
             }
         }

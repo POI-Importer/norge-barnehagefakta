@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3249",
+            "id": "node/-4709",
             "properties": {
                 "ADDRESS": "Ulsetskogen 7, 5119 ULSET",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1025391",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3249"
+                "id": "node/-4709"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3248",
+            "id": "node/-4708",
             "properties": {
                 "ADDRESS": "Midtkleiva 80, 5119 ULSET",
                 "amenity": "kindergarten",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1020315",
                 "operator": "Ulset barnehage",
                 "operator:type": "private",
-                "id": "node/-3248"
+                "id": "node/-4708"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,103 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3197",
+            "id": "node/-4636",
+            "properties": {
+                "ADDRESS": "Morvikbotn 174, 5122 MORVIK",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/morvikbotn-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Morvikbotn barnehage",
+                "no-barnehage:nsrid": "1025397",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2794,
+                    60.46951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4583",
+            "properties": {
+                "ADDRESS": "Bekkjarvikveien 3, 5114 TERTNES",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Tertitten",
+                "no-barnehage:nsrid": "1022409",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28726,
+                    60.45749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4575",
+            "properties": {
+                "ADDRESS": "Myrdalsvegen 159, 5130 NYBORG",
+                "amenity": "kindergarten",
+                "capacity": "194",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Myrdal",
+                "no-barnehage:nsrid": "1021503",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31241,
+                    60.4711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4567",
+            "properties": {
+                "ADDRESS": "Haukedalsveien 135, 5113 TERTNES",
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "contact:website": "http://www.kidsabarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Haukedalen",
+                "no-barnehage:nsrid": "1020987",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29309,
+                    60.4631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4537",
             "properties": {
                 "ADDRESS": "Morvikbotn 172, 5122 MORVIK",
                 "amenity": "kindergarten",
@@ -63,13 +159,61 @@
                 "no-barnehage:nsrid": "1015485",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3197"
+                "id": "node/-4537"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.28053,
                     60.46888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4503",
+            "properties": {
+                "ADDRESS": "Midtkleiva 56, 5119 ULSET",
+                "amenity": "kindergarten",
+                "capacity": "291",
+                "contact:website": "http://ulsetskogen.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Ulsetskogen barnehage",
+                "no-barnehage:nsrid": "1021636",
+                "operator": "Espira Ulsetskogen AS",
+                "operator:type": "private",
+                "id": "node/-4503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31062,
+                    60.46326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4476",
+            "properties": {
+                "ADDRESS": "Myrdalskogen 55, 5118 ULSET",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/blokkhaugen-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blokkhaugen barnehage",
+                "no-barnehage:nsrid": "1016229",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31414,
+                    60.46726
                 ]
             }
         }

@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5265",
+            "properties": {
+                "ADDRESS": "Politimester Bendixens Gate 51, 6508 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Blåtoppen",
+                "no-barnehage:nsrid": "1016727",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71702,
+                    63.11222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5259",
+            "properties": {
+                "ADDRESS": "Wessels Gate 35, 6507 KRISTIANSUND N",
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heinsa barnehage",
+                "no-barnehage:nsrid": "1018170",
+                "operator": "Kristiansund kommune",
+                "operator:type": "public",
+                "id": "node/-5259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734,
+                    63.1021
+                ]
+            }
+        }
+    ]
+}

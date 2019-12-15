@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3238",
+            "id": "node/-4725",
+            "properties": {
+                "ADDRESS": "Øyjordsveien 69, 5038 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "113",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/oyjorden-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øyjordet barnehage",
+                "no-barnehage:nsrid": "1018383",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30064,
+                    60.4299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4685",
             "properties": {
                 "ADDRESS": "Solbakken 16, 5038 BERGEN",
                 "amenity": "kindergarten",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1016684",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3238"
+                "id": "node/-4685"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +50,55 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3201",
+            "id": "node/-4582",
+            "properties": {
+                "ADDRESS": "Skytterveien 23a, 5038 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Sølvberget",
+                "no-barnehage:nsrid": "1022413",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31354,
+                    60.42217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4576",
+            "properties": {
+                "ADDRESS": "Nyhavnsveien 4, 5042 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "46",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Nyhavn",
+                "no-barnehage:nsrid": "1022412",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30932,
+                    60.41816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4544",
             "properties": {
                 "ADDRESS": "Sandviksleitet 1, 5036 BERGEN",
                 "amenity": "kindergarten",
@@ -37,7 +109,7 @@
                 "no-barnehage:nsrid": "1016678",
                 "operator": "Helse Bergen Hf",
                 "operator:type": "private",
-                "id": "node/-3201"
+                "id": "node/-4544"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +121,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3199",
+            "id": "node/-4540",
             "properties": {
                 "ADDRESS": "Ellerhusens Vei 35, 5043 BERGEN",
                 "amenity": "kindergarten",
@@ -59,7 +131,7 @@
                 "no-barnehage:nsrid": "1014910",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3199"
+                "id": "node/-4540"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +143,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3198",
+            "id": "node/-4539",
             "properties": {
                 "ADDRESS": "Hellebakken 31, 5039 BERGEN",
                 "amenity": "kindergarten",
@@ -82,13 +154,59 @@
                 "no-barnehage:nsrid": "1016680",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3198"
+                "id": "node/-4539"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.28518,
                     60.43237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4477",
+            "properties": {
+                "ADDRESS": "Øyjordsveien 11, 5038 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blokksberg barnehage",
+                "no-barnehage:nsrid": "1015787",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "id": "node/-4477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30895,
+                    60.42275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4474",
+            "properties": {
+                "ADDRESS": "Skuldveien 2, 5043 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Biskopshavn barnehage",
+                "no-barnehage:nsrid": "1016233",
+                "operator": "Biskopshavn barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29846,
+                    60.42461
                 ]
             }
         }

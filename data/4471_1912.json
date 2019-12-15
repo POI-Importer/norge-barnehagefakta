@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3624",
+            "id": "node/-6000",
+            "properties": {
+                "ADDRESS": "Dalsletta 5, 9407 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heggen barnehager avd. Blåbærdalen",
+                "no-barnehage:nsrid": "1017074",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-6000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51667,
+                    68.78123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5990",
             "properties": {
                 "ADDRESS": "Dalsletta 2, 9407 HARSTAD",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1019990",
                 "operator": "Dalsletta barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3624"
+                "id": "node/-5990"
             },
             "geometry": {
                 "type": "Point",

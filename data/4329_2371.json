@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2385",
+            "id": "node/-2382",
             "properties": {
                 "ADDRESS": "Kong Rings Gate 7, 3510 HØNEFOSS",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1018000",
                 "operator": "Ringerike kommune",
                 "operator:type": "public",
-                "id": "node/-2385"
+                "id": "node/-2382"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2372",
+            "id": "node/-2370",
+            "properties": {
+                "ADDRESS": "Eikliveien 15, 3511 HØNEFOSS",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eikli barnehage",
+                "no-barnehage:nsrid": "1012494",
+                "operator": "Ringerike kommune",
+                "operator:type": "public",
+                "id": "node/-2370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.25416,
+                    60.15763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2369",
             "properties": {
                 "ADDRESS": "Carl Platous Gate 5, 3511 HØNEFOSS",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1019981",
                 "operator": "Dalsbråten barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2372"
+                "id": "node/-2369"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2370",
+            "id": "node/-2367",
             "properties": {
                 "ADDRESS": "Hvelven 34, 3510 HØNEFOSS",
                 "amenity": "kindergarten",
@@ -61,7 +84,7 @@
                 "no-barnehage:nsrid": "1020893",
                 "operator": "Blåbærskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2370"
+                "id": "node/-2367"
             },
             "geometry": {
                 "type": "Point",

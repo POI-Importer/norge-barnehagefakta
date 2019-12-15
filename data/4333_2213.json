@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2927",
+            "id": "node/-3296",
             "properties": {
                 "ADDRESS": "Weidemanns Vei 40, 7043 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020377",
                 "operator": "Weidemannsveien barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2927"
+                "id": "node/-3296"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2926",
+            "id": "node/-3294",
             "properties": {
                 "ADDRESS": "Mellomveien 5, 7067 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1016908",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2926"
+                "id": "node/-3294"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,50 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2917",
+            "id": "node/-3274",
+            "properties": {
+                "ADDRESS": "Lauritz Jenssens Gate 20, 7045 TRONDHEIM",
+                "amenity": "kindergarten",
+                "name": "Trondheim International Playground",
+                "no-barnehage:nsrid": "1014098",
+                "operator": "Aziz Drums Kunya",
+                "operator:type": "private",
+                "id": "node/-3274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44663,
+                    63.43443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3256",
+            "properties": {
+                "ADDRESS": "Strandveien 33, 7067 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svartlamon Kunst- og kulturbarnehage",
+                "no-barnehage:nsrid": "1016958",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42283,
+                    63.43862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3242",
             "properties": {
                 "ADDRESS": "Gunnlaugs Vei 15, 7040 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -61,7 +104,7 @@
                 "no-barnehage:nsrid": "1016846",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2917"
+                "id": "node/-3242"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +116,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2909",
+            "id": "node/-3216",
             "properties": {
                 "ADDRESS": "Mellomveien 5, 7067 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -81,7 +124,7 @@
                 "no-barnehage:nsrid": "1019552",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2909"
+                "id": "node/-3216"
             },
             "geometry": {
                 "type": "Point",
@@ -93,7 +136,54 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2908",
+            "id": "node/-3214",
+            "properties": {
+                "ADDRESS": "Lossiusvegen 5b, 7045 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "contact:website": "http://www.saxenborg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Saxenborg barnehage",
+                "no-barnehage:nsrid": "1021406",
+                "operator": "Saxenborg barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44495,
+                    63.43694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3210",
+            "properties": {
+                "ADDRESS": "Rønningsvegen 17, 7045 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rønningen barnehage",
+                "no-barnehage:nsrid": "1025412",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44155,
+                    63.43507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3207",
             "properties": {
                 "ADDRESS": "Ladeveien 1, 7066 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -101,13 +191,192 @@
                 "no-barnehage:nsrid": "1020148",
                 "operator": "Rosenborg Barnehageforening",
                 "operator:type": "private",
-                "id": "node/-2908"
+                "id": "node/-3207"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.43476,
                     63.4407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3206",
+            "properties": {
+                "ADDRESS": "Ladeveien 1, 7066 TRONDHEIM",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rosenborg barnehage",
+                "no-barnehage:nsrid": "1022334",
+                "operator": "Rosenborg barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43476,
+                    63.4407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3173",
+            "properties": {
+                "ADDRESS": "Ladeveien 17, 7066 TRONDHEIM",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.musikkmanesjen.no",
+                "name": "Musikkmanesjen",
+                "no-barnehage:nsrid": "1021564",
+                "operator": "Kulset Musikkmanesjen",
+                "operator:type": "private",
+                "id": "node/-3173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4361,
+                    63.44297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3164",
+            "properties": {
+                "ADDRESS": "Ulavegen 4, 7045 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Majorstuen barnehage",
+                "no-barnehage:nsrid": "1017741",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44151,
+                    63.43092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3143",
+            "properties": {
+                "ADDRESS": "Østersunds Gate 3, 7067 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lademoen barnehage",
+                "no-barnehage:nsrid": "1016778",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42116,
+                    63.43687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3136",
+            "properties": {
+                "ADDRESS": "General Von Hovens Vei 16, 7040 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Korsvika barnehage",
+                "no-barnehage:nsrid": "1014782",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43326,
+                    63.44919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3076",
+            "properties": {
+                "ADDRESS": "Thrond Nergaards Veg 1, 7044 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dronning Mauds Minne barnehage",
+                "no-barnehage:nsrid": "1025402",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4477,
+                    63.43887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3048",
+            "properties": {
+                "ADDRESS": "Baldershage 111, 7045 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://baldershage.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Baldershage barnehage",
+                "no-barnehage:nsrid": "1014823",
+                "operator": "Stiftelsen Aurora",
+                "operator:type": "private",
+                "id": "node/-3048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45215,
+                    63.4325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3044",
+            "properties": {
+                "ADDRESS": "Båtsmannsgata 4, 7042 TRONDHEIM",
+                "amenity": "kindergarten",
+                "name": "Aktiv åpen barnehage",
+                "no-barnehage:nsrid": "1020910",
+                "operator": "Aktiv Åpen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41555,
+                    63.43911
                 ]
             }
         }

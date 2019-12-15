@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5249",
+            "properties": {
+                "ADDRESS": "Haugvegen 19, 6015 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "120",
+                "contact:website": "http://www.trollhaugenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollhaugen barnehage",
+                "no-barnehage:nsrid": "1021141",
+                "operator": "Trollhaugen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.24831,
+                    62.46782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5237",
+            "properties": {
+                "ADDRESS": "Hatlaskaret 19, 6016 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "28",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ratvikåsen barnehage",
+                "no-barnehage:nsrid": "1018179",
+                "operator": "Ålesund kommune",
+                "operator:type": "public",
+                "id": "node/-5237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.26646,
+                    62.46088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5218",
+            "properties": {
+                "ADDRESS": "Søstrene Ratviks Veg 14, 6015 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Ratvika",
+                "no-barnehage:nsrid": "1022083",
+                "operator": "Gnist Barnehager Ratvika AS",
+                "operator:type": "private",
+                "id": "node/-5218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.26181,
+                    62.46278
+                ]
+            }
+        }
+    ]
+}

@@ -3,7 +3,99 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3224",
+            "id": "node/-4723",
+            "properties": {
+                "ADDRESS": "Østre Nattlandsfjellet 4, 5098 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://www.onbhg.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Østre Nattlandsfjellet barnehage",
+                "no-barnehage:nsrid": "1021720",
+                "operator": "Østre Nattlandsfjellet barnehage Ans",
+                "operator:type": "private",
+                "id": "node/-4723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37204,
+                    60.3452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4700",
+            "properties": {
+                "ADDRESS": "Helldalssåta 14, 5225 NESTTUN",
+                "amenity": "kindergarten",
+                "name": "Såta barnehage Tony Robert Moe Dahle",
+                "no-barnehage:nsrid": "1021678",
+                "operator": "Såta barnehage Tony Robert Moe Dahle",
+                "operator:type": "private",
+                "id": "node/-4700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38898,
+                    60.33983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4671",
+            "properties": {
+                "ADDRESS": "Sanddalsbotn 54, 5221 NESTTUN",
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/sandalsbotn-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandalsbotn barnehage",
+                "no-barnehage:nsrid": "1016089",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36775,
+                    60.33098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4642",
+            "properties": {
+                "ADDRESS": "Merkurvegen 30, 5099 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/nattland-oppveksttun-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nattland oppveksttun - barnehage",
+                "no-barnehage:nsrid": "2000093",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37311,
+                    60.33669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4641",
             "properties": {
                 "ADDRESS": "Nattlandsrinden 71, 5098 BERGEN",
                 "amenity": "kindergarten",
@@ -14,7 +106,7 @@
                 "no-barnehage:nsrid": "1016717",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3224"
+                "id": "node/-4641"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +118,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3209",
+            "id": "node/-4590",
             "properties": {
                 "ADDRESS": "Kjenndalslia 27, 5225 NESTTUN",
                 "amenity": "kindergarten",
@@ -38,13 +130,156 @@
                 "no-barnehage:nsrid": "1015486",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3209"
+                "id": "node/-4590"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.37737,
                     60.32987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4587",
+            "properties": {
+                "ADDRESS": "Øvre Sædalsvegen 80, 5099 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Øvre Sædal friluftsbarnehage",
+                "no-barnehage:nsrid": "1014237",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38018,
+                    60.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4499",
+            "properties": {
+                "ADDRESS": "Kattuglebrotet 3, 5099 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "contact:website": "http://www.espira.rambjora.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Rambjøra barnehage",
+                "no-barnehage:nsrid": "1021058",
+                "operator": "Espira Rambjøra AS",
+                "operator:type": "private",
+                "id": "node/-4499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36437,
+                    60.33848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4498",
+            "properties": {
+                "ADDRESS": "Sanddalsringen 260, 5225 NESTTUN",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Helldalsåsen barnehage",
+                "no-barnehage:nsrid": "1020881",
+                "operator": "Espira Helldalsåsen AS",
+                "operator:type": "private",
+                "id": "node/-4498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38615,
+                    60.33648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4494",
+            "properties": {
+                "ADDRESS": "Øvre Sædalsvegen 247, 5099 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://eplekarten.wordpress.com/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eplekarten Steinerbarnehage",
+                "no-barnehage:nsrid": "1019872",
+                "operator": "Eplekarten Steinerbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38119,
+                    60.34822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4460",
+            "properties": {
+                "ADDRESS": "Sædalssvingene 6, 5099 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "117",
+                "contact:website": "http://www.akasiabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Sædalen barnehage",
+                "no-barnehage:nsrid": "1020396",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.39428,
+                    60.34619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4445",
+            "properties": {
+                "ADDRESS": "Vilhelm Bjerknes' Vei 54, 5081 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "75",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Bjerknesparken barnehage",
+                "no-barnehage:nsrid": "1025961",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36152,
+                    60.34817
                 ]
             }
         }

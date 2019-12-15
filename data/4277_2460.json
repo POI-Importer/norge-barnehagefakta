@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3064",
+            "id": "node/-3829",
             "properties": {
                 "ADDRESS": "Wergelandsveien 15a, 4616 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020231",
                 "operator": "Wergelandsveien barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3064"
+                "id": "node/-3829"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3060",
+            "id": "node/-3819",
             "properties": {
                 "ADDRESS": "Andreas Kjærs Vei 76, 4615 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1015955",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3060"
+                "id": "node/-3819"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,97 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3036",
+            "id": "node/-3815",
+            "properties": {
+                "ADDRESS": "Tinnheiveien 24, 4629 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tinnstua barnehage",
+                "no-barnehage:nsrid": "1015517",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.95551,
+                    58.14771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3793",
+            "properties": {
+                "ADDRESS": "Jegergata 14, 4616 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ravnedalen barnehage",
+                "no-barnehage:nsrid": "1016062",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97456,
+                    58.15271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3772",
+            "properties": {
+                "ADDRESS": "Fagerdalsveien 1, 4617 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:website": "http://laringsverkstedet.no/grim",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Grim",
+                "no-barnehage:nsrid": "1016601",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.96644,
+                    58.14823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3762",
+            "properties": {
+                "ADDRESS": "Setesdalsveien 24, 4612 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "name": "Kristiansand kommune Pedagogisk Lekesenter",
+                "no-barnehage:nsrid": "1004440",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98387,
+                    58.14771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3743",
             "properties": {
                 "ADDRESS": "Møllevannsveien 44, 4617 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -57,13 +147,59 @@
                 "no-barnehage:nsrid": "1020412",
                 "operator": "Grim Sokn",
                 "operator:type": "private",
-                "id": "node/-3036"
+                "id": "node/-3743"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.97242,
                     58.14809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3736",
+            "properties": {
+                "ADDRESS": "Lømslands Vei 23, 4614 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fergefjellet barnehage",
+                "no-barnehage:nsrid": "1016500",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99383,
+                    58.15208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3715",
+            "properties": {
+                "ADDRESS": "Andreas Kjærs Vei 77, 4615 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Alvejordet Steinerbarnehage",
+                "no-barnehage:nsrid": "1019763",
+                "operator": "Alvejordet Steinerbarnehage",
+                "operator:type": "private",
+                "id": "node/-3715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98685,
+                    58.15919
                 ]
             }
         }

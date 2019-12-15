@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4002",
+            "properties": {
+                "ADDRESS": "Brattebøveien 8, 4336 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Bratteborg barnehage",
+                "no-barnehage:nsrid": "1021958",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-4002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75879,
+                    58.82424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3993",
+            "properties": {
+                "ADDRESS": "Kvernhusbakken 1, 4336 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kleivane barnehage",
+                "no-barnehage:nsrid": "2000148",
+                "operator": "Sandnes kommune",
+                "operator:type": "public",
+                "id": "node/-3993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.77009,
+                    58.83304
+                ]
+            }
+        }
+    ]
+}

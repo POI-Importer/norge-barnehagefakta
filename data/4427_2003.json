@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3484",
+            "id": "node/-5573",
+            "properties": {
+                "ADDRESS": "Høgliveien 2, 8028 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:website": "http://www.studentinord.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nord Studentsamskipnad avd. Studentongan barnehage",
+                "no-barnehage:nsrid": "1015510",
+                "operator": "Nord Studentsamskipnad",
+                "operator:type": "private",
+                "id": "node/-5573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56719,
+                    67.28876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5569",
+            "properties": {
+                "ADDRESS": "Mørkvedveien 98, 8028 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mørkvedlia barnehage",
+                "no-barnehage:nsrid": "1018290",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5677,
+                    67.288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5548",
             "properties": {
                 "ADDRESS": "Mørkvedtråkket 7, 8026 BODØ",
                 "amenity": "kindergarten",
@@ -14,7 +61,7 @@
                 "no-barnehage:nsrid": "1016630",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3484"
+                "id": "node/-5548"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3483",
+            "id": "node/-5547",
             "properties": {
                 "ADDRESS": "Krøkkebærveien 5, 8026 BODØ",
                 "amenity": "kindergarten",
@@ -37,7 +84,7 @@
                 "no-barnehage:nsrid": "1014195",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3483"
+                "id": "node/-5547"
             },
             "geometry": {
                 "type": "Point",

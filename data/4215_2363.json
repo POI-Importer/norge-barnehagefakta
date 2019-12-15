@@ -3,7 +3,103 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3181",
+            "id": "node/-4698",
+            "properties": {
+                "ADDRESS": "Bjørndalsskogen 41, 5170 BJØRNDALSTRÆ",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/saterdal-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sæterdal barnehage",
+                "no-barnehage:nsrid": "1025396",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23946,
+                    60.34523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4639",
+            "properties": {
+                "ADDRESS": "Myrholtet 133, 5142 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/myrholtet-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myrholtet barnehage",
+                "no-barnehage:nsrid": "1016686",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-4639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27197,
+                    60.34527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4585",
+            "properties": {
+                "ADDRESS": "Vardeveien 69, 5141 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Varden",
+                "no-barnehage:nsrid": "1022418",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27176,
+                    60.33997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4560",
+            "properties": {
+                "ADDRESS": "Allestadhaugen 1, 5142 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.kidsabarnehager.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kidsa Allestadhaugen",
+                "no-barnehage:nsrid": "1022419",
+                "operator": "Kidsa Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26354,
+                    60.34291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4480",
             "properties": {
                 "ADDRESS": "Vardeveien 1, 5141 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -15,7 +111,7 @@
                 "no-barnehage:nsrid": "1016708",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3181"
+                "id": "node/-4480"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +123,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3180",
+            "id": "node/-4475",
             "properties": {
                 "ADDRESS": "Bjørgedalen 94, 5141 FYLLINGSDALEN",
                 "amenity": "kindergarten",
@@ -39,13 +135,37 @@
                 "no-barnehage:nsrid": "1016721",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3180"
+                "id": "node/-4475"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.24871,
                     60.33433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4470",
+            "properties": {
+                "ADDRESS": "Vassteigen 51, 5141 FYLLINGSDALEN",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "contact:website": "http://www.bergenmiljobhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bergen miljøbarnehage",
+                "no-barnehage:nsrid": "1021346",
+                "operator": "Bergen Miljøbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2661,
+                    60.33112
                 ]
             }
         }

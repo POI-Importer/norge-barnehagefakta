@@ -3,7 +3,53 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3283",
+            "id": "node/-4830",
+            "properties": {
+                "ADDRESS": "Regimentsvegen 124, 5705 VOSS",
+                "amenity": "kindergarten",
+                "capacity": "102",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Voss barnehage",
+                "no-barnehage:nsrid": "1014032",
+                "operator": "Voss kommune",
+                "operator:type": "public",
+                "id": "node/-4830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.43774,
+                    60.6334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4824",
+            "properties": {
+                "ADDRESS": "Brynaskogen 38, 5705 VOSS",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Regnbogen natur og kulturbarnehage",
+                "no-barnehage:nsrid": "1021916",
+                "operator": "Regnbogen Natur og Kulturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.45483,
+                    60.63355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4822",
             "properties": {
                 "ADDRESS": "Regimentsvegen 235, 5705 VOSS",
                 "amenity": "kindergarten",
@@ -15,13 +61,36 @@
                 "no-barnehage:nsrid": "1020446",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3283"
+                "id": "node/-4822"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.43741,
                     60.63225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4820",
+            "properties": {
+                "ADDRESS": "Sverresbakken 10, 5704 VOSS",
+                "amenity": "kindergarten",
+                "capacity": "131",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Klausabakken barnehage",
+                "no-barnehage:nsrid": "1012849",
+                "operator": "Voss kommune",
+                "operator:type": "public",
+                "id": "node/-4820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42732,
+                    60.63257
                 ]
             }
         }

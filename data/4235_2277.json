@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5320",
+            "properties": {
+                "ADDRESS": "Gamletufta 1, 6104 VOLDA",
+                "amenity": "kindergarten",
+                "name": "Volda Opne barnehage avd. barnehage",
+                "no-barnehage:nsrid": "1025450",
+                "operator": "Volda Frikyrkje Den Evangeliske Lutherske",
+                "operator:type": "private",
+                "id": "node/-5320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11324,
+                    62.15033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5313",
+            "properties": {
+                "ADDRESS": "Bakkelidvegen 30, 6104 VOLDA",
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Bratteberg barnehage",
+                "no-barnehage:nsrid": "1021777",
+                "operator": "Læringsverkstedet Bratteberg barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12638,
+                    62.14893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5311",
+            "properties": {
+                "ADDRESS": "Gamletufta 3, 6104 VOLDA",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hjellbakkane barnehage stiftelsen",
+                "no-barnehage:nsrid": "1020462",
+                "operator": "Hjellbakkane barnehage stiftelsen",
+                "operator:type": "private",
+                "id": "node/-5311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11439,
+                    62.15041
+                ]
+            }
+        }
+    ]
+}

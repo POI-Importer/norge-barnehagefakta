@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2563",
+            "id": "node/-2560",
             "properties": {
                 "ADDRESS": "Tors Vei 182, 3472 BØDALEN",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1025326",
                 "operator": "Røyken kommune",
                 "operator:type": "public",
-                "id": "node/-2563"
+                "id": "node/-2560"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.45346,
                     59.76116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2547",
+            "properties": {
+                "ADDRESS": "Grendehuset Tors Vei 180, 3472 BØDALEN",
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtoppen barnehage",
+                "no-barnehage:nsrid": "1019705",
+                "operator": "Maurtoppen barnehage",
+                "operator:type": "private",
+                "id": "node/-2547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45345,
+                    59.76143
                 ]
             }
         }

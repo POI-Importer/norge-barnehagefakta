@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5101",
+            "properties": {
+                "ADDRESS": "Sunde, 6819 FØRDE",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sunde barnehage",
+                "no-barnehage:nsrid": "1013086",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "id": "node/-5101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93537,
+                    61.42848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5090",
+            "properties": {
+                "ADDRESS": "Sunde, 6819 FØRDE",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Førde familiebarnehage avd. Slåttebøen 33",
+                "no-barnehage:nsrid": "1017635",
+                "operator": "Førde kommune",
+                "operator:type": "public",
+                "id": "node/-5090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.93537,
+                    61.42848
+                ]
+            }
+        }
+    ]
+}

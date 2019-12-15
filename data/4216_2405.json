@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3125",
+            "id": "node/-4206",
             "properties": {
                 "ADDRESS": "Haraldsgata 70, 5528 HAUGESUND",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1020373",
                 "operator": "Haugesund Kfuk og Kfum",
                 "operator:type": "private",
-                "id": "node/-3125"
+                "id": "node/-4206"
             },
             "geometry": {
                 "type": "Point",
@@ -23,15 +23,110 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3122",
+            "id": "node/-4203",
+            "properties": {
+                "ADDRESS": "Spannavegen 28, 5531 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vardafjell barnehage",
+                "no-barnehage:nsrid": "1016070",
+                "operator": "Studentsamskipnaden på Vestlandet",
+                "operator:type": "private",
+                "id": "node/-4203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28927,
+                    59.4102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4201",
+            "properties": {
+                "ADDRESS": "Skjoldavegen 173, 5532 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "66",
+                "contact:website": "http://soriamoriasteiner.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stiftelsen Soria Moria Steinerbarnehage",
+                "no-barnehage:nsrid": "1019762",
+                "operator": "Stiftelsen Soria Moria Steinerbarnehage",
+                "operator:type": "private",
+                "id": "node/-4201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29887,
+                    59.41798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4189",
+            "properties": {
+                "ADDRESS": "Storasundgata 142, 5532 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rossabø FUS aktivitetsbarnehage",
+                "no-barnehage:nsrid": "1021823",
+                "operator": "Rossabø Fus Aktivitetsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30554,
+                    59.40423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4188",
+            "properties": {
+                "ADDRESS": "Espevikvegen 13, 5521 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Presthaug FUS barnehage",
+                "no-barnehage:nsrid": "1021442",
+                "operator": "Presthaug Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29069,
+                    59.418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4185",
             "properties": {
                 "ADDRESS": "Wergelands Gate 19, 5522 HAUGESUND",
                 "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Nye Espira Bråsteintunet barnehage",
                 "no-barnehage:nsrid": "2000239",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-3122"
+                "id": "node/-4185"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +138,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3120",
+            "id": "node/-4183",
+            "properties": {
+                "ADDRESS": "Floravegen 73, 5535 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "53",
+                "contact:website": "http://www.lysskarbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lysskar barnehage",
+                "no-barnehage:nsrid": "1020783",
+                "operator": "Lysskar barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30754,
+                    59.40173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4179",
             "properties": {
                 "ADDRESS": "Bjørgvingata 40, 5531 HAUGESUND",
                 "amenity": "kindergarten",
@@ -55,13 +174,108 @@
                 "no-barnehage:nsrid": "1020789",
                 "operator": "Iogt Haugesund",
                 "operator:type": "private",
-                "id": "node/-3120"
+                "id": "node/-4179"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.28942,
                     59.40865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4177",
+            "properties": {
+                "ADDRESS": "Valhallgata 2, 5531 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hemmingstad barnehage",
+                "no-barnehage:nsrid": "1016917",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29516,
+                    59.40146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4172",
+            "properties": {
+                "ADDRESS": "Eivind Nielsens Gate 25, 5532 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "contact:website": "http://fjellstemmen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fjellstemmen barnehage",
+                "no-barnehage:nsrid": "1019912",
+                "operator": "Fjellstemmen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3044,
+                    59.40755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4170",
+            "properties": {
+                "ADDRESS": "Wergelands Gate 19, 5522 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "contact:website": "http://www.espira.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Bråsteintunet barnehage",
+                "no-barnehage:nsrid": "1021892",
+                "operator": "Espira Bråsteintunet AS",
+                "operator:type": "private",
+                "id": "node/-4170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28292,
+                    59.40952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4167",
+            "properties": {
+                "ADDRESS": "Papegøyevegen 1, 5532 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "contact:website": "http://anm.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Anna Nilssens Minne barnehage",
+                "no-barnehage:nsrid": "1021090",
+                "operator": "Anna Nilssens Minne Sa",
+                "operator:type": "private",
+                "id": "node/-4167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29459,
+                    59.41139
                 ]
             }
         }

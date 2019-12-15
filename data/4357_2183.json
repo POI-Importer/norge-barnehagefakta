@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3394",
+            "properties": {
+                "ADDRESS": "Markavegen 10, 7715 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "contact:website": "http://www.vikingenbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikingen barnehage",
+                "no-barnehage:nsrid": "1021462",
+                "operator": "Vikingen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48107,
+                    64.03374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3388",
+            "properties": {
+                "ADDRESS": "Seilmakergata 3, 7725 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Steinkjer montessoribarnehage",
+                "no-barnehage:nsrid": "1021366",
+                "operator": "Steinkjer Montessoribarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4774,
+                    64.01455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3369",
+            "properties": {
+                "ADDRESS": "Kvamslia 1, 7715 STEINKJER",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Egge barnehage",
+                "no-barnehage:nsrid": "1026340",
+                "operator": "Steinkjer kommune",
+                "operator:type": "public",
+                "id": "node/-3369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48321,
+                    64.03329
+                ]
+            }
+        }
+    ]
+}

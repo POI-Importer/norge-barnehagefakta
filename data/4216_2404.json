@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3118",
+            "id": "node/-4202",
+            "properties": {
+                "ADDRESS": "Stallvegen 17, 5517 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.udland.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Udland FUS barnehage",
+                "no-barnehage:nsrid": "1021181",
+                "operator": "Udland Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27741,
+                    59.4432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4198",
+            "properties": {
+                "ADDRESS": "Kattanakkvegen 53, 5518 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solandsbakken barnehage",
+                "no-barnehage:nsrid": "1018084",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29273,
+                    59.43367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4174",
             "properties": {
                 "ADDRESS": "Stallvegen 16, 5517 HAUGESUND",
                 "amenity": "kindergarten",
@@ -15,13 +62,36 @@
                 "no-barnehage:nsrid": "1019814",
                 "operator": "Grutle barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3118"
+                "id": "node/-4174"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.27834,
                     59.44287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4168",
+            "properties": {
+                "ADDRESS": "Austrheimvegen 127, 5518 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bleikemyr barnehage",
+                "no-barnehage:nsrid": "1018082",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28586,
+                    59.43756
                 ]
             }
         }

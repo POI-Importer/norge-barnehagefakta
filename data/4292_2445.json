@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2972",
+            "id": "node/-3463",
             "properties": {
                 "ADDRESS": "Rislandsveien 17, 4820 FROLAND",
                 "amenity": "kindergarten",
@@ -15,13 +15,105 @@
                 "no-barnehage:nsrid": "1012789",
                 "operator": "Froland kommune",
                 "operator:type": "public",
-                "id": "node/-2972"
+                "id": "node/-3463"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.62811,
                     58.51314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3461",
+            "properties": {
+                "ADDRESS": "Rislandsveien 33, 4820 FROLAND",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "contact:website": "http://www.frolandmusikk.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Froland musikkbarnehage",
+                "no-barnehage:nsrid": "1022035",
+                "operator": "Froland Musikkbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.62833,
+                    58.51426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3460",
+            "properties": {
+                "ADDRESS": "Frolandssenteret 4b, 4820 FROLAND",
+                "amenity": "kindergarten",
+                "name": "Familiens Hus Administrasjon",
+                "no-barnehage:nsrid": "1014127",
+                "operator": "Froland kommune",
+                "operator:type": "public",
+                "id": "node/-3460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.63034,
+                    58.50864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3458",
+            "properties": {
+                "ADDRESS": "Bliksåsen 70, 4820 FROLAND",
+                "amenity": "kindergarten",
+                "capacity": "42",
+                "contact:website": "http://www.froland.kommune.no/tjenester/barnehage/barnehagene-i-froland/bliksasen-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bliksåsen barnehage",
+                "no-barnehage:nsrid": "1013611",
+                "operator": "Froland kommune",
+                "operator:type": "public",
+                "id": "node/-3458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.61389,
+                    58.50985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3457",
+            "properties": {
+                "ADDRESS": "Skolevegen 1a, 4820 FROLAND",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "contact:website": "http://www.froland.kommune.no/tjenester/barnehage/barnehagene-i-froland/blakstadheia-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Blakstadheia barnehage",
+                "no-barnehage:nsrid": "1016053",
+                "operator": "Froland kommune",
+                "operator:type": "public",
+                "id": "node/-3457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65559,
+                    58.5042
                 ]
             }
         }

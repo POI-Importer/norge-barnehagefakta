@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5607",
+            "properties": {
+                "ADDRESS": "Bjørkvangveien 2, 8530 BJERKVIK",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjørkvang barnehage",
+                "no-barnehage:nsrid": "1020245",
+                "operator": "Hoppensprett Narvik AS",
+                "operator:type": "private",
+                "id": "node/-5607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.56319,
+                    68.5568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5606",
+            "properties": {
+                "ADDRESS": "Kjerranveien 34, 8530 BJERKVIK",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkvik barnehage",
+                "no-barnehage:nsrid": "1013649",
+                "operator": "Narvik kommune",
+                "operator:type": "public",
+                "id": "node/-5606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.55225,
+                    68.55452
+                ]
+            }
+        }
+    ]
+}

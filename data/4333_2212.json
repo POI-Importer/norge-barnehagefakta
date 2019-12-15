@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2922",
+            "id": "node/-3297",
+            "properties": {
+                "ADDRESS": "Harry Borthens Vei 3, 7040 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Østmarkneset barnehage",
+                "no-barnehage:nsrid": "1017328",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44334,
+                    63.45225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3267",
             "properties": {
                 "ADDRESS": "Østmarkveien 26g, 7040 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1016732",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2922"
+                "id": "node/-3267"
             },
             "geometry": {
                 "type": "Point",

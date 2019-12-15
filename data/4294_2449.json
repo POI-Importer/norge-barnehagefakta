@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-3339",
+            "properties": {
+                "ADDRESS": "Erik Munks Vei 6, 4823 NEDENES",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.nedenesaasen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nedenesåsen barnehage",
+                "no-barnehage:nsrid": "1020925",
+                "operator": "Nedenesåsen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70267,
+                    58.41161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3338",
+            "properties": {
+                "ADDRESS": "Påskeveien 1, 4823 NEDENES",
+                "amenity": "kindergarten",
+                "name": "Nedenes åpen barnehage",
+                "no-barnehage:nsrid": "2000271",
+                "operator": "Norkirken Nedenes",
+                "operator:type": "private",
+                "id": "node/-3338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70638,
+                    58.41402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3337",
+            "properties": {
+                "ADDRESS": "Valsolveien 25, 4823 NEDENES",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://www.natvigheiabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Natvigheia barnehage",
+                "no-barnehage:nsrid": "1021022",
+                "operator": "Natvigheia barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71678,
+                    58.42318
+                ]
+            }
+        }
+    ]
+}

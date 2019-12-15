@@ -3,15 +3,41 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2920",
+            "id": "node/-3280",
+            "properties": {
+                "ADDRESS": "Ringduevegen 1, 7082 KATTEM",
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Ustmyra barnehage",
+                "no-barnehage:nsrid": "1013985",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33747,
+                    63.34719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3272",
             "properties": {
                 "ADDRESS": "Kongsvegen 24, 7082 KATTEM",
                 "amenity": "kindergarten",
-                "name": "Thyra barnehager",
-                "no-barnehage:nsrid": "1019551",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Torvsletta barnehage",
+                "no-barnehage:nsrid": "1013984",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2920"
+                "id": "node/-3272"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +49,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2912",
+            "id": "node/-3263",
+            "properties": {
+                "ADDRESS": "Kongsvegen 24, 7082 KATTEM",
+                "amenity": "kindergarten",
+                "name": "Thyra barnehager",
+                "no-barnehage:nsrid": "1019551",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33527,
+                    63.34795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3226",
             "properties": {
                 "ADDRESS": "Mårvegen 32, 7082 KATTEM",
                 "amenity": "kindergarten",
@@ -34,19 +80,42 @@
                 "no-barnehage:nsrid": "1018224",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2912"
+                "id": "node/-3226"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.33244,
-                    63.3467
+                    10.33229,
+                    63.34661
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2890",
+            "id": "node/-3211",
+            "properties": {
+                "ADDRESS": "Kvenildveien 3b, 7072 HEIMDAL",
+                "amenity": "kindergarten",
+                "capacity": "14",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandbakken barnehage Randi Viken",
+                "no-barnehage:nsrid": "1019732",
+                "operator": "Sandbakken barnehage Randi Viken",
+                "operator:type": "private",
+                "id": "node/-3211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3637,
+                    63.34105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3156",
             "properties": {
                 "ADDRESS": "Gaupevegen 38, 7082 KATTEM",
                 "amenity": "kindergarten",
@@ -57,7 +126,7 @@
                 "no-barnehage:nsrid": "1018216",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2890"
+                "id": "node/-3156"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +138,77 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2872",
+            "id": "node/-3128",
+            "properties": {
+                "ADDRESS": "Kattemskogen 2, 7082 KATTEM",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kattemskogen barnehage",
+                "no-barnehage:nsrid": "1021550",
+                "operator": "Kattemskogen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35209,
+                    63.34784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3127",
+            "properties": {
+                "ADDRESS": "Uståsen 4, 7082 KATTEM",
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kattem barnehage",
+                "no-barnehage:nsrid": "1015149",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33485,
+                    63.34578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3095",
+            "properties": {
+                "ADDRESS": "Høyvegen 1, 7089 HEIMDAL",
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Trøa",
+                "no-barnehage:nsrid": "1022014",
+                "operator": "Gnist Barnehager Trøa AS",
+                "operator:type": "private",
+                "id": "node/-3095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33071,
+                    63.34935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3063",
             "properties": {
                 "ADDRESS": "Anders Haarstads Veg 2, 7072 HEIMDAL",
                 "amenity": "kindergarten",
@@ -77,7 +216,7 @@
                 "no-barnehage:nsrid": "1020145",
                 "operator": "Breidablikk Helselag Åpen barnehage",
                 "operator:type": "private",
-                "id": "node/-2872"
+                "id": "node/-3063"
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +228,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2871",
+            "id": "node/-3062",
             "properties": {
                 "ADDRESS": "Idrettsveien 21, 7072 HEIMDAL",
                 "amenity": "kindergarten",
@@ -100,7 +239,7 @@
                 "no-barnehage:nsrid": "1013756",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2871"
+                "id": "node/-3062"
             },
             "geometry": {
                 "type": "Point",

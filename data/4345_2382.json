@@ -96,6 +96,29 @@
         },
         {
             "type": "Feature",
+            "id": "node/-832",
+            "properties": {
+                "ADDRESS": "Bøndernes Hus Løkenåsveien 41, 1473 LØRENSKOG",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skårungen barnehave",
+                "no-barnehage:nsrid": "1019512",
+                "operator": "Skårungen Barnehave Sa",
+                "operator:type": "private",
+                "id": "node/-832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96095,
+                    59.91923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-831",
             "properties": {
                 "ADDRESS": "Margarethas Vei 13, 1473 LØRENSKOG",
@@ -212,6 +235,29 @@
         },
         {
             "type": "Feature",
+            "id": "node/-813",
+            "properties": {
+                "ADDRESS": "Mailandveien 7, 1473 LØRENSKOG",
+                "amenity": "kindergarten",
+                "capacity": "87",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kjenn barnehage",
+                "no-barnehage:nsrid": "1013788",
+                "operator": "Lørenskog kommune",
+                "operator:type": "public",
+                "id": "node/-813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95606,
+                    59.92974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-804",
             "properties": {
                 "ADDRESS": "Finstadrabben 148, 1475 FINSTADJORDET",
@@ -228,8 +274,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.96605,
-                    59.91248
+                    10.96515,
+                    59.91215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-800",
+            "properties": {
+                "ADDRESS": "Tunveien 3, 1473 LØRENSKOG",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Benterud barnehage",
+                "no-barnehage:nsrid": "1015749",
+                "operator": "Lørenskog kommune",
+                "operator:type": "public",
+                "id": "node/-800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9537,
+                    59.9155
                 ]
             }
         }

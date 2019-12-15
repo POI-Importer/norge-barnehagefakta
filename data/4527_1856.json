@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3615",
+            "id": "node/-5970",
+            "properties": {
+                "ADDRESS": "Trollbakken 11, 9009 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trollbakken barnehage",
+                "no-barnehage:nsrid": "1025357",
+                "operator": "Tromsø kommune",
+                "operator:type": "public",
+                "id": "node/-5970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.94255,
+                    69.65144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5965",
             "properties": {
                 "ADDRESS": "Jonas Lies Gate 15, 9009 TROMSØ",
                 "amenity": "kindergarten",
@@ -13,13 +36,37 @@
                 "no-barnehage:nsrid": "1013880",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3615"
+                "id": "node/-5965"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     18.94593,
                     69.64689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5926",
+            "properties": {
+                "ADDRESS": "Jonas Lies Gate 36, 9009 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://laringsverkstedet.no/barnehage/haugenstykket",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Haugenstykket",
+                "no-barnehage:nsrid": "1025451",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.94107,
+                    69.6457
                 ]
             }
         }

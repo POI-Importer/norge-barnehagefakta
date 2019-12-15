@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5379",
+            "properties": {
+                "ADDRESS": "Øvre Skjong 2, 6050 VALDERØYA",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skjong barnehage",
+                "no-barnehage:nsrid": "1020213",
+                "operator": "Skjong barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10971,
+                    62.50375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5373",
+            "properties": {
+                "ADDRESS": "Øvregjerdet 18, 6050 VALDERØYA",
+                "amenity": "kindergarten",
+                "capacity": "73",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Daggry barnehage",
+                "no-barnehage:nsrid": "1015545",
+                "operator": "Imf Sunnmøre",
+                "operator:type": "private",
+                "id": "node/-5373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12646,
+                    62.50736
+                ]
+            }
+        }
+    ]
+}

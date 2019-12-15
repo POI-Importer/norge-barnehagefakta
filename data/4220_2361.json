@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3175",
+            "id": "node/-4518",
+            "properties": {
+                "ADDRESS": "Londalsflaten 2, 5267 ESPELAND",
+                "amenity": "kindergarten",
+                "name": "Fredheim natur og familiebarnehage",
+                "no-barnehage:nsrid": "1021917",
+                "operator": "Fredheim Natur og Familiebarnehage Ans",
+                "operator:type": "private",
+                "id": "node/-4518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45699,
+                    60.38195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4464",
             "properties": {
                 "ADDRESS": "Stephansens Veg 45, 5267 ESPELAND",
                 "amenity": "kindergarten",
@@ -13,13 +33,37 @@
                 "no-barnehage:nsrid": "1016714",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-3175"
+                "id": "node/-4464"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.46734,
                     60.38657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4451",
+            "properties": {
+                "ADDRESS": "Neset 57, 5267 ESPELAND",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://akasiabarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Akasia Neshaugane barnehage",
+                "no-barnehage:nsrid": "1015094",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.46506,
+                    60.37344
                 ]
             }
         }

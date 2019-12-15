@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3524",
+            "id": "node/-5653",
             "properties": {
                 "ADDRESS": "Bakkelygata 15, 8800 SANDNESSJØEN",
                 "amenity": "kindergarten",
@@ -14,13 +14,61 @@
                 "no-barnehage:nsrid": "1012531",
                 "operator": "Alstahaug kommune",
                 "operator:type": "public",
-                "id": "node/-3524"
+                "id": "node/-5653"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     12.60785,
                     66.01671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5652",
+            "properties": {
+                "ADDRESS": "Olav Duuns Gate 2d, 8800 SANDNESSJØEN",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "contact:website": "http://www.segelberganbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Småbarnsforeldrenes barnehage Alstahaug",
+                "no-barnehage:nsrid": "1020174",
+                "operator": "Småbarnsforeldrenes barnehage Alstahaug Sa",
+                "operator:type": "private",
+                "id": "node/-5652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58215,
+                    66.01095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5651",
+            "properties": {
+                "ADDRESS": "Forshaugen 17, 8800 SANDNESSJØEN",
+                "amenity": "kindergarten",
+                "capacity": "106",
+                "contact:website": "http://forshaugen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sandnessjøen barnehage",
+                "no-barnehage:nsrid": "1021774",
+                "operator": "Sandnessjøen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6061,
+                    66.01003
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3404",
+            "id": "node/-5254",
             "properties": {
                 "ADDRESS": "Borgundfjordvegen 78, 6017 ÅLESUND",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019977",
                 "operator": "Åsestranda barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3404"
+                "id": "node/-5254"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3401",
+            "id": "node/-5247",
             "properties": {
                 "ADDRESS": "Liljedahlvegen 21, 6010 ÅLESUND",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1019884",
                 "operator": "Tommeliten Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3401"
+                "id": "node/-5247"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3393",
+            "id": "node/-5233",
+            "properties": {
+                "ADDRESS": "Gartnerivegen 8, 6017 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Tryggheim barnehage Ålesund",
+                "no-barnehage:nsrid": "1016178",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.33123,
+                    62.46313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5230",
             "properties": {
                 "ADDRESS": "Mogensvegen 41, 6010 ÅLESUND",
                 "amenity": "kindergarten",
@@ -61,7 +84,7 @@
                 "no-barnehage:nsrid": "1021541",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3393"
+                "id": "node/-5230"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +96,50 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3386",
+            "id": "node/-5226",
+            "properties": {
+                "ADDRESS": "Nybømarka 5, 6011 ÅLESUND",
+                "amenity": "kindergarten",
+                "name": "Lekestua familiebarnehage Jasmin Larsen",
+                "no-barnehage:nsrid": "1021604",
+                "operator": "Lekestua Familiebarnehage Jasmin Larsen",
+                "operator:type": "private",
+                "id": "node/-5226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.36396,
+                    62.46533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5222",
+            "properties": {
+                "ADDRESS": "Stykkjevegen 6, 6018 ÅLESUND",
+                "amenity": "kindergarten",
+                "capacity": "96",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgvoll barnehage",
+                "no-barnehage:nsrid": "1013206",
+                "operator": "Gnist Barnehager Høgvoll AS",
+                "operator:type": "private",
+                "id": "node/-5222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35912,
+                    62.46895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5208",
             "properties": {
                 "ADDRESS": "Breivikvegen 5, 6018 ÅLESUND",
                 "amenity": "kindergarten",
@@ -84,7 +150,7 @@
                 "no-barnehage:nsrid": "1018580",
                 "operator": "Brisk kompetansesenter AS",
                 "operator:type": "private",
-                "id": "node/-3386"
+                "id": "node/-5208"
             },
             "geometry": {
                 "type": "Point",

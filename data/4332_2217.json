@@ -3,7 +3,50 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2921",
+            "id": "node/-3284",
+            "properties": {
+                "ADDRESS": "Movollen 106, 7091 TILLER",
+                "amenity": "kindergarten",
+                "name": "Varmbo familiebarnehage",
+                "no-barnehage:nsrid": "1021136",
+                "operator": "Varmbo Familiebarnehage Trude Jenssen",
+                "operator:type": "private",
+                "id": "node/-3284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4035,
+                    63.35646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3269",
+            "properties": {
+                "ADDRESS": "Tonstadgrenda 31, 7091 TILLER",
+                "amenity": "kindergarten",
+                "capacity": "64",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tonstad barnehage",
+                "no-barnehage:nsrid": "1013758",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38734,
+                    63.36264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3265",
             "properties": {
                 "ADDRESS": "Romemyra 66, 7091 TILLER",
                 "amenity": "kindergarten",
@@ -12,7 +55,7 @@
                 "no-barnehage:nsrid": "1016882",
                 "operator": "Tiller Sokn",
                 "operator:type": "private",
-                "id": "node/-2921"
+                "id": "node/-3265"
             },
             "geometry": {
                 "type": "Point",
@@ -24,7 +67,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2913",
+            "id": "node/-3228",
             "properties": {
                 "ADDRESS": "Vestre Rosten 77, 7075 TILLER",
                 "amenity": "kindergarten",
@@ -35,7 +78,7 @@
                 "no-barnehage:nsrid": "1019836",
                 "operator": "Skuta barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2913"
+                "id": "node/-3228"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +90,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2907",
+            "id": "node/-3222",
+            "properties": {
+                "ADDRESS": "Lykkmarka 63, 7081 SJETNEMARKA",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sjetne barnehage",
+                "no-barnehage:nsrid": "1016842",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39708,
+                    63.36811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3203",
             "properties": {
                 "ADDRESS": "Romemyra 70, 7091 TILLER",
                 "amenity": "kindergarten",
@@ -58,7 +124,7 @@
                 "no-barnehage:nsrid": "1012524",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2907"
+                "id": "node/-3203"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +136,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2905",
+            "id": "node/-3202",
+            "properties": {
+                "ADDRESS": "Rognbudalen 78, 7092 TILLER",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rognbudalen barnehage",
+                "no-barnehage:nsrid": "1018222",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38174,
+                    63.35521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3194",
             "properties": {
                 "ADDRESS": "Ivar Reitens Veg 6, 7091 TILLER",
                 "amenity": "kindergarten",
@@ -81,13 +170,147 @@
                 "no-barnehage:nsrid": "1017829",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2905"
+                "id": "node/-3194"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.39845,
                     63.3588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3175",
+            "properties": {
+                "ADDRESS": "Gjerlovs Veg 2, 7092 TILLER",
+                "amenity": "kindergarten",
+                "name": "Myrskogen barnehage",
+                "no-barnehage:nsrid": "2000446",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37964,
+                    63.35395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3169",
+            "properties": {
+                "ADDRESS": "Moltmyra 164, 7091 TILLER",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Moltmyra barnehage",
+                "no-barnehage:nsrid": "1018606",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39592,
+                    63.3633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3155",
+            "properties": {
+                "ADDRESS": "Lykkmarka 36b, 7081 SJETNEMARKA",
+                "amenity": "kindergarten",
+                "name": "Lykkmarka familiebarnehage Anita Berge",
+                "no-barnehage:nsrid": "1021926",
+                "operator": "Lykkmarka Familiebarnehage Anita Berge",
+                "operator:type": "private",
+                "id": "node/-3155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40315,
+                    63.3647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3153",
+            "properties": {
+                "ADDRESS": "Haldor Flatens Veg 52, 7081 SJETNEMARKA",
+                "amenity": "kindergarten",
+                "capacity": "37",
+                "contact:website": "http://lunderhaugen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lunderhaugen barnehage",
+                "no-barnehage:nsrid": "1021581",
+                "operator": "Lunderhaugen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40742,
+                    63.36891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3094",
+            "properties": {
+                "ADDRESS": "Harald Torps Veg 17, 7091 TILLER",
+                "amenity": "kindergarten",
+                "capacity": "122",
+                "contact:website": "http://www.gnistbarnehager.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gnist barnehager Tiller",
+                "no-barnehage:nsrid": "1022263",
+                "operator": "Gnist Barnehager Tiller AS",
+                "operator:type": "private",
+                "id": "node/-3094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40112,
+                    63.3587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3064",
+            "properties": {
+                "ADDRESS": "Tonstadbrinken 253b, 7091 TILLER",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Brinken barnehage",
+                "no-barnehage:nsrid": "1016872",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38969,
+                    63.36531
                 ]
             }
         }

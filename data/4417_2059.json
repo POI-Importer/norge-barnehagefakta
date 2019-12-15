@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5707",
+            "properties": {
+                "ADDRESS": "Kirkegata 20, 8622 MO I RANA",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kirketunet barnehage",
+                "no-barnehage:nsrid": "1021310",
+                "operator": "Kirketunet barnehage",
+                "operator:type": "private",
+                "id": "node/-5707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14164,
+                    66.30907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5699",
+            "properties": {
+                "ADDRESS": "Johan Nygaardsvolds Gate 36, 8622 MO I RANA",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Barnas Hus",
+                "no-barnehage:nsrid": "1013664",
+                "operator": "Rana kommune",
+                "operator:type": "public",
+                "id": "node/-5699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14666,
+                    66.31397
+                ]
+            }
+        }
+    ]
+}

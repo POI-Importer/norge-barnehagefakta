@@ -3,7 +3,99 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3117",
+            "id": "node/-4193",
+            "properties": {
+                "ADDRESS": "Egils Veg 8, 5518 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skåre FUS barnehage",
+                "no-barnehage:nsrid": "1016965",
+                "operator": "Skåre Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27034,
+                    59.42656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4192",
+            "properties": {
+                "ADDRESS": "Halvardshaugen 10, 5515 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sagatun barnehage",
+                "no-barnehage:nsrid": "1017476",
+                "operator": "Haugesund kommune",
+                "operator:type": "public",
+                "id": "node/-4192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25769,
+                    59.43197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4180",
+            "properties": {
+                "ADDRESS": "Årabrotsvegen 24, 5515 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvala barnehage",
+                "no-barnehage:nsrid": "1020602",
+                "operator": "Kvala barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25832,
+                    59.43637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4176",
+            "properties": {
+                "ADDRESS": "Kvalamarka 13, 5514 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Haugesund International Preschool FUS",
+                "no-barnehage:nsrid": "1025877",
+                "operator": "Haugesund International Preschool Fus AS",
+                "operator:type": "private",
+                "id": "node/-4176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26267,
+                    59.43679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4173",
             "properties": {
                 "ADDRESS": "Skeisvollsvegen 46, 5518 HAUGESUND",
                 "amenity": "kindergarten",
@@ -15,7 +107,7 @@
                 "no-barnehage:nsrid": "1020128",
                 "operator": "Gard barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3117"
+                "id": "node/-4173"
             },
             "geometry": {
                 "type": "Point",

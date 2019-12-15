@@ -3,7 +3,233 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2874",
+            "id": "node/-3299",
+            "properties": {
+                "ADDRESS": "Øvre Flatåsveg 89d, 7079 FLATÅSEN",
+                "amenity": "kindergarten",
+                "name": "Øvre Flatåsen familiebarnehage",
+                "no-barnehage:nsrid": "1021071",
+                "operator": "Øvre Flatåsen Familiebarnehage Bente Riksfjord",
+                "operator:type": "private",
+                "id": "node/-3299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34308,
+                    63.37655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3298",
+            "properties": {
+                "ADDRESS": "Midtre Flatåsveg 18, 7099 FLATÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øvre Flatåsen barnehage",
+                "no-barnehage:nsrid": "1018210",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34732,
+                    63.37481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3244",
+            "properties": {
+                "ADDRESS": "Enromvegen 8, 7026 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "71",
+                "contact:website": "http://www.stavsetmyra.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stavsetmyra barnehage",
+                "no-barnehage:nsrid": "1020550",
+                "operator": "Stavsetmyra barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33278,
+                    63.38604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3204",
+            "properties": {
+                "ADDRESS": "Innbrektsflata 3, 7029 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "113",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Romolslia barnehage",
+                "no-barnehage:nsrid": "1018223",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36349,
+                    63.37832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3180",
+            "properties": {
+                "ADDRESS": "Nedre Flatåsveg 580, 7099 FLATÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "101",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nedre Flatåsen barnehage",
+                "no-barnehage:nsrid": "1018587",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34753,
+                    63.37861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3157",
+            "properties": {
+                "ADDRESS": "Damlia 241, 7027 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Buenget",
+                "no-barnehage:nsrid": "1013557",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35539,
+                    63.38454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3131",
+            "properties": {
+                "ADDRESS": "Nedre Stavsetvegen 2, 7026 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "76",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kolstad barnehage",
+                "no-barnehage:nsrid": "1018214",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33223,
+                    63.38792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3089",
+            "properties": {
+                "ADDRESS": "Øvre Flatåsveg 55, 7079 FLATÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "117",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Furutoppen barnehage",
+                "no-barnehage:nsrid": "1018211",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33709,
+                    63.37514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3085",
+            "properties": {
+                "ADDRESS": "Nedre Flatåsveg 580, 7099 FLATÅSEN",
+                "amenity": "kindergarten",
+                "name": "Flatåsen barnehager",
+                "no-barnehage:nsrid": "1025442",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-3085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34753,
+                    63.37861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3083",
+            "properties": {
+                "ADDRESS": "Kystad Alle 25a, 7024 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "117",
+                "contact:website": "http://www.kystadgard@espira.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espira Kystad gård barnehage",
+                "no-barnehage:nsrid": "1022066",
+                "operator": "Espira Kystad Gård barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34172,
+                    63.38968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3081",
             "properties": {
                 "ADDRESS": "Olav Nygards Veg 35b, 7023 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -11,7 +237,7 @@
                 "no-barnehage:nsrid": "1020634",
                 "operator": "Elin Theresa Næve",
                 "operator:type": "private",
-                "id": "node/-2874"
+                "id": "node/-3081"
             },
             "geometry": {
                 "type": "Point",

@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4947",
+            "properties": {
+                "ADDRESS": "Jamne, 5725 VAKSDAL",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Vaksdal barnehage avd. Klubbhuset",
+                "no-barnehage:nsrid": "1013504",
+                "operator": "Vaksdal kommune",
+                "operator:type": "public",
+                "id": "node/-4947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74245,
+                    60.47935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4946",
+            "properties": {
+                "ADDRESS": "Tveitane 12, 5725 VAKSDAL",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vaksdal barnehage",
+                "no-barnehage:nsrid": "1012557",
+                "operator": "Vaksdal kommune",
+                "operator:type": "public",
+                "id": "node/-4946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74932,
+                    60.48198
+                ]
+            }
+        }
+    ]
+}

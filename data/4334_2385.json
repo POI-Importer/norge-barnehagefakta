@@ -56,7 +56,7 @@
                 "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Solstad barnehage barnehage Med Barn i Alderen 1-5 År",
+                "name": "Solstad barnehage",
                 "no-barnehage:nsrid": "1012759",
                 "operator": "Asker kommune",
                 "operator:type": "public",
@@ -274,6 +274,29 @@
                 "coordinates": [
                     10.48328,
                     59.84861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-664",
+            "properties": {
+                "ADDRESS": "Nesbruv 55, 1396 BILLINGSTAD",
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Holmentoppen barnehage",
+                "no-barnehage:nsrid": "1025311",
+                "operator": "Asker Kirkelige Fellesråd",
+                "operator:type": "private",
+                "id": "node/-664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49819,
+                    59.86269
                 ]
             }
         },

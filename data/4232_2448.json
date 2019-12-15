@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3093",
+            "id": "node/-3966",
             "properties": {
                 "ADDRESS": "Rundevollsveien 43, 4371 EGERSUND",
                 "amenity": "kindergarten",
@@ -11,13 +11,106 @@
                 "no-barnehage:nsrid": "1022430",
                 "operator": "Villbassen Familiebarnehage Aslaksen",
                 "operator:type": "private",
-                "id": "node/-3093"
+                "id": "node/-3966"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     6.00339,
                     58.4451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3965",
+            "properties": {
+                "ADDRESS": "Vikingveien 5, 4371 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1019778",
+                "operator": "Varden barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99857,
+                    58.43188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3961",
+            "properties": {
+                "ADDRESS": "Nonsfjellveien 55, 4371 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rundevoll barnehage",
+                "no-barnehage:nsrid": "1018081",
+                "operator": "Eigersund kommune",
+                "operator:type": "public",
+                "id": "node/-3961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.00007,
+                    58.43753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3958",
+            "properties": {
+                "ADDRESS": "Myllarsbakken 1, 4372 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "contact:website": "http://www.lykkeliten.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lykkeliten foreldrelagsbarnehage",
+                "no-barnehage:nsrid": "1020730",
+                "operator": "Lykkeliten Sa",
+                "operator:type": "private",
+                "id": "node/-3958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.00566,
+                    58.43026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3957",
+            "properties": {
+                "ADDRESS": "Baglerveien 10, 4371 EGERSUND",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kiellandskogen FUS barnehage",
+                "no-barnehage:nsrid": "1021537",
+                "operator": "Kiellandskogen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99702,
+                    58.43319
                 ]
             }
         }

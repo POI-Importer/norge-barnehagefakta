@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3059",
+            "id": "node/-3818",
+            "properties": {
+                "ADDRESS": "Vågsbygd Ringvei 100, 4621 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "name": "Trekanten åpen barnehage",
+                "no-barnehage:nsrid": "1021088",
+                "operator": "Vineyard Kristne Fellesskap Kristiansand",
+                "operator:type": "private",
+                "id": "node/-3818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.96183,
+                    58.12921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3814",
             "properties": {
                 "ADDRESS": "Gullveien 19, 4629 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -11,7 +31,7 @@
                 "no-barnehage:nsrid": "1020413",
                 "operator": "Grim Sokn",
                 "operator:type": "private",
-                "id": "node/-3059"
+                "id": "node/-3814"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +43,146 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3034",
+            "id": "node/-3805",
+            "properties": {
+                "ADDRESS": "Jørgen Moes Gate 10, 4616 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stasjonshaven barnehage Al",
+                "no-barnehage:nsrid": "1020035",
+                "operator": "Stasjonshaven barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98019,
+                    58.14685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3794",
+            "properties": {
+                "ADDRESS": "Østre Strandgate 6, 4610 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Revehiet naturbarnehage",
+                "no-barnehage:nsrid": "1021000",
+                "operator": "Revehiet Naturbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99683,
+                    58.14265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3787",
+            "properties": {
+                "ADDRESS": "Odderøyveien 5, 4610 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Odderøya barnehage",
+                "no-barnehage:nsrid": "1018330",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.99793,
+                    58.14038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3783",
+            "properties": {
+                "ADDRESS": "Møllevannsveien 40, 4616 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "89",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Møllestua barnehage",
+                "no-barnehage:nsrid": "1012861",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97169,
+                    58.1475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3767",
+            "properties": {
+                "ADDRESS": "Linerlebakken 23, 4626 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:website": "http://minbarnehage.no/linerlabhg",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Linerla barnehage",
+                "no-barnehage:nsrid": "1012867",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9629,
+                    58.13374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3748",
+            "properties": {
+                "ADDRESS": "Kolsbergveien 24, 4616 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "82",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hellinga barnehage",
+                "no-barnehage:nsrid": "1012865",
+                "operator": "Kristiansand kommune",
+                "operator:type": "public",
+                "id": "node/-3748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.96807,
+                    58.14458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3740",
             "properties": {
                 "ADDRESS": "Konsul Wilds Vei 20a, 4621 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -31,7 +190,7 @@
                 "no-barnehage:nsrid": "1019838",
                 "operator": "Fiskåtangen barnehage Da",
                 "operator:type": "private",
-                "id": "node/-3034"
+                "id": "node/-3740"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +202,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3033",
+            "id": "node/-3739",
             "properties": {
                 "ADDRESS": "Konsul Wilds Vei 20a, 4621 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -55,13 +214,37 @@
                 "no-barnehage:nsrid": "1020916",
                 "operator": "Fiskåtangen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3033"
+                "id": "node/-3739"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.97419,
                     58.12909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3731",
+            "properties": {
+                "ADDRESS": "Fiskåveien 12, 4621 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "88",
+                "contact:website": "http://www.eplehagen.net",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eplehagen barnehage",
+                "no-barnehage:nsrid": "1019771",
+                "operator": "Eplehagen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.96739,
+                    58.12532
                 ]
             }
         }

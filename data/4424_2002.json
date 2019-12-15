@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3502",
+            "id": "node/-5593",
             "properties": {
                 "ADDRESS": "Holtan 6, 8014 BODØ",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1016636",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-3502"
+                "id": "node/-5593"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3497",
+            "id": "node/-5586",
             "properties": {
                 "ADDRESS": "Einmoveien 41, 8009 BODØ",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1019807",
                 "operator": "Stiftelsen Rønvik Menighetsbarnehage",
                 "operator:type": "private",
-                "id": "node/-3497"
+                "id": "node/-5586"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,76 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3495",
+            "id": "node/-5585",
+            "properties": {
+                "ADDRESS": "Årnesveien 7, 8012 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rønvik barnehage",
+                "no-barnehage:nsrid": "1016639",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42236,
+                    67.29473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5582",
+            "properties": {
+                "ADDRESS": "Vollveien 24, 8011 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "84",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Vollen naturbarnehage",
+                "no-barnehage:nsrid": "1015497",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43371,
+                    67.29292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5580",
+            "properties": {
+                "ADDRESS": "Årlokkveien 12, 8011 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "45",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Stordalen friluftsbarnehage",
+                "no-barnehage:nsrid": "1015457",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44511,
+                    67.29364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5571",
             "properties": {
                 "ADDRESS": "Kuopioveien 6, 8012 BODØ",
                 "amenity": "kindergarten",
@@ -58,7 +127,7 @@
                 "no-barnehage:nsrid": "1020871",
                 "operator": "Nerenga Barnehage Ans",
                 "operator:type": "private",
-                "id": "node/-3495"
+                "id": "node/-5571"
             },
             "geometry": {
                 "type": "Point",
@@ -70,7 +139,54 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3488",
+            "id": "node/-5563",
+            "properties": {
+                "ADDRESS": "Junkerveien 101, 8011 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://laringsverkstedet.no/barnehage/maskinisten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Maskinisten friluftsbarnehage",
+                "no-barnehage:nsrid": "1021105",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4543,
+                    67.29169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5560",
+            "properties": {
+                "ADDRESS": "Kuopioveien 6, 8012 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Nerenga",
+                "no-barnehage:nsrid": "1022281",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-5560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41624,
+                    67.29615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5559",
             "properties": {
                 "ADDRESS": "Fjellveien 56, 8011 BODØ",
                 "amenity": "kindergarten",
@@ -82,13 +198,60 @@
                 "no-barnehage:nsrid": "1019821",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3488"
+                "id": "node/-5559"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     14.42646,
                     67.29428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5557",
+            "properties": {
+                "ADDRESS": "Lillevollen 2 - 4, 8011 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "contact:website": "http://www.lillevollen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lillevollen barnehage",
+                "no-barnehage:nsrid": "1020101",
+                "operator": "Lillevollen barnehage",
+                "operator:type": "private",
+                "id": "node/-5557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43658,
+                    67.29219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5543",
+            "properties": {
+                "ADDRESS": "Bjerkengveien 9, 8009 BODØ",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bjerkenga miljøbarnehage",
+                "no-barnehage:nsrid": "1016634",
+                "operator": "Bodø kommune",
+                "operator:type": "public",
+                "id": "node/-5543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41724,
+                    67.28939
                 ]
             }
         }

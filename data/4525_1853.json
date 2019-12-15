@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3607",
+            "id": "node/-5976",
+            "properties": {
+                "ADDRESS": "Slettavegen 60, 9101 KVALØYSLETTA",
+                "amenity": "kindergarten",
+                "capacity": "80",
+                "contact:website": "http://tusseladden.com",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tusseladden friluftsbarnehage",
+                "no-barnehage:nsrid": "1015553",
+                "operator": "Tusseladden Friluftsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86729,
+                    69.69236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5950",
             "properties": {
                 "ADDRESS": "Ryllikvegen 55, 9102 KVALØYSLETTA",
                 "amenity": "kindergarten",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1012725",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-3607"
+                "id": "node/-5950"
             },
             "geometry": {
                 "type": "Point",

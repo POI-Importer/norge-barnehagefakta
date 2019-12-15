@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2898",
+            "id": "node/-3179",
             "properties": {
                 "ADDRESS": "Dyre Halses Gate 6, 7042 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1017798",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-2898"
+                "id": "node/-3179"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.41335,
                     63.43636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3163",
+            "properties": {
+                "ADDRESS": "Batterigata 4d, 7012 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Løkkan barnehage",
+                "no-barnehage:nsrid": "1014781",
+                "operator": "Trondhjems Asylselskap",
+                "operator:type": "private",
+                "id": "node/-3163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38122,
+                    63.43105
                 ]
             }
         }

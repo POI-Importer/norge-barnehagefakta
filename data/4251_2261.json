@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-5334",
+            "properties": {
+                "ADDRESS": "Årøyvegen 7, 6240 ØRSKOG",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Årøyhaugen barnehage",
+                "no-barnehage:nsrid": "1013900",
+                "operator": "Ørskog kommune",
+                "operator:type": "public",
+                "id": "node/-5334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.81573,
+                    62.48106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5333",
+            "properties": {
+                "ADDRESS": "Bårdsgjerdevegen 8, 6240 ØRSKOG",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lande FUS barnehage",
+                "no-barnehage:nsrid": "1022297",
+                "operator": "Lande Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.84643,
+                    62.48415
+                ]
+            }
+        }
+    ]
+}

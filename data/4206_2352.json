@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/-4970",
+            "properties": {
+                "ADDRESS": "Breivikvegen 104, 5337 RONG",
+                "amenity": "kindergarten",
+                "contact:website": "http://svanevagen.norlandiabarnehagene.no/",
+                "name": "Norlandia Svanevågen gårds- og friluftsbarnehage",
+                "no-barnehage:nsrid": "2000353",
+                "operator": "Norlandia Svanevågen Gårds- og Friluftsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-4970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.83836,
+                    60.57015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4967",
+            "properties": {
+                "ADDRESS": "Breivikvegen 103, 5337 RONG",
+                "amenity": "kindergarten",
+                "capacity": "50",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Breivik barnehage",
+                "no-barnehage:nsrid": "1016559",
+                "operator": "Øygarden kommune",
+                "operator:type": "public",
+                "id": "node/-4967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8393,
+                    60.56899
+                ]
+            }
+        }
+    ]
+}

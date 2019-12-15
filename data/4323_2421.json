@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2747",
+            "id": "node/-2770",
+            "properties": {
+                "ADDRESS": "Geiteramsveien 1, 3268 LARVIK",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Veldre kulturbarnehage",
+                "no-barnehage:nsrid": "1012813",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00159,
+                    59.05458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2744",
             "properties": {
                 "ADDRESS": "Eidgata 19, 3264 LARVIK",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1019887",
                 "operator": "Leikvang barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2747"
+                "id": "node/-2744"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2731",
+            "id": "node/-2728",
             "properties": {
                 "ADDRESS": "Geiteramsveien 63, 3268 LARVIK",
                 "amenity": "kindergarten",
@@ -39,7 +62,7 @@
                 "no-barnehage:nsrid": "1020642",
                 "operator": "Eventyrskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2731"
+                "id": "node/-2728"
             },
             "geometry": {
                 "type": "Point",

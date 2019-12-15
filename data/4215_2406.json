@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3171",
+            "id": "node/-4427",
             "properties": {
                 "ADDRESS": "Bjørgevegen 100, 4260 TORVASTAD",
                 "amenity": "kindergarten",
@@ -15,13 +15,36 @@
                 "no-barnehage:nsrid": "1016873",
                 "operator": "Karmøy kommune",
                 "operator:type": "public",
-                "id": "node/-3171"
+                "id": "node/-4427"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.26344,
                     59.39032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4422",
+            "properties": {
+                "ADDRESS": "Torvastadvegen 275, 4260 TORVASTAD",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Små barnehager avd. Torvastad",
+                "no-barnehage:nsrid": "1014031",
+                "operator": "Små Barnehager AS",
+                "operator:type": "private",
+                "id": "node/-4422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.24503,
+                    59.37852
                 ]
             }
         }

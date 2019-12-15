@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3141",
+            "id": "node/-4294",
             "properties": {
                 "ADDRESS": "Ånundskaret 96, 4330 ÅLGÅRD",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "2000219",
                 "operator": "Gjesdal kommune",
                 "operator:type": "public",
-                "id": "node/-3141"
+                "id": "node/-4294"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.83401,
                     58.76474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4289",
+            "properties": {
+                "ADDRESS": "Ånundskaret 98, 4330 ÅLGÅRD",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nesjane barnehage",
+                "no-barnehage:nsrid": "1013281",
+                "operator": "Gjesdal kommune",
+                "operator:type": "public",
+                "id": "node/-4289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83292,
+                    58.76487
                 ]
             }
         }

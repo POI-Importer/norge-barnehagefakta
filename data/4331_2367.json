@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2197",
+            "id": "node/-2195",
             "properties": {
                 "ADDRESS": "Bergerbakkvegen 18, 3520 JEVNAKER",
                 "amenity": "kindergarten",
@@ -14,13 +14,36 @@
                 "no-barnehage:nsrid": "1021729",
                 "operator": "Prestekragen Menighetsbarnehage",
                 "operator:type": "private",
-                "id": "node/-2197"
+                "id": "node/-2195"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.36188,
                     60.24182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2194",
+            "properties": {
+                "ADDRESS": "Lidvangveien 7, 3520 JEVNAKER",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nesbakken barnehage",
+                "no-barnehage:nsrid": "1017965",
+                "operator": "Jevnaker kommune",
+                "operator:type": "public",
+                "id": "node/-2194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36894,
+                    60.249
                 ]
             }
         }

@@ -3,7 +3,54 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2979",
+            "id": "node/-3488",
+            "properties": {
+                "ADDRESS": "Rute 4, 7340 OPPDAL",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.stolenprivate.barnehageside.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stølen private barnehage",
+                "no-barnehage:nsrid": "1019657",
+                "operator": "Stølen Private barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68547,
+                    62.59407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3485",
+            "properties": {
+                "ADDRESS": "Gorsetvegen 15, 7340 OPPDAL",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Høgmo barnehage",
+                "no-barnehage:nsrid": "1016117",
+                "operator": "Oppdal kommune",
+                "operator:type": "public",
+                "id": "node/-3485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.69742,
+                    62.59972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3481",
             "properties": {
                 "ADDRESS": "Luvegen 5, 7340 OPPDAL",
                 "amenity": "kindergarten",
@@ -14,7 +61,7 @@
                 "no-barnehage:nsrid": "1020259",
                 "operator": "Bjerkehagen Friluftsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2979"
+                "id": "node/-3481"
             },
             "geometry": {
                 "type": "Point",

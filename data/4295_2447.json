@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2940",
+            "id": "node/-3364",
+            "properties": {
+                "ADDRESS": "Nygård Strømsbu, 4839 ARENDAL",
+                "amenity": "kindergarten",
+                "name": "Utsyn familiebarnehage",
+                "no-barnehage:nsrid": "1020889",
+                "operator": "Utsyn Familiebarnehage V/berit Nordbø Aaneby",
+                "operator:type": "private",
+                "id": "node/-3364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74968,
+                    58.4545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3355",
             "properties": {
                 "ADDRESS": "Strømsbuåsen 10, 4836 ARENDAL",
                 "amenity": "kindergarten",
@@ -15,7 +35,7 @@
                 "no-barnehage:nsrid": "1017038",
                 "operator": "Arendal kommune",
                 "operator:type": "public",
-                "id": "node/-2940"
+                "id": "node/-3355"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +47,151 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2935",
+            "id": "node/-3354",
+            "properties": {
+                "ADDRESS": "Gåsåsen 20, 4847 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "39",
+                "contact:website": "http://stinta.barnehageenhet.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Stinta barnehageenhet, Gåsungen",
+                "no-barnehage:nsrid": "1014115",
+                "operator": "Arendal kommune",
+                "operator:type": "public",
+                "id": "node/-3354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74725,
+                    58.45953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3352",
+            "properties": {
+                "ADDRESS": "Kirkebakken 12, 4836 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "24",
+                "contact:website": "http://www.stfx.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "St Franciskus barnehage",
+                "no-barnehage:nsrid": "1021531",
+                "operator": "St. Franciskus barnehage",
+                "operator:type": "private",
+                "id": "node/-3352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76531,
+                    58.45792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3351",
+            "properties": {
+                "ADDRESS": "Springklev 6, 4838 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "25",
+                "contact:website": "http://www.springkleivbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Springkleiv barnehage",
+                "no-barnehage:nsrid": "1022176",
+                "operator": "Springkleiv barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75863,
+                    58.46616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3336",
+            "properties": {
+                "ADDRESS": "Fredens Vei 7, 4836 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "contact:website": "http://arendal.villamatilda.www4.protu.no/article.aspx?",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Matilda avd. Arendal",
+                "no-barnehage:nsrid": "1014079",
+                "operator": "Matilda AS",
+                "operator:type": "private",
+                "id": "node/-3336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7561,
+                    58.45898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3333",
+            "properties": {
+                "ADDRESS": "Kirkegårdsveien 33, 4847 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "79",
+                "contact:website": "http://laringsverkstedet.no/barnehage/furukollen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Furukollen",
+                "no-barnehage:nsrid": "1013387",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74792,
+                    58.46725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3332",
+            "properties": {
+                "ADDRESS": "Rådhusgaten 6, 4836 ARENDAL",
+                "amenity": "kindergarten",
+                "capacity": "68",
+                "contact:website": "http://www.laringsverkstedet.no/barnehage/tyholmen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Tyholmen barnehage",
+                "no-barnehage:nsrid": "1013413",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76618,
+                    58.45759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3322",
             "properties": {
                 "ADDRESS": "Granheia 1, 4847 ARENDAL",
                 "amenity": "kindergarten",
@@ -37,7 +201,7 @@
                 "no-barnehage:nsrid": "1020641",
                 "operator": "Langsæ Kulturbarnehage Helge Kolflaath",
                 "operator:type": "private",
-                "id": "node/-2935"
+                "id": "node/-3322"
             },
             "geometry": {
                 "type": "Point",
@@ -49,30 +213,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2931",
+            "id": "node/-3320",
             "properties": {
-                "ADDRESS": "Bjønnes Terrasse 5, 4847 ARENDAL",
+                "ADDRESS": "Torvet 2, 4836 ARENDAL",
                 "amenity": "kindergarten",
-                "contact:website": "http://bjonnes.barnehage.no/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bjønnes barnehage",
-                "no-barnehage:nsrid": "1020946",
-                "operator": "Bjønnes barnehage AS",
+                "name": "Kirkens Bymisjon Arendal åpen barnehage på Torvet",
+                "no-barnehage:nsrid": "1025648",
+                "operator": "Stiftelsen Kirkens Bymisjon Aust-Agder og Telemark",
                 "operator:type": "private",
-                "id": "node/-2931"
+                "id": "node/-3320"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.74623,
-                    58.46277
+                    8.76578,
+                    58.46137
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-2929",
+            "id": "node/-3307",
             "properties": {
                 "ADDRESS": "Håveheia 35, 4838 ARENDAL",
                 "amenity": "kindergarten",
@@ -82,13 +243,37 @@
                 "no-barnehage:nsrid": "1025309",
                 "operator": "Arendal kommune",
                 "operator:type": "public",
-                "id": "node/-2929"
+                "id": "node/-3307"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     8.76043,
                     58.46885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3305",
+            "properties": {
+                "ADDRESS": "Trommestadveien 50, 4816 KOLBJØRNSVIK",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:website": "http://www.facebook.com/askeladdenbarn/minaskeladden.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Askeladden barnehage Friluft, natur, Omsorg",
+                "no-barnehage:nsrid": "1019939",
+                "operator": "Askeladden barnehage Åge Pettersen",
+                "operator:type": "private",
+                "id": "node/-3305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76659,
+                    58.44848
                 ]
             }
         }
