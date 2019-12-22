@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6007",
+            "id": "node/-6010",
             "properties": {
                 "ADDRESS": "Fredlyveien 17, 9411 HARSTAD",
                 "amenity": "kindergarten",
@@ -14,6 +14,26 @@
                 "name": "Læringsverkstedet barnehage avd. Kanebo",
                 "no-barnehage:nsrid": "1020428",
                 "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-6010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57078,
+                    68.77818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6007",
+            "properties": {
+                "ADDRESS": "Fredlyveien 17, 9411 HARSTAD",
+                "amenity": "kindergarten",
+                "name": "Kanebo barnehage",
+                "no-barnehage:nsrid": "2000563",
+                "operator": "Kanebo barnehage Sa",
                 "operator:type": "private",
                 "id": "node/-6007"
             },
@@ -27,27 +47,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6004",
-            "properties": {
-                "ADDRESS": "Fredlyveien 17, 9411 HARSTAD",
-                "amenity": "kindergarten",
-                "name": "Kanebo barnehage",
-                "no-barnehage:nsrid": "2000563",
-                "operator": "Kanebo barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-6004"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.57078,
-                    68.77818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5994",
+            "id": "node/-5997",
             "properties": {
                 "ADDRESS": "Kapellveien 2, 9409 HARSTAD",
                 "amenity": "kindergarten",
@@ -58,7 +58,7 @@
                 "no-barnehage:nsrid": "2000160",
                 "operator": "Furuberget Fus Aktivitetsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-5994"
+                "id": "node/-5997"
             },
             "geometry": {
                 "type": "Point",

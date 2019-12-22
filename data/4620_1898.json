@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6151",
+            "id": "node/-6154",
             "properties": {
                 "ADDRESS": "Gartnetluohkká 7, 9520 KAUTOKEINO",
                 "amenity": "kindergarten",
@@ -11,7 +11,27 @@
                 "no-barnehage:nsrid": "1025636",
                 "operator": "Nuortamielli Bearaimanaidgardi Kristine Buljo",
                 "operator:type": "private",
-                "id": "node/-6151"
+                "id": "node/-6154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0583,
+                    69.00233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6152",
+            "properties": {
+                "ADDRESS": "Gartnetluohkká 7, 9520 KAUTOKEINO",
+                "amenity": "kindergarten",
+                "name": "Håkon Hansen",
+                "no-barnehage:nsrid": "1022446",
+                "operator": "Håkon Hansen",
+                "operator:type": "private",
+                "id": "node/-6152"
             },
             "geometry": {
                 "type": "Point",
@@ -25,26 +45,6 @@
             "type": "Feature",
             "id": "node/-6149",
             "properties": {
-                "ADDRESS": "Gartnetluohkká 7, 9520 KAUTOKEINO",
-                "amenity": "kindergarten",
-                "name": "Håkon Hansen",
-                "no-barnehage:nsrid": "1022446",
-                "operator": "Håkon Hansen",
-                "operator:type": "private",
-                "id": "node/-6149"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.0583,
-                    69.00233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-6146",
-            "properties": {
                 "ADDRESS": "Gahkkorcorru 1, 9520 KAUTOKEINO",
                 "amenity": "kindergarten",
                 "capacity": "35",
@@ -55,7 +55,7 @@
                 "no-barnehage:nsrid": "1016826",
                 "operator": "Sis Finnmarkku Studeanttaid Ovttastus Sso",
                 "operator:type": "private",
-                "id": "node/-6146"
+                "id": "node/-6149"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,31 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2846",
+            "id": "node/-2854",
+            "properties": {
+                "ADDRESS": "Rypevegen 2, 3940 PORSGRUNN",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://spireoggro.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rypevegen barnehage",
+                "no-barnehage:nsrid": "1021407",
+                "operator": "Rypevegen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67747,
+                    59.08155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2845",
             "properties": {
                 "ADDRESS": "Øvre Lundeveg 93, 3941 PORSGRUNN",
                 "amenity": "kindergarten",
@@ -14,7 +38,7 @@
                 "no-barnehage:nsrid": "1018035",
                 "operator": "Porsgrunn kommune",
                 "operator:type": "public",
-                "id": "node/-2846"
+                "id": "node/-2845"
             },
             "geometry": {
                 "type": "Point",
