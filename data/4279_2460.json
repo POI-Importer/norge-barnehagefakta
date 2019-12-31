@@ -113,7 +113,27 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3768",
+            "id": "node/-3770",
+            "properties": {
+                "ADDRESS": "Rødhettes Vei 6, 4638 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "name": "Lindtjønn FUS barnehage avd. Rødhettes Vei",
+                "no-barnehage:nsrid": "1021320",
+                "operator": "Lindtjønn Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.07051,
+                    58.1592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3767",
             "properties": {
                 "ADDRESS": "Liane Ringvei 6, 4638 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -125,7 +145,7 @@
                 "no-barnehage:nsrid": "1021091",
                 "operator": "Liantjønn barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3768"
+                "id": "node/-3767"
             },
             "geometry": {
                 "type": "Point",

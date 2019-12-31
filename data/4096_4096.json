@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6235",
+            "id": "node/-6237",
             "properties": {
                 "ADDRESS": "Skogfoss, 9925 SVANVIK",
                 "amenity": "kindergarten",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013766",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-6235"
+                "id": "node/-6237"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6230",
+            "id": "node/-6232",
             "properties": {
                 "ADDRESS": ", 9925 SVANVIK",
                 "amenity": "kindergarten",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1013743",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-6230"
+                "id": "node/-6232"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6229",
+            "id": "node/-6231",
             "properties": {
                 "ADDRESS": ", 9930 NEIDEN",
                 "amenity": "kindergarten",
@@ -56,7 +56,7 @@
                 "no-barnehage:nsrid": "1013887",
                 "operator": "Sør-Varanger kommune",
                 "operator:type": "public",
-                "id": "node/-6229"
+                "id": "node/-6231"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +68,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6217",
+            "id": "node/-6219",
             "properties": {
                 "ADDRESS": "Sirma, 9826 SIRMA",
                 "amenity": "kindergarten",
@@ -78,7 +78,31 @@
                 "no-barnehage:nsrid": "1015073",
                 "operator": "Deanu Gielda / Tana kommune",
                 "operator:type": "public",
-                "id": "node/-6217"
+                "id": "node/-6219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6215",
+            "properties": {
+                "ADDRESS": "Austertana, 9845 TANA",
+                "amenity": "kindergarten",
+                "capacity": "3",
+                "contact:website": "http://tana.kommune.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Austertana oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1016572",
+                "operator": "Deanu Gielda / Tana kommune",
+                "operator:type": "public",
+                "id": "node/-6215"
             },
             "geometry": {
                 "type": "Point",
@@ -92,15 +116,13 @@
             "type": "Feature",
             "id": "node/-6213",
             "properties": {
-                "ADDRESS": "Austertana, 9845 TANA",
+                "ADDRESS": ", 9771 SKJÅNES",
                 "amenity": "kindergarten",
-                "capacity": "3",
-                "contact:website": "http://tana.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Austertana oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1016572",
-                "operator": "Deanu Gielda / Tana kommune",
+                "name": "Skjånes barnehage",
+                "no-barnehage:nsrid": "1015101",
+                "operator": "Gamvik kommune",
                 "operator:type": "public",
                 "id": "node/-6213"
             },
@@ -114,29 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6211",
-            "properties": {
-                "ADDRESS": ", 9771 SKJÅNES",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skjånes barnehage",
-                "no-barnehage:nsrid": "1015101",
-                "operator": "Gamvik kommune",
-                "operator:type": "public",
-                "id": "node/-6211"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-6208",
+            "id": "node/-6210",
             "properties": {
                 "ADDRESS": ", 9740 LEBESBY",
                 "amenity": "kindergarten",
@@ -147,7 +147,7 @@
                 "no-barnehage:nsrid": "1013737",
                 "operator": "Lebesby kommune",
                 "operator:type": "public",
-                "id": "node/-6208"
+                "id": "node/-6210"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +159,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6203",
+            "id": "node/-6205",
             "properties": {
                 "ADDRESS": "C/o Brennelv Bygdehus, 9700 LAKSELV",
                 "amenity": "kindergarten",
@@ -171,7 +171,7 @@
                 "no-barnehage:nsrid": "1021379",
                 "operator": "Østerbotn Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-6203"
+                "id": "node/-6205"
             },
             "geometry": {
                 "type": "Point",
@@ -183,7 +183,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6199",
+            "id": "node/-6201",
             "properties": {
                 "ADDRESS": ", 9710 INDRE BILLEFJORD",
                 "amenity": "kindergarten",
@@ -194,7 +194,7 @@
                 "no-barnehage:nsrid": "1013733",
                 "operator": "Porsanger kommune",
                 "operator:type": "public",
-                "id": "node/-6199"
+                "id": "node/-6201"
             },
             "geometry": {
                 "type": "Point",
@@ -206,7 +206,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6194",
+            "id": "node/-6196",
             "properties": {
                 "ADDRESS": ", 9670 TUFJORD",
                 "amenity": "kindergarten",
@@ -214,7 +214,7 @@
                 "no-barnehage:nsrid": "1025235",
                 "operator": "Izzanova AS",
                 "operator:type": "private",
-                "id": "node/-6194"
+                "id": "node/-6196"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +226,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6186",
+            "id": "node/-6188",
             "properties": {
                 "ADDRESS": ", 9580 BERGSFJORD",
                 "amenity": "kindergarten",
@@ -236,7 +236,7 @@
                 "no-barnehage:nsrid": "1015772",
                 "operator": "Loppa kommune",
                 "operator:type": "public",
-                "id": "node/-6186"
+                "id": "node/-6188"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +248,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6178",
+            "id": "node/-6180",
             "properties": {
                 "ADDRESS": "Rafsbotn, 9517 ALTA",
                 "amenity": "kindergarten",
@@ -259,7 +259,7 @@
                 "no-barnehage:nsrid": "1014761",
                 "operator": "Alta kommune",
                 "operator:type": "public",
-                "id": "node/-6178"
+                "id": "node/-6180"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +271,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6174",
+            "id": "node/-6176",
             "properties": {
                 "ADDRESS": ", 9519 KVIBY",
                 "amenity": "kindergarten",
@@ -282,7 +282,7 @@
                 "no-barnehage:nsrid": "1014762",
                 "operator": "Alta kommune",
                 "operator:type": "public",
-                "id": "node/-6174"
+                "id": "node/-6176"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +294,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6173",
+            "id": "node/-6175",
             "properties": {
                 "ADDRESS": ", 9545 LANGFJORDBOTN",
                 "amenity": "kindergarten",
@@ -302,7 +302,7 @@
                 "no-barnehage:nsrid": "1019523",
                 "operator": "Alta kommune",
                 "operator:type": "public",
-                "id": "node/-6173"
+                "id": "node/-6175"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +314,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6171",
+            "id": "node/-6172",
             "properties": {
                 "ADDRESS": ", 9536 KORSFJORDEN",
                 "amenity": "kindergarten",
@@ -322,7 +322,7 @@
                 "no-barnehage:nsrid": "1019524",
                 "operator": "Alta kommune",
                 "operator:type": "public",
-                "id": "node/-6171"
+                "id": "node/-6172"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +334,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6159",
+            "id": "node/-6160",
             "properties": {
                 "ADDRESS": ", 9511 ALTA",
                 "amenity": "kindergarten",
@@ -345,7 +345,7 @@
                 "no-barnehage:nsrid": "1016517",
                 "operator": "Alta kommune",
                 "operator:type": "public",
-                "id": "node/-6159"
+                "id": "node/-6160"
             },
             "geometry": {
                 "type": "Point",
@@ -357,7 +357,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6155",
+            "id": "node/-6156",
             "properties": {
                 "ADDRESS": "Nuortamielli, 9520 KAUTOKEINO",
                 "amenity": "kindergarten",
@@ -368,7 +368,7 @@
                 "no-barnehage:nsrid": "1021903",
                 "operator": "Nuortamielli Mánáidgárdi AS",
                 "operator:type": "private",
-                "id": "node/-6155"
+                "id": "node/-6156"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +380,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6153",
+            "id": "node/-6154",
             "properties": {
                 "ADDRESS": ", 9525 MAZE",
                 "amenity": "kindergarten",
@@ -391,7 +391,7 @@
                 "no-barnehage:nsrid": "1013717",
                 "operator": "Guovdageainnu Suohkan / Kautokeino kommune",
                 "operator:type": "public",
-                "id": "node/-6153"
+                "id": "node/-6154"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +403,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6150",
+            "id": "node/-6151",
             "properties": {
                 "ADDRESS": "Gartnetluohkka, 9520 KAUTOKEINO",
                 "amenity": "kindergarten",
@@ -414,7 +414,30 @@
                 "no-barnehage:nsrid": "1013806",
                 "operator": "Guovdageainnu Suohkan / Kautokeino kommune",
                 "operator:type": "public",
-                "id": "node/-6150"
+                "id": "node/-6151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-6126",
+            "properties": {
+                "ADDRESS": ", 9161 BURFJORD",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Burfjord barnehage",
+                "no-barnehage:nsrid": "1013713",
+                "operator": "Kvænangen kommune",
+                "operator:type": "public",
+                "id": "node/-6126"
             },
             "geometry": {
                 "type": "Point",
@@ -428,13 +451,13 @@
             "type": "Feature",
             "id": "node/-6125",
             "properties": {
-                "ADDRESS": ", 9161 BURFJORD",
+                "ADDRESS": ", 9162 SØRSTRAUMEN",
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "8",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Burfjord barnehage",
-                "no-barnehage:nsrid": "1013713",
+                "name": "Badderen barnehage",
+                "no-barnehage:nsrid": "1012572",
                 "operator": "Kvænangen kommune",
                 "operator:type": "public",
                 "id": "node/-6125"
@@ -451,15 +474,15 @@
             "type": "Feature",
             "id": "node/-6124",
             "properties": {
-                "ADDRESS": ", 9162 SØRSTRAUMEN",
+                "ADDRESS": "Tømmernes, 9151 STORSLETT",
                 "amenity": "kindergarten",
-                "capacity": "8",
+                "capacity": "12",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Badderen barnehage",
-                "no-barnehage:nsrid": "1012572",
-                "operator": "Kvænangen kommune",
-                "operator:type": "public",
+                "name": "Tømmernes gårds- og naturbarnehage",
+                "no-barnehage:nsrid": "1021579",
+                "operator": "Tømmernes Gårds- og Naturbarnehage AS",
+                "operator:type": "private",
                 "id": "node/-6124"
             },
             "geometry": {
@@ -472,30 +495,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6123",
-            "properties": {
-                "ADDRESS": "Tømmernes, 9151 STORSLETT",
-                "amenity": "kindergarten",
-                "capacity": "12",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tømmernes gårds- og naturbarnehage",
-                "no-barnehage:nsrid": "1021579",
-                "operator": "Tømmernes Gårds- og Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-6123"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-6118",
+            "id": "node/-6119",
             "properties": {
                 "ADDRESS": "Oksfjordhamn, 9151 STORSLETT",
                 "amenity": "kindergarten",
@@ -506,7 +506,7 @@
                 "no-barnehage:nsrid": "1013710",
                 "operator": "Nordreisa kommune",
                 "operator:type": "public",
-                "id": "node/-6118"
+                "id": "node/-6119"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +518,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-6115",
+            "id": "node/-6116",
             "properties": {
                 "ADDRESS": "Flomstadveien, 9151 STORSLETT",
                 "amenity": "kindergarten",
@@ -529,7 +529,7 @@
                 "no-barnehage:nsrid": "1014048",
                 "operator": "Nordreisa kommune",
                 "operator:type": "public",
-                "id": "node/-6115"
+                "id": "node/-6116"
             },
             "geometry": {
                 "type": "Point",
@@ -8148,7 +8148,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3718",
+            "id": "node/-3719",
             "properties": {
                 "ADDRESS": ", 6658 RINDALSSKOGEN",
                 "amenity": "kindergarten",
@@ -8157,6 +8157,29 @@
                 "min_age": "1",
                 "name": "Øvre Rindal barnehage",
                 "no-barnehage:nsrid": "1014744",
+                "operator": "Rindal kommune",
+                "operator:type": "public",
+                "id": "node/-3719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3718",
+            "properties": {
+                "ADDRESS": ", 6657 RINDAL",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rindal barnehage",
+                "no-barnehage:nsrid": "1017411",
                 "operator": "Rindal kommune",
                 "operator:type": "public",
                 "id": "node/-3718"
@@ -8175,11 +8198,11 @@
             "properties": {
                 "ADDRESS": ", 6657 RINDAL",
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "56",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Rindal barnehage",
-                "no-barnehage:nsrid": "1017411",
+                "name": "Bolme barnehage",
+                "no-barnehage:nsrid": "1013947",
                 "operator": "Rindal kommune",
                 "operator:type": "public",
                 "id": "node/-3717"
@@ -8194,30 +8217,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3716",
-            "properties": {
-                "ADDRESS": ", 6657 RINDAL",
-                "amenity": "kindergarten",
-                "capacity": "56",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bolme barnehage",
-                "no-barnehage:nsrid": "1013947",
-                "operator": "Rindal kommune",
-                "operator:type": "public",
-                "id": "node/-3716"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3713",
+            "id": "node/-3714",
             "properties": {
                 "ADDRESS": "Grandehagen, 7120 LEKSVIK",
                 "amenity": "kindergarten",
@@ -8228,7 +8228,7 @@
                 "no-barnehage:nsrid": "1021674",
                 "operator": "Tuppen og Lillemor barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3713"
+                "id": "node/-3714"
             },
             "geometry": {
                 "type": "Point",
@@ -8240,7 +8240,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3710",
+            "id": "node/-3711",
             "properties": {
                 "ADDRESS": "Steinvegen, 7120 LEKSVIK",
                 "amenity": "kindergarten",
@@ -8251,7 +8251,7 @@
                 "no-barnehage:nsrid": "1021188",
                 "operator": "Steinvegen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3710"
+                "id": "node/-3711"
             },
             "geometry": {
                 "type": "Point",
@@ -8263,7 +8263,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3707",
+            "id": "node/-3708",
             "properties": {
                 "ADDRESS": "Ytter-Myran, 7120 LEKSVIK",
                 "amenity": "kindergarten",
@@ -8275,7 +8275,7 @@
                 "no-barnehage:nsrid": "1012780",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
-                "id": "node/-3707"
+                "id": "node/-3708"
             },
             "geometry": {
                 "type": "Point",
@@ -8287,7 +8287,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3689",
+            "id": "node/-3690",
             "properties": {
                 "ADDRESS": ", 7994 LEKA",
                 "amenity": "kindergarten",
@@ -8298,7 +8298,7 @@
                 "no-barnehage:nsrid": "1013648",
                 "operator": "Leka kommune",
                 "operator:type": "public",
-                "id": "node/-3689"
+                "id": "node/-3690"
             },
             "geometry": {
                 "type": "Point",
@@ -8310,7 +8310,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3679",
+            "id": "node/-3680",
             "properties": {
                 "ADDRESS": ", 7950 ABELVÆR",
                 "amenity": "kindergarten",
@@ -8320,7 +8320,30 @@
                 "no-barnehage:nsrid": "1015949",
                 "operator": "Nærøy kommune",
                 "operator:type": "public",
-                "id": "node/-3679"
+                "id": "node/-3680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3672",
+            "properties": {
+                "ADDRESS": ", 7900 RØRVIK",
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Austafjord oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1013859",
+                "operator": "Vikna kommune",
+                "operator:type": "public",
+                "id": "node/-3672"
             },
             "geometry": {
                 "type": "Point",
@@ -8334,14 +8357,14 @@
             "type": "Feature",
             "id": "node/-3671",
             "properties": {
-                "ADDRESS": ", 7900 RØRVIK",
+                "ADDRESS": ", 7770 FLATANGER",
                 "amenity": "kindergarten",
-                "capacity": "20",
+                "capacity": "36",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Austafjord oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1013859",
-                "operator": "Vikna kommune",
+                "name": "Vangan barnehage",
+                "no-barnehage:nsrid": "1013645",
+                "operator": "Flatanger kommune",
                 "operator:type": "public",
                 "id": "node/-3671"
             },
@@ -8357,13 +8380,13 @@
             "type": "Feature",
             "id": "node/-3670",
             "properties": {
-                "ADDRESS": ", 7770 FLATANGER",
+                "ADDRESS": "Utvorda, 7777 NORD-STATLAND",
                 "amenity": "kindergarten",
-                "capacity": "36",
+                "capacity": "4",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vangan barnehage",
-                "no-barnehage:nsrid": "1013645",
+                "name": "Solbakken barnehage",
+                "no-barnehage:nsrid": "1015897",
                 "operator": "Flatanger kommune",
                 "operator:type": "public",
                 "id": "node/-3670"
@@ -8380,14 +8403,13 @@
             "type": "Feature",
             "id": "node/-3669",
             "properties": {
-                "ADDRESS": "Utvorda, 7777 NORD-STATLAND",
+                "ADDRESS": ", 7817 SALSNES",
                 "amenity": "kindergarten",
-                "capacity": "4",
                 "max_age": "5",
-                "min_age": "1",
-                "name": "Solbakken barnehage",
-                "no-barnehage:nsrid": "1015897",
-                "operator": "Flatanger kommune",
+                "min_age": "3",
+                "name": "Salsnes oppvekstsenter barnehage",
+                "no-barnehage:nsrid": "1016610",
+                "operator": "Fosnes kommune",
                 "operator:type": "public",
                 "id": "node/-3669"
             },
@@ -8401,29 +8423,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3668",
-            "properties": {
-                "ADDRESS": ", 7817 SALSNES",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Salsnes oppvekstsenter barnehage",
-                "no-barnehage:nsrid": "1016610",
-                "operator": "Fosnes kommune",
-                "operator:type": "public",
-                "id": "node/-3668"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3666",
+            "id": "node/-3667",
             "properties": {
                 "ADDRESS": ", 7856 JØA",
                 "amenity": "kindergarten",
@@ -8434,7 +8434,7 @@
                 "no-barnehage:nsrid": "1016609",
                 "operator": "Fosnes kommune",
                 "operator:type": "public",
-                "id": "node/-3666"
+                "id": "node/-3667"
             },
             "geometry": {
                 "type": "Point",
@@ -8446,7 +8446,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3663",
+            "id": "node/-3664",
             "properties": {
                 "ADDRESS": "Øysletta, 7863 OVERHALLA",
                 "amenity": "kindergarten",
@@ -8457,7 +8457,30 @@
                 "no-barnehage:nsrid": "1014951",
                 "operator": "Overhalla kommune",
                 "operator:type": "public",
-                "id": "node/-3663"
+                "id": "node/-3664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3661",
+            "properties": {
+                "ADDRESS": ", 7870 GRONG",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rønningen barnehage",
+                "no-barnehage:nsrid": "1014751",
+                "operator": "Grong kommune",
+                "operator:type": "public",
+                "id": "node/-3661"
             },
             "geometry": {
                 "type": "Point",
@@ -8471,13 +8494,13 @@
             "type": "Feature",
             "id": "node/-3660",
             "properties": {
-                "ADDRESS": ", 7870 GRONG",
+                "ADDRESS": ", 7873 HARRAN",
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "17",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Rønningen barnehage",
-                "no-barnehage:nsrid": "1014751",
+                "name": "Harran oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1013641",
                 "operator": "Grong kommune",
                 "operator:type": "public",
                 "id": "node/-3660"
@@ -8494,13 +8517,13 @@
             "type": "Feature",
             "id": "node/-3659",
             "properties": {
-                "ADDRESS": ", 7873 HARRAN",
+                "ADDRESS": ", 7870 GRONG",
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Harran oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1013641",
+                "name": "Ekker barnehage",
+                "no-barnehage:nsrid": "1013640",
                 "operator": "Grong kommune",
                 "operator:type": "public",
                 "id": "node/-3659"
@@ -8519,11 +8542,11 @@
             "properties": {
                 "ADDRESS": ", 7870 GRONG",
                 "amenity": "kindergarten",
-                "capacity": "32",
+                "capacity": "27",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ekker barnehage",
-                "no-barnehage:nsrid": "1013640",
+                "name": "Bergsmo barnehage",
+                "no-barnehage:nsrid": "1012530",
                 "operator": "Grong kommune",
                 "operator:type": "public",
                 "id": "node/-3658"
@@ -8540,14 +8563,14 @@
             "type": "Feature",
             "id": "node/-3657",
             "properties": {
-                "ADDRESS": ", 7870 GRONG",
+                "ADDRESS": ", 7892 TRONES",
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "10",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Bergsmo barnehage",
-                "no-barnehage:nsrid": "1012530",
-                "operator": "Grong kommune",
+                "name": "Trones barnehage",
+                "no-barnehage:nsrid": "1013639",
+                "operator": "Namsskogan kommune",
                 "operator:type": "public",
                 "id": "node/-3657"
             },
@@ -8563,13 +8586,13 @@
             "type": "Feature",
             "id": "node/-3656",
             "properties": {
-                "ADDRESS": ", 7892 TRONES",
+                "ADDRESS": ", 7890 NAMSSKOGAN",
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Trones barnehage",
-                "no-barnehage:nsrid": "1013639",
+                "name": "Lonet barnehage",
+                "no-barnehage:nsrid": "1013638",
                 "operator": "Namsskogan kommune",
                 "operator:type": "public",
                 "id": "node/-3656"
@@ -8586,13 +8609,13 @@
             "type": "Feature",
             "id": "node/-3655",
             "properties": {
-                "ADDRESS": ", 7890 NAMSSKOGAN",
+                "ADDRESS": ", 7896 BREKKVASSELV",
                 "amenity": "kindergarten",
                 "capacity": "10",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Lonet barnehage",
-                "no-barnehage:nsrid": "1013638",
+                "name": "Elva barnehage",
+                "no-barnehage:nsrid": "1018278",
                 "operator": "Namsskogan kommune",
                 "operator:type": "public",
                 "id": "node/-3655"
@@ -8607,18 +8630,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3654",
+            "id": "node/-3651",
             "properties": {
-                "ADDRESS": ", 7896 BREKKVASSELV",
+                "ADDRESS": "Flatbostad, 7760 SNÅSA",
                 "amenity": "kindergarten",
-                "capacity": "10",
+                "capacity": "7",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Elva barnehage",
-                "no-barnehage:nsrid": "1018278",
-                "operator": "Namsskogan kommune",
+                "name": "Suaja Maanagierte",
+                "no-barnehage:nsrid": "1013208",
+                "operator": "Snåsa kommune",
                 "operator:type": "public",
-                "id": "node/-3654"
+                "id": "node/-3651"
             },
             "geometry": {
                 "type": "Point",
@@ -8630,18 +8653,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3650",
+            "id": "node/-3649",
             "properties": {
-                "ADDRESS": "Flatbostad, 7760 SNÅSA",
+                "ADDRESS": ", 7760 SNÅSA",
                 "amenity": "kindergarten",
-                "capacity": "7",
+                "capacity": "37",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Suaja Maanagierte",
-                "no-barnehage:nsrid": "1013208",
+                "name": "Snåsa barnehage avd. Vinjebakken",
+                "no-barnehage:nsrid": "1014938",
                 "operator": "Snåsa kommune",
                 "operator:type": "public",
-                "id": "node/-3650"
+                "id": "node/-3649"
             },
             "geometry": {
                 "type": "Point",
@@ -8655,13 +8678,13 @@
             "type": "Feature",
             "id": "node/-3648",
             "properties": {
-                "ADDRESS": ", 7760 SNÅSA",
+                "ADDRESS": "Breide, 7760 SNÅSA",
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "31",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Snåsa barnehage avd. Vinjebakken",
-                "no-barnehage:nsrid": "1014938",
+                "name": "Snåsa barnehage avd. Breide",
+                "no-barnehage:nsrid": "1025338",
                 "operator": "Snåsa kommune",
                 "operator:type": "public",
                 "id": "node/-3648"
@@ -8676,18 +8699,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3647",
+            "id": "node/-3646",
             "properties": {
-                "ADDRESS": "Breide, 7760 SNÅSA",
+                "ADDRESS": ", 7750 NAMDALSEID",
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "60",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Snåsa barnehage avd. Breide",
-                "no-barnehage:nsrid": "1025338",
-                "operator": "Snåsa kommune",
+                "name": "Vangstunet barnehage",
+                "no-barnehage:nsrid": "1016122",
+                "operator": "Namdalseid kommune",
                 "operator:type": "public",
-                "id": "node/-3647"
+                "id": "node/-3646"
             },
             "geometry": {
                 "type": "Point",
@@ -8701,13 +8724,13 @@
             "type": "Feature",
             "id": "node/-3645",
             "properties": {
-                "ADDRESS": ", 7750 NAMDALSEID",
+                "ADDRESS": "Statland skole, 7777 NORD-STATLAND",
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "7",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vangstunet barnehage",
-                "no-barnehage:nsrid": "1016122",
+                "name": "Stjerten barnehage",
+                "no-barnehage:nsrid": "1012529",
                 "operator": "Namdalseid kommune",
                 "operator:type": "public",
                 "id": "node/-3645"
@@ -8722,18 +8745,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3644",
+            "id": "node/-3625",
             "properties": {
-                "ADDRESS": "Statland skole, 7777 NORD-STATLAND",
+                "ADDRESS": ", 4755 HOVDEN I SETESDAL",
                 "amenity": "kindergarten",
-                "capacity": "7",
+                "capacity": "27",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stjerten barnehage",
-                "no-barnehage:nsrid": "1012529",
-                "operator": "Namdalseid kommune",
+                "name": "Fjellgardane barnehage",
+                "no-barnehage:nsrid": "1012503",
+                "operator": "Bykle kommune",
                 "operator:type": "public",
-                "id": "node/-3644"
+                "id": "node/-3625"
             },
             "geometry": {
                 "type": "Point",
@@ -8747,13 +8770,13 @@
             "type": "Feature",
             "id": "node/-3624",
             "properties": {
-                "ADDRESS": ", 4755 HOVDEN I SETESDAL",
+                "ADDRESS": ", 4754 BYKLE",
                 "amenity": "kindergarten",
-                "capacity": "27",
+                "capacity": "14",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Fjellgardane barnehage",
-                "no-barnehage:nsrid": "1012503",
+                "name": "Bykle barnehage",
+                "no-barnehage:nsrid": "1018062",
                 "operator": "Bykle kommune",
                 "operator:type": "public",
                 "id": "node/-3624"
@@ -8770,14 +8793,14 @@
             "type": "Feature",
             "id": "node/-3623",
             "properties": {
-                "ADDRESS": ", 4754 BYKLE",
+                "ADDRESS": ", 4747 VALLE",
                 "amenity": "kindergarten",
-                "capacity": "14",
+                "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Bykle barnehage",
-                "no-barnehage:nsrid": "1018062",
-                "operator": "Bykle kommune",
+                "name": "Valle barnehage",
+                "no-barnehage:nsrid": "1016055",
+                "operator": "Valle kommune",
                 "operator:type": "public",
                 "id": "node/-3623"
             },
@@ -8793,13 +8816,13 @@
             "type": "Feature",
             "id": "node/-3622",
             "properties": {
-                "ADDRESS": ", 4747 VALLE",
+                "ADDRESS": ", 4748 RYSSTAD",
                 "amenity": "kindergarten",
-                "capacity": "32",
+                "capacity": "15",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Valle barnehage",
-                "no-barnehage:nsrid": "1016055",
+                "name": "Hylestad barnehage",
+                "no-barnehage:nsrid": "1012556",
                 "operator": "Valle kommune",
                 "operator:type": "public",
                 "id": "node/-3622"
@@ -8814,30 +8837,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3621",
-            "properties": {
-                "ADDRESS": ", 4748 RYSSTAD",
-                "amenity": "kindergarten",
-                "capacity": "15",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hylestad barnehage",
-                "no-barnehage:nsrid": "1012556",
-                "operator": "Valle kommune",
-                "operator:type": "public",
-                "id": "node/-3621"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3605",
+            "id": "node/-3606",
             "properties": {
                 "ADDRESS": ", 7517 HELL",
                 "amenity": "kindergarten",
@@ -8848,7 +8848,7 @@
                 "no-barnehage:nsrid": "1017396",
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
-                "id": "node/-3605"
+                "id": "node/-3606"
             },
             "geometry": {
                 "type": "Point",
@@ -8860,7 +8860,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3600",
+            "id": "node/-3601",
             "properties": {
                 "ADDRESS": "Vikanveien, 7512 STJØRDAL",
                 "amenity": "kindergarten",
@@ -8871,7 +8871,30 @@
                 "no-barnehage:nsrid": "1014688",
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
-                "id": "node/-3600"
+                "id": "node/-3601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3595",
+            "properties": {
+                "ADDRESS": "Fosslia, 7500 STJØRDAL",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fosslia barnehage",
+                "no-barnehage:nsrid": "1016524",
+                "operator": "Stjørdal kommune",
+                "operator:type": "public",
+                "id": "node/-3595"
             },
             "geometry": {
                 "type": "Point",
@@ -8885,13 +8908,13 @@
             "type": "Feature",
             "id": "node/-3594",
             "properties": {
-                "ADDRESS": "Fosslia, 7500 STJØRDAL",
+                "ADDRESS": ", 7520 HEGRA",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "21",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Fosslia barnehage",
-                "no-barnehage:nsrid": "1016524",
+                "name": "Forradal oppvekstsenter barnehage",
+                "no-barnehage:nsrid": "1013936",
                 "operator": "Stjørdal kommune",
                 "operator:type": "public",
                 "id": "node/-3594"
@@ -8906,30 +8929,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3593",
-            "properties": {
-                "ADDRESS": ", 7520 HEGRA",
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Forradal oppvekstsenter barnehage",
-                "no-barnehage:nsrid": "1013936",
-                "operator": "Stjørdal kommune",
-                "operator:type": "public",
-                "id": "node/-3593"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3586",
+            "id": "node/-3587",
             "properties": {
                 "ADDRESS": "Fløanveien 87, 7510 SKATVAL",
                 "amenity": "kindergarten",
@@ -8940,7 +8940,7 @@
                 "no-barnehage:nsrid": "1026310",
                 "operator": "Aglo opplæringssenter",
                 "operator:type": "private",
-                "id": "node/-3586"
+                "id": "node/-3587"
             },
             "geometry": {
                 "type": "Point",
@@ -8952,7 +8952,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3575",
+            "id": "node/-3576",
             "properties": {
                 "ADDRESS": ", 4724 IVELAND",
                 "amenity": "kindergarten",
@@ -8963,7 +8963,30 @@
                 "no-barnehage:nsrid": "1018058",
                 "operator": "Iveland kommune",
                 "operator:type": "public",
-                "id": "node/-3575"
+                "id": "node/-3576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3565",
+            "properties": {
+                "ADDRESS": ", 7354 VIGGJA",
+                "amenity": "kindergarten",
+                "capacity": "22",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Viggja oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1025330",
+                "operator": "Skaun kommune",
+                "operator:type": "public",
+                "id": "node/-3565"
             },
             "geometry": {
                 "type": "Point",
@@ -8977,13 +9000,14 @@
             "type": "Feature",
             "id": "node/-3564",
             "properties": {
-                "ADDRESS": ", 7354 VIGGJA",
+                "ADDRESS": ", 7357 SKAUN",
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "34",
+                "contact:website": "http://www.skaun.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Viggja oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1025330",
+                "name": "Venn oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1018253",
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "id": "node/-3564"
@@ -9000,14 +9024,12 @@
             "type": "Feature",
             "id": "node/-3563",
             "properties": {
-                "ADDRESS": ", 7357 SKAUN",
+                "ADDRESS": ", 7350 BUVIKA",
                 "amenity": "kindergarten",
-                "capacity": "34",
-                "contact:website": "http://www.skaun.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Venn oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1018253",
+                "name": "Pundslia barnehage",
+                "no-barnehage:nsrid": "1018252",
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "id": "node/-3563"
@@ -9026,10 +9048,11 @@
             "properties": {
                 "ADDRESS": ", 7350 BUVIKA",
                 "amenity": "kindergarten",
+                "capacity": "138",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Pundslia barnehage",
-                "no-barnehage:nsrid": "1018252",
+                "name": "Oterhaugen barnehage",
+                "no-barnehage:nsrid": "1017025",
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "id": "node/-3562"
@@ -9046,13 +9069,13 @@
             "type": "Feature",
             "id": "node/-3561",
             "properties": {
-                "ADDRESS": ", 7350 BUVIKA",
+                "ADDRESS": ", 7357 SKAUN",
                 "amenity": "kindergarten",
-                "capacity": "138",
+                "capacity": "28",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Oterhaugen barnehage",
-                "no-barnehage:nsrid": "1017025",
+                "name": "Jåren-råbygda oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1016120",
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "id": "node/-3561"
@@ -9069,13 +9092,13 @@
             "type": "Feature",
             "id": "node/-3560",
             "properties": {
-                "ADDRESS": ", 7357 SKAUN",
+                "ADDRESS": "Finnmyrveien, 7350 BUVIKA",
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "45",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Jåren-råbygda oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1016120",
+                "name": "Ilhaugen barnehage",
+                "no-barnehage:nsrid": "1014786",
                 "operator": "Skaun kommune",
                 "operator:type": "public",
                 "id": "node/-3560"
@@ -9090,18 +9113,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3559",
+            "id": "node/-3558",
             "properties": {
-                "ADDRESS": "Finnmyrveien, 7350 BUVIKA",
+                "ADDRESS": ", 7353 BØRSA",
                 "amenity": "kindergarten",
-                "capacity": "45",
+                "capacity": "38",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ilhaugen barnehage",
-                "no-barnehage:nsrid": "1014786",
-                "operator": "Skaun kommune",
-                "operator:type": "public",
-                "id": "node/-3559"
+                "name": "Fredly barnehage",
+                "no-barnehage:nsrid": "1016865",
+                "operator": "Stiftelsen Fredly folkehøgskole",
+                "operator:type": "private",
+                "id": "node/-3558"
             },
             "geometry": {
                 "type": "Point",
@@ -9117,13 +9140,13 @@
             "properties": {
                 "ADDRESS": ", 7353 BØRSA",
                 "amenity": "kindergarten",
-                "capacity": "38",
+                "capacity": "137",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Fredly barnehage",
-                "no-barnehage:nsrid": "1016865",
-                "operator": "Stiftelsen Fredly folkehøgskole",
-                "operator:type": "private",
+                "name": "Børsa barnehage",
+                "no-barnehage:nsrid": "1017024",
+                "operator": "Skaun kommune",
+                "operator:type": "public",
                 "id": "node/-3557"
             },
             "geometry": {
@@ -9136,30 +9159,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3556",
-            "properties": {
-                "ADDRESS": ", 7353 BØRSA",
-                "amenity": "kindergarten",
-                "capacity": "137",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Børsa barnehage",
-                "no-barnehage:nsrid": "1017024",
-                "operator": "Skaun kommune",
-                "operator:type": "public",
-                "id": "node/-3556"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-3548",
             "properties": {
                 "ADDRESS": "Lyngenveien, 7232 LUNDAMO",
                 "amenity": "kindergarten",
@@ -9167,7 +9167,7 @@
                 "no-barnehage:nsrid": "1020962",
                 "operator": "Lyngenveien barnehage Kjersti Borg Nilsen",
                 "operator:type": "private",
-                "id": "node/-3547"
+                "id": "node/-3548"
             },
             "geometry": {
                 "type": "Point",
@@ -9179,7 +9179,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3545",
+            "id": "node/-3546",
             "properties": {
                 "ADDRESS": "Skarpsno, 7228 KVÅL",
                 "amenity": "kindergarten",
@@ -9187,7 +9187,7 @@
                 "no-barnehage:nsrid": "1021716",
                 "operator": "Kvål Montessori Familiebarnehage Ingrid Wahlberg",
                 "operator:type": "private",
-                "id": "node/-3545"
+                "id": "node/-3546"
             },
             "geometry": {
                 "type": "Point",
@@ -9199,7 +9199,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3540",
+            "id": "node/-3541",
             "properties": {
                 "ADDRESS": ", 7213 GÅSBAKKEN",
                 "amenity": "kindergarten",
@@ -9210,7 +9210,7 @@
                 "no-barnehage:nsrid": "1018247",
                 "operator": "Melhus kommune",
                 "operator:type": "public",
-                "id": "node/-3540"
+                "id": "node/-3541"
             },
             "geometry": {
                 "type": "Point",
@@ -9222,7 +9222,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3534",
+            "id": "node/-3535",
             "properties": {
                 "ADDRESS": ", 7290 STØREN",
                 "amenity": "kindergarten",
@@ -9233,7 +9233,30 @@
                 "no-barnehage:nsrid": "1018246",
                 "operator": "Midtre Gauldal kommune",
                 "operator:type": "public",
-                "id": "node/-3534"
+                "id": "node/-3535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3533",
+            "properties": {
+                "ADDRESS": "Hovsmoen, 7288 SOKNEDAL",
+                "amenity": "kindergarten",
+                "capacity": "67",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Soknedal oppvekstområde avd. barnehage",
+                "no-barnehage:nsrid": "1013961",
+                "operator": "Midtre Gauldal kommune",
+                "operator:type": "public",
+                "id": "node/-3533"
             },
             "geometry": {
                 "type": "Point",
@@ -9247,15 +9270,12 @@
             "type": "Feature",
             "id": "node/-3532",
             "properties": {
-                "ADDRESS": "Hovsmoen, 7288 SOKNEDAL",
+                "ADDRESS": ", 7288 SOKNEDAL",
                 "amenity": "kindergarten",
-                "capacity": "67",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Soknedal oppvekstområde avd. barnehage",
-                "no-barnehage:nsrid": "1013961",
-                "operator": "Midtre Gauldal kommune",
-                "operator:type": "public",
+                "name": "Soknedal menighetsbarnehage",
+                "no-barnehage:nsrid": "1020403",
+                "operator": "Støren Kirkelige Fellesråd",
+                "operator:type": "private",
                 "id": "node/-3532"
             },
             "geometry": {
@@ -9270,12 +9290,15 @@
             "type": "Feature",
             "id": "node/-3531",
             "properties": {
-                "ADDRESS": ", 7288 SOKNEDAL",
+                "ADDRESS": ", 7387 SINGSÅS",
                 "amenity": "kindergarten",
-                "name": "Soknedal menighetsbarnehage",
-                "no-barnehage:nsrid": "1020403",
-                "operator": "Støren Kirkelige Fellesråd",
-                "operator:type": "private",
+                "capacity": "49",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Singsås oppvekstområde avd. barnehage",
+                "no-barnehage:nsrid": "1018245",
+                "operator": "Midtre Gauldal kommune",
+                "operator:type": "public",
                 "id": "node/-3531"
             },
             "geometry": {
@@ -9288,18 +9311,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3530",
+            "id": "node/-3529",
             "properties": {
-                "ADDRESS": ", 7387 SINGSÅS",
+                "ADDRESS": ", 7288 SOKNEDAL",
                 "amenity": "kindergarten",
-                "capacity": "49",
+                "capacity": "17",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Singsås oppvekstområde avd. barnehage",
-                "no-barnehage:nsrid": "1018245",
-                "operator": "Midtre Gauldal kommune",
-                "operator:type": "public",
-                "id": "node/-3530"
+                "name": "Hauka villmarksbarnehage",
+                "no-barnehage:nsrid": "1020503",
+                "operator": "Hauka Villmarksbarnehage",
+                "operator:type": "private",
+                "id": "node/-3529"
             },
             "geometry": {
                 "type": "Point",
@@ -9313,15 +9336,15 @@
             "type": "Feature",
             "id": "node/-3528",
             "properties": {
-                "ADDRESS": ", 7288 SOKNEDAL",
+                "ADDRESS": ", 7298 BUDALEN",
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "22",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Hauka villmarksbarnehage",
-                "no-barnehage:nsrid": "1020503",
-                "operator": "Hauka Villmarksbarnehage",
-                "operator:type": "private",
+                "name": "Budal oppvekstområde avd. barnehage",
+                "no-barnehage:nsrid": "1018244",
+                "operator": "Midtre Gauldal kommune",
+                "operator:type": "public",
                 "id": "node/-3528"
             },
             "geometry": {
@@ -9334,30 +9357,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3527",
-            "properties": {
-                "ADDRESS": ", 7298 BUDALEN",
-                "amenity": "kindergarten",
-                "capacity": "22",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Budal oppvekstområde avd. barnehage",
-                "no-barnehage:nsrid": "1018244",
-                "operator": "Midtre Gauldal kommune",
-                "operator:type": "public",
-                "id": "node/-3527"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3522",
+            "id": "node/-3523",
             "properties": {
                 "ADDRESS": ", 4869 DØLEMO",
                 "amenity": "kindergarten",
@@ -9368,7 +9368,7 @@
                 "no-barnehage:nsrid": "1018574",
                 "operator": "Åmli kommune",
                 "operator:type": "public",
-                "id": "node/-3522"
+                "id": "node/-3523"
             },
             "geometry": {
                 "type": "Point",
@@ -9380,7 +9380,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3510",
+            "id": "node/-3511",
             "properties": {
                 "ADDRESS": ", 7336 MELDAL",
                 "amenity": "kindergarten",
@@ -9391,7 +9391,7 @@
                 "no-barnehage:nsrid": "1016118",
                 "operator": "Meldal kommune",
                 "operator:type": "public",
-                "id": "node/-3510"
+                "id": "node/-3511"
             },
             "geometry": {
                 "type": "Point",
@@ -9403,7 +9403,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3508",
+            "id": "node/-3509",
             "properties": {
                 "ADDRESS": "Mæbø, 4780 BREKKESTØ",
                 "amenity": "kindergarten",
@@ -9414,7 +9414,7 @@
                 "no-barnehage:nsrid": "1021889",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-3508"
+                "id": "node/-3509"
             },
             "geometry": {
                 "type": "Point",
@@ -9426,7 +9426,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3502",
+            "id": "node/-3503",
             "properties": {
                 "ADDRESS": "Herredshuset, 4770 HØVÅG",
                 "amenity": "kindergarten",
@@ -9438,7 +9438,7 @@
                 "no-barnehage:nsrid": "1021133",
                 "operator": "Høvåg Herredshus",
                 "operator:type": "private",
-                "id": "node/-3502"
+                "id": "node/-3503"
             },
             "geometry": {
                 "type": "Point",
@@ -9450,7 +9450,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3494",
+            "id": "node/-3495",
             "properties": {
                 "ADDRESS": "Tågvollan, 7340 OPPDAL",
                 "amenity": "kindergarten",
@@ -9461,7 +9461,7 @@
                 "no-barnehage:nsrid": "1015509",
                 "operator": "Oppdal Kristne Senter",
                 "operator:type": "private",
-                "id": "node/-3494"
+                "id": "node/-3495"
             },
             "geometry": {
                 "type": "Point",
@@ -9473,7 +9473,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3484",
+            "id": "node/-3485",
             "properties": {
                 "ADDRESS": ", 7748 SÆTERVIK",
                 "amenity": "kindergarten",
@@ -9483,7 +9483,7 @@
                 "no-barnehage:nsrid": "1012970",
                 "operator": "Osen kommune",
                 "operator:type": "public",
-                "id": "node/-3484"
+                "id": "node/-3485"
             },
             "geometry": {
                 "type": "Point",
@@ -9495,7 +9495,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3481",
+            "id": "node/-3482",
             "properties": {
                 "ADDRESS": ", 7180 ROAN",
                 "amenity": "kindergarten",
@@ -9506,7 +9506,7 @@
                 "no-barnehage:nsrid": "1016115",
                 "operator": "Roan kommune",
                 "operator:type": "public",
-                "id": "node/-3481"
+                "id": "node/-3482"
             },
             "geometry": {
                 "type": "Point",
@@ -9518,7 +9518,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3479",
+            "id": "node/-3480",
             "properties": {
                 "ADDRESS": ", 7177 REVSNES",
                 "amenity": "kindergarten",
@@ -9529,7 +9529,30 @@
                 "no-barnehage:nsrid": "1013946",
                 "operator": "Åfjord kommune",
                 "operator:type": "public",
-                "id": "node/-3479"
+                "id": "node/-3480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3477",
+            "properties": {
+                "ADDRESS": ", 7170 ÅFJORD",
+                "amenity": "kindergarten",
+                "capacity": "35",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "By barnehage",
+                "no-barnehage:nsrid": "1012591",
+                "operator": "Åfjord kommune",
+                "operator:type": "public",
+                "id": "node/-3477"
             },
             "geometry": {
                 "type": "Point",
@@ -9543,14 +9566,14 @@
             "type": "Feature",
             "id": "node/-3476",
             "properties": {
-                "ADDRESS": ", 7170 ÅFJORD",
+                "ADDRESS": ", 7167 VALLERSUND",
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "By barnehage",
-                "no-barnehage:nsrid": "1012591",
-                "operator": "Åfjord kommune",
+                "name": "Solkysten barnehage avd. Sandnes",
+                "no-barnehage:nsrid": "1018234",
+                "operator": "Bjugn kommune",
                 "operator:type": "public",
                 "id": "node/-3476"
             },
@@ -9566,13 +9589,13 @@
             "type": "Feature",
             "id": "node/-3475",
             "properties": {
-                "ADDRESS": ", 7167 VALLERSUND",
+                "ADDRESS": ", 7168 LYSØYSUNDET",
                 "amenity": "kindergarten",
-                "capacity": "41",
+                "capacity": "28",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Solkysten barnehage avd. Sandnes",
-                "no-barnehage:nsrid": "1018234",
+                "name": "Solkysten barnehage avd. Lysøysund",
+                "no-barnehage:nsrid": "1025483",
                 "operator": "Bjugn kommune",
                 "operator:type": "public",
                 "id": "node/-3475"
@@ -9587,18 +9610,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3474",
+            "id": "node/-3471",
             "properties": {
-                "ADDRESS": ", 7168 LYSØYSUNDET",
+                "ADDRESS": ", 7316 LENSVIK",
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "57",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Solkysten barnehage avd. Lysøysund",
-                "no-barnehage:nsrid": "1025483",
-                "operator": "Bjugn kommune",
+                "name": "Agdenes kommunale barnehage avd. Lensvik",
+                "no-barnehage:nsrid": "1013958",
+                "operator": "Agdenes kommune",
                 "operator:type": "public",
-                "id": "node/-3474"
+                "id": "node/-3471"
             },
             "geometry": {
                 "type": "Point",
@@ -9612,13 +9635,13 @@
             "type": "Feature",
             "id": "node/-3470",
             "properties": {
-                "ADDRESS": ", 7316 LENSVIK",
+                "ADDRESS": ", 7318 AGDENES",
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "17",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Agdenes kommunale barnehage avd. Lensvik",
-                "no-barnehage:nsrid": "1013958",
+                "name": "Agdenes kommunale barnehage avd. Mølnbukt",
+                "no-barnehage:nsrid": "1018232",
                 "operator": "Agdenes kommune",
                 "operator:type": "public",
                 "id": "node/-3470"
@@ -9633,30 +9656,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3469",
-            "properties": {
-                "ADDRESS": ", 7318 AGDENES",
-                "amenity": "kindergarten",
-                "capacity": "17",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Agdenes kommunale barnehage avd. Mølnbukt",
-                "no-barnehage:nsrid": "1018232",
-                "operator": "Agdenes kommune",
-                "operator:type": "public",
-                "id": "node/-3469"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3456",
+            "id": "node/-3457",
             "properties": {
                 "ADDRESS": ", 7263 HAMARVIK",
                 "amenity": "kindergarten",
@@ -9667,7 +9667,7 @@
                 "no-barnehage:nsrid": "1012525",
                 "operator": "Frøya kommune",
                 "operator:type": "public",
-                "id": "node/-3456"
+                "id": "node/-3457"
             },
             "geometry": {
                 "type": "Point",
@@ -9679,7 +9679,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3453",
+            "id": "node/-3454",
             "properties": {
                 "ADDRESS": ", 7273 NORDDYRØY",
                 "amenity": "kindergarten",
@@ -9690,7 +9690,7 @@
                 "no-barnehage:nsrid": "1025669",
                 "operator": "Frøya kommune",
                 "operator:type": "public",
-                "id": "node/-3453"
+                "id": "node/-3454"
             },
             "geometry": {
                 "type": "Point",
@@ -9702,7 +9702,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3451",
+            "id": "node/-3452",
             "properties": {
                 "ADDRESS": ", 7243 KVENVÆR",
                 "amenity": "kindergarten",
@@ -9713,7 +9713,30 @@
                 "no-barnehage:nsrid": "1012696",
                 "operator": "Hitra kommune",
                 "operator:type": "public",
-                "id": "node/-3451"
+                "id": "node/-3452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3448",
+            "properties": {
+                "ADDRESS": "Ytre Snillfjord, 7257 SNILLFJORD",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ven oppvekstsenter barnehage",
+                "no-barnehage:nsrid": "1014784",
+                "operator": "Hemne kommune",
+                "operator:type": "public",
+                "id": "node/-3448"
             },
             "geometry": {
                 "type": "Point",
@@ -9727,14 +9750,14 @@
             "type": "Feature",
             "id": "node/-3447",
             "properties": {
-                "ADDRESS": "Ytre Snillfjord, 7257 SNILLFJORD",
+                "ADDRESS": "Krokstadøra, 7257 SNILLFJORD",
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "19",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ven oppvekstsenter barnehage",
-                "no-barnehage:nsrid": "1014784",
-                "operator": "Hemne kommune",
+                "name": "Krokstadøra oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1013775",
+                "operator": "Snillfjord kommune",
                 "operator:type": "public",
                 "id": "node/-3447"
             },
@@ -9750,13 +9773,13 @@
             "type": "Feature",
             "id": "node/-3446",
             "properties": {
-                "ADDRESS": "Krokstadøra, 7257 SNILLFJORD",
+                "ADDRESS": ", 7256 HEMNSKJELA",
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "17",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Krokstadøra oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1013775",
+                "name": "Hemnskjela oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1014244",
                 "operator": "Snillfjord kommune",
                 "operator:type": "public",
                 "id": "node/-3446"
@@ -9773,14 +9796,14 @@
             "type": "Feature",
             "id": "node/-3445",
             "properties": {
-                "ADDRESS": ", 7256 HEMNSKJELA",
+                "ADDRESS": ", 7203 VINJEØRA",
                 "amenity": "kindergarten",
-                "capacity": "17",
+                "capacity": "28",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Hemnskjela oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1014244",
-                "operator": "Snillfjord kommune",
+                "name": "Vinje barnehage",
+                "no-barnehage:nsrid": "1018230",
+                "operator": "Hemne kommune",
                 "operator:type": "public",
                 "id": "node/-3445"
             },
@@ -9796,13 +9819,13 @@
             "type": "Feature",
             "id": "node/-3444",
             "properties": {
-                "ADDRESS": ", 7203 VINJEØRA",
+                "ADDRESS": ", 7206 HELLANDSJØEN",
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "19",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vinje barnehage",
-                "no-barnehage:nsrid": "1018230",
+                "name": "Svanem barnehage",
+                "no-barnehage:nsrid": "1018229",
                 "operator": "Hemne kommune",
                 "operator:type": "public",
                 "id": "node/-3444"
@@ -9817,18 +9840,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3443",
+            "id": "node/-3422",
             "properties": {
-                "ADDRESS": ", 7206 HELLANDSJØEN",
+                "ADDRESS": ", 4993 SUNDEBRU",
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "60",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Svanem barnehage",
-                "no-barnehage:nsrid": "1018229",
-                "operator": "Hemne kommune",
+                "name": "Visedal barnehage avd. Renstøl",
+                "no-barnehage:nsrid": "1014922",
+                "operator": "Gjerstad kommune",
                 "operator:type": "public",
-                "id": "node/-3443"
+                "id": "node/-3422"
             },
             "geometry": {
                 "type": "Point",
@@ -9842,13 +9865,13 @@
             "type": "Feature",
             "id": "node/-3421",
             "properties": {
-                "ADDRESS": ", 4993 SUNDEBRU",
+                "ADDRESS": ", 4980 GJERSTAD",
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "36",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Visedal barnehage avd. Renstøl",
-                "no-barnehage:nsrid": "1014922",
+                "name": "Visedal barnehage avd. Alvheim",
+                "no-barnehage:nsrid": "1018055",
                 "operator": "Gjerstad kommune",
                 "operator:type": "public",
                 "id": "node/-3421"
@@ -9863,30 +9886,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3420",
-            "properties": {
-                "ADDRESS": ", 4980 GJERSTAD",
-                "amenity": "kindergarten",
-                "capacity": "36",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Visedal barnehage avd. Alvheim",
-                "no-barnehage:nsrid": "1018055",
-                "operator": "Gjerstad kommune",
-                "operator:type": "public",
-                "id": "node/-3420"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3417",
+            "id": "node/-3418",
             "properties": {
                 "ADDRESS": ", 7800 NAMSOS",
                 "amenity": "kindergarten",
@@ -9897,7 +9897,7 @@
                 "no-barnehage:nsrid": "1013123",
                 "operator": "Namsos kommune",
                 "operator:type": "public",
-                "id": "node/-3417"
+                "id": "node/-3418"
             },
             "geometry": {
                 "type": "Point",
@@ -9909,7 +9909,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3413",
+            "id": "node/-3414",
             "properties": {
                 "ADDRESS": "Skoglyveien, 7800 NAMSOS",
                 "amenity": "kindergarten",
@@ -9920,7 +9920,7 @@
                 "no-barnehage:nsrid": "1021098",
                 "operator": "Skoglyveien barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3413"
+                "id": "node/-3414"
             },
             "geometry": {
                 "type": "Point",
@@ -9932,7 +9932,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3411",
+            "id": "node/-3412",
             "properties": {
                 "ADDRESS": "Høknesnes, 7805 NAMSOS",
                 "amenity": "kindergarten",
@@ -9943,7 +9943,7 @@
                 "no-barnehage:nsrid": "1014261",
                 "operator": "Natur & Idrettsbarnehagen AS",
                 "operator:type": "private",
-                "id": "node/-3411"
+                "id": "node/-3412"
             },
             "geometry": {
                 "type": "Point",
@@ -9955,7 +9955,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3403",
+            "id": "node/-3404",
             "properties": {
                 "ADDRESS": "Flak, 7822 BANGSUND",
                 "amenity": "kindergarten",
@@ -9966,7 +9966,7 @@
                 "no-barnehage:nsrid": "1021100",
                 "operator": "Flak Naturbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3403"
+                "id": "node/-3404"
             },
             "geometry": {
                 "type": "Point",
@@ -9978,7 +9978,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3397",
+            "id": "node/-3398",
             "properties": {
                 "ADDRESS": "Mære, 7710 SPARBU",
                 "amenity": "kindergarten",
@@ -9989,7 +9989,7 @@
                 "no-barnehage:nsrid": "1012568",
                 "operator": "Steinkjer kommune",
                 "operator:type": "public",
-                "id": "node/-3397"
+                "id": "node/-3398"
             },
             "geometry": {
                 "type": "Point",
@@ -10001,7 +10001,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3378",
+            "id": "node/-3379",
             "properties": {
                 "ADDRESS": "Ystgårdskorsen, 7710 SPARBU",
                 "amenity": "kindergarten",
@@ -10012,7 +10012,7 @@
                 "no-barnehage:nsrid": "1021097",
                 "operator": "Haugtussa barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3378"
+                "id": "node/-3379"
             },
             "geometry": {
                 "type": "Point",
@@ -10024,7 +10024,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3366",
+            "id": "node/-3367",
             "properties": {
                 "ADDRESS": "Fjellvik, 4818 FÆRVIK",
                 "amenity": "kindergarten",
@@ -10036,7 +10036,7 @@
                 "no-barnehage:nsrid": "1014093",
                 "operator": "Arendal kommune",
                 "operator:type": "public",
-                "id": "node/-3366"
+                "id": "node/-3367"
             },
             "geometry": {
                 "type": "Point",
@@ -10048,7 +10048,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3325",
+            "id": "node/-3326",
             "properties": {
                 "ADDRESS": "Kapellsvingen, 4812 KONGSHAVN",
                 "amenity": "kindergarten",
@@ -10060,7 +10060,7 @@
                 "no-barnehage:nsrid": "1021932",
                 "operator": "Kongshavn barnehage Jarl Aanby",
                 "operator:type": "private",
-                "id": "node/-3325"
+                "id": "node/-3326"
             },
             "geometry": {
                 "type": "Point",
@@ -10072,7 +10072,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3074",
+            "id": "node/-3075",
             "properties": {
                 "ADDRESS": "Byåsen Kirke Migosenteret, 7027 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -10083,7 +10083,7 @@
                 "no-barnehage:nsrid": "1016862",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-3074"
+                "id": "node/-3075"
             },
             "geometry": {
                 "type": "Point",
@@ -10095,7 +10095,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3010",
+            "id": "node/-3011",
             "properties": {
                 "ADDRESS": ", 4950 RISØR",
                 "amenity": "kindergarten",
@@ -10103,7 +10103,31 @@
                 "no-barnehage:nsrid": "1019777",
                 "operator": "Frydendal Åpen barnehage",
                 "operator:type": "private",
-                "id": "node/-3010"
+                "id": "node/-3011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3008",
+            "properties": {
+                "ADDRESS": "Randvik, 4950 RISØR",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "contact:website": "http://www.amandus.net",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Amandus barnehage",
+                "no-barnehage:nsrid": "1019881",
+                "operator": "Amandus barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3008"
             },
             "geometry": {
                 "type": "Point",
@@ -10117,16 +10141,15 @@
             "type": "Feature",
             "id": "node/-3007",
             "properties": {
-                "ADDRESS": "Randvik, 4950 RISØR",
+                "ADDRESS": ", 3890 VINJE",
                 "amenity": "kindergarten",
-                "capacity": "27",
-                "contact:website": "http://www.amandus.net",
+                "capacity": "63",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Amandus barnehage",
-                "no-barnehage:nsrid": "1019881",
-                "operator": "Amandus barnehage Sa",
-                "operator:type": "private",
+                "name": "Åmot barnehage",
+                "no-barnehage:nsrid": "1025475",
+                "operator": "Vinje kommune",
+                "operator:type": "public",
                 "id": "node/-3007"
             },
             "geometry": {
@@ -10141,13 +10164,13 @@
             "type": "Feature",
             "id": "node/-3006",
             "properties": {
-                "ADDRESS": ", 3890 VINJE",
+                "ADDRESS": "Øyfjell, 3890 VINJE",
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "21",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Åmot barnehage",
-                "no-barnehage:nsrid": "1025475",
+                "name": "Øyfjell oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1018053",
                 "operator": "Vinje kommune",
                 "operator:type": "public",
                 "id": "node/-3006"
@@ -10164,13 +10187,13 @@
             "type": "Feature",
             "id": "node/-3005",
             "properties": {
-                "ADDRESS": "Øyfjell, 3890 VINJE",
+                "ADDRESS": ", 3864 RAULAND",
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "67",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Øyfjell oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1018053",
+                "name": "Rauland barnehage",
+                "no-barnehage:nsrid": "1018051",
                 "operator": "Vinje kommune",
                 "operator:type": "public",
                 "id": "node/-3005"
@@ -10187,13 +10210,13 @@
             "type": "Feature",
             "id": "node/-3004",
             "properties": {
-                "ADDRESS": ", 3864 RAULAND",
+                "ADDRESS": ", 3895 EDLAND",
                 "amenity": "kindergarten",
-                "capacity": "67",
+                "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Rauland barnehage",
-                "no-barnehage:nsrid": "1018051",
+                "name": "Edland barnehage",
+                "no-barnehage:nsrid": "1013784",
                 "operator": "Vinje kommune",
                 "operator:type": "public",
                 "id": "node/-3004"
@@ -10208,18 +10231,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3003",
+            "id": "node/-2997",
             "properties": {
-                "ADDRESS": ", 3895 EDLAND",
+                "ADDRESS": ", 3855 TREUNGEN",
                 "amenity": "kindergarten",
-                "capacity": "32",
+                "capacity": "12",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Edland barnehage",
-                "no-barnehage:nsrid": "1013784",
-                "operator": "Vinje kommune",
+                "name": "Treungen barnehage avd. Haugsjåsund",
+                "no-barnehage:nsrid": "1013111",
+                "operator": "Nissedal kommune",
                 "operator:type": "public",
-                "id": "node/-3003"
+                "id": "node/-2997"
             },
             "geometry": {
                 "type": "Point",
@@ -10233,13 +10256,13 @@
             "type": "Feature",
             "id": "node/-2996",
             "properties": {
-                "ADDRESS": ", 3855 TREUNGEN",
+                "ADDRESS": ", 3854 NISSEDAL",
                 "amenity": "kindergarten",
-                "capacity": "12",
+                "capacity": "18",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Treungen barnehage avd. Haugsjåsund",
-                "no-barnehage:nsrid": "1013111",
+                "name": "Kyrkjebygda barnehage",
+                "no-barnehage:nsrid": "1013768",
                 "operator": "Nissedal kommune",
                 "operator:type": "public",
                 "id": "node/-2996"
@@ -10254,18 +10277,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2995",
+            "id": "node/-2994",
             "properties": {
-                "ADDRESS": ", 3854 NISSEDAL",
+                "ADDRESS": "Felle, 4865 ÅMLI",
                 "amenity": "kindergarten",
-                "capacity": "18",
+                "capacity": "13",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kyrkjebygda barnehage",
-                "no-barnehage:nsrid": "1013768",
+                "name": "Felle barnehage",
+                "no-barnehage:nsrid": "1015123",
                 "operator": "Nissedal kommune",
                 "operator:type": "public",
-                "id": "node/-2995"
+                "id": "node/-2994"
             },
             "geometry": {
                 "type": "Point",
@@ -10279,14 +10302,14 @@
             "type": "Feature",
             "id": "node/-2993",
             "properties": {
-                "ADDRESS": "Felle, 4865 ÅMLI",
+                "ADDRESS": ", 3853 VRÅDAL",
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "11",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Felle barnehage",
-                "no-barnehage:nsrid": "1015123",
-                "operator": "Nissedal kommune",
+                "name": "Straumsnes oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1018050",
+                "operator": "Kviteseid kommune",
                 "operator:type": "public",
                 "id": "node/-2993"
             },
@@ -10302,13 +10325,13 @@
             "type": "Feature",
             "id": "node/-2992",
             "properties": {
-                "ADDRESS": ", 3853 VRÅDAL",
+                "ADDRESS": ", 3850 KVITESEID",
                 "amenity": "kindergarten",
-                "capacity": "11",
+                "capacity": "48",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Straumsnes oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1018050",
+                "name": "Kviteseid barnehage",
+                "no-barnehage:nsrid": "1017381",
                 "operator": "Kviteseid kommune",
                 "operator:type": "public",
                 "id": "node/-2992"
@@ -10323,30 +10346,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2991",
-            "properties": {
-                "ADDRESS": ", 3850 KVITESEID",
-                "amenity": "kindergarten",
-                "capacity": "48",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kviteseid barnehage",
-                "no-barnehage:nsrid": "1017381",
-                "operator": "Kviteseid kommune",
-                "operator:type": "public",
-                "id": "node/-2991"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2981",
+            "id": "node/-2982",
             "properties": {
                 "ADDRESS": ", 3656 ATRÅ",
                 "amenity": "kindergarten",
@@ -10357,7 +10357,7 @@
                 "no-barnehage:nsrid": "1019879",
                 "operator": "Vesletun barnehage",
                 "operator:type": "private",
-                "id": "node/-2981"
+                "id": "node/-2982"
             },
             "geometry": {
                 "type": "Point",
@@ -10369,7 +10369,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2979",
+            "id": "node/-2980",
             "properties": {
                 "ADDRESS": "Hovin skole, 3652 HOVIN I TELEMARK",
                 "amenity": "kindergarten",
@@ -10380,7 +10380,7 @@
                 "no-barnehage:nsrid": "1014921",
                 "operator": "Tinn kommune",
                 "operator:type": "public",
-                "id": "node/-2979"
+                "id": "node/-2980"
             },
             "geometry": {
                 "type": "Point",
@@ -10392,7 +10392,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2960",
+            "id": "node/-2961",
             "properties": {
                 "ADDRESS": "Neslandsvatn, 3750 DRANGEDAL",
                 "amenity": "kindergarten",
@@ -10403,7 +10403,7 @@
                 "no-barnehage:nsrid": "1015608",
                 "operator": "Drangedal kommune",
                 "operator:type": "public",
-                "id": "node/-2960"
+                "id": "node/-2961"
             },
             "geometry": {
                 "type": "Point",
@@ -10415,7 +10415,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2920",
+            "id": "node/-2921",
             "properties": {
                 "ADDRESS": ", 3691 GRANSHERAD",
                 "amenity": "kindergarten",
@@ -10426,7 +10426,7 @@
                 "no-barnehage:nsrid": "1018038",
                 "operator": "Notodden kommune",
                 "operator:type": "public",
-                "id": "node/-2920"
+                "id": "node/-2921"
             },
             "geometry": {
                 "type": "Point",
@@ -10438,7 +10438,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2910",
+            "id": "node/-2911",
             "properties": {
                 "ADDRESS": "Ulefossveien 35 B, 3710 SKIEN",
                 "amenity": "kindergarten",
@@ -10449,7 +10449,7 @@
                 "no-barnehage:nsrid": "1016649",
                 "operator": "Sykehuset Telemark Hf",
                 "operator:type": "private",
-                "id": "node/-2910"
+                "id": "node/-2911"
             },
             "geometry": {
                 "type": "Point",
@@ -10461,7 +10461,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2774",
+            "id": "node/-2775",
             "properties": {
                 "ADDRESS": "Kjeldås Vestre, 3070 SANDE I VESTFOLD",
                 "amenity": "kindergarten",
@@ -10472,7 +10472,7 @@
                 "no-barnehage:nsrid": "1016030",
                 "operator": "Velle Gruppen AS",
                 "operator:type": "private",
-                "id": "node/-2774"
+                "id": "node/-2775"
             },
             "geometry": {
                 "type": "Point",
@@ -10484,7 +10484,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2768",
+            "id": "node/-2769",
             "properties": {
                 "ADDRESS": "Fjellveien, 3292 STAVERN",
                 "amenity": "kindergarten",
@@ -10495,7 +10495,7 @@
                 "no-barnehage:nsrid": "1012812",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2768"
+                "id": "node/-2769"
             },
             "geometry": {
                 "type": "Point",
@@ -10507,7 +10507,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2761",
+            "id": "node/-2762",
             "properties": {
                 "ADDRESS": "Vollen, 3280 TJODALYNG",
                 "amenity": "kindergarten",
@@ -10515,7 +10515,7 @@
                 "no-barnehage:nsrid": "1025679",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2761"
+                "id": "node/-2762"
             },
             "geometry": {
                 "type": "Point",
@@ -10527,7 +10527,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2714",
+            "id": "node/-2715",
             "properties": {
                 "ADDRESS": "Vesteråt, 3158 ANDEBU",
                 "amenity": "kindergarten",
@@ -10538,7 +10538,7 @@
                 "no-barnehage:nsrid": "1018026",
                 "operator": "Sandefjord kommune",
                 "operator:type": "public",
-                "id": "node/-2714"
+                "id": "node/-2715"
             },
             "geometry": {
                 "type": "Point",
@@ -10573,7 +10573,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2644",
+            "id": "node/-2645",
             "properties": {
                 "ADDRESS": ", 3173 VEAR",
                 "amenity": "kindergarten",
@@ -10584,7 +10584,7 @@
                 "no-barnehage:nsrid": "1015502",
                 "operator": "Velle Gruppen AS",
                 "operator:type": "private",
-                "id": "node/-2644"
+                "id": "node/-2645"
             },
             "geometry": {
                 "type": "Point",
@@ -10596,7 +10596,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2587",
+            "id": "node/-2589",
             "properties": {
                 "ADDRESS": ", 3632 UVDAL",
                 "amenity": "kindergarten",
@@ -10607,7 +10607,53 @@
                 "no-barnehage:nsrid": "1017392",
                 "operator": "Nore og Uvdal kommune",
                 "operator:type": "public",
-                "id": "node/-2587"
+                "id": "node/-2589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2583",
+            "properties": {
+                "ADDRESS": ", 3622 SVENE",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svene barnehage",
+                "no-barnehage:nsrid": "1018020",
+                "operator": "Flesberg kommune",
+                "operator:type": "public",
+                "id": "node/-2583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2582",
+            "properties": {
+                "ADDRESS": "Stevningsmoen, 3623 LAMPELAND",
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lampeland barnehage",
+                "no-barnehage:nsrid": "1013796",
+                "operator": "Flesberg kommune",
+                "operator:type": "public",
+                "id": "node/-2582"
             },
             "geometry": {
                 "type": "Point",
@@ -10621,13 +10667,13 @@
             "type": "Feature",
             "id": "node/-2581",
             "properties": {
-                "ADDRESS": ", 3622 SVENE",
+                "ADDRESS": ", 3620 FLESBERG",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "26",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Svene barnehage",
-                "no-barnehage:nsrid": "1018020",
+                "name": "Furuflata barnehage",
+                "no-barnehage:nsrid": "1013795",
                 "operator": "Flesberg kommune",
                 "operator:type": "public",
                 "id": "node/-2581"
@@ -10644,15 +10690,12 @@
             "type": "Feature",
             "id": "node/-2580",
             "properties": {
-                "ADDRESS": "Stevningsmoen, 3623 LAMPELAND",
+                "ADDRESS": "Bergstugu, 3622 SVENE",
                 "amenity": "kindergarten",
-                "capacity": "47",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lampeland barnehage",
-                "no-barnehage:nsrid": "1013796",
-                "operator": "Flesberg kommune",
-                "operator:type": "public",
+                "name": "Bergstugu familie barnehage",
+                "no-barnehage:nsrid": "1020901",
+                "operator": "Bergstugu Familie Barnehage Hilde Ingerine Thorsen Nilsen",
+                "operator:type": "private",
                 "id": "node/-2580"
             },
             "geometry": {
@@ -10665,50 +10708,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2579",
-            "properties": {
-                "ADDRESS": ", 3620 FLESBERG",
-                "amenity": "kindergarten",
-                "capacity": "26",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Furuflata barnehage",
-                "no-barnehage:nsrid": "1013795",
-                "operator": "Flesberg kommune",
-                "operator:type": "public",
-                "id": "node/-2579"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2578",
-            "properties": {
-                "ADDRESS": "Bergstugu, 3622 SVENE",
-                "amenity": "kindergarten",
-                "name": "Bergstugu familie barnehage",
-                "no-barnehage:nsrid": "1020901",
-                "operator": "Bergstugu Familie Barnehage Hilde Ingerine Thorsen Nilsen",
-                "operator:type": "private",
-                "id": "node/-2578"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2503",
+            "id": "node/-2504",
             "properties": {
                 "ADDRESS": "Ullvannsveien, 3054 KROKSTADELVA",
                 "amenity": "kindergarten",
@@ -10720,7 +10720,7 @@
                 "no-barnehage:nsrid": "1019974",
                 "operator": "Årbogen barnehage",
                 "operator:type": "private",
-                "id": "node/-2503"
+                "id": "node/-2504"
             },
             "geometry": {
                 "type": "Point",
@@ -10732,7 +10732,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2471",
+            "id": "node/-2472",
             "properties": {
                 "ADDRESS": "Fredfoss, 3320 VESTFOSSEN",
                 "amenity": "kindergarten",
@@ -10744,7 +10744,7 @@
                 "no-barnehage:nsrid": "1021410",
                 "operator": "Møllefossen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2471"
+                "id": "node/-2472"
             },
             "geometry": {
                 "type": "Point",
@@ -10756,7 +10756,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2441",
+            "id": "node/-2442",
             "properties": {
                 "ADDRESS": ", 3536 NORESUND",
                 "amenity": "kindergarten",
@@ -10767,7 +10767,30 @@
                 "no-barnehage:nsrid": "1012884",
                 "operator": "Krødsherad kommune",
                 "operator:type": "public",
-                "id": "node/-2441"
+                "id": "node/-2442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2439",
+            "properties": {
+                "ADDRESS": ", 3535 KRØDEREN",
+                "amenity": "kindergarten",
+                "capacity": "58",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Krøderen barnehage",
+                "no-barnehage:nsrid": "1016026",
+                "operator": "Krødsherad kommune",
+                "operator:type": "public",
+                "id": "node/-2439"
             },
             "geometry": {
                 "type": "Point",
@@ -10781,15 +10804,15 @@
             "type": "Feature",
             "id": "node/-2438",
             "properties": {
-                "ADDRESS": ", 3535 KRØDEREN",
+                "ADDRESS": ", 3350 PRESTFOSS",
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "33",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Krøderen barnehage",
-                "no-barnehage:nsrid": "1016026",
-                "operator": "Krødsherad kommune",
-                "operator:type": "public",
+                "name": "Prestfoss barnehage",
+                "no-barnehage:nsrid": "1019613",
+                "operator": "Prestfoss barnehage",
+                "operator:type": "private",
                 "id": "node/-2438"
             },
             "geometry": {
@@ -10806,12 +10829,12 @@
             "properties": {
                 "ADDRESS": ", 3350 PRESTFOSS",
                 "amenity": "kindergarten",
-                "capacity": "33",
+                "capacity": "40",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Prestfoss barnehage",
-                "no-barnehage:nsrid": "1019613",
-                "operator": "Prestfoss barnehage",
+                "name": "Nerstad barnehage",
+                "no-barnehage:nsrid": "1019612",
+                "operator": "Nerstad barnehage",
                 "operator:type": "private",
                 "id": "node/-2437"
             },
@@ -10825,30 +10848,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2436",
-            "properties": {
-                "ADDRESS": ", 3350 PRESTFOSS",
-                "amenity": "kindergarten",
-                "capacity": "40",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nerstad barnehage",
-                "no-barnehage:nsrid": "1019612",
-                "operator": "Nerstad barnehage",
-                "operator:type": "private",
-                "id": "node/-2436"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2434",
+            "id": "node/-2435",
             "properties": {
                 "ADDRESS": ", 3359 EGGEDAL",
                 "amenity": "kindergarten",
@@ -10859,7 +10859,7 @@
                 "no-barnehage:nsrid": "1019700",
                 "operator": "Eggedal barnehage",
                 "operator:type": "private",
-                "id": "node/-2434"
+                "id": "node/-2435"
             },
             "geometry": {
                 "type": "Point",
@@ -10871,7 +10871,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2429",
+            "id": "node/-2430",
             "properties": {
                 "ADDRESS": ", 3577 HOVET",
                 "amenity": "kindergarten",
@@ -10882,7 +10882,7 @@
                 "no-barnehage:nsrid": "1017399",
                 "operator": "Hol kommune",
                 "operator:type": "public",
-                "id": "node/-2429"
+                "id": "node/-2430"
             },
             "geometry": {
                 "type": "Point",
@@ -10894,7 +10894,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2420",
+            "id": "node/-2421",
             "properties": {
                 "ADDRESS": ", 3570 ÅL",
                 "amenity": "kindergarten",
@@ -10902,7 +10902,7 @@
                 "no-barnehage:nsrid": "1016828",
                 "operator": "Ål folkehøgskole og Kurssenter for Døve",
                 "operator:type": "private",
-                "id": "node/-2420"
+                "id": "node/-2421"
             },
             "geometry": {
                 "type": "Point",
@@ -10914,7 +10914,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2370",
+            "id": "node/-2371",
             "properties": {
                 "ADDRESS": "Halkinrud, 3534 SOKNA",
                 "amenity": "kindergarten",
@@ -10925,7 +10925,7 @@
                 "no-barnehage:nsrid": "1020425",
                 "operator": "Elling H Tuft & Sokna Natur- og Gårdsbarnehage",
                 "operator:type": "private",
-                "id": "node/-2370"
+                "id": "node/-2371"
             },
             "geometry": {
                 "type": "Point",
@@ -10937,7 +10937,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2355",
+            "id": "node/-2357",
             "properties": {
                 "ADDRESS": "Funkelia, 3616 KONGSBERG",
                 "amenity": "kindergarten",
@@ -10945,7 +10945,7 @@
                 "no-barnehage:nsrid": "1020397",
                 "operator": "Skautrollet AS",
                 "operator:type": "private",
-                "id": "node/-2355"
+                "id": "node/-2357"
             },
             "geometry": {
                 "type": "Point",
@@ -10957,7 +10957,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2323",
+            "id": "node/-2325",
             "properties": {
                 "ADDRESS": ", 3003 DRAMMEN",
                 "amenity": "kindergarten",
@@ -10965,7 +10965,7 @@
                 "no-barnehage:nsrid": "1024531",
                 "operator": "Torsbergskogen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2323"
+                "id": "node/-2325"
             },
             "geometry": {
                 "type": "Point",
@@ -10977,7 +10977,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2261",
+            "id": "node/-2263",
             "properties": {
                 "ADDRESS": ", 2975 VANG I VALDRES",
                 "amenity": "kindergarten",
@@ -10987,7 +10987,7 @@
                 "no-barnehage:nsrid": "1025513",
                 "operator": "Vang kommune",
                 "operator:type": "public",
-                "id": "node/-2261"
+                "id": "node/-2263"
             },
             "geometry": {
                 "type": "Point",
@@ -10999,7 +10999,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2253",
+            "id": "node/-2255",
             "properties": {
                 "ADDRESS": ", 2966 SLIDRE",
                 "amenity": "kindergarten",
@@ -11010,7 +11010,7 @@
                 "no-barnehage:nsrid": "1017356",
                 "operator": "Vestre Slidre kommune",
                 "operator:type": "public",
-                "id": "node/-2253"
+                "id": "node/-2255"
             },
             "geometry": {
                 "type": "Point",
@@ -11022,7 +11022,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2225",
+            "id": "node/-2227",
             "properties": {
                 "ADDRESS": "Brynsås, 2770 JAREN",
                 "amenity": "kindergarten",
@@ -11033,7 +11033,7 @@
                 "no-barnehage:nsrid": "1020800",
                 "operator": "Solsida Barnebeite Da",
                 "operator:type": "private",
-                "id": "node/-2225"
+                "id": "node/-2227"
             },
             "geometry": {
                 "type": "Point",
@@ -11045,7 +11045,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2199",
+            "id": "node/-2201",
             "properties": {
                 "ADDRESS": ", 2742 GRUA",
                 "amenity": "kindergarten",
@@ -11056,7 +11056,7 @@
                 "no-barnehage:nsrid": "1014770",
                 "operator": "Lunner kommune",
                 "operator:type": "public",
-                "id": "node/-2199"
+                "id": "node/-2201"
             },
             "geometry": {
                 "type": "Point",
@@ -11068,7 +11068,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2196",
+            "id": "node/-2198",
             "properties": {
                 "ADDRESS": "Prestensrud, 3520 JEVNAKER",
                 "amenity": "kindergarten",
@@ -11079,7 +11079,7 @@
                 "no-barnehage:nsrid": "1021365",
                 "operator": "Stortjernet barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2196"
+                "id": "node/-2198"
             },
             "geometry": {
                 "type": "Point",
@@ -11091,7 +11091,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2192",
+            "id": "node/-2194",
             "properties": {
                 "ADDRESS": "Nordby, 3520 JEVNAKER",
                 "amenity": "kindergarten",
@@ -11102,7 +11102,7 @@
                 "no-barnehage:nsrid": "1021291",
                 "operator": "Mari Bjertnæs Nordby Gard og Gardsbarnehage",
                 "operator:type": "private",
-                "id": "node/-2192"
+                "id": "node/-2194"
             },
             "geometry": {
                 "type": "Point",
@@ -11114,7 +11114,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2183",
+            "id": "node/-2185",
             "properties": {
                 "ADDRESS": "Nordåsen, 2830 RAUFOSS",
                 "amenity": "kindergarten",
@@ -11125,7 +11125,30 @@
                 "no-barnehage:nsrid": "1022455",
                 "operator": "Lunde Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-2183"
+                "id": "node/-2185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2179",
+            "properties": {
+                "ADDRESS": ", 2850 LENA",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vilberg barnehage",
+                "no-barnehage:nsrid": "1017962",
+                "operator": "Østre Toten kommune",
+                "operator:type": "public",
+                "id": "node/-2179"
             },
             "geometry": {
                 "type": "Point",
@@ -11139,15 +11162,15 @@
             "type": "Feature",
             "id": "node/-2177",
             "properties": {
-                "ADDRESS": ", 2850 LENA",
+                "ADDRESS": "Festad Gård, 2850 LENA",
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "16",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vilberg barnehage",
-                "no-barnehage:nsrid": "1017962",
-                "operator": "Østre Toten kommune",
-                "operator:type": "public",
+                "name": "Steinerbarnehagen Lena",
+                "no-barnehage:nsrid": "1019793",
+                "operator": "Steinerbarnehagen",
+                "operator:type": "private",
                 "id": "node/-2177"
             },
             "geometry": {
@@ -11160,30 +11183,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2175",
-            "properties": {
-                "ADDRESS": "Festad Gård, 2850 LENA",
-                "amenity": "kindergarten",
-                "capacity": "16",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Steinerbarnehagen Lena",
-                "no-barnehage:nsrid": "1019793",
-                "operator": "Steinerbarnehagen",
-                "operator:type": "private",
-                "id": "node/-2175"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2171",
+            "id": "node/-2173",
             "properties": {
                 "ADDRESS": ", 2847 KOLBU",
                 "amenity": "kindergarten",
@@ -11194,7 +11194,7 @@
                 "no-barnehage:nsrid": "1014140",
                 "operator": "Østre Toten kommune",
                 "operator:type": "public",
-                "id": "node/-2171"
+                "id": "node/-2173"
             },
             "geometry": {
                 "type": "Point",
@@ -11206,7 +11206,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2152",
+            "id": "node/-2154",
             "properties": {
                 "ADDRESS": ", 2632 VENABYGD",
                 "amenity": "kindergarten",
@@ -11217,7 +11217,30 @@
                 "no-barnehage:nsrid": "1019696",
                 "operator": "Venabygd Montessoribarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-2152"
+                "id": "node/-2154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2125",
+            "properties": {
+                "ADDRESS": ", 2643 SKÅBU",
+                "amenity": "kindergarten",
+                "capacity": "13",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skåbu oppvekstsenter avd. barnehage",
+                "no-barnehage:nsrid": "1013745",
+                "operator": "Nord-Fron kommune",
+                "operator:type": "public",
+                "id": "node/-2125"
             },
             "geometry": {
                 "type": "Point",
@@ -11231,13 +11254,13 @@
             "type": "Feature",
             "id": "node/-2123",
             "properties": {
-                "ADDRESS": ", 2643 SKÅBU",
+                "ADDRESS": "Ruste, 2640 VINSTRA",
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "80",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Skåbu oppvekstsenter avd. barnehage",
-                "no-barnehage:nsrid": "1013745",
+                "name": "Ruste barnehage",
+                "no-barnehage:nsrid": "1013950",
                 "operator": "Nord-Fron kommune",
                 "operator:type": "public",
                 "id": "node/-2123"
@@ -11254,15 +11277,16 @@
             "type": "Feature",
             "id": "node/-2121",
             "properties": {
-                "ADDRESS": "Ruste, 2640 VINSTRA",
+                "ADDRESS": "Klones Gard, 2680 VÅGÅ",
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "31",
+                "contact:website": "http://www.tytingen.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ruste barnehage",
-                "no-barnehage:nsrid": "1013950",
-                "operator": "Nord-Fron kommune",
-                "operator:type": "public",
+                "name": "Tytingen Gards- og naturbarnehage",
+                "no-barnehage:nsrid": "1021703",
+                "operator": "Tytingen Gards- og Naturbarnehage AS",
+                "operator:type": "private",
                 "id": "node/-2121"
             },
             "geometry": {
@@ -11275,31 +11299,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2119",
-            "properties": {
-                "ADDRESS": "Klones Gard, 2680 VÅGÅ",
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "contact:website": "http://www.tytingen.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tytingen Gards- og naturbarnehage",
-                "no-barnehage:nsrid": "1021703",
-                "operator": "Tytingen Gards- og Naturbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-2119"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2118",
+            "id": "node/-2120",
             "properties": {
                 "ADDRESS": "Uppå Strond, 2680 VÅGÅ",
                 "amenity": "kindergarten",
@@ -11310,7 +11310,7 @@
                 "no-barnehage:nsrid": "1022257",
                 "operator": "Trudelutten barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2118"
+                "id": "node/-2120"
             },
             "geometry": {
                 "type": "Point",
@@ -11322,7 +11322,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2109",
+            "id": "node/-2111",
             "properties": {
                 "ADDRESS": ", 2690 SKJÅK",
                 "amenity": "kindergarten",
@@ -11334,7 +11334,7 @@
                 "no-barnehage:nsrid": "1017609",
                 "operator": "Skjåk kommune",
                 "operator:type": "public",
-                "id": "node/-2109"
+                "id": "node/-2111"
             },
             "geometry": {
                 "type": "Point",
@@ -11346,7 +11346,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2094",
+            "id": "node/-2096",
             "properties": {
                 "ADDRESS": "Nordby, 2836 BIRI",
                 "amenity": "kindergarten",
@@ -11356,7 +11356,30 @@
                 "no-barnehage:nsrid": "1020383",
                 "operator": "Øystein Snuggerud",
                 "operator:type": "private",
-                "id": "node/-2094"
+                "id": "node/-2096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2039",
+            "properties": {
+                "ADDRESS": ", 2512 KVIKNE",
+                "amenity": "kindergarten",
+                "capacity": "9",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvikne barnehage",
+                "no-barnehage:nsrid": "1012736",
+                "operator": "Tynset kommune",
+                "operator:type": "public",
+                "id": "node/-2039"
             },
             "geometry": {
                 "type": "Point",
@@ -11370,13 +11393,13 @@
             "type": "Feature",
             "id": "node/-2037",
             "properties": {
-                "ADDRESS": ", 2512 KVIKNE",
+                "ADDRESS": "Fåset, 2500 TYNSET",
                 "amenity": "kindergarten",
-                "capacity": "9",
+                "capacity": "16",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Kvikne barnehage",
-                "no-barnehage:nsrid": "1012736",
+                "name": "Fåset skole og barnehage avd. barnehage",
+                "no-barnehage:nsrid": "1025358",
                 "operator": "Tynset kommune",
                 "operator:type": "public",
                 "id": "node/-2037"
@@ -11391,18 +11414,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2035",
+            "id": "node/-2036",
             "properties": {
-                "ADDRESS": "Fåset, 2500 TYNSET",
+                "ADDRESS": "Lillebekkmoen, 2500 TYNSET",
                 "amenity": "kindergarten",
-                "capacity": "16",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Fåset skole og barnehage avd. barnehage",
-                "no-barnehage:nsrid": "1025358",
-                "operator": "Tynset kommune",
-                "operator:type": "public",
-                "id": "node/-2035"
+                "name": "Furumoen barnehage",
+                "no-barnehage:nsrid": "1021805",
+                "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
+                "operator:type": "private",
+                "id": "node/-2036"
             },
             "geometry": {
                 "type": "Point",
@@ -11416,14 +11438,15 @@
             "type": "Feature",
             "id": "node/-2034",
             "properties": {
-                "ADDRESS": "Lillebekkmoen, 2500 TYNSET",
+                "ADDRESS": "Vingelen, 2542 VINGELEN",
                 "amenity": "kindergarten",
+                "capacity": "26",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Furumoen barnehage",
-                "no-barnehage:nsrid": "1021805",
-                "operator": "Marisko-Stiftelsen Alstadhaug Menighetsbarnehager",
-                "operator:type": "private",
+                "name": "Vingelen barnehage",
+                "no-barnehage:nsrid": "1017597",
+                "operator": "Tolga kommune",
+                "operator:type": "public",
                 "id": "node/-2034"
             },
             "geometry": {
@@ -11438,13 +11461,13 @@
             "type": "Feature",
             "id": "node/-2032",
             "properties": {
-                "ADDRESS": "Vingelen, 2542 VINGELEN",
+                "ADDRESS": "Kjerkgjelen, 2540 TOLGA",
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "21",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Vingelen barnehage",
-                "no-barnehage:nsrid": "1017597",
+                "name": "Knutshauåen barnehage",
+                "no-barnehage:nsrid": "1017596",
                 "operator": "Tolga kommune",
                 "operator:type": "public",
                 "id": "node/-2032"
@@ -11459,18 +11482,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2030",
+            "id": "node/-2029",
             "properties": {
-                "ADDRESS": "Kjerkgjelen, 2540 TOLGA",
+                "ADDRESS": ", 2443 DREVSJØ",
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "31",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Knutshauåen barnehage",
-                "no-barnehage:nsrid": "1017596",
-                "operator": "Tolga kommune",
+                "name": "Drevsjø barnehage",
+                "no-barnehage:nsrid": "1017594",
+                "operator": "Engerdal kommune",
                 "operator:type": "public",
-                "id": "node/-2030"
+                "id": "node/-2029"
             },
             "geometry": {
                 "type": "Point",
@@ -11484,15 +11507,14 @@
             "type": "Feature",
             "id": "node/-2027",
             "properties": {
-                "ADDRESS": ", 2443 DREVSJØ",
+                "ADDRESS": "Hornset, 2485 RENDALEN",
                 "amenity": "kindergarten",
-                "capacity": "31",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Drevsjø barnehage",
-                "no-barnehage:nsrid": "1017594",
-                "operator": "Engerdal kommune",
-                "operator:type": "public",
+                "name": "Anne Kari Illevold",
+                "no-barnehage:nsrid": "1021229",
+                "operator": "Anne Kari Illevold",
+                "operator:type": "private",
                 "id": "node/-2027"
             },
             "geometry": {
@@ -11505,29 +11527,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2025",
-            "properties": {
-                "ADDRESS": "Hornset, 2485 RENDALEN",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Anne Kari Illevold",
-                "no-barnehage:nsrid": "1021229",
-                "operator": "Anne Kari Illevold",
-                "operator:type": "private",
-                "id": "node/-2025"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1977",
+            "id": "node/-1979",
             "properties": {
                 "ADDRESS": "Fjørhanaveien, 2280 GJESÅSEN",
                 "amenity": "kindergarten",
@@ -11539,7 +11539,7 @@
                 "no-barnehage:nsrid": "1021156",
                 "operator": "Tyristubben Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1977"
+                "id": "node/-1979"
             },
             "geometry": {
                 "type": "Point",
@@ -11551,7 +11551,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1972",
+            "id": "node/-1974",
             "properties": {
                 "ADDRESS": ", 2266 ARNEBERG",
                 "amenity": "kindergarten",
@@ -11562,7 +11562,7 @@
                 "no-barnehage:nsrid": "1014943",
                 "operator": "Åsnes kommune",
                 "operator:type": "public",
-                "id": "node/-1972"
+                "id": "node/-1974"
             },
             "geometry": {
                 "type": "Point",
@@ -11574,7 +11574,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1966",
+            "id": "node/-1968",
             "properties": {
                 "ADDRESS": "Skolegata, 2265 NAMNÅ",
                 "amenity": "kindergarten",
@@ -11585,7 +11585,7 @@
                 "no-barnehage:nsrid": "1015862",
                 "operator": "Grue kommune",
                 "operator:type": "public",
-                "id": "node/-1966"
+                "id": "node/-1968"
             },
             "geometry": {
                 "type": "Point",
@@ -11597,7 +11597,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1963",
+            "id": "node/-1965",
             "properties": {
                 "ADDRESS": ", 2235 MATRAND",
                 "amenity": "kindergarten",
@@ -11608,7 +11608,30 @@
                 "no-barnehage:nsrid": "1017580",
                 "operator": "Eidskog kommune",
                 "operator:type": "public",
-                "id": "node/-1963"
+                "id": "node/-1965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1931",
+            "properties": {
+                "ADDRESS": ", 2338 ESPA",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Espa skole og barnehage avd. barnehage",
+                "no-barnehage:nsrid": "1017570",
+                "operator": "Stange kommune",
+                "operator:type": "public",
+                "id": "node/-1931"
             },
             "geometry": {
                 "type": "Point",
@@ -11622,15 +11645,15 @@
             "type": "Feature",
             "id": "node/-1929",
             "properties": {
-                "ADDRESS": ", 2338 ESPA",
+                "ADDRESS": "Åkershagan, 2312 OTTESTAD",
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "40",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Espa skole og barnehage avd. barnehage",
-                "no-barnehage:nsrid": "1017570",
-                "operator": "Stange kommune",
-                "operator:type": "public",
+                "name": "Bekkelaget barnehage",
+                "no-barnehage:nsrid": "1018543",
+                "operator": "Stiftelsen Ungdom i Oppdrag Barnehager",
+                "operator:type": "private",
                 "id": "node/-1929"
             },
             "geometry": {
@@ -11643,18 +11666,38 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1927",
+            "id": "node/-1921",
             "properties": {
-                "ADDRESS": "Åkershagan, 2312 OTTESTAD",
+                "ADDRESS": "Nordbygda, 2340 LØTEN",
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "30",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Bekkelaget barnehage",
-                "no-barnehage:nsrid": "1018543",
-                "operator": "Stiftelsen Ungdom i Oppdrag Barnehager",
+                "name": "Jønsrud barnehage",
+                "no-barnehage:nsrid": "1014878",
+                "operator": "Løten kommune",
+                "operator:type": "public",
+                "id": "node/-1921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1920",
+            "properties": {
+                "ADDRESS": "Brovold, 2345 ÅDALSBRUK",
+                "amenity": "kindergarten",
+                "name": "Brovold barnehave Kari Strandvik",
+                "no-barnehage:nsrid": "1026333",
+                "operator": "Brovold Barnehave Kari Strandvik",
                 "operator:type": "private",
-                "id": "node/-1927"
+                "id": "node/-1920"
             },
             "geometry": {
                 "type": "Point",
@@ -11668,15 +11711,15 @@
             "type": "Feature",
             "id": "node/-1919",
             "properties": {
-                "ADDRESS": "Nordbygda, 2340 LØTEN",
+                "ADDRESS": "Brovold, 2345 ÅDALSBRUK",
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "58",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Jønsrud barnehage",
-                "no-barnehage:nsrid": "1014878",
-                "operator": "Løten kommune",
-                "operator:type": "public",
+                "name": "Brovold barnehage",
+                "no-barnehage:nsrid": "1016897",
+                "operator": "Ulna AS",
+                "operator:type": "private",
                 "id": "node/-1919"
             },
             "geometry": {
@@ -11689,50 +11732,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1918",
-            "properties": {
-                "ADDRESS": "Brovold, 2345 ÅDALSBRUK",
-                "amenity": "kindergarten",
-                "name": "Brovold barnehave Kari Strandvik",
-                "no-barnehage:nsrid": "1026333",
-                "operator": "Brovold Barnehave Kari Strandvik",
-                "operator:type": "private",
-                "id": "node/-1918"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1917",
-            "properties": {
-                "ADDRESS": "Brovold, 2345 ÅDALSBRUK",
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Brovold barnehage",
-                "no-barnehage:nsrid": "1016897",
-                "operator": "Ulna AS",
-                "operator:type": "private",
-                "id": "node/-1917"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1613",
+            "id": "node/-1615",
             "properties": {
                 "ADDRESS": "C/o Hemfosa Samfunnsbygg AS Tordenskiolds Gate 10, 0160 OSLO",
                 "amenity": "kindergarten",
@@ -11741,7 +11741,7 @@
                 "no-barnehage:nsrid": "1025829",
                 "operator": "Samholderen i AS",
                 "operator:type": "private",
-                "id": "node/-1613"
+                "id": "node/-1615"
             },
             "geometry": {
                 "type": "Point",
@@ -11753,7 +11753,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1592",
+            "id": "node/-1594",
             "properties": {
                 "ADDRESS": "Hagenstuveien 33 B, 1084 OSLO",
                 "amenity": "kindergarten",
@@ -11761,7 +11761,7 @@
                 "no-barnehage:nsrid": "1021949",
                 "operator": "Rommibakken Familiebarnehage Chitra Rajamohan",
                 "operator:type": "private",
-                "id": "node/-1592"
+                "id": "node/-1594"
             },
             "geometry": {
                 "type": "Point",
@@ -11773,7 +11773,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1535",
+            "id": "node/-1537",
             "properties": {
                 "ADDRESS": "Opplandsgate 5, 0657 OSLO",
                 "amenity": "kindergarten",
@@ -11784,7 +11784,7 @@
                 "no-barnehage:nsrid": "1015041",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1535"
+                "id": "node/-1537"
             },
             "geometry": {
                 "type": "Point",
@@ -11796,7 +11796,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1288",
+            "id": "node/-1290",
             "properties": {
                 "ADDRESS": "Haugerud Senter 47, 0673 OSLO",
                 "amenity": "kindergarten",
@@ -11806,7 +11806,7 @@
                 "no-barnehage:nsrid": "1026312",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1288"
+                "id": "node/-1290"
             },
             "geometry": {
                 "type": "Point",
@@ -11818,7 +11818,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1079",
+            "id": "node/-1081",
             "properties": {
                 "ADDRESS": "Bergsalleen 21 A-B, 0854 OSLO",
                 "amenity": "kindergarten",
@@ -11829,7 +11829,7 @@
                 "no-barnehage:nsrid": "1018596",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1079"
+                "id": "node/-1081"
             },
             "geometry": {
                 "type": "Point",
@@ -11841,7 +11841,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1029",
+            "id": "node/-1030",
             "properties": {
                 "ADDRESS": "Gjøding Gård, 2090 HURDAL",
                 "amenity": "kindergarten",
@@ -11849,7 +11849,7 @@
                 "no-barnehage:nsrid": "1022112",
                 "operator": "Økolandsbyen Barnehagesamvirke Sa",
                 "operator:type": "private",
-                "id": "node/-1029"
+                "id": "node/-1030"
             },
             "geometry": {
                 "type": "Point",
@@ -11861,7 +11861,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1009",
+            "id": "node/-1010",
             "properties": {
                 "ADDRESS": "Hasler, 2072 DAL",
                 "amenity": "kindergarten",
@@ -11872,7 +11872,7 @@
                 "no-barnehage:nsrid": "1016334",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-1009"
+                "id": "node/-1010"
             },
             "geometry": {
                 "type": "Point",
@@ -11884,7 +11884,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1004",
+            "id": "node/-1005",
             "properties": {
                 "ADDRESS": "Hjeraveien, 2072 DAL",
                 "amenity": "kindergarten",
@@ -11895,7 +11895,7 @@
                 "no-barnehage:nsrid": "1018539",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-1004"
+                "id": "node/-1005"
             },
             "geometry": {
                 "type": "Point",
@@ -11907,7 +11907,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-909",
+            "id": "node/-910",
             "properties": {
                 "ADDRESS": "Sinober, 1480 SLATTUM",
                 "amenity": "kindergarten",
@@ -11918,7 +11918,7 @@
                 "no-barnehage:nsrid": "1020682",
                 "operator": "Sinoberbarnehagene AS",
                 "operator:type": "private",
-                "id": "node/-909"
+                "id": "node/-910"
             },
             "geometry": {
                 "type": "Point",
@@ -11930,7 +11930,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-717",
+            "id": "node/-718",
             "properties": {
                 "ADDRESS": "Ekeberg, 1930 AURSKOG",
                 "amenity": "kindergarten",
@@ -11941,7 +11941,7 @@
                 "no-barnehage:nsrid": "1020264",
                 "operator": "Ekeberg barnehage Lena Margrethe Fåberg",
                 "operator:type": "private",
-                "id": "node/-717"
+                "id": "node/-718"
             },
             "geometry": {
                 "type": "Point",
@@ -11953,7 +11953,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-396",
+            "id": "node/-397",
             "properties": {
                 "ADDRESS": "Prestegården, 1450 NESODDTANGEN",
                 "amenity": "kindergarten",
@@ -11964,7 +11964,7 @@
                 "no-barnehage:nsrid": "1020365",
                 "operator": "Askeladden barnehage",
                 "operator:type": "private",
-                "id": "node/-396"
+                "id": "node/-397"
             },
             "geometry": {
                 "type": "Point",
@@ -11976,7 +11976,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-292",
+            "id": "node/-293",
             "properties": {
                 "ADDRESS": "Helse- og Sosialsenteret, 1592 VÅLER I ØSTFOLD",
                 "amenity": "kindergarten",
@@ -11984,7 +11984,7 @@
                 "no-barnehage:nsrid": "1013482",
                 "operator": "Våler kommune",
                 "operator:type": "public",
-                "id": "node/-292"
+                "id": "node/-293"
             },
             "geometry": {
                 "type": "Point",

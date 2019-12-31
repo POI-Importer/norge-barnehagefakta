@@ -3,13 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-386",
+            "id": "node/-387",
             "properties": {
                 "ADDRESS": "Solbergveien 31, 1449 DRØBAK",
                 "amenity": "kindergarten",
                 "name": "Frogn/drøbak natur og gårdsbarnehage",
                 "no-barnehage:nsrid": "1021580",
                 "operator": "Gry Hultgren",
+                "operator:type": "private",
+                "id": "node/-387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.67628,
+                    59.64156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-386",
+            "properties": {
+                "ADDRESS": "Solbergveien 31, 1449 DRØBAK",
+                "amenity": "kindergarten",
+                "name": "Frogn Pedagogiske Senter",
+                "no-barnehage:nsrid": "1022431",
+                "operator": "Frogn Pedagogiske Senter AS",
                 "operator:type": "private",
                 "id": "node/-386"
             },
@@ -23,27 +43,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-385",
-            "properties": {
-                "ADDRESS": "Solbergveien 31, 1449 DRØBAK",
-                "amenity": "kindergarten",
-                "name": "Frogn Pedagogiske Senter",
-                "no-barnehage:nsrid": "1022431",
-                "operator": "Frogn Pedagogiske Senter AS",
-                "operator:type": "private",
-                "id": "node/-385"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.67628,
-                    59.64156
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-383",
+            "id": "node/-384",
             "properties": {
                 "ADDRESS": "Arne Høilands Vei 1, 1444 DRØBAK",
                 "amenity": "kindergarten",
@@ -53,7 +53,7 @@
                 "no-barnehage:nsrid": "1017524",
                 "operator": "Frogn kommune",
                 "operator:type": "public",
-                "id": "node/-383"
+                "id": "node/-384"
             },
             "geometry": {
                 "type": "Point",

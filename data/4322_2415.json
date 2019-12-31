@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2765",
+            "id": "node/-2766",
             "properties": {
                 "ADDRESS": "Kveldeveien 238, 3282 KVELDE",
                 "amenity": "kindergarten",
@@ -14,7 +14,27 @@
                 "no-barnehage:nsrid": "1012809",
                 "operator": "Larvik kommune",
                 "operator:type": "public",
-                "id": "node/-2765"
+                "id": "node/-2766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.96789,
+                    59.19133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2743",
+            "properties": {
+                "ADDRESS": "Kveldeveien 238, 3282 KVELDE",
+                "amenity": "kindergarten",
+                "name": "Kvelde åpen barnehage",
+                "no-barnehage:nsrid": "1025681",
+                "operator": "Larvik kommune",
+                "operator:type": "public",
+                "id": "node/-2743"
             },
             "geometry": {
                 "type": "Point",
@@ -28,26 +48,6 @@
             "type": "Feature",
             "id": "node/-2742",
             "properties": {
-                "ADDRESS": "Kveldeveien 238, 3282 KVELDE",
-                "amenity": "kindergarten",
-                "name": "Kvelde åpen barnehage",
-                "no-barnehage:nsrid": "1025681",
-                "operator": "Larvik kommune",
-                "operator:type": "public",
-                "id": "node/-2742"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.96789,
-                    59.19133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2741",
-            "properties": {
                 "ADDRESS": "Kveldeveien 272, 3282 KVELDE",
                 "amenity": "kindergarten",
                 "capacity": "49",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1019660",
                 "operator": "Kvelde barnehage",
                 "operator:type": "private",
-                "id": "node/-2741"
+                "id": "node/-2742"
             },
             "geometry": {
                 "type": "Point",

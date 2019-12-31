@@ -27,7 +27,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4641",
+            "id": "node/-4658",
+            "properties": {
+                "ADDRESS": "Kongsmyrveien 45, 5174 MATHOPEN",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "contact:website": "http://mathopen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mathopen barnehage",
+                "no-barnehage:nsrid": "1022229",
+                "operator": "Nye Mathopen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20338,
+                    60.33669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4640",
             "properties": {
                 "ADDRESS": "Håkonshellaveien 120, 5174 MATHOPEN",
                 "amenity": "kindergarten",
@@ -39,37 +63,13 @@
                 "no-barnehage:nsrid": "1026081",
                 "operator": "Myren Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4641"
+                "id": "node/-4640"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.18794,
                     60.34396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4633",
-            "properties": {
-                "ADDRESS": "Kongsmyrveien 45, 5174 MATHOPEN",
-                "amenity": "kindergarten",
-                "capacity": "70",
-                "contact:website": "http://mathopen.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mathopen barnehage",
-                "no-barnehage:nsrid": "1022229",
-                "operator": "Mathopen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4633"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.20338,
-                    60.33669
                 ]
             }
         },

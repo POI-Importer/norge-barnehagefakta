@@ -159,7 +159,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3752",
+            "id": "node/-3751",
             "properties": {
                 "ADDRESS": "Kolsbergveien 24, 4616 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -170,7 +170,7 @@
                 "no-barnehage:nsrid": "1012865",
                 "operator": "Kristiansand kommune",
                 "operator:type": "public",
-                "id": "node/-3752"
+                "id": "node/-3751"
             },
             "geometry": {
                 "type": "Point",
@@ -182,37 +182,13 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3744",
+            "id": "node/-3743",
             "properties": {
                 "ADDRESS": "Konsul Wilds Vei 20a, 4621 KRISTIANSAND S",
                 "amenity": "kindergarten",
                 "name": "Fiskåtangen barnehage",
                 "no-barnehage:nsrid": "1019838",
                 "operator": "Fiskåtangen barnehage Da",
-                "operator:type": "private",
-                "id": "node/-3744"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.97419,
-                    58.12909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3743",
-            "properties": {
-                "ADDRESS": "Konsul Wilds Vei 20a, 4621 KRISTIANSAND S",
-                "amenity": "kindergarten",
-                "capacity": "16",
-                "contact:website": "http://www.fiskaatangen.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Fiskåtangen barnehage",
-                "no-barnehage:nsrid": "1020916",
-                "operator": "Fiskåtangen barnehage AS",
                 "operator:type": "private",
                 "id": "node/-3743"
             },
@@ -226,7 +202,31 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3735",
+            "id": "node/-3742",
+            "properties": {
+                "ADDRESS": "Konsul Wilds Vei 20a, 4621 KRISTIANSAND S",
+                "amenity": "kindergarten",
+                "capacity": "16",
+                "contact:website": "http://www.fiskaatangen.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fiskåtangen barnehage",
+                "no-barnehage:nsrid": "1020916",
+                "operator": "Fiskåtangen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.97419,
+                    58.12909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3736",
             "properties": {
                 "ADDRESS": "Fiskåveien 12, 4621 KRISTIANSAND S",
                 "amenity": "kindergarten",
@@ -238,7 +238,7 @@
                 "no-barnehage:nsrid": "1019771",
                 "operator": "Eplehagen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3735"
+                "id": "node/-3736"
             },
             "geometry": {
                 "type": "Point",

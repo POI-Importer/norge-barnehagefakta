@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-219",
+            "id": "node/-220",
             "properties": {
                 "ADDRESS": "Idrettsveien 14, 1860 TRØGSTAD",
                 "amenity": "kindergarten",
@@ -14,13 +14,33 @@
                 "no-barnehage:nsrid": "1015985",
                 "operator": "Trøgstad kommune",
                 "operator:type": "public",
-                "id": "node/-219"
+                "id": "node/-220"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.32032,
                     59.64103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-219",
+            "properties": {
+                "ADDRESS": "Trøgstadveien 1200, 1860 TRØGSTAD",
+                "amenity": "kindergarten",
+                "name": "Menighetsbarnehagen i Trøgstad",
+                "no-barnehage:nsrid": "2000607",
+                "operator": "Menighetsbarnehagen i Trøgstad AS",
+                "operator:type": "private",
+                "id": "node/-219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.31206,
+                    59.63727
                 ]
             }
         },
