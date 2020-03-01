@@ -3,38 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2545",
-            "properties": {
-                "ADDRESS": "Katrineåsveien 20, 3440 RØYKEN",
-                "amenity": "kindergarten",
-                "name": "Åpen barnehage Midtbygda",
-                "no-barnehage:nsrid": "1016589",
-                "operator": "Røyken kommune",
-                "operator:type": "public",
-                "id": "node/-2545"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.4127,
-                    59.74023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2535",
+            "id": "node/-3099",
             "properties": {
                 "ADDRESS": "Løkenveien 1, 3440 RØYKEN",
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "49",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Røyken barnehage",
                 "no-barnehage:nsrid": "1016028",
-                "operator": "Røyken kommune",
+                "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-2535"
+                "id": "node/-3099"
             },
             "geometry": {
                 "type": "Point",
@@ -46,18 +26,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2529",
+            "id": "node/-3084",
             "properties": {
                 "ADDRESS": "Nils Slottos Vei 5, 3440 RØYKEN",
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "51",
+                "contact:website": "http://midtbygda.kanvas.no/#hjem",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Midtbygda Kanvas-barnehage",
                 "no-barnehage:nsrid": "1012574",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2529"
+                "id": "node/-3084"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2527",
+            "id": "node/-3071",
             "properties": {
                 "ADDRESS": "Heggveien 40, 3440 RØYKEN",
                 "amenity": "kindergarten",
@@ -80,7 +61,7 @@
                 "no-barnehage:nsrid": "1016322",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-2527"
+                "id": "node/-3071"
             },
             "geometry": {
                 "type": "Point",
@@ -92,11 +73,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2523",
+            "id": "node/-3057",
             "properties": {
                 "ADDRESS": "Heggumhøgda 3, 3440 RØYKEN",
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "41",
                 "contact:website": "http://www.heggumbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -104,7 +85,7 @@
                 "no-barnehage:nsrid": "1022082",
                 "operator": "Heggum barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2523"
+                "id": "node/-3057"
             },
             "geometry": {
                 "type": "Point",
@@ -116,18 +97,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2514",
+            "id": "node/-3020",
             "properties": {
                 "ADDRESS": "Godheimveien 26, 3440 RØYKEN",
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "30",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "100-meterskogen barnehage",
                 "no-barnehage:nsrid": "1021563",
                 "operator": "100-Meterskogen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2514"
+                "id": "node/-3020"
             },
             "geometry": {
                 "type": "Point",

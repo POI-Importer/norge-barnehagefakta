@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-988",
+            "id": "node/-3415",
             "properties": {
                 "ADDRESS": "Seterstøavegen 2b, 2150 ÅRNES",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1016966",
                 "operator": "Nes kommune",
                 "operator:type": "public",
-                "id": "node/-988"
+                "id": "node/-3415"
             },
             "geometry": {
                 "type": "Point",
@@ -23,21 +23,24 @@
         },
         {
             "type": "Feature",
-            "id": "node/-977",
+            "id": "node/-3403",
             "properties": {
                 "ADDRESS": "Evangjordet, 2150 ÅRNES",
                 "amenity": "kindergarten",
+                "capacity": "4",
+                "max_age": "2",
+                "min_age": "1",
                 "name": "Espira Evangtunet barnehage",
                 "no-barnehage:nsrid": "2000523",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-977"
+                "id": "node/-3403"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.46219,
-                    60.11384
+                    11.46164,
+                    60.11349
                 ]
             }
         }

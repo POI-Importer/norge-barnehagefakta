@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1723",
+            "id": "node/-1086",
             "properties": {
                 "ADDRESS": "Avlangruds Vei 5, 1285 OSLO",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1019986",
                 "operator": "Søndre Dal Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1723"
+                "id": "node/-1086"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1684",
+            "id": "node/-1047",
             "properties": {
                 "ADDRESS": "Hans Breiens Vei 8, 1283 OSLO",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1013837",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1684"
+                "id": "node/-1047"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1666",
+            "id": "node/-1029",
             "properties": {
                 "ADDRESS": "Stenbråtveien 95, 1283 OSLO",
                 "amenity": "kindergarten",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1020443",
                 "operator": "Solbakken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1666"
+                "id": "node/-1029"
             },
             "geometry": {
                 "type": "Point",
@@ -73,11 +73,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1599",
+            "id": "node/-964",
             "properties": {
                 "ADDRESS": "Lofsrudhøgda 201, 1281 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "60",
                 "contact:website": "http://rudshogda.kanvas.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -85,7 +85,7 @@
                 "no-barnehage:nsrid": "1015479",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-1599"
+                "id": "node/-964"
             },
             "geometry": {
                 "type": "Point",
@@ -97,18 +97,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1502",
+            "id": "node/-870",
             "properties": {
                 "ADDRESS": "Nordstrandveien 77, 1164 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "22",
+                "capacity": "20",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Munkerudtoppen barnehage",
                 "no-barnehage:nsrid": "1020506",
                 "operator": "Munkerudtoppen barnehage Hege Aas",
                 "operator:type": "private",
-                "id": "node/-1502"
+                "id": "node/-870"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1501",
+            "id": "node/-869",
             "properties": {
                 "ADDRESS": "Brattvollveien 219, 1164 OSLO",
                 "amenity": "kindergarten",
@@ -131,7 +131,7 @@
                 "no-barnehage:nsrid": "1017439",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1501"
+                "id": "node/-869"
             },
             "geometry": {
                 "type": "Point",
@@ -143,15 +143,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1500",
+            "id": "node/-868",
             "properties": {
                 "ADDRESS": "P. A. Holms Vei 18, 1164 OSLO",
                 "amenity": "kindergarten",
+                "capacity": "81",
+                "max_age": "5",
+                "min_age": "1",
                 "name": "Munkerud miljøbarnehage",
                 "no-barnehage:nsrid": "2000341",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1500"
+                "id": "node/-868"
             },
             "geometry": {
                 "type": "Point",
@@ -163,18 +166,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1498",
+            "id": "node/-866",
             "properties": {
                 "ADDRESS": "Langbølgen 67, 1150 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "36",
+                "capacity": "30",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Munkelia barnehage",
                 "no-barnehage:nsrid": "1017302",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1498"
+                "id": "node/-866"
             },
             "geometry": {
                 "type": "Point",
@@ -186,18 +189,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1477",
+            "id": "node/-845",
             "properties": {
                 "ADDRESS": "Mellombølgen 133, 1157 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "231",
+                "capacity": "237",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mellombølgen barnehage",
                 "no-barnehage:nsrid": "1017305",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1477"
+                "id": "node/-845"
             },
             "geometry": {
                 "type": "Point",
@@ -209,11 +212,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1444",
+            "id": "node/-811",
             "properties": {
                 "ADDRESS": "Helga Vaneks Vei 3h, 1281 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "64",
+                "capacity": "65",
                 "contact:website": "http://laringsverkstedet.no/laringsverkstedet-mortensrud",
                 "max_age": "5",
                 "min_age": "1",
@@ -221,7 +224,7 @@
                 "no-barnehage:nsrid": "1025967",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-1444"
+                "id": "node/-811"
             },
             "geometry": {
                 "type": "Point",
@@ -233,18 +236,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1413",
+            "id": "node/-781",
             "properties": {
                 "ADDRESS": "Lofsrudhøgda 212, 1281 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "53",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lofsrud barnehage",
                 "no-barnehage:nsrid": "1013832",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1413"
+                "id": "node/-781"
             },
             "geometry": {
                 "type": "Point",
@@ -256,18 +259,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1342",
+            "id": "node/-710",
             "properties": {
                 "ADDRESS": "Mortensrudveien 200, 1283 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "51",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kantarellen barnehage",
                 "no-barnehage:nsrid": "1015623",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1342"
+                "id": "node/-710"
             },
             "geometry": {
                 "type": "Point",
@@ -279,18 +282,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1336",
+            "id": "node/-704",
             "properties": {
                 "ADDRESS": "Gamle Bygdevei 25, 1284 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "77",
+                "capacity": "82",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jettegryta barnehage",
                 "no-barnehage:nsrid": "1013962",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1336"
+                "id": "node/-704"
             },
             "geometry": {
                 "type": "Point",
@@ -302,18 +305,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1224",
+            "id": "node/-592",
             "properties": {
                 "ADDRESS": "Johan Scharffenbergs Vei 91, 0694 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gartnerboligen barnehage",
                 "no-barnehage:nsrid": "1013858",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1224"
+                "id": "node/-592"
             },
             "geometry": {
                 "type": "Point",
@@ -325,18 +328,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1180",
+            "id": "node/-548",
             "properties": {
                 "ADDRESS": "Jordstjerneveien 48, 1283 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "70",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eventyrlia FUS barnehage",
                 "no-barnehage:nsrid": "1021465",
                 "operator": "Eventyrlia Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1180"
+                "id": "node/-548"
             },
             "geometry": {
                 "type": "Point",
@@ -348,18 +351,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1094",
+            "id": "node/-462",
             "properties": {
                 "ADDRESS": "Stenbråtveien 11, 1283 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "80",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bjørnebo barnehage",
                 "no-barnehage:nsrid": "1018404",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1094"
+                "id": "node/-462"
             },
             "geometry": {
                 "type": "Point",
@@ -371,18 +374,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1062",
+            "id": "node/-430",
             "properties": {
                 "ADDRESS": "Bakketoppen 21a, 1165 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "57",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bakketoppen barnehage",
                 "no-barnehage:nsrid": "1021272",
                 "operator": "Barn i Sentrum AS",
                 "operator:type": "private",
-                "id": "node/-1062"
+                "id": "node/-430"
             },
             "geometry": {
                 "type": "Point",

@@ -3,19 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2995",
+            "id": "node/-12",
             "properties": {
                 "ADDRESS": "Caspersens Vei 31, 4956 RISØR",
                 "amenity": "kindergarten",
-                "capacity": "43",
-                "contact:website": "http://www.trollstua.barnehageveven.no",
+                "capacity": "44",
+                "contact:website": "http://trollstua.barnehageveven.no/",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trollstua barnehage natur og idrettsbarnehage",
                 "no-barnehage:nsrid": "1025328",
                 "operator": "Risør kommune",
                 "operator:type": "public",
-                "id": "node/-2995"
+                "id": "node/-12"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +27,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2994",
+            "id": "node/-11",
             "properties": {
                 "ADDRESS": "Kranveien 4c, 4950 RISØR",
                 "amenity": "kindergarten",
                 "capacity": "48",
+                "contact:website": "http://www.tjenna.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tjenna barnehage",
                 "no-barnehage:nsrid": "1020083",
                 "operator": "Tjenna barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2994"
+                "id": "node/-11"
             },
             "geometry": {
                 "type": "Point",
@@ -50,18 +51,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2993",
+            "id": "node/-10",
             "properties": {
-                "ADDRESS": "Randvikveien 81, 4950 RISØR",
+                "ADDRESS": "Randvikveien 80, 4956 RISØR",
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "25",
+                "contact:website": "http://lekeslottet.barnehage.no/",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Lekeslottet barnehage Risør",
+                "name": "Lekeslottet barnehage Risør Helårsåpen barnehage",
                 "no-barnehage:nsrid": "1021717",
                 "operator": "Lekeslottet barnehage Risør AS",
                 "operator:type": "private",
-                "id": "node/-2993"
+                "id": "node/-10"
             },
             "geometry": {
                 "type": "Point",
@@ -73,24 +75,49 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2990",
+            "id": "node/-7",
             "properties": {
                 "ADDRESS": "Tjenngata 76, 4950 RISØR",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "44",
+                "contact:website": "http://www.frydenborg.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Frydenborg barnehage",
                 "no-barnehage:nsrid": "1020541",
                 "operator": "Frydenborg barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2990"
+                "id": "node/-7"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.21433,
                     58.71855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5",
+            "properties": {
+                "ADDRESS": "Randvikveien 63, 4956 RISØR",
+                "amenity": "kindergarten",
+                "capacity": "29",
+                "contact:website": "http://www.amandus.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Amandus barnehage",
+                "no-barnehage:nsrid": "1019881",
+                "operator": "Amandus barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.21601,
+                    58.70867
                 ]
             }
         }

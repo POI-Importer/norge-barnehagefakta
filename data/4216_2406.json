@@ -3,7 +3,27 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4183",
+            "id": "node/-4057",
+            "properties": {
+                "ADDRESS": "Norheimvegen, 5542 KARMSUND",
+                "amenity": "kindergarten",
+                "name": "Oasen FUS barnehage",
+                "no-barnehage:nsrid": "2000078",
+                "operator": "Oasen Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31668,
+                    59.38387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3789",
             "properties": {
                 "ADDRESS": "Salhusvegen 28, 5529 HAUGESUND",
                 "amenity": "kindergarten",
@@ -14,7 +34,7 @@
                 "no-barnehage:nsrid": "1016845",
                 "operator": "Haugesund kommune",
                 "operator:type": "public",
-                "id": "node/-4183"
+                "id": "node/-3789"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +46,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4159",
+            "id": "node/-3765",
             "properties": {
                 "ADDRESS": "Industrigata 10-12, 5537 HAUGESUND",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "66",
                 "contact:website": "http://www.haugaland-industri.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +58,7 @@
                 "no-barnehage:nsrid": "1016587",
                 "operator": "As Haugaland Industri",
                 "operator:type": "private",
-                "id": "node/-4159"
+                "id": "node/-3765"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +70,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4153",
+            "id": "node/-3760",
             "properties": {
                 "ADDRESS": "Peer Gynts Veg 6e, 5538 HAUGESUND",
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "86",
                 "contact:website": "http://espira.no/",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +82,7 @@
                 "no-barnehage:nsrid": "1021279",
                 "operator": "Espira Bjørgene AS",
                 "operator:type": "private",
-                "id": "node/-4153"
+                "id": "node/-3760"
             },
             "geometry": {
                 "type": "Point",
@@ -74,11 +94,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4150",
+            "id": "node/-3757",
             "properties": {
                 "ADDRESS": "Rossabøskogen 5c, 5537 HAUGESUND",
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "61",
                 "contact:website": "http://www.amanda.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -86,7 +106,7 @@
                 "no-barnehage:nsrid": "1020785",
                 "operator": "Amanda barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4150"
+                "id": "node/-3757"
             },
             "geometry": {
                 "type": "Point",

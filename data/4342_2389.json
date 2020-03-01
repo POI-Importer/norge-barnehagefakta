@@ -3,64 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-450",
-            "properties": {
-                "ADDRESS": "Vellets Vei 7, 1415 OPPEGÅRD",
-                "amenity": "kindergarten",
-                "capacity": "59",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sætreskogen barnehage",
-                "no-barnehage:nsrid": "1012768",
-                "operator": "Oppegård kommune",
-                "operator:type": "public",
-                "id": "node/-450"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.81653,
-                    59.76662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-447",
-            "properties": {
-                "ADDRESS": "Rolf Presthus Vei 21, 1415 OPPEGÅRD",
-                "amenity": "kindergarten",
-                "capacity": "60",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Slåbråten barnehage",
-                "no-barnehage:nsrid": "1017152",
-                "operator": "Oppegård kommune",
-                "operator:type": "public",
-                "id": "node/-447"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.81926,
-                    59.7713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-353",
+            "id": "node/-2767",
             "properties": {
                 "ADDRESS": "Vevelstadåsen 59, 1405 LANGHUS",
                 "amenity": "kindergarten",
-                "capacity": "47",
+                "capacity": "51",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vevelstadåsen barnehage",
                 "no-barnehage:nsrid": "1012843",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-353"
+                "id": "node/-2767"
             },
             "geometry": {
                 "type": "Point",
@@ -72,11 +26,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-352",
+            "id": "node/-2766",
             "properties": {
                 "ADDRESS": "Gamle Vevelstadvei 23, 1405 LANGHUS",
                 "amenity": "kindergarten",
-                "capacity": "69",
+                "capacity": "66",
                 "contact:website": "http://vevelstadsaga.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +38,7 @@
                 "no-barnehage:nsrid": "1020441",
                 "operator": "Vevelstadsaga barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-352"
+                "id": "node/-2766"
             },
             "geometry": {
                 "type": "Point",
@@ -96,18 +50,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-345",
+            "id": "node/-2755",
+            "properties": {
+                "ADDRESS": "Vellets Vei 7, 1415 OPPEGÅRD",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sætreskogen barnehage",
+                "no-barnehage:nsrid": "1012768",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81653,
+                    59.76662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2751",
             "properties": {
                 "ADDRESS": "Smedsrudveien 23, 1405 LANGHUS",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "64",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Smedsrud barnehage",
                 "no-barnehage:nsrid": "1012846",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-345"
+                "id": "node/-2751"
             },
             "geometry": {
                 "type": "Point",
@@ -119,18 +96,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-325",
+            "id": "node/-2750",
+            "properties": {
+                "ADDRESS": "Rolf Presthus Vei 21, 1415 OPPEGÅRD",
+                "amenity": "kindergarten",
+                "capacity": "60",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Slåbråten barnehage",
+                "no-barnehage:nsrid": "1017152",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81926,
+                    59.7713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2715",
             "properties": {
                 "ADDRESS": "Bregnefaret 5, 1405 LANGHUS",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bøleråsen barnehage",
                 "no-barnehage:nsrid": "1012845",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-325"
+                "id": "node/-2715"
             },
             "geometry": {
                 "type": "Point",

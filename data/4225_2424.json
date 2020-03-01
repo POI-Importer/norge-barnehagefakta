@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4148",
+            "id": "node/-3745",
             "properties": {
                 "ADDRESS": "Gamle Dusavikveien 6, 4029 STAVANGER",
                 "amenity": "kindergarten",
@@ -11,11 +11,11 @@
                 "contact:website": "http://www.minbarnehage.no/ytretastabhg",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Ytre Tasta barnehage avd. Vardeneset",
+                "name": "Vardeneset barnehage",
                 "no-barnehage:nsrid": "1012917",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4148"
+                "id": "node/-3745"
             },
             "geometry": {
                 "type": "Point",
@@ -27,41 +27,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4147",
-            "properties": {
-                "ADDRESS": "Ulaveien 7, 4028 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "60",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ytre Tasta barnehage avd. Eskeland",
-                "no-barnehage:nsrid": "1012910",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4147"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.6766,
-                    58.99035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4138",
+            "id": "node/-3740",
             "properties": {
                 "ADDRESS": "Eldfiskbakken 9, 4028 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "72",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Trollberget barnehage",
                 "no-barnehage:nsrid": "1021735",
                 "operator": "Trollberget AS",
                 "operator:type": "private",
-                "id": "node/-4138"
+                "id": "node/-3740"
             },
             "geometry": {
                 "type": "Point",
@@ -73,76 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4135",
-            "properties": {
-                "ADDRESS": "Stølsbrautene 3, 4027 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "32",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tastavarden barnehage avd. Smiene",
-                "no-barnehage:nsrid": "1012914",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4135"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.69436,
-                    58.98161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4134",
-            "properties": {
-                "ADDRESS": "Gullfaksveien 25, 4028 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "64",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tastavarden barnehage avd. Gullfaks",
-                "no-barnehage:nsrid": "1016074",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4134"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.68038,
-                    58.98838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4133",
-            "properties": {
-                "ADDRESS": "Tastatunet 7, 4027 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "92",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Tastarustå barnehage",
-                "no-barnehage:nsrid": "1026043",
-                "operator": "Tastarustå barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4133"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.68927,
-                    58.98443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4117",
+            "id": "node/-3719",
             "properties": {
                 "ADDRESS": "Smietunet 80, 4027 STAVANGER",
                 "amenity": "kindergarten",
@@ -154,7 +62,7 @@
                 "no-barnehage:nsrid": "1016073",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4117"
+                "id": "node/-3719"
             },
             "geometry": {
                 "type": "Point",
@@ -166,11 +74,57 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4059",
+            "id": "node/-3718",
+            "properties": {
+                "ADDRESS": "Stølsbrautene 3, 4027 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smiene barnehage",
+                "no-barnehage:nsrid": "1012914",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69436,
+                    58.98161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3657",
+            "properties": {
+                "ADDRESS": "Gullfaksveien 25, 4028 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gullfaks barnehage",
+                "no-barnehage:nsrid": "1016074",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68038,
+                    58.98838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3647",
             "properties": {
                 "ADDRESS": "Eskelandssvingene 18, 4028 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "92",
                 "contact:website": "http://www.espira.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -178,7 +132,7 @@
                 "no-barnehage:nsrid": "1021235",
                 "operator": "Espira Scala Tasta AS",
                 "operator:type": "private",
-                "id": "node/-4059"
+                "id": "node/-3647"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +144,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4057",
+            "id": "node/-3645",
             "properties": {
                 "ADDRESS": "Myrveien 12, 4025 STAVANGER",
                 "amenity": "kindergarten",
@@ -202,7 +156,7 @@
                 "no-barnehage:nsrid": "1022002",
                 "operator": "Espira Fjellsenden AS",
                 "operator:type": "private",
-                "id": "node/-4057"
+                "id": "node/-3645"
             },
             "geometry": {
                 "type": "Point",
@@ -214,11 +168,34 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4054",
+            "id": "node/-3644",
+            "properties": {
+                "ADDRESS": "Ulaveien 7, 4028 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "65",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eskeland barnehage",
+                "no-barnehage:nsrid": "1012910",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6766,
+                    58.99035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3641",
             "properties": {
                 "ADDRESS": "Gjerdeveien 144, 4028 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "58",
+                "capacity": "57",
                 "contact:website": "http://dusavik.barnehage.no/",
                 "max_age": "5",
                 "min_age": "1",
@@ -226,7 +203,7 @@
                 "no-barnehage:nsrid": "1020585",
                 "operator": "Dusavik barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4054"
+                "id": "node/-3641"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +215,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4049",
+            "id": "node/-3635",
             "properties": {
                 "ADDRESS": "Fjellfaret 41, 4025 STAVANGER",
                 "amenity": "kindergarten",
@@ -250,7 +227,7 @@
                 "no-barnehage:nsrid": "1019942",
                 "operator": "Byhaugen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4049"
+                "id": "node/-3635"
             },
             "geometry": {
                 "type": "Point",
@@ -262,18 +239,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4034",
+            "id": "node/-3625",
             "properties": {
                 "ADDRESS": "Lindeveien 75, 4025 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "63",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnehagen Tasta",
                 "no-barnehage:nsrid": "1015529",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4034"
+                "id": "node/-3625"
             },
             "geometry": {
                 "type": "Point",
@@ -285,11 +262,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4027",
+            "id": "node/-3620",
             "properties": {
                 "ADDRESS": "Dusavikhagen 2, 4028 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "61",
                 "contact:website": "http://www.bamsebu.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -297,7 +274,7 @@
                 "no-barnehage:nsrid": "1020126",
                 "operator": "Bamsebu barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4027"
+                "id": "node/-3620"
             },
             "geometry": {
                 "type": "Point",

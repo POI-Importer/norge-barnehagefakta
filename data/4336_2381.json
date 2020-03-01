@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-636",
+            "id": "node/-3015",
             "properties": {
                 "ADDRESS": "Gamle Ringeriksvei 125, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "46",
+                "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Øverland barnehage",
                 "no-barnehage:nsrid": "1021396",
                 "operator": "Øverland barnehage AS",
                 "operator:type": "private",
-                "id": "node/-636"
+                "id": "node/-3015"
             },
             "geometry": {
                 "type": "Point",
@@ -26,52 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-622",
-            "properties": {
-                "ADDRESS": "Grevlingåsen 22, 1362 HOSLE",
-                "amenity": "kindergarten",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Trygg Start familiebarnehage avd. Grevlingåsen",
-                "no-barnehage:nsrid": "1018323",
-                "operator": "Trygg Start V/håkon Sletnes",
-                "operator:type": "private",
-                "id": "node/-622"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.58718,
-                    59.93847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-524",
-            "properties": {
-                "ADDRESS": "Granåsen 11, 1362 HOSLE",
-                "amenity": "kindergarten",
-                "capacity": "90",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hosle barnehage avd. Hosle",
-                "no-barnehage:nsrid": "1013176",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-524"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.58662,
-                    59.93567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-523",
+            "id": "node/-2905",
             "properties": {
                 "ADDRESS": "Bispeveien 69, 1362 HOSLE",
                 "amenity": "kindergarten",
@@ -81,7 +36,7 @@
                 "no-barnehage:nsrid": "1018612",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-523"
+                "id": "node/-2905"
             },
             "geometry": {
                 "type": "Point",
@@ -93,18 +48,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-463",
+            "id": "node/-2904",
+            "properties": {
+                "ADDRESS": "Granåsen 11, 1362 HOSLE",
+                "amenity": "kindergarten",
+                "capacity": "90",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hosle barnehage avd. Hosle",
+                "no-barnehage:nsrid": "1013176",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-2904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.58662,
+                    59.93567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2845",
             "properties": {
                 "ADDRESS": "Berta Bråtens Vei 6, 1362 HOSLE",
                 "amenity": "kindergarten",
-                "capacity": "109",
+                "capacity": "104",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnehagenvår Hosletoppen",
                 "no-barnehage:nsrid": "1025883",
                 "operator": "Theas Bærum AS",
                 "operator:type": "private",
-                "id": "node/-463"
+                "id": "node/-2845"
             },
             "geometry": {
                 "type": "Point",

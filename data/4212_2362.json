@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4892",
+            "id": "node/-1687",
             "properties": {
                 "ADDRESS": "2 Etg. Helsehuset Sartorvegen 8, 5353 STRAUME",
                 "amenity": "kindergarten",
@@ -11,30 +11,30 @@
                 "no-barnehage:nsrid": "1017644",
                 "operator": "Øygarden Kfuk-Kfum",
                 "operator:type": "private",
-                "id": "node/-4892"
+                "id": "node/-1687"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.12276649,
-                    60.35916
+                    5.1229,
+                    60.35917
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-4890",
+            "id": "node/-1685",
             "properties": {
                 "ADDRESS": "Foldnes, 5353 STRAUME",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "52",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tussetjødna barnehage",
                 "no-barnehage:nsrid": "1014889",
-                "operator": "Fjell kommune",
+                "operator": "Øygarden kommune",
                 "operator:type": "public",
-                "id": "node/-4890"
+                "id": "node/-1685"
             },
             "geometry": {
                 "type": "Point",
@@ -46,18 +46,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4887",
+            "id": "node/-1680",
             "properties": {
                 "ADDRESS": "Blombakkane 4, 5354 STRAUME",
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "45",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Straume barnehage",
                 "no-barnehage:nsrid": "1012510",
-                "operator": "Fjell kommune",
+                "operator": "Øygarden kommune",
                 "operator:type": "public",
-                "id": "node/-4887"
+                "id": "node/-1680"
             },
             "geometry": {
                 "type": "Point",
@@ -69,34 +69,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4878",
-            "properties": {
-                "ADDRESS": "Skjenet 6, 5354 STRAUME",
-                "amenity": "kindergarten",
-                "capacity": "112",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Straume",
-                "no-barnehage:nsrid": "1013384",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-4878"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.12112,
-                    60.36482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4877",
+            "id": "node/-1666",
             "properties": {
                 "ADDRESS": "Vardevegen 14, 5353 STRAUME",
                 "amenity": "kindergarten",
-                "capacity": "62",
+                "capacity": "63",
                 "contact:website": "http://laringsverkstedet.no/laringsverkstedet-aronien-barnehage",
                 "max_age": "5",
                 "min_age": "1",
@@ -104,7 +81,7 @@
                 "no-barnehage:nsrid": "1015458",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4877"
+                "id": "node/-1666"
             },
             "geometry": {
                 "type": "Point",
@@ -116,18 +93,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4873",
+            "id": "node/-1664",
+            "properties": {
+                "ADDRESS": "Skjenet 6, 5354 STRAUME",
+                "amenity": "kindergarten",
+                "capacity": "112",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Straume",
+                "no-barnehage:nsrid": "1013384",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-1664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12112,
+                    60.36482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1660",
             "properties": {
                 "ADDRESS": "Austre Skiftedalsveg 23, 5354 STRAUME",
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "74",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Leirstaden barnehage",
                 "no-barnehage:nsrid": "1017133",
-                "operator": "Fjell kommune",
+                "operator": "Øygarden kommune",
                 "operator:type": "public",
-                "id": "node/-4873"
+                "id": "node/-1660"
             },
             "geometry": {
                 "type": "Point",
@@ -139,24 +139,44 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4866",
+            "id": "node/-1649",
             "properties": {
                 "ADDRESS": "Bjørkestølen 4, 5353 STRAUME",
                 "amenity": "kindergarten",
-                "capacity": "53",
+                "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bildøy barnehage",
                 "no-barnehage:nsrid": "1014790",
-                "operator": "Fjell kommune",
+                "operator": "Øygarden kommune",
                 "operator:type": "public",
-                "id": "node/-4866"
+                "id": "node/-1649"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.11368,
                     60.35294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1647",
+            "properties": {
+                "ADDRESS": "Lonavegen 4, 5353 STRAUME",
+                "amenity": "kindergarten",
+                "name": "Akasia Sartorlunden barnehage",
+                "no-barnehage:nsrid": "2000650",
+                "operator": "Akasia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12668,
+                    60.35571
                 ]
             }
         }

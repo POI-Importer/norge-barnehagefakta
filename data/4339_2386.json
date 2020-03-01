@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-419",
+            "id": "node/-2835",
             "properties": {
                 "ADDRESS": "Evenstuveien 19, 1459 NESODDEN",
                 "amenity": "kindergarten",
-                "capacity": "14",
+                "capacity": "17",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sletta barnehage",
                 "no-barnehage:nsrid": "1020046",
                 "operator": "Sletta barnehage AS",
                 "operator:type": "private",
-                "id": "node/-419"
+                "id": "node/-2835"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +26,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-409",
+            "id": "node/-2827",
+            "properties": {
+                "ADDRESS": "Asgerds Vei 53, 1459 NESODDEN",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Hind Herred",
+                "no-barnehage:nsrid": "1026444",
+                "operator": "Hind Herred AS",
+                "operator:type": "private",
+                "id": "node/-2827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68757,
+                    59.82557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2825",
             "properties": {
                 "ADDRESS": "Hakkespettlia 8, 1459 NESODDEN",
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "29",
                 "contact:website": "http://www.hellvikbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,7 +60,7 @@
                 "no-barnehage:nsrid": "1019715",
                 "operator": "Hellvik Barnehage, Hakkespettlia Sa",
                 "operator:type": "private",
-                "id": "node/-409"
+                "id": "node/-2825"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +72,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-406",
+            "id": "node/-2822",
             "properties": {
                 "ADDRESS": "Fjordvangveien 36, 1459 NESODDEN",
                 "amenity": "kindergarten",
-                "capacity": "59",
+                "capacity": "63",
                 "contact:website": "http://www.fjordvangen.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +84,7 @@
                 "no-barnehage:nsrid": "1020770",
                 "operator": "Fjordvangen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-406"
+                "id": "node/-2822"
             },
             "geometry": {
                 "type": "Point",

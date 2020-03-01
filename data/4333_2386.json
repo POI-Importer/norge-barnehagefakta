@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-699",
+            "id": "node/-3116",
             "properties": {
                 "ADDRESS": "Søndre Borgen 16, 1388 BORGEN",
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "60",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Søndre Borgen barnehage",
                 "no-barnehage:nsrid": "1012756",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-699"
+                "id": "node/-3116"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-685",
+            "id": "node/-3089",
             "properties": {
                 "ADDRESS": "Ridderkleiva 49, 1386 ASKER",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1019622",
                 "operator": "Stiftelsen Nedre Bleiker Barnehus",
                 "operator:type": "private",
-                "id": "node/-685"
+                "id": "node/-3089"
             },
             "geometry": {
                 "type": "Point",
@@ -50,11 +50,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-682",
+            "id": "node/-3086",
             "properties": {
                 "ADDRESS": "Morellveien 52, 1387 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "71",
+                "capacity": "70",
                 "contact:website": "http://www.asker.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -62,7 +62,7 @@
                 "no-barnehage:nsrid": "1012758",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-682"
+                "id": "node/-3086"
             },
             "geometry": {
                 "type": "Point",
@@ -74,18 +74,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-679",
+            "id": "node/-3080",
             "properties": {
                 "ADDRESS": "Risengveien 11, 1387 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "31",
+                "contact:website": "http://laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage Risenga barnehage",
                 "no-barnehage:nsrid": "1022146",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-679"
+                "id": "node/-3080"
             },
             "geometry": {
                 "type": "Point",
@@ -97,18 +98,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-674",
+            "id": "node/-3075",
             "properties": {
                 "ADDRESS": "Eikeveien 62, 1384 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "27",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Leikestua barnehage",
                 "no-barnehage:nsrid": "1020463",
                 "operator": "Stiftelsen Barnas Asker",
                 "operator:type": "private",
-                "id": "node/-674"
+                "id": "node/-3075"
             },
             "geometry": {
                 "type": "Point",
@@ -120,18 +121,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-658",
+            "id": "node/-3049",
             "properties": {
                 "ADDRESS": "Gamle Drammensvei 252, 1383 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "50",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Føyka barnehage Gamle Drammensvei",
                 "no-barnehage:nsrid": "1025359",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-658"
+                "id": "node/-3049"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +144,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-657",
+            "id": "node/-3048",
             "properties": {
                 "ADDRESS": "Øvre Askerhagen 8b, 1383 ASKER",
                 "amenity": "kindergarten",
@@ -154,7 +155,7 @@
                 "no-barnehage:nsrid": "1019695",
                 "operator": "Furuly barnehage Unni Jacobsen",
                 "operator:type": "private",
-                "id": "node/-657"
+                "id": "node/-3048"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +167,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-656",
+            "id": "node/-3045",
             "properties": {
                 "ADDRESS": "Nedre Frydendal 88, 1384 ASKER",
                 "amenity": "kindergarten",
@@ -178,7 +179,7 @@
                 "no-barnehage:nsrid": "1019930",
                 "operator": "Stiftelsen Frydendal barnehage",
                 "operator:type": "private",
-                "id": "node/-656"
+                "id": "node/-3045"
             },
             "geometry": {
                 "type": "Point",
@@ -190,11 +191,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-651",
+            "id": "node/-3036",
             "properties": {
                 "ADDRESS": "Haldensvingen 61, 1387 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "65",
                 "contact:website": "http://bastadmyra.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -202,7 +203,7 @@
                 "no-barnehage:nsrid": "1020189",
                 "operator": "Båstadmyra barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-651"
+                "id": "node/-3036"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +215,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-649",
+            "id": "node/-3033",
             "properties": {
                 "ADDRESS": "Finkefaret 1, 1388 BORGEN",
                 "amenity": "kindergarten",
@@ -226,7 +227,7 @@
                 "no-barnehage:nsrid": "1020167",
                 "operator": "Borgen Skog barnehage",
                 "operator:type": "private",
-                "id": "node/-649"
+                "id": "node/-3033"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +239,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-646",
+            "id": "node/-3030",
             "properties": {
                 "ADDRESS": "Bleikerfaret 14, 1387 ASKER",
                 "amenity": "kindergarten",
@@ -250,7 +251,7 @@
                 "no-barnehage:nsrid": "2000096",
                 "operator": "Asker kommune",
                 "operator:type": "public",
-                "id": "node/-646"
+                "id": "node/-3030"
             },
             "geometry": {
                 "type": "Point",
@@ -262,11 +263,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-642",
+            "id": "node/-3022",
             "properties": {
                 "ADDRESS": "Askerveien 17, 1384 ASKER",
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "12",
                 "contact:website": "http://www.askergard.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -274,7 +275,7 @@
                 "no-barnehage:nsrid": "1021705",
                 "operator": "Asker Gård barnehage AS",
                 "operator:type": "private",
-                "id": "node/-642"
+                "id": "node/-3022"
             },
             "geometry": {
                 "type": "Point",

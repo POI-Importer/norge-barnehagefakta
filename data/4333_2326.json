@@ -3,18 +3,66 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2058",
+            "id": "node/-4505",
+            "properties": {
+                "ADDRESS": "Smestadvegen 16, 2619 LILLEHAMMER",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "contact:website": "http://sinn.no/lillehammer/om-sopp-barnehage/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Smestad studentbarnehage",
+                "no-barnehage:nsrid": "1015499",
+                "operator": "Studentsamskipnaden i Innlandet",
+                "operator:type": "private",
+                "id": "node/-4505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44819,
+                    61.13474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4501",
+            "properties": {
+                "ADDRESS": "Olav Audunssons Veg 1, 2624 LILLEHAMMER",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "contact:website": "http://www.ro.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ro barnehage",
+                "no-barnehage:nsrid": "1019995",
+                "operator": "Ro barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4512,
+                    61.13647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4490",
             "properties": {
                 "ADDRESS": "Smestadenga 23, 2619 LILLEHAMMER",
                 "amenity": "kindergarten",
-                "capacity": "76",
+                "capacity": "73",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hammermo FUS barnehage",
                 "no-barnehage:nsrid": "1021741",
                 "operator": "Hammermo Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2058"
+                "id": "node/-4490"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +74,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2056",
+            "id": "node/-4488",
             "properties": {
                 "ADDRESS": "Sigrid Undsets Veg 66, 2624 LILLEHAMMER",
                 "amenity": "kindergarten",
-                "capacity": "35",
+                "capacity": "36",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fagstadlia FUS barnehage avd. Sigrid Undsets Veg",
                 "no-barnehage:nsrid": "1019750",
                 "operator": "Fagstadlia Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-2056"
+                "id": "node/-4488"
             },
             "geometry": {
                 "type": "Point",

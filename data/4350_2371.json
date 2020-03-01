@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-975",
+            "id": "node/-3401",
             "properties": {
                 "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "2000340",
                 "operator": "Vik Utbygging AS",
                 "operator:type": "private",
-                "id": "node/-975"
+                "id": "node/-3401"
             },
             "geometry": {
                 "type": "Point",
@@ -23,18 +23,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-974",
+            "id": "node/-3400",
             "properties": {
                 "ADDRESS": "Tiurkroken 2, 2069 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tiurkroken barnehage",
                 "no-barnehage:nsrid": "1016014",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-974"
+                "id": "node/-3400"
             },
             "geometry": {
                 "type": "Point",
@@ -46,18 +46,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-973",
+            "id": "node/-3399",
             "properties": {
                 "ADDRESS": "Krusesvingen 12, 2068 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "78",
+                "capacity": "80",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sørholtet andelsbarnehage",
                 "no-barnehage:nsrid": "1020717",
                 "operator": "Sørholtet Andelslag Sa",
                 "operator:type": "private",
-                "id": "node/-973"
+                "id": "node/-3399"
             },
             "geometry": {
                 "type": "Point",
@@ -69,11 +69,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-964",
+            "id": "node/-3390",
             "properties": {
                 "ADDRESS": "Oppløpssiden 3, 2069 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "57",
                 "contact:website": "http://nordbyhagen.norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -81,7 +81,7 @@
                 "no-barnehage:nsrid": "1013116",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-964"
+                "id": "node/-3390"
             },
             "geometry": {
                 "type": "Point",
@@ -93,18 +93,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-962",
+            "id": "node/-3388",
             "properties": {
                 "ADDRESS": "Nordbyvegen 15, 2069 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "64",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nordby barnehage",
                 "no-barnehage:nsrid": "1017326",
                 "operator": "Ullensaker kommune",
                 "operator:type": "public",
-                "id": "node/-962"
+                "id": "node/-3388"
             },
             "geometry": {
                 "type": "Point",
@@ -116,18 +116,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-956",
+            "id": "node/-3381",
             "properties": {
                 "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "86",
+                "capacity": "79",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Gystadmarka",
                 "no-barnehage:nsrid": "1015119",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-956"
+                "id": "node/-3381"
             },
             "geometry": {
                 "type": "Point",
@@ -139,11 +139,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-952",
+            "id": "node/-3378",
             "properties": {
                 "ADDRESS": "Rugdevegen 89, 2069 JESSHEIM",
                 "amenity": "kindergarten",
-                "capacity": "79",
+                "capacity": "76",
                 "contact:website": "http://www.laringsverkstedet.no/nordbymoen",
                 "max_age": "5",
                 "min_age": "1",
@@ -151,13 +151,93 @@
                 "no-barnehage:nsrid": "1018417",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-952"
+                "id": "node/-3378"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.18943,
                     60.16273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3367",
+            "properties": {
+                "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
+                "amenity": "kindergarten",
+                "name": "Hjr Utland 8",
+                "no-barnehage:nsrid": "2000625",
+                "operator": "Hjr Utland 8 AS",
+                "operator:type": "private",
+                "id": "node/-3367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18993,
+                    60.153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3366",
+            "properties": {
+                "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
+                "amenity": "kindergarten",
+                "name": "Hjr Utland 7",
+                "no-barnehage:nsrid": "2000626",
+                "operator": "Hjr Utland 7 AS",
+                "operator:type": "private",
+                "id": "node/-3366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18993,
+                    60.153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3365",
+            "properties": {
+                "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
+                "amenity": "kindergarten",
+                "name": "Hjr Utland 6",
+                "no-barnehage:nsrid": "2000627",
+                "operator": "Hjr Utland 6 AS",
+                "operator:type": "private",
+                "id": "node/-3365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18993,
+                    60.153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3358",
+            "properties": {
+                "ADDRESS": "Aktivitetsvegen 2, 2069 JESSHEIM",
+                "amenity": "kindergarten",
+                "name": "Dibber Norge",
+                "no-barnehage:nsrid": "2000624",
+                "operator": "Dibber Norge AS",
+                "operator:type": "private",
+                "id": "node/-3358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18993,
+                    60.153
                 ]
             }
         }

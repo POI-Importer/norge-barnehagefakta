@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4664",
+            "id": "node/-1436",
             "properties": {
                 "ADDRESS": "Haakonsvern 1, 5173 LODDEFJORD",
                 "amenity": "kindergarten",
-                "capacity": "38",
+                "capacity": "44",
                 "contact:website": "http://www.bergen.kommune.no/organisasjonsenhet/barnehage/skarungen",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1016715",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4664"
+                "id": "node/-1436"
             },
             "geometry": {
                 "type": "Point",
@@ -27,35 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4638",
-            "properties": {
-                "ADDRESS": "Kongsmyrveien 45, 5174 MATHOPEN",
-                "amenity": "kindergarten",
-                "capacity": "70",
-                "contact:website": "http://mathopen.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Mathopen barnehage",
-                "no-barnehage:nsrid": "1022229",
-                "operator": "Nye Mathopen barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4638"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.20338,
-                    60.33669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4620",
+            "id": "node/-1392",
             "properties": {
                 "ADDRESS": "Håkonshellaveien 120, 5174 MATHOPEN",
                 "amenity": "kindergarten",
-                "capacity": "78",
+                "capacity": "81",
                 "contact:website": "http://www.myrengårdsbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -63,7 +39,7 @@
                 "no-barnehage:nsrid": "1026081",
                 "operator": "Myren Gårdsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-4620"
+                "id": "node/-1392"
             },
             "geometry": {
                 "type": "Point",
@@ -75,11 +51,35 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4531",
+            "id": "node/-1384",
+            "properties": {
+                "ADDRESS": "Kongsmyrveien 45, 5174 MATHOPEN",
+                "amenity": "kindergarten",
+                "capacity": "70",
+                "contact:website": "http://mathopen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mathopen barnehage",
+                "no-barnehage:nsrid": "1022229",
+                "operator": "Mathopen barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20338,
+                    60.33669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1304",
             "properties": {
                 "ADDRESS": "Håkonshellaveien 125, 5174 MATHOPEN",
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
                 "contact:website": "http://fus.no/haakonshella",
                 "max_age": "5",
                 "min_age": "1",
@@ -87,7 +87,7 @@
                 "no-barnehage:nsrid": "1021412",
                 "operator": "Håkonshella Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4531"
+                "id": "node/-1304"
             },
             "geometry": {
                 "type": "Point",
@@ -99,18 +99,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4467",
+            "id": "node/-1241",
             "properties": {
                 "ADDRESS": "Hillerenveien 17, 5174 MATHOPEN",
                 "amenity": "kindergarten",
-                "capacity": "24",
+                "capacity": "18",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Cultiva barnehage",
                 "no-barnehage:nsrid": "1021623",
                 "operator": "Cultiva barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4467"
+                "id": "node/-1241"
             },
             "geometry": {
                 "type": "Point",

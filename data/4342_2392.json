@@ -3,18 +3,41 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-328",
+            "id": "node/-2761",
+            "properties": {
+                "ADDRESS": "Vestliveien 21, 1415 OPPEGÅRD",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vestliveien barnehage",
+                "no-barnehage:nsrid": "1015992",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.83947,
+                    59.7065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2718",
             "properties": {
                 "ADDRESS": "Eikeliveien 40, 1424 ",
                 "amenity": "kindergarten",
-                "capacity": "74",
+                "capacity": "85",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eikeliveien barnehage",
                 "no-barnehage:nsrid": "2000313",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-328"
+                "id": "node/-2718"
             },
             "geometry": {
                 "type": "Point",

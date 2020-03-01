@@ -3,105 +3,15 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-452",
-            "properties": {
-                "ADDRESS": "Trollåsveien 19, 1414 TROLLÅSEN",
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Trolldalen barnehage avd. Trollåsen",
-                "no-barnehage:nsrid": "1016199",
-                "operator": "Oppegård kommune",
-                "operator:type": "public",
-                "id": "node/-452"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.77816,
-                    59.81726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-451",
-            "properties": {
-                "ADDRESS": "Tømmerveien 16, 1414 TROLLÅSEN",
-                "amenity": "kindergarten",
-                "capacity": "47",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Trolldalen barnehage avd. Vassbonn",
-                "no-barnehage:nsrid": "1012770",
-                "operator": "Oppegård kommune",
-                "operator:type": "public",
-                "id": "node/-451"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.78578,
-                    59.81216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-445",
-            "properties": {
-                "ADDRESS": "Haugastølveien 7, 1410 KOLBOTN",
-                "amenity": "kindergarten",
-                "capacity": "58",
-                "contact:website": "http://www.rikeasen.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rikeåsen barnehage",
-                "no-barnehage:nsrid": "1020337",
-                "operator": "Rikeåsen barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-445"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.80059,
-                    59.81791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-444",
-            "properties": {
-                "ADDRESS": "Ormerudveien 32, 1410 KOLBOTN",
-                "amenity": "kindergarten",
-                "name": "Ormerudveien familiebarnehage avd. Nøtteliten",
-                "no-barnehage:nsrid": "1020676",
-                "operator": "Ormerudvn Familiebarnehage avd Nøtteliten Grethe Brekke",
-                "operator:type": "private",
-                "id": "node/-444"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.80717,
-                    59.81499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-443",
+            "id": "node/-2771",
             "properties": {
                 "ADDRESS": "Strandliveien 1, 1410 KOLBOTN",
                 "amenity": "kindergarten",
-                "name": "Oppegård kommune åpen barnehage",
+                "name": "Åpen barnehage avd. Kolben",
                 "no-barnehage:nsrid": "1015681",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-443"
+                "id": "node/-2771"
             },
             "geometry": {
                 "type": "Point",
@@ -113,7 +23,77 @@
         },
         {
             "type": "Feature",
-            "id": "node/-441",
+            "id": "node/-2757",
+            "properties": {
+                "ADDRESS": "Tømmerveien 16, 1414 TROLLÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "48",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trolldalen barnehage avd. Vassbonn",
+                "no-barnehage:nsrid": "1012770",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78578,
+                    59.81216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2756",
+            "properties": {
+                "ADDRESS": "Trollåsveien 19, 1414 TROLLÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Trolldalen barnehage avd. Trollåsen",
+                "no-barnehage:nsrid": "1016199",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77816,
+                    59.81726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2741",
+            "properties": {
+                "ADDRESS": "Haugastølveien 7, 1410 KOLBOTN",
+                "amenity": "kindergarten",
+                "capacity": "59",
+                "contact:website": "http://www.rikeasen.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rikeåsen barnehage",
+                "no-barnehage:nsrid": "1020337",
+                "operator": "Rikeåsen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80059,
+                    59.81791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2738",
             "properties": {
                 "ADDRESS": "C/o Bolig & Eiendomsutvikling AS Kolbotnveien 14, 1410 KOLBOTN",
                 "amenity": "kindergarten",
@@ -121,7 +101,7 @@
                 "no-barnehage:nsrid": "2000320",
                 "operator": "Myrvoll barnehage AS",
                 "operator:type": "private",
-                "id": "node/-441"
+                "id": "node/-2738"
             },
             "geometry": {
                 "type": "Point",
@@ -133,18 +113,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-440",
+            "id": "node/-2737",
             "properties": {
                 "ADDRESS": "Tømmerveien 2, 1414 TROLLÅSEN",
                 "amenity": "kindergarten",
-                "capacity": "56",
+                "capacity": "57",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Mellomåsen barnehage",
                 "no-barnehage:nsrid": "1012775",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-440"
+                "id": "node/-2737"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +136,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-439",
+            "id": "node/-2733",
             "properties": {
                 "ADDRESS": "Kolbotn Terrasse 2, 1410 KOLBOTN",
                 "amenity": "kindergarten",
@@ -165,9 +145,9 @@
                 "min_age": "1",
                 "name": "Kolbotn barnehage avd. skolebakken",
                 "no-barnehage:nsrid": "1012773",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-439"
+                "id": "node/-2733"
             },
             "geometry": {
                 "type": "Point",
@@ -179,18 +159,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-438",
+            "id": "node/-2732",
             "properties": {
                 "ADDRESS": "Liaveien 25, 1410 KOLBOTN",
                 "amenity": "kindergarten",
-                "capacity": "13",
+                "capacity": "14",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kolbotn barnehage avd. Liaveien",
                 "no-barnehage:nsrid": "1013218",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-438"
+                "id": "node/-2732"
             },
             "geometry": {
                 "type": "Point",
@@ -202,18 +182,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-437",
+            "id": "node/-2731",
             "properties": {
                 "ADDRESS": "Kapellveien 7b, 1410 KOLBOTN",
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "65",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Kapellveien barnehage",
                 "no-barnehage:nsrid": "1016467",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-437"
+                "id": "node/-2731"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +205,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-436",
+            "id": "node/-2730",
+            "properties": {
+                "ADDRESS": "Fartein Valens Vei 39, 1410 KOLBOTN",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ingierkollen barnehage avd. Ingieråsen",
+                "no-barnehage:nsrid": "1025360",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78529,
+                    59.80527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2729",
             "properties": {
                 "ADDRESS": "Jordbærsletta 1, 1410 KOLBOTN",
                 "amenity": "kindergarten",
@@ -234,38 +237,15 @@
                 "min_age": "1",
                 "name": "Ingierkollen barnehage avd. Kantor",
                 "no-barnehage:nsrid": "1016196",
-                "operator": "Oppegård kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-436"
+                "id": "node/-2729"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.79579,
                     59.80626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-435",
-            "properties": {
-                "ADDRESS": "Fartein Valens Vei 39, 1410 KOLBOTN",
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ingierkollen barnehage avd. Ingieråsen",
-                "no-barnehage:nsrid": "1025360",
-                "operator": "Oppegård kommune",
-                "operator:type": "public",
-                "id": "node/-435"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.78529,
-                    59.80527
                 ]
             }
         }

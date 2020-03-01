@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1740",
+            "id": "node/-1103",
             "properties": {
                 "ADDRESS": "Ammerudhellinga 2-4, 0959 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "50",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/tjernveien-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,23 +15,23 @@
                 "no-barnehage:nsrid": "1015631",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1740"
+                "id": "node/-1103"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.86908,
-                    59.96174
+                    10.86906,
+                    59.96176
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-1739",
+            "id": "node/-1102",
             "properties": {
                 "ADDRESS": "Ravnkollbakken 24b, 0971 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "66",
+                "capacity": "67",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/tiurleiken-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1017324",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1739"
+                "id": "node/-1102"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1689",
+            "id": "node/-1052",
             "properties": {
                 "ADDRESS": "Hukenveien 12, 0963 OSLO",
                 "amenity": "kindergarten",
@@ -63,7 +63,7 @@
                 "no-barnehage:nsrid": "1020073",
                 "operator": "Stiftelsen Lillomarka barnehage",
                 "operator:type": "private",
-                "id": "node/-1689"
+                "id": "node/-1052"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1639",
+            "id": "node/-1004",
             "properties": {
                 "ADDRESS": "Arthur Nordlies Vei 7, 0956 OSLO",
                 "amenity": "kindergarten",
@@ -86,7 +86,7 @@
                 "no-barnehage:nsrid": "1020673",
                 "operator": "Skogkanten barnehage AS",
                 "operator:type": "private",
-                "id": "node/-1639"
+                "id": "node/-1004"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1596",
+            "id": "node/-961",
             "properties": {
                 "ADDRESS": "Odvar Solbergs Vei 224, 0973 OSLO",
                 "amenity": "kindergarten",
@@ -108,7 +108,7 @@
                 "no-barnehage:nsrid": "1017445",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1596"
+                "id": "node/-961"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1595",
+            "id": "node/-960",
             "properties": {
                 "ADDRESS": "Romsås Senter 6, 0970 OSLO",
                 "amenity": "kindergarten",
@@ -132,7 +132,7 @@
                 "no-barnehage:nsrid": "1013807",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1595"
+                "id": "node/-960"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +144,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1585",
+            "id": "node/-950",
             "properties": {
                 "ADDRESS": "Ravnkollbakken 71, 0971 OSLO",
                 "amenity": "kindergarten",
@@ -156,7 +156,7 @@
                 "no-barnehage:nsrid": "1017307",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1585"
+                "id": "node/-950"
             },
             "geometry": {
                 "type": "Point",
@@ -168,19 +168,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1584",
+            "id": "node/-949",
             "properties": {
                 "ADDRESS": "Grorudbakken 35, 0962 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "21",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/rasmusbakken-barnehage/",
-                "max_age": "2",
+                "max_age": "5",
                 "min_age": "1",
                 "name": "Rasmusbakken barnehage",
                 "no-barnehage:nsrid": "1017444",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1584"
+                "id": "node/-949"
             },
             "geometry": {
                 "type": "Point",
@@ -192,17 +192,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1318",
+            "id": "node/-686",
             "properties": {
                 "ADDRESS": "Sverre Iversens Vei 19, 0972 OSLO",
                 "amenity": "kindergarten",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Humlebakken barnehage",
+                "name": "Humlebakken familiehage åpen barnehage",
                 "no-barnehage:nsrid": "1017428",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1318"
+                "id": "node/-686"
             },
             "geometry": {
                 "type": "Point",
@@ -214,19 +212,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1316",
+            "id": "node/-684",
             "properties": {
                 "ADDRESS": "Lilloseterveien 43, 0957 OSLO",
                 "amenity": "kindergarten",
                 "capacity": "18",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/huken-naturbarnehage/",
                 "max_age": "5",
-                "min_age": "3",
+                "min_age": "1",
                 "name": "Huken naturbarnehage",
                 "no-barnehage:nsrid": "1015757",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1316"
+                "id": "node/-684"
             },
             "geometry": {
                 "type": "Point",
@@ -238,11 +236,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1239",
+            "id": "node/-607",
             "properties": {
                 "ADDRESS": "Ammerudhellinga 51, 0959 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "107",
+                "capacity": "89",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/grorud-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -250,7 +248,7 @@
                 "no-barnehage:nsrid": "1014224",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1239"
+                "id": "node/-607"
             },
             "geometry": {
                 "type": "Point",
@@ -262,18 +260,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1237",
+            "id": "node/-605",
             "properties": {
                 "ADDRESS": "Apalløkkveien 35, 0956 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "10",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Grei korttidsbarnehage",
                 "no-barnehage:nsrid": "1015630",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1237"
+                "id": "node/-605"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +282,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1184",
+            "id": "node/-552",
             "properties": {
                 "ADDRESS": "Ammerudhellinga 47 B, 0959 OSLO",
                 "amenity": "kindergarten",
@@ -293,7 +290,7 @@
                 "no-barnehage:nsrid": "1015629",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1184"
+                "id": "node/-552"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +302,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1051",
+            "id": "node/-417",
             "properties": {
                 "ADDRESS": "Ammerudhellinga 49, 0959 OSLO",
                 "amenity": "kindergarten",
@@ -317,7 +314,7 @@
                 "no-barnehage:nsrid": "1017278",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1051"
+                "id": "node/-417"
             },
             "geometry": {
                 "type": "Point",
@@ -329,11 +326,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1050",
+            "id": "node/-416",
             "properties": {
                 "ADDRESS": "Lilloseterveien 43, 0957 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "108",
+                "capacity": "104",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/ammerudkollen-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -341,7 +338,7 @@
                 "no-barnehage:nsrid": "1025410",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1050"
+                "id": "node/-416"
             },
             "geometry": {
                 "type": "Point",
@@ -353,11 +350,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1049",
+            "id": "node/-415",
             "properties": {
                 "ADDRESS": "Ammerudgrenda 327b, 0960 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "54",
+                "capacity": "53",
                 "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/bydel-grorud/ammerudgrenda-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -365,7 +362,7 @@
                 "no-barnehage:nsrid": "1017277",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1049"
+                "id": "node/-415"
             },
             "geometry": {
                 "type": "Point",
@@ -377,18 +374,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1048",
+            "id": "node/-414",
             "properties": {
                 "ADDRESS": "Ammerudveien 47, 0958 OSLO",
                 "amenity": "kindergarten",
-                "capacity": "114",
+                "capacity": "126",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ammerudenga barnehage",
                 "no-barnehage:nsrid": "1016935",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1048"
+                "id": "node/-414"
             },
             "geometry": {
                 "type": "Point",

@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5962",
+            "id": "node/-4177",
             "properties": {
                 "ADDRESS": "Nordøyvegen 119, 9018 TROMSØ",
                 "amenity": "kindergarten",
-                "capacity": "21",
+                "capacity": "9",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Varden barnehage",
                 "no-barnehage:nsrid": "1015581",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5962"
+                "id": "node/-4177"
             },
             "geometry": {
                 "type": "Point",
@@ -26,42 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5961",
-            "properties": {
-                "ADDRESS": "Utsikten 57b, 9018 TROMSØ",
-                "amenity": "kindergarten",
-                "capacity": "13",
-                "contact:website": "http://utsikten.tromso.barnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Utsikten barnehage",
-                "no-barnehage:nsrid": "1019757",
-                "operator": "Utsikten barnehage Sa",
-                "operator:type": "private",
-                "id": "node/-5961"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.00269,
-                    69.69439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5940",
+            "id": "node/-4156",
             "properties": {
                 "ADDRESS": "Nordøyvegen 101, 9018 TROMSØ",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "53",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stakkevollan barnehage",
                 "no-barnehage:nsrid": "1012719",
                 "operator": "Tromsø kommune",
                 "operator:type": "public",
-                "id": "node/-5940"
+                "id": "node/-4156"
             },
             "geometry": {
                 "type": "Point",
@@ -73,11 +49,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5934",
+            "id": "node/-4150",
             "properties": {
                 "ADDRESS": "Skattøra 151, 9018 TROMSØ",
                 "amenity": "kindergarten",
-                "capacity": "53",
+                "capacity": "54",
                 "contact:website": "http://www.soldagen.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -85,13 +61,37 @@
                 "no-barnehage:nsrid": "1020026",
                 "operator": "Soldagen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5934"
+                "id": "node/-4150"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     19.0064,
                     69.69774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4142",
+            "properties": {
+                "ADDRESS": "Nordøyvegen 119, 9018 TROMSØ",
+                "amenity": "kindergarten",
+                "capacity": "15",
+                "contact:website": "http://utsikten.tromso.barnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rundvannet barnehage",
+                "no-barnehage:nsrid": "1019757",
+                "operator": "Rundvannet barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-4142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99271,
+                    69.69401
                 ]
             }
         }

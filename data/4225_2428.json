@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4306",
+            "id": "node/-3980",
             "properties": {
                 "ADDRESS": "Åsenvegen 100, 4055 SOLA",
                 "amenity": "kindergarten",
-                "capacity": "175",
+                "capacity": "171",
                 "contact:website": "http://www.tchnorway.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1019733",
                 "operator": "The Childrens House",
                 "operator:type": "private",
-                "id": "node/-4306"
+                "id": "node/-3980"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4281",
+            "id": "node/-3955",
             "properties": {
                 "ADDRESS": "Varabergtunet 2, 4051 SOLA",
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "56",
                 "contact:website": "http://www.eventyrberget.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1020699",
                 "operator": "Eventyrberget Foreldrelagsbarnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4281"
+                "id": "node/-3955"
             },
             "geometry": {
                 "type": "Point",
@@ -51,19 +51,42 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4090",
+            "id": "node/-3858",
+            "properties": {
+                "ADDRESS": "Svanholmen 8, 4313 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "86",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Svanholmen Kanvas-barnehage",
+                "no-barnehage:nsrid": "1016069",
+                "operator": "Stiftelsen Kanvas",
+                "operator:type": "private",
+                "id": "node/-3858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70915,
+                    58.89014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3685",
             "properties": {
                 "ADDRESS": "Kontorveien 9, 4033 STAVANGER",
                 "amenity": "kindergarten",
                 "capacity": "90",
-                "contact:website": "http://laringsverkstedet.no/barnehage/forus",
+                "contact:website": "http://laringsverkstedet.no/barnehage/laeringsverkstedet-forus",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Forus",
                 "no-barnehage:nsrid": "1020190",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4090"
+                "id": "node/-3685"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4060",
+            "id": "node/-3649",
             "properties": {
                 "ADDRESS": "Lagerveien 21, 4033 STAVANGER",
                 "amenity": "kindergarten",
@@ -83,36 +106,13 @@
                 "no-barnehage:nsrid": "1016495",
                 "operator": "Stiftelsen Kristen Tjeneste",
                 "operator:type": "private",
-                "id": "node/-4060"
+                "id": "node/-3649"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.70353,
                     58.90066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4010",
-            "properties": {
-                "ADDRESS": "Svanholmen 8, 4313 SANDNES",
-                "amenity": "kindergarten",
-                "capacity": "81",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Svanholmen Kanvas-barnehage",
-                "no-barnehage:nsrid": "1016069",
-                "operator": "Stiftelsen Kanvas",
-                "operator:type": "private",
-                "id": "node/-4010"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.70915,
-                    58.89014
                 ]
             }
         }

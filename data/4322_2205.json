@@ -3,11 +3,33 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3687",
+            "id": "node/-2548",
+            "properties": {
+                "ADDRESS": "Furuveien 2, 7100 RISSA",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Årnseth familiebarnehage",
+                "no-barnehage:nsrid": "1020663",
+                "operator": "Årnseth Familiebarnehage Marian Langsæter",
+                "operator:type": "private",
+                "id": "node/-2548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95564,
+                    63.59258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2539",
             "properties": {
                 "ADDRESS": "Høgåsmyra 20, 7100 RISSA",
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "70",
                 "contact:website": "http://www.indrefosen.kommune.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +37,7 @@
                 "no-barnehage:nsrid": "1018233",
                 "operator": "Indre Fosen kommune",
                 "operator:type": "public",
-                "id": "node/-3687"
+                "id": "node/-2539"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +49,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3686",
+            "id": "node/-2538",
             "properties": {
                 "ADDRESS": "Folkehøgskoleveien 24, 7100 RISSA",
                 "amenity": "kindergarten",
-                "capacity": "24",
+                "capacity": "29",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Fosnaheim naturbarnehage",
                 "no-barnehage:nsrid": "1019816",
                 "operator": "Fosnaheim Barnehagelag Sa",
                 "operator:type": "private",
-                "id": "node/-3686"
+                "id": "node/-2538"
             },
             "geometry": {
                 "type": "Point",

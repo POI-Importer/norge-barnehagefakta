@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-585",
+            "id": "node/-2966",
             "properties": {
                 "ADDRESS": "Haganjordet 2, 1351 RUD",
                 "amenity": "kindergarten",
-                "capacity": "63",
+                "capacity": "65",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Piruetten Kanvas-barnehage",
                 "no-barnehage:nsrid": "1017704",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-585"
+                "id": "node/-2966"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-522",
+            "id": "node/-2903",
             "properties": {
                 "ADDRESS": "Ringeriksveien 188a, 1339 VØYENENGA",
                 "amenity": "kindergarten",
-                "capacity": "171",
+                "capacity": "170",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Hornienga FUS barnehage",
                 "no-barnehage:nsrid": "1021876",
                 "operator": "Hornienga Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-522"
+                "id": "node/-2903"
             },
             "geometry": {
                 "type": "Point",
@@ -49,18 +49,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-504",
+            "id": "node/-2885",
             "properties": {
                 "ADDRESS": "Skytten 24, 1348 RYKKINN",
                 "amenity": "kindergarten",
-                "capacity": "90",
+                "capacity": "97",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gommerud barnehage",
                 "no-barnehage:nsrid": "1012644",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-504"
+                "id": "node/-2885"
             },
             "geometry": {
                 "type": "Point",
@@ -72,18 +72,17 @@
         },
         {
             "type": "Feature",
-            "id": "node/-503",
+            "id": "node/-2884",
             "properties": {
                 "ADDRESS": "Paal Bergs Vei 126, 1348 RYKKINN",
                 "amenity": "kindergarten",
-                "capacity": "18",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "Gommerud barnehage avd. Idrett",
                 "no-barnehage:nsrid": "1017893",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-503"
+                "id": "node/-2884"
             },
             "geometry": {
                 "type": "Point",
@@ -95,7 +94,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-502",
+            "id": "node/-2883",
             "properties": {
                 "ADDRESS": "Steinsoppgrenda 50, 1352 KOLSÅS",
                 "amenity": "kindergarten",
@@ -106,7 +105,7 @@
                 "no-barnehage:nsrid": "1018499",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-502"
+                "id": "node/-2883"
             },
             "geometry": {
                 "type": "Point",
@@ -118,64 +117,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-501",
-            "properties": {
-                "ADDRESS": "Åsbråtan 75, 1352 KOLSÅS",
-                "amenity": "kindergarten",
-                "capacity": "44",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Glitre barnehage avd. Løkenlia",
-                "no-barnehage:nsrid": "1012661",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-501"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.50123,
-                    59.92958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-500",
-            "properties": {
-                "ADDRESS": "Langleiken 6, 1348 RYKKINN",
-                "amenity": "kindergarten",
-                "capacity": "53",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Glitre barnehage avd. Langeleiken",
-                "no-barnehage:nsrid": "1012658",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-500"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.49205,
-                    59.92785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-499",
+            "id": "node/-2882",
             "properties": {
                 "ADDRESS": "Belsetveien 84, 1348 RYKKINN",
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "51",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Glitre barnehage avd. Bakkeplassen",
                 "no-barnehage:nsrid": "1012654",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-499"
+                "id": "node/-2882"
             },
             "geometry": {
                 "type": "Point",
@@ -187,18 +140,64 @@
         },
         {
             "type": "Feature",
-            "id": "node/-471",
+            "id": "node/-2881",
+            "properties": {
+                "ADDRESS": "Åsbråtan 75, 1352 KOLSÅS",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Glitre barnehage avd. Løkenlia",
+                "no-barnehage:nsrid": "1012661",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-2881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50123,
+                    59.92958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2880",
+            "properties": {
+                "ADDRESS": "Langleiken 6, 1348 RYKKINN",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Glitre barnehage avd. Langeleiken",
+                "no-barnehage:nsrid": "1012658",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-2880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49205,
+                    59.92785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2853",
             "properties": {
                 "ADDRESS": "Friggs Vei 20, 1349 RYKKINN",
                 "amenity": "kindergarten",
-                "capacity": "98",
+                "capacity": "99",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Berger barnehage",
                 "no-barnehage:nsrid": "1012648",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-471"
+                "id": "node/-2853"
             },
             "geometry": {
                 "type": "Point",
@@ -210,7 +209,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-470",
+            "id": "node/-2852",
             "properties": {
                 "ADDRESS": "Skytten 8, 1348 RYKKINN",
                 "amenity": "kindergarten",
@@ -220,7 +219,7 @@
                 "no-barnehage:nsrid": "1012643",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-470"
+                "id": "node/-2852"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +231,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-469",
+            "id": "node/-2851",
             "properties": {
                 "ADDRESS": "Belsetveien 84, 1348 RYKKINN",
                 "amenity": "kindergarten",
@@ -242,7 +241,7 @@
                 "no-barnehage:nsrid": "1012642",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-469"
+                "id": "node/-2851"
             },
             "geometry": {
                 "type": "Point",

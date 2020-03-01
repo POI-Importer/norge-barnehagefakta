@@ -3,18 +3,41 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4940",
+            "id": "node/-1751",
+            "properties": {
+                "ADDRESS": "Hoplandsvegen 141, 5919 FREKHAUG",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lita-god familiebarnehage",
+                "no-barnehage:nsrid": "1014084",
+                "operator": "Kooij Van Der Liv Hopland",
+                "operator:type": "private",
+                "id": "node/-1751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17424,
+                    60.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1739",
             "properties": {
                 "ADDRESS": "Melandsvegen 38, 5919 FREKHAUG",
                 "amenity": "kindergarten",
-                "capacity": "113",
+                "capacity": "101",
+                "contact:website": "http://www.blaklokka.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Blåklokka barnehage",
                 "no-barnehage:nsrid": "1021577",
                 "operator": "Blåklokka barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4940"
+                "id": "node/-1739"
             },
             "geometry": {
                 "type": "Point",

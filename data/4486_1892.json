@@ -3,24 +3,48 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-6044",
+            "id": "node/-4333",
             "properties": {
                 "ADDRESS": "Mølnelva 10, 9392 STONGLANDSEIDET",
                 "amenity": "kindergarten",
-                "capacity": "26",
+                "capacity": "22",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Stonglandet barnehage",
+                "name": "Stonglangdet barnehage",
                 "no-barnehage:nsrid": "1013969",
-                "operator": "Tranøy kommune",
+                "operator": "Senja kommune",
                 "operator:type": "public",
-                "id": "node/-6044"
+                "id": "node/-4333"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     17.16302,
                     69.08523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4327",
+            "properties": {
+                "ADDRESS": "Helsesenterveien 12, 9300 FINNSNES",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "contact:website": "http://nlm-heimly.barnehage.no/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Heimly barnehage",
+                "no-barnehage:nsrid": "1013291",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17288,
+                    69.08533
                 ]
             }
         }

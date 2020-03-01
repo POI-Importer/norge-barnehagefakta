@@ -3,61 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3553",
-            "properties": {
-                "ADDRESS": "Hallsetvegen 8, 7540 KLÆBU",
-                "amenity": "kindergarten",
-                "capacity": "46",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sletten barnehage",
-                "no-barnehage:nsrid": "1017667",
-                "operator": "Klæbu kommune",
-                "operator:type": "public",
-                "id": "node/-3553"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48896,
-                    63.30032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3552",
-            "properties": {
-                "ADDRESS": "Hallsetvegen 6, 7540 KLÆBU",
-                "amenity": "kindergarten",
-                "name": "Sletten barnehage avd. Grindvollen",
-                "no-barnehage:nsrid": "1014741",
-                "operator": "Klæbu kommune",
-                "operator:type": "public",
-                "id": "node/-3552"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48846,
-                    63.29943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3551",
+            "id": "node/-2095",
             "properties": {
                 "ADDRESS": "Rydlandvegen 6, 7540 KLÆBU",
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "25",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Sletten barnehage avd. Rydland",
                 "no-barnehage:nsrid": "1012526",
-                "operator": "Klæbu kommune",
+                "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3551"
+                "id": "node/-2095"
             },
             "geometry": {
                 "type": "Point",
@@ -69,18 +26,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3550",
+            "id": "node/-2094",
+            "properties": {
+                "ADDRESS": "Hallsetvegen 8, 7540 KLÆBU",
+                "amenity": "kindergarten",
+                "capacity": "47",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Sletten barnehage",
+                "no-barnehage:nsrid": "1017667",
+                "operator": "Trondheim kommune",
+                "operator:type": "public",
+                "id": "node/-2094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.48896,
+                    63.30032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1994",
             "properties": {
                 "ADDRESS": "Lauvåsvegen 4, 7540 KLÆBU",
                 "amenity": "kindergarten",
-                "capacity": "67",
+                "capacity": "69",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Knærten FUS friluftsbarnehage",
                 "no-barnehage:nsrid": "1021993",
                 "operator": "Knærten Fus Friluftsbarnehage AS",
                 "operator:type": "private",
-                "id": "node/-3550"
+                "id": "node/-1994"
             },
             "geometry": {
                 "type": "Point",
@@ -92,11 +72,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3549",
+            "id": "node/-1992",
             "properties": {
                 "ADDRESS": "Langelandvegen 9, 7540 KLÆBU",
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "38",
                 "contact:website": "http://www.klæbubarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -104,7 +84,7 @@
                 "no-barnehage:nsrid": "1015001",
                 "operator": "Klæbu barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3549"
+                "id": "node/-1992"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3547",
+            "id": "node/-1972",
             "properties": {
                 "ADDRESS": "Hesteskoen 6, 7540 KLÆBU",
                 "amenity": "kindergarten",
@@ -125,9 +105,9 @@
                 "min_age": "1",
                 "name": "Hesteskoen barnehage",
                 "no-barnehage:nsrid": "1018520",
-                "operator": "Klæbu kommune",
+                "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-3547"
+                "id": "node/-1972"
             },
             "geometry": {
                 "type": "Point",

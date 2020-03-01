@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4288",
+            "id": "node/-3962",
             "properties": {
                 "ADDRESS": "Jåsundtoppen 4, 4058 TANANGER",
                 "amenity": "kindergarten",
-                "capacity": "97",
+                "capacity": "109",
                 "contact:website": "http://www.laringsverkstedet.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1026626",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4288"
+                "id": "node/-3962"
             },
             "geometry": {
                 "type": "Point",
@@ -27,11 +27,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4131",
+            "id": "node/-3733",
             "properties": {
                 "ADDRESS": "Sundelia 26, 4048 HAFRSFJORD",
                 "amenity": "kindergarten",
-                "capacity": "103",
+                "capacity": "102",
                 "contact:website": "http://www.minbarnehage.no/sundelia",
                 "max_age": "5",
                 "min_age": "1",
@@ -39,7 +39,7 @@
                 "no-barnehage:nsrid": "1017773",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4131"
+                "id": "node/-3733"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4118",
+            "id": "node/-3720",
             "properties": {
                 "ADDRESS": "Storlomveien 11, 4049 HAFRSFJORD",
                 "amenity": "kindergarten",
@@ -59,7 +59,7 @@
                 "no-barnehage:nsrid": "2000351",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4118"
+                "id": "node/-3720"
             },
             "geometry": {
                 "type": "Point",
@@ -71,18 +71,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4102",
+            "id": "node/-3716",
+            "properties": {
+                "ADDRESS": "Skredbakka 55, 4048 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Skredbakka barnehage",
+                "no-barnehage:nsrid": "1012900",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.61573,
+                    58.96093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3698",
             "properties": {
                 "ADDRESS": "Traneveien 16b, 4049 HAFRSFJORD",
                 "amenity": "kindergarten",
-                "capacity": "37",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "NLM barnehagene avd. Solheim barnehage",
                 "no-barnehage:nsrid": "1016189",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-4102"
+                "id": "node/-3698"
             },
             "geometry": {
                 "type": "Point",
@@ -94,11 +117,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4097",
+            "id": "node/-3693",
             "properties": {
                 "ADDRESS": "Donevikveien 27, 4048 HAFRSFJORD",
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "63",
                 "contact:website": "http://mjughaugskogen.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -106,7 +129,7 @@
                 "no-barnehage:nsrid": "1020312",
                 "operator": "Mjughaugskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-4097"
+                "id": "node/-3693"
             },
             "geometry": {
                 "type": "Point",
@@ -118,88 +141,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4086",
-            "properties": {
-                "ADDRESS": "Alkeveien 8, 4049 HAFRSFJORD",
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvernevik barnehage",
-                "no-barnehage:nsrid": "1012922",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4086"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.60527,
-                    58.9707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4082",
-            "properties": {
-                "ADDRESS": "Sundeveien 25c, 4049 HAFRSFJORD",
-                "amenity": "kindergarten",
-                "capacity": "62",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kløvereng barnehage avd. Sunde",
-                "no-barnehage:nsrid": "1013464",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4082"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.61959,
-                    58.96328
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4070",
-            "properties": {
-                "ADDRESS": "Kvernevik Ring 40, 4049 HAFRSFJORD",
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "contact:website": "http://www.minbarnehage.no/kvernhav",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Havglimt barnehage",
-                "no-barnehage:nsrid": "1016071",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4070"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.60759,
-                    58.97264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4024",
+            "id": "node/-3689",
             "properties": {
                 "ADDRESS": "Malthaugsvingen 11, 4046 HAFRSFJORD",
                 "amenity": "kindergarten",
                 "capacity": "32",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Aubeberget barnehage avd. Malthaug",
+                "name": "Malthaug barnehage",
                 "no-barnehage:nsrid": "1012904",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4024"
+                "id": "node/-3689"
             },
             "geometry": {
                 "type": "Point",
@@ -211,24 +164,71 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4023",
+            "id": "node/-3681",
             "properties": {
-                "ADDRESS": "Skredbakka 55, 4048 HAFRSFJORD",
+                "ADDRESS": "Alkeveien 8, 4049 HAFRSFJORD",
                 "amenity": "kindergarten",
-                "capacity": "51",
+                "capacity": "30",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Aubeberget barnehage avd. Skredbakka",
-                "no-barnehage:nsrid": "1012900",
+                "name": "Kvernevik barnehage",
+                "no-barnehage:nsrid": "1012922",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4023"
+                "id": "node/-3681"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.61573,
-                    58.96093
+                    5.60527,
+                    58.9707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3677",
+            "properties": {
+                "ADDRESS": "Sundeveien 25c, 4049 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kløvereng barnehage avd. Sunde",
+                "no-barnehage:nsrid": "1013464",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.61959,
+                    58.96328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3664",
+            "properties": {
+                "ADDRESS": "Kvernevik Ring 40, 4049 HAFRSFJORD",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "contact:website": "http://www.minbarnehage.no/kvernhav",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Havglimt barnehage",
+                "no-barnehage:nsrid": "1016071",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60759,
+                    58.97264
                 ]
             }
         }

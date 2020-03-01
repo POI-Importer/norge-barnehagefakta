@@ -3,30 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-285",
-            "properties": {
-                "ADDRESS": "Gaupefaret 10, 1528 MOSS",
-                "amenity": "kindergarten",
-                "capacity": "97",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Øreåsen barnehage",
-                "no-barnehage:nsrid": "1017521",
-                "operator": "Rygge kommune",
-                "operator:type": "public",
-                "id": "node/-285"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.68938,
-                    59.42092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-282",
+            "id": "node/-2462",
             "properties": {
                 "ADDRESS": "Kantarellstien 58, 1529 MOSS",
                 "amenity": "kindergarten",
@@ -35,9 +12,9 @@
                 "min_age": "1",
                 "name": "Solliskogen barnehage",
                 "no-barnehage:nsrid": "1017520",
-                "operator": "Rygge kommune",
+                "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-282"
+                "id": "node/-2462"
             },
             "geometry": {
                 "type": "Point",
@@ -49,15 +26,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-280",
+            "id": "node/-2452",
             "properties": {
                 "ADDRESS": "Øreåsveien 9, 1528 MOSS",
                 "amenity": "kindergarten",
-                "name": "Rygge kommune åpen barnehage",
+                "name": "Moss kommune åpen barnehage",
                 "no-barnehage:nsrid": "1014136",
-                "operator": "Rygge kommune",
+                "operator": "Moss kommune",
                 "operator:type": "public",
-                "id": "node/-280"
+                "id": "node/-2452"
             },
             "geometry": {
                 "type": "Point",
@@ -69,18 +46,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-279",
+            "id": "node/-2447",
             "properties": {
                 "ADDRESS": "Revebjelleveien 35, 1529 MOSS",
                 "amenity": "kindergarten",
-                "capacity": "82",
+                "capacity": "80",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Heimdalenga",
                 "no-barnehage:nsrid": "1020799",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-279"
+                "id": "node/-2447"
             },
             "geometry": {
                 "type": "Point",
@@ -92,18 +69,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-276",
+            "id": "node/-2444",
             "properties": {
                 "ADDRESS": "Gartnerveien 25, 1526 MOSS",
                 "amenity": "kindergarten",
-                "capacity": "85",
+                "capacity": "81",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Gubbeskogen FUS barnehage",
                 "no-barnehage:nsrid": "1021311",
                 "operator": "Gubbeskogen Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-276"
+                "id": "node/-2444"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +92,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-273",
+            "id": "node/-2441",
+            "properties": {
+                "ADDRESS": "Gaupefaret 10, 1528 MOSS",
+                "amenity": "kindergarten",
+                "capacity": "92",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Gaupefaret barnehage",
+                "no-barnehage:nsrid": "1017521",
+                "operator": "Moss kommune",
+                "operator:type": "public",
+                "id": "node/-2441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68938,
+                    59.42092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2436",
             "properties": {
                 "ADDRESS": "Bredsandkroken 24, 1570 DILLING",
                 "amenity": "kindergarten",
@@ -126,7 +126,7 @@
                 "no-barnehage:nsrid": "1020454",
                 "operator": "Stiftelsen barnehage Rygge",
                 "operator:type": "private",
-                "id": "node/-273"
+                "id": "node/-2436"
             },
             "geometry": {
                 "type": "Point",

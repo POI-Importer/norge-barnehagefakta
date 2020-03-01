@@ -3,42 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1497",
-            "properties": {
-                "ADDRESS": "Munkebekken 292, 1061 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "151",
-                "contact:website": "http://laringsverkstedet.no/barnehage/munkebekken-idrettsbarnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Munkebekken idrettsbarnehage",
-                "no-barnehage:nsrid": "1022340",
-                "operator": "Munkebekken Idrettsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-1497"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.91435,
-                    59.93117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-841",
+            "id": "node/-3231",
             "properties": {
                 "ADDRESS": "Brunskrubbveien 2, 1476 RASTA",
                 "amenity": "kindergarten",
-                "capacity": "61",
+                "capacity": "62",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vallerud barnehage",
                 "no-barnehage:nsrid": "1017541",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-841"
+                "id": "node/-3231"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-839",
+            "id": "node/-3229",
             "properties": {
                 "ADDRESS": "Vestadveien 29, 1476 RASTA",
                 "amenity": "kindergarten",
@@ -61,7 +37,7 @@
                 "no-barnehage:nsrid": "1020616",
                 "operator": "Takt og Tone Unni Sørenbye",
                 "operator:type": "private",
-                "id": "node/-839"
+                "id": "node/-3229"
             },
             "geometry": {
                 "type": "Point",
@@ -73,18 +49,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-837",
+            "id": "node/-3227",
             "properties": {
                 "ADDRESS": "Kantarellveien 20, 1476 RASTA",
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "50",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiftelsen Idavollen Steinerbarnehage",
                 "no-barnehage:nsrid": "1019764",
                 "operator": "Stiftelsen Idavollen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-837"
+                "id": "node/-3227"
             },
             "geometry": {
                 "type": "Point",
@@ -96,11 +72,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-831",
+            "id": "node/-3221",
             "properties": {
                 "ADDRESS": "Industriveien 7 A, 1461 ",
                 "amenity": "kindergarten",
-                "capacity": "46",
+                "capacity": "42",
                 "contact:website": "http://regnbuenbarnehage.net",
                 "max_age": "5",
                 "min_age": "1",
@@ -108,7 +84,7 @@
                 "no-barnehage:nsrid": "1022057",
                 "operator": "Regnbuen barnehage Lørenskog",
                 "operator:type": "private",
-                "id": "node/-831"
+                "id": "node/-3221"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-830",
+            "id": "node/-3220",
             "properties": {
                 "ADDRESS": "Gamleveien 44, 1461 ",
                 "amenity": "kindergarten",
@@ -131,7 +107,7 @@
                 "no-barnehage:nsrid": "1017539",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-830"
+                "id": "node/-3220"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +119,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-818",
+            "id": "node/-3208",
             "properties": {
                 "ADDRESS": "Lysåskroken 38, 1461 ",
                 "amenity": "kindergarten",
@@ -154,7 +130,7 @@
                 "no-barnehage:nsrid": "1020274",
                 "operator": "Knerten Familiebarnehage Monika Roger",
                 "operator:type": "private",
-                "id": "node/-818"
+                "id": "node/-3208"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +142,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-813",
+            "id": "node/-3203",
             "properties": {
                 "ADDRESS": "Sønnaveien 63, 1476 RASTA",
                 "amenity": "kindergarten",
@@ -176,7 +152,7 @@
                 "no-barnehage:nsrid": "1020355",
                 "operator": "Hundremeterskogen Familiebarnehage avd Nasse Nøff Marianne O Knardahl",
                 "operator:type": "private",
-                "id": "node/-813"
+                "id": "node/-3203"
             },
             "geometry": {
                 "type": "Point",
@@ -188,24 +164,48 @@
         },
         {
             "type": "Feature",
-            "id": "node/-804",
+            "id": "node/-3194",
             "properties": {
                 "ADDRESS": "Gamleveien 46, 1461 ",
                 "amenity": "kindergarten",
-                "capacity": "65",
+                "capacity": "68",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Eventyrstua barnehage",
                 "no-barnehage:nsrid": "1017841",
                 "operator": "Lørenskog kommune",
                 "operator:type": "public",
-                "id": "node/-804"
+                "id": "node/-3194"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.93947,
                     59.92303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-865",
+            "properties": {
+                "ADDRESS": "Munkebekken 292, 1061 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "154",
+                "contact:website": "http://laringsverkstedet.no/barnehage/munkebekken-idrettsbarnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Munkebekken idrettsbarnehage",
+                "no-barnehage:nsrid": "1022340",
+                "operator": "Munkebekken Idrettsbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91435,
+                    59.93117
                 ]
             }
         }

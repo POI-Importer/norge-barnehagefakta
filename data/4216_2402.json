@@ -3,18 +3,41 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4722",
+            "id": "node/-3774",
+            "properties": {
+                "ADDRESS": "Tittelsnesvegen 332b, 5514 HAUGESUND",
+                "amenity": "kindergarten",
+                "capacity": "30",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nbu's bondegårdsbarnehage",
+                "no-barnehage:nsrid": "1020241",
+                "operator": "Nordbygdenes Ungdomslag",
+                "operator:type": "private",
+                "id": "node/-3774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28452,
+                    59.46906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1511",
             "properties": {
                 "ADDRESS": "Rophusvegen 8, 5550 SVEIO",
                 "amenity": "kindergarten",
-                "capacity": "43",
+                "capacity": "36",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Læringsverkstedet barnehage avd. Ekrene natur og gårdsbarnehage",
                 "no-barnehage:nsrid": "1021167",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-4722"
+                "id": "node/-1511"
             },
             "geometry": {
                 "type": "Point",
@@ -26,11 +49,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4718",
+            "id": "node/-1507",
             "properties": {
                 "ADDRESS": "Svehaugen 10, 5550 SVEIO",
                 "amenity": "kindergarten",
-                "capacity": "76",
+                "capacity": "74",
                 "contact:website": "http://www.espira.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -38,36 +61,13 @@
                 "no-barnehage:nsrid": "1022222",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-4718"
+                "id": "node/-1507"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.31644,
                     59.48676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4168",
-            "properties": {
-                "ADDRESS": "Tittelsnesvegen 332b, 5514 HAUGESUND",
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nbu's bondegårdsbarnehage",
-                "no-barnehage:nsrid": "1020241",
-                "operator": "Nordbygdenes Ungdomslag",
-                "operator:type": "private",
-                "id": "node/-4168"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28452,
-                    59.46906
                 ]
             }
         }

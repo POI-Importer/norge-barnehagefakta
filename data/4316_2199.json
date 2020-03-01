@@ -3,11 +3,11 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4194",
+            "id": "node/-2570",
             "properties": {
                 "ADDRESS": "Ryggaveien 30, 7140 OPPHAUG",
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "31",
                 "contact:website": "http://www.marihona.barnehageside.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -15,13 +15,36 @@
                 "no-barnehage:nsrid": "1021660",
                 "operator": "Marihøna Musikk- og Friluftsbarnehage Ann-Elisabeth Svines Hustad",
                 "operator:type": "private",
-                "id": "node/-4194"
+                "id": "node/-2570"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.67554,
                     63.72282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2566",
+            "properties": {
+                "ADDRESS": "Lerbern 35, 7130 BREKSTAD",
+                "amenity": "kindergarten",
+                "capacity": "115",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Futura barnehage",
+                "no-barnehage:nsrid": "1016113",
+                "operator": "Ørland kommune",
+                "operator:type": "public",
+                "id": "node/-2566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66834,
+                    63.71347
                 ]
             }
         }

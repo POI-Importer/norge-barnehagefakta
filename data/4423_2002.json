@@ -3,18 +3,38 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5541",
+            "id": "node/-5885",
+            "properties": {
+                "ADDRESS": "Leif Aunes Vei 1, 8012 BODØ",
+                "amenity": "kindergarten",
+                "name": "Norlandia Solenga naturbarnehage",
+                "no-barnehage:nsrid": "2000612",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-5885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41159,
+                    67.29833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5864",
             "properties": {
                 "ADDRESS": "Leif Aunes Vei 3, 8012 BODØ",
                 "amenity": "kindergarten",
-                "capacity": "19",
+                "capacity": "20",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Linken barnehage",
                 "no-barnehage:nsrid": "1016124",
                 "operator": "Bodø kommune",
                 "operator:type": "public",
-                "id": "node/-5541"
+                "id": "node/-5864"
             },
             "geometry": {
                 "type": "Point",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-640",
+            "id": "node/-3019",
             "properties": {
                 "ADDRESS": "Edelgranveien 70, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
@@ -13,7 +13,7 @@
                 "no-barnehage:nsrid": "1013408",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-640"
+                "id": "node/-3019"
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +25,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-639",
+            "id": "node/-3018",
             "properties": {
                 "ADDRESS": "Åsterudveien 27, 1344 HASLUM",
                 "amenity": "kindergarten",
@@ -36,7 +36,7 @@
                 "no-barnehage:nsrid": "1012663",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-639"
+                "id": "node/-3018"
             },
             "geometry": {
                 "type": "Point",
@@ -48,41 +48,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-625",
+            "id": "node/-3004",
             "properties": {
                 "ADDRESS": "Tveterveien, 1344 HASLUM",
                 "amenity": "kindergarten",
-                "capacity": "28",
+                "capacity": "27",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Tveterjordet FUS barnehage",
                 "no-barnehage:nsrid": "1025922",
                 "operator": "Tveterjordet Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-625"
+                "id": "node/-3004"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.57224,
-                    59.92304
+                    10.57042,
+                    59.91779
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-615",
+            "id": "node/-2995",
             "properties": {
                 "ADDRESS": "Gamle Ringeriksvei 53, 1357 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "33",
+                "capacity": "38",
                 "max_age": "5",
                 "min_age": "3",
                 "name": "The International Kindergarten",
                 "no-barnehage:nsrid": "1010112",
                 "operator": "Stiftelse Oslo International School",
                 "operator:type": "private",
-                "id": "node/-615"
+                "id": "node/-2995"
             },
             "geometry": {
                 "type": "Point",
@@ -94,18 +94,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-613",
+            "id": "node/-2993",
             "properties": {
                 "ADDRESS": "Søråsen 20, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "66",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Søråsen barnehage",
                 "no-barnehage:nsrid": "1019906",
                 "operator": "Stiftelsen Søråsen barnehage",
                 "operator:type": "private",
-                "id": "node/-613"
+                "id": "node/-2993"
             },
             "geometry": {
                 "type": "Point",
@@ -117,11 +117,33 @@
         },
         {
             "type": "Feature",
-            "id": "node/-564",
+            "id": "node/-2950",
+            "properties": {
+                "ADDRESS": "Høvikveien 60, 1356 BEKKESTUA",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Nøtteliten familiebarnehage avd. Høvikveien",
+                "no-barnehage:nsrid": "1025449",
+                "operator": "Nøtteliten og Hakkebakkeskogen AS",
+                "operator:type": "private",
+                "id": "node/-2950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57669,
+                    59.91159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2945",
             "properties": {
                 "ADDRESS": "Øygardveien 45, 1357 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "96",
+                "capacity": "87",
                 "contact:website": "http://www.norlandiabarnehagene.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -129,7 +151,7 @@
                 "no-barnehage:nsrid": "1016579",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-564"
+                "id": "node/-2945"
             },
             "geometry": {
                 "type": "Point",
@@ -141,11 +163,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-560",
+            "id": "node/-2941",
             "properties": {
                 "ADDRESS": "Gjønnesskogen 26, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "41",
                 "contact:website": "http://www.baerum.kommune.no/tjenester/barnehage/alle-barnehager/nadderudskogen-barnehage/",
                 "max_age": "5",
                 "min_age": "1",
@@ -153,7 +175,7 @@
                 "no-barnehage:nsrid": "1012671",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-560"
+                "id": "node/-2941"
             },
             "geometry": {
                 "type": "Point",
@@ -165,18 +187,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-559",
+            "id": "node/-2940",
             "properties": {
                 "ADDRESS": "Øygardveien 49, 1357 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "46",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nadderudskogen barnehage avd. Nadderud",
                 "no-barnehage:nsrid": "1012641",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-559"
+                "id": "node/-2940"
             },
             "geometry": {
                 "type": "Point",
@@ -188,38 +210,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-557",
-            "properties": {
-                "ADDRESS": "Tvetermyra 23, 1344 HASLUM",
-                "amenity": "kindergarten",
-                "name": "Myrsnipa FUS barnehage",
-                "no-barnehage:nsrid": "2000579",
-                "operator": "Myrsnipa Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-557"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.57117,
-                    59.91888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-556",
+            "id": "node/-2938",
             "properties": {
                 "ADDRESS": "Tvetermyra 23, 1344 HASLUM",
                 "amenity": "kindergarten",
                 "capacity": "20",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Myrsnipa barnehage",
-                "no-barnehage:nsrid": "1019681",
-                "operator": "Myrsnipa Naturbarnehage Sa",
+                "name": "Myrsnipa FUS barnehage",
+                "no-barnehage:nsrid": "2000579",
+                "operator": "Myrsnipa Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-556"
+                "id": "node/-2938"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +233,29 @@
         },
         {
             "type": "Feature",
-            "id": "node/-550",
+            "id": "node/-2937",
+            "properties": {
+                "ADDRESS": "Tvetermyra 23, 1344 HASLUM",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Myrsnipa barnehage",
+                "no-barnehage:nsrid": "1019681",
+                "operator": "Myrsnipa Naturbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-2937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57117,
+                    59.91888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2931",
             "properties": {
                 "ADDRESS": "Gjønnesjordet 36, 1357 BEKKESTUA",
                 "amenity": "kindergarten",
@@ -242,7 +266,7 @@
                 "no-barnehage:nsrid": "1021783",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-550"
+                "id": "node/-2931"
             },
             "geometry": {
                 "type": "Point",
@@ -254,18 +278,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-518",
+            "id": "node/-2899",
             "properties": {
                 "ADDRESS": "Bjørnemyrsveien 67, 1344 HASLUM",
                 "amenity": "kindergarten",
-                "capacity": "55",
+                "capacity": "54",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Haslum barnehage avd. Øvre Haslum",
                 "no-barnehage:nsrid": "1016205",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-518"
+                "id": "node/-2899"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +301,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-517",
+            "id": "node/-2898",
             "properties": {
                 "ADDRESS": "Bjørnemyrsveien 89, 1344 HASLUM",
                 "amenity": "kindergarten",
@@ -288,7 +312,7 @@
                 "no-barnehage:nsrid": "1014204",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-517"
+                "id": "node/-2898"
             },
             "geometry": {
                 "type": "Point",
@@ -300,11 +324,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-496",
+            "id": "node/-2878",
             "properties": {
                 "ADDRESS": "Furuveien 1, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "41",
+                "capacity": "42",
                 "contact:website": "http://www.furubarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -312,7 +336,7 @@
                 "no-barnehage:nsrid": "1013142",
                 "operator": "Skaubo AS",
                 "operator:type": "private",
-                "id": "node/-496"
+                "id": "node/-2878"
             },
             "geometry": {
                 "type": "Point",
@@ -324,18 +348,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-486",
+            "id": "node/-2868",
             "properties": {
                 "ADDRESS": "Ekrekroken 1, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "82",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Ekrekroken barnehage",
                 "no-barnehage:nsrid": "1020551",
                 "operator": "Ekrekroken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-486"
+                "id": "node/-2868"
             },
             "geometry": {
                 "type": "Point",
@@ -347,18 +371,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-479",
+            "id": "node/-2861",
             "properties": {
                 "ADDRESS": "Gamle Ringeriksvei 110, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "97",
+                "capacity": "96",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bærumsmarka FUS barnehage",
                 "no-barnehage:nsrid": "1021732",
                 "operator": "Bærumsmarka Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-479"
+                "id": "node/-2861"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +394,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-476",
+            "id": "node/-2858",
             "properties": {
                 "ADDRESS": "Haslum Terrasse 22, 1344 HASLUM",
                 "amenity": "kindergarten",
@@ -380,7 +404,7 @@
                 "no-barnehage:nsrid": "1018515",
                 "operator": "Blåklokken Fam barnehage Rehnvall",
                 "operator:type": "private",
-                "id": "node/-476"
+                "id": "node/-2858"
             },
             "geometry": {
                 "type": "Point",
@@ -392,18 +416,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-468",
+            "id": "node/-2850",
             "properties": {
                 "ADDRESS": "Haukeveien 8, 1357 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "156",
+                "capacity": "157",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Bekkestua Kanvas-barnehage",
                 "no-barnehage:nsrid": "1017178",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-468"
+                "id": "node/-2850"
             },
             "geometry": {
                 "type": "Point",

@@ -3,19 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5509",
+            "id": "node/-2382",
             "properties": {
                 "ADDRESS": "Roknesmyra 64, 7609 LEVANGER",
                 "amenity": "kindergarten",
-                "capacity": "16",
+                "capacity": "18",
                 "contact:website": "http://www.mulegardsbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Mule gårdsbarnehage Marit Kvam",
+                "name": "Mule gårdsbarnehage Marit Lise Kvam",
                 "no-barnehage:nsrid": "1020351",
                 "operator": "Mule Gårdsbarnehage Marit Kvam",
                 "operator:type": "private",
-                "id": "node/-5509"
+                "id": "node/-2382"
             },
             "geometry": {
                 "type": "Point",
@@ -27,18 +27,40 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5490",
+            "id": "node/-2366",
+            "properties": {
+                "ADDRESS": "Røstadlia 3, 7600 LEVANGER",
+                "amenity": "kindergarten",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Dagali barnehage",
+                "no-barnehage:nsrid": "1019518",
+                "operator": "Dagali barnehage",
+                "operator:type": "private",
+                "id": "node/-2366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.33831,
+                    63.75079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2362",
             "properties": {
                 "ADDRESS": "Gamle Kongeveg Nord 272, 7609 LEVANGER",
                 "amenity": "kindergarten",
-                "capacity": "29",
+                "capacity": "28",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnas Moa",
                 "no-barnehage:nsrid": "1022439",
                 "operator": "Barnas Moa AS",
                 "operator:type": "private",
-                "id": "node/-5490"
+                "id": "node/-2362"
             },
             "geometry": {
                 "type": "Point",

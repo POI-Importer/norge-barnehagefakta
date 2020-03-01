@@ -3,101 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1820",
-            "properties": {
-                "ADDRESS": "Vestveien 12, 0284 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "30",
-                "contact:website": "http://styrer@orakerbarnehage.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Øraker barnehage",
-                "no-barnehage:nsrid": "1019871",
-                "operator": "Øraker barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1820"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.63043,
-                    59.92148
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1399",
-            "properties": {
-                "ADDRESS": "Sponhoggbakken 3, 0284 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Lilleaker barnehage",
-                "no-barnehage:nsrid": "1017297",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "id": "node/-1399"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.63148,
-                    59.9236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1380",
-            "properties": {
-                "ADDRESS": "Kvernkallveien 11, 0382 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "84",
-                "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/kvernkallen-barnehage/",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kvernkallen barnehage",
-                "no-barnehage:nsrid": "1018378",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "id": "node/-1380"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.63401,
-                    59.92881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1086",
-            "properties": {
-                "ADDRESS": "Lilleakerveien 24c, 0283 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "54",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bikuben barnehage",
-                "no-barnehage:nsrid": "1018380",
-                "operator": "Oslo kommune",
-                "operator:type": "public",
-                "id": "node/-1086"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.63472,
-                    59.9192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-635",
+            "id": "node/-3014",
             "properties": {
                 "ADDRESS": "Bjerkelundsveien 31, 1358 JAR",
                 "amenity": "kindergarten",
@@ -108,7 +14,7 @@
                 "no-barnehage:nsrid": "1020049",
                 "operator": "Østheim barnehage",
                 "operator:type": "private",
-                "id": "node/-635"
+                "id": "node/-3014"
             },
             "geometry": {
                 "type": "Point",
@@ -120,18 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-602",
+            "id": "node/-2982",
             "properties": {
                 "ADDRESS": "Grav Gårdsvei 10, 1358 JAR",
                 "amenity": "kindergarten",
-                "capacity": "53",
+                "capacity": "54",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiftelsen Almeskogen Steinerbarnehage",
                 "no-barnehage:nsrid": "1016222",
                 "operator": "Stiftelsen Almeskogen Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-602"
+                "id": "node/-2982"
             },
             "geometry": {
                 "type": "Point",
@@ -143,40 +49,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-597",
-            "properties": {
-                "ADDRESS": "Gartnerveien 6, 1356 BEKKESTUA",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Skogveien barnehage avd. Skallum",
-                "no-barnehage:nsrid": "1013472",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-597"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.59288,
-                    59.91397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-595",
+            "id": "node/-2976",
             "properties": {
                 "ADDRESS": "Ruglandveien 1, 1358 JAR",
                 "amenity": "kindergarten",
-                "capacity": "40",
+                "capacity": "41",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Skaubo barnehage",
                 "no-barnehage:nsrid": "1014988",
                 "operator": "Skaubo AS",
                 "operator:type": "private",
-                "id": "node/-595"
+                "id": "node/-2976"
             },
             "geometry": {
                 "type": "Point",
@@ -188,7 +72,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-588",
+            "id": "node/-2969",
             "properties": {
                 "ADDRESS": "Gamle Ringeriksvei 21a, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
@@ -199,7 +83,7 @@
                 "no-barnehage:nsrid": "1021908",
                 "operator": "Ringstabekk Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-588"
+                "id": "node/-2969"
             },
             "geometry": {
                 "type": "Point",
@@ -211,18 +95,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-558",
+            "id": "node/-2939",
             "properties": {
                 "ADDRESS": "Gartnerveien 8, 1356 BEKKESTUA",
                 "amenity": "kindergarten",
-                "capacity": "8",
+                "capacity": "6",
                 "max_age": "5",
-                "min_age": "1",
+                "min_age": "3",
                 "name": "N.k.s. Gartnerveien barnehage",
                 "no-barnehage:nsrid": "1015532",
                 "operator": "N.K.S. Gartnerveien barnehage AS",
                 "operator:type": "private",
-                "id": "node/-558"
+                "id": "node/-2939"
             },
             "geometry": {
                 "type": "Point",
@@ -234,11 +118,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-549",
+            "id": "node/-2930",
             "properties": {
                 "ADDRESS": "Bærumsveien 126, 1358 JAR",
                 "amenity": "kindergarten",
-                "capacity": "92",
+                "capacity": "95",
                 "contact:website": "http://laringsverkstedet.no/barnehage/jar-idrettsbarnehage",
                 "max_age": "5",
                 "min_age": "1",
@@ -246,7 +130,7 @@
                 "no-barnehage:nsrid": "1022339",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-549"
+                "id": "node/-2930"
             },
             "geometry": {
                 "type": "Point",
@@ -258,18 +142,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-529",
+            "id": "node/-2910",
             "properties": {
                 "ADDRESS": "Storengveien 3, 1358 JAR",
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "69",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jarenga barnehage",
                 "no-barnehage:nsrid": "1018329",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-529"
+                "id": "node/-2910"
             },
             "geometry": {
                 "type": "Point",
@@ -281,18 +165,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-528",
+            "id": "node/-2909",
             "properties": {
                 "ADDRESS": "Trudvangveien 15, 1358 JAR",
                 "amenity": "kindergarten",
-                "capacity": "57",
+                "capacity": "58",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jar FUS barnehage",
                 "no-barnehage:nsrid": "1021386",
                 "operator": "Jar Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-528"
+                "id": "node/-2909"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +188,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-514",
+            "id": "node/-2895",
             "properties": {
                 "ADDRESS": "Njålveien 13b, 1368 STABEKK",
                 "amenity": "kindergarten",
@@ -314,7 +198,7 @@
                 "no-barnehage:nsrid": "1013193",
                 "operator": "Gullungene Familiebarnehage Mona K Axelsen",
                 "operator:type": "private",
-                "id": "node/-514"
+                "id": "node/-2895"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +210,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-505",
+            "id": "node/-2886",
             "properties": {
                 "ADDRESS": "Fagertunveien 120, 1358 JAR",
                 "amenity": "kindergarten",
@@ -338,7 +222,7 @@
                 "no-barnehage:nsrid": "1012646",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-505"
+                "id": "node/-2886"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +234,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-474",
+            "id": "node/-2856",
             "properties": {
                 "ADDRESS": "Underhaugsveien 33b, 1358 JAR",
                 "amenity": "kindergarten",
@@ -360,7 +244,7 @@
                 "no-barnehage:nsrid": "1017236",
                 "operator": "Blåklokken Fam barnehage Rehnvall",
                 "operator:type": "private",
-                "id": "node/-474"
+                "id": "node/-2856"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +256,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-459",
+            "id": "node/-2841",
             "properties": {
                 "ADDRESS": "Skogveien 64a, 1368 STABEKK",
                 "amenity": "kindergarten",
@@ -384,13 +268,107 @@
                 "no-barnehage:nsrid": "1021009",
                 "operator": "Aktivitetsbarnehagen AS",
                 "operator:type": "private",
-                "id": "node/-459"
+                "id": "node/-2841"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.60195,
                     59.91221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1183",
+            "properties": {
+                "ADDRESS": "Vestveien 12, 0284 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "contact:website": "http://styrer@orakerbarnehage.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Øraker barnehage",
+                "no-barnehage:nsrid": "1019871",
+                "operator": "Øraker barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63043,
+                    59.92148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-767",
+            "properties": {
+                "ADDRESS": "Sponhoggbakken 3, 0284 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Lilleaker barnehage",
+                "no-barnehage:nsrid": "1017297",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63148,
+                    59.9236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-748",
+            "properties": {
+                "ADDRESS": "Kvernkallveien 11, 0382 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "81",
+                "contact:website": "http://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/kvernkallen-barnehage/",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Kvernkallen barnehage",
+                "no-barnehage:nsrid": "1018378",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63401,
+                    59.92881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-454",
+            "properties": {
+                "ADDRESS": "Lilleakerveien 24c, 0283 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "51",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bikuben barnehage",
+                "no-barnehage:nsrid": "1018380",
+                "operator": "Oslo kommune",
+                "operator:type": "public",
+                "id": "node/-454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63472,
+                    59.9192
                 ]
             }
         }

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-355",
+            "id": "node/-2770",
             "properties": {
                 "ADDRESS": "Skogveien 30b, 1406 SKI",
                 "amenity": "kindergarten",
@@ -12,9 +12,9 @@
                 "min_age": "1",
                 "name": "Øvre Hebekk barnehage",
                 "no-barnehage:nsrid": "1012841",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-355"
+                "id": "node/-2770"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-354",
+            "id": "node/-2768",
             "properties": {
                 "ADDRESS": "Villenga 21, 1423 ",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1021328",
                 "operator": "Villenga barnehage AS",
                 "operator:type": "private",
-                "id": "node/-354"
+                "id": "node/-2768"
             },
             "geometry": {
                 "type": "Point",
@@ -50,18 +50,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-351",
+            "id": "node/-2765",
             "properties": {
                 "ADDRESS": "Vestveien 13, 1423 ",
                 "amenity": "kindergarten",
-                "capacity": "52",
+                "capacity": "45",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vestveien barnehage",
                 "no-barnehage:nsrid": "1013558",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-351"
+                "id": "node/-2765"
             },
             "geometry": {
                 "type": "Point",
@@ -73,18 +73,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-350",
+            "id": "node/-2764",
             "properties": {
                 "ADDRESS": "Kirkeveien 8a, 1400 SKI",
                 "amenity": "kindergarten",
-                "capacity": "80",
+                "capacity": "79",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vestråt barnehage",
                 "no-barnehage:nsrid": "1012839",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-350"
+                "id": "node/-2764"
             },
             "geometry": {
                 "type": "Point",
@@ -96,29 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-349",
-            "properties": {
-                "ADDRESS": "Vardåsveien 36, 1400 SKI",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Vardåsen barnehage",
-                "no-barnehage:nsrid": "1014291",
-                "operator": "Ski kommune",
-                "operator:type": "public",
-                "id": "node/-349"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.84488,
-                    59.72773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-346",
+            "id": "node/-2753",
             "properties": {
                 "ADDRESS": "Gamleveien 37, 1406 SKI",
                 "amenity": "kindergarten",
@@ -129,7 +107,7 @@
                 "no-barnehage:nsrid": "1016218",
                 "operator": "Ski Kvinne & Familieforbund",
                 "operator:type": "private",
-                "id": "node/-346"
+                "id": "node/-2753"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +119,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-338",
+            "id": "node/-2743",
             "properties": {
                 "ADDRESS": "Gauselveien 9, 1406 SKI",
                 "amenity": "kindergarten",
@@ -153,7 +131,7 @@
                 "no-barnehage:nsrid": "1019993",
                 "operator": "Rosenlund barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-338"
+                "id": "node/-2743"
             },
             "geometry": {
                 "type": "Point",
@@ -165,18 +143,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-337",
+            "id": "node/-2739",
             "properties": {
                 "ADDRESS": "Villenga 19, 1423 ",
                 "amenity": "kindergarten",
-                "capacity": "60",
+                "capacity": "55",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Nordre Finstad barnehage",
                 "no-barnehage:nsrid": "1025369",
-                "operator": "Ski kommune",
+                "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-337"
+                "id": "node/-2739"
             },
             "geometry": {
                 "type": "Point",
@@ -188,7 +166,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-331",
+            "id": "node/-2736",
+            "properties": {
+                "ADDRESS": "Tallaksrud Gård Oppegårdveien 50a, 1423 ",
+                "amenity": "kindergarten",
+                "capacity": "33",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtua barnehage",
+                "no-barnehage:nsrid": "1020188",
+                "operator": "Maurtua barnehage AS",
+                "operator:type": "private",
+                "id": "node/-2736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82928,
+                    59.72168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2724",
             "properties": {
                 "ADDRESS": "Fjellklangveien 1, 1423 ",
                 "amenity": "kindergarten",
@@ -200,35 +201,13 @@
                 "no-barnehage:nsrid": "1020716",
                 "operator": "Hebekkskogen Sa",
                 "operator:type": "private",
-                "id": "node/-331"
+                "id": "node/-2724"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.82667,
                     59.72729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-329",
-            "properties": {
-                "ADDRESS": "Vestveien 11, 1423 ",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Finstadbekken barnehage",
-                "no-barnehage:nsrid": "1026020",
-                "operator": "Ski kommune",
-                "operator:type": "public",
-                "id": "node/-329"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.82875,
-                    59.71494
                 ]
             }
         }

@@ -3,9 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4784",
+            "id": "node/-1573",
             "properties": {
-                "ADDRESS": "Opheimsgata, 5750 ODDA",
+                "ADDRESS": "Opheimsgata 4, 5750 ODDA",
                 "amenity": "kindergarten",
                 "capacity": "48",
                 "contact:website": "http://hestavoll.barnehage.odda.no",
@@ -13,15 +13,39 @@
                 "min_age": "1",
                 "name": "Hestavoll barnehage",
                 "no-barnehage:nsrid": "1012508",
-                "operator": "Odda kommune",
+                "operator": "Ullensvang kommune",
                 "operator:type": "public",
-                "id": "node/-4784"
+                "id": "node/-1573"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.54106,
-                    60.07001
+                    6.54139,
+                    60.0685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1572",
+            "properties": {
+                "ADDRESS": "Eitrheimsvegen, 5750 ODDA",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "contact:website": "http://eitrheimsvagen.barnehage.odda.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eitrheimsvågen barnehage",
+                "no-barnehage:nsrid": "1016091",
+                "operator": "Ullensvang kommune",
+                "operator:type": "public",
+                "id": "node/-1572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.531,
+                    60.07763
                 ]
             }
         }

@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2458",
+            "id": "node/-3539",
             "properties": {
                 "ADDRESS": "Lyngveien 34, 3300 HOKKSUND",
                 "amenity": "kindergarten",
-                "capacity": "91",
+                "capacity": "90",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Stiftelsen Lyngstua barnehage",
                 "no-barnehage:nsrid": "1020002",
                 "operator": "Stiftelsen Lyngstua barnehage",
                 "operator:type": "private",
-                "id": "node/-2458"
+                "id": "node/-3539"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2451",
+            "id": "node/-3532",
             "properties": {
                 "ADDRESS": "Prof. Hans Strøms Vei 12, 3300 HOKKSUND",
                 "amenity": "kindergarten",
-                "capacity": "46",
+                "capacity": "48",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Maurtua barnehage",
                 "no-barnehage:nsrid": "1020122",
                 "operator": "Stiftelsen Maurtua barnehage",
                 "operator:type": "private",
-                "id": "node/-2451"
+                "id": "node/-3532"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2450",
+            "id": "node/-3531",
             "properties": {
                 "ADDRESS": "Strømshauggata 6, 3300 HOKKSUND",
                 "amenity": "kindergarten",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1019661",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-2450"
+                "id": "node/-3531"
             },
             "geometry": {
                 "type": "Point",
@@ -73,24 +73,47 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2447",
+            "id": "node/-3528",
             "properties": {
                 "ADDRESS": "Ringeriksveien 11, 3303 HOKKSUND",
                 "amenity": "kindergarten",
-                "capacity": "93",
+                "capacity": "89",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Lerberg kommunale barnehage",
                 "no-barnehage:nsrid": "1018016",
                 "operator": "Øvre Eiker kommune",
                 "operator:type": "public",
-                "id": "node/-2447"
+                "id": "node/-3528"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     9.91663,
                     59.77758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3525",
+            "properties": {
+                "ADDRESS": "Pålsplass 41b, 3300 HOKKSUND",
+                "amenity": "kindergarten",
+                "contact:website": "http://goungen.com",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Go Ungen familiebarnehage",
+                "no-barnehage:nsrid": "1021051",
+                "operator": "Go Ungen Familiebarnehage Hege Lajorde Helgheim",
+                "operator:type": "private",
+                "id": "node/-3525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92829,
+                    59.76212
                 ]
             }
         }

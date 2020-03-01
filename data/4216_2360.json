@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4640",
+            "id": "node/-1412",
             "properties": {
                 "ADDRESS": "Fredriksbergsgaten 4, 5005 BERGEN",
                 "amenity": "kindergarten",
@@ -12,7 +12,7 @@
                 "no-barnehage:nsrid": "1014085",
                 "operator": "Bergen Domkirke Sokn",
                 "operator:type": "private",
-                "id": "node/-4640"
+                "id": "node/-1412"
             },
             "geometry": {
                 "type": "Point",
@@ -24,64 +24,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4577",
-            "properties": {
-                "ADDRESS": "Klosteret 2, 5005 BERGEN",
-                "amenity": "kindergarten",
-                "capacity": "40",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Klosteret barnehage",
-                "no-barnehage:nsrid": "1016702",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4577"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.3156,
-                    60.3947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4519",
-            "properties": {
-                "ADDRESS": "Haugeveien 40, 5005 BERGEN",
-                "amenity": "kindergarten",
-                "capacity": "73",
-                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/haugeveien-barnehage",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Haugeveien barnehage",
-                "no-barnehage:nsrid": "1026453",
-                "operator": "Bergen kommune",
-                "operator:type": "public",
-                "id": "node/-4519"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.30474,
-                    60.39864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4502",
+            "id": "node/-1404",
             "properties": {
                 "ADDRESS": "Nordnesparken 3, 5005 BERGEN",
                 "amenity": "kindergarten",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Fredriksberg barnehage",
-                "no-barnehage:nsrid": "1016716",
+                "name": "Nordnes oppveksttun avd. barnehage",
+                "no-barnehage:nsrid": "2000635",
                 "operator": "Bergen kommune",
                 "operator:type": "public",
-                "id": "node/-4502"
+                "id": "node/-1404"
             },
             "geometry": {
                 "type": "Point",
@@ -93,11 +44,80 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4452",
+            "id": "node/-1348",
+            "properties": {
+                "ADDRESS": "Klosteret 2, 5005 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "41",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Klosteret barnehage",
+                "no-barnehage:nsrid": "1016702",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-1348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3156,
+                    60.3947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1292",
+            "properties": {
+                "ADDRESS": "Haugeveien 40, 5005 BERGEN",
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "contact:website": "http://www.bergen.kommune.no/omkommunen/avdelinger/barnehager/haugeveien-barnehage",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Haugeveien barnehage",
+                "no-barnehage:nsrid": "1026453",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-1292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30474,
+                    60.39864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1275",
+            "properties": {
+                "ADDRESS": "Nordnesparken 3, 5005 BERGEN",
+                "amenity": "kindergarten",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Fredriksberg barnehage",
+                "no-barnehage:nsrid": "1016716",
+                "operator": "Bergen kommune",
+                "operator:type": "public",
+                "id": "node/-1275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30804,
+                    60.39724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1226",
             "properties": {
                 "ADDRESS": "Nordnesveien 13, 5005 BERGEN",
                 "amenity": "kindergarten",
-                "capacity": "20",
+                "capacity": "18",
                 "contact:website": "http://www.bergenbarnehage.net",
                 "max_age": "5",
                 "min_age": "1",
@@ -105,7 +125,7 @@
                 "no-barnehage:nsrid": "1020164",
                 "operator": "Bergen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4452"
+                "id": "node/-1226"
             },
             "geometry": {
                 "type": "Point",
@@ -117,11 +137,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4436",
+            "id": "node/-1210",
             "properties": {
                 "ADDRESS": "Haugeveien 1c, 5005 BERGEN",
                 "amenity": "kindergarten",
-                "capacity": "68",
+                "capacity": "67",
                 "contact:website": "http://www.akasia.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -129,7 +149,7 @@
                 "no-barnehage:nsrid": "1015524",
                 "operator": "Akasia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4436"
+                "id": "node/-1210"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +161,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4427",
+            "id": "node/-1201",
             "properties": {
                 "ADDRESS": "Johan Berentsens Vei 109, 5163 LAKSEVÅG",
                 "amenity": "kindergarten",
@@ -149,7 +169,7 @@
                 "no-barnehage:nsrid": "1026225",
                 "operator": "Akasia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4427"
+                "id": "node/-1201"
             },
             "geometry": {
                 "type": "Point",

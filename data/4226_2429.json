@@ -3,18 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4019",
+            "id": "node/-3867",
             "properties": {
                 "ADDRESS": "Varatunhagen 54, 4317 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "110",
+                "capacity": "120",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Varatun barnehage Varatunhagen",
                 "no-barnehage:nsrid": "2000192",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-4019"
+                "id": "node/-3867"
             },
             "geometry": {
                 "type": "Point",
@@ -26,18 +26,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4018",
+            "id": "node/-3866",
             "properties": {
                 "ADDRESS": "Postveien 136, 4317 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "106",
+                "capacity": "104",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Varatun barnehage",
                 "no-barnehage:nsrid": "1025372",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-4018"
+                "id": "node/-3866"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4005",
+            "id": "node/-3854",
             "properties": {
                 "ADDRESS": "Kjærholen 3, 4316 SANDNES",
                 "amenity": "kindergarten",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1016307",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-4005"
+                "id": "node/-3854"
             },
             "geometry": {
                 "type": "Point",
@@ -73,18 +73,15 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3996",
+            "id": "node/-3844",
             "properties": {
                 "ADDRESS": "Porsmyrveien 7, 4314 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "43",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Rabalder barnehage",
-                "no-barnehage:nsrid": "1020327",
-                "operator": "Rabalder barnehage Da",
+                "name": "Rabalder FUS barnehage",
+                "no-barnehage:nsrid": "2000648",
+                "operator": "Rabalder Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3996"
+                "id": "node/-3844"
             },
             "geometry": {
                 "type": "Point",
@@ -96,18 +93,41 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3995",
+            "id": "node/-3843",
+            "properties": {
+                "ADDRESS": "Porsmyrveien 7, 4314 SANDNES",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Rabalder barnehage",
+                "no-barnehage:nsrid": "1020327",
+                "operator": "Rabalder barnehage Da",
+                "operator:type": "private",
+                "id": "node/-3843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72758,
+                    58.87945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3842",
             "properties": {
                 "ADDRESS": "Porsmyrveien 35, 4314 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "75",
+                "capacity": "74",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Porsholen barnehage",
                 "no-barnehage:nsrid": "1012895",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-3995"
+                "id": "node/-3842"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +139,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3993",
+            "id": "node/-3840",
             "properties": {
                 "ADDRESS": "Kjærholen 1, 4316 SANDNES",
                 "amenity": "kindergarten",
@@ -130,7 +150,7 @@
                 "no-barnehage:nsrid": "1020914",
                 "operator": "Ormaskogen barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-3993"
+                "id": "node/-3840"
             },
             "geometry": {
                 "type": "Point",
@@ -142,18 +162,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3992",
+            "id": "node/-3839",
             "properties": {
                 "ADDRESS": "Lindeveien 79, 4314 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "48",
+                "capacity": "42",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "NLM barnehagene avd. Lube barnehage",
                 "no-barnehage:nsrid": "1017868",
                 "operator": "Nlm-Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-3992"
+                "id": "node/-3839"
             },
             "geometry": {
                 "type": "Point",
@@ -165,11 +185,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3991",
+            "id": "node/-3838",
             "properties": {
                 "ADDRESS": "Porsholen 2a, 4314 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "30",
+                "capacity": "31",
                 "contact:website": "http://www.myrsnipa.barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -177,7 +197,7 @@
                 "no-barnehage:nsrid": "1020320",
                 "operator": "Porsholen 2 Sa",
                 "operator:type": "private",
-                "id": "node/-3991"
+                "id": "node/-3838"
             },
             "geometry": {
                 "type": "Point",
@@ -189,18 +209,18 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3976",
+            "id": "node/-3823",
             "properties": {
                 "ADDRESS": "Tulipanveien 13, 4316 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "96",
+                "capacity": "95",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Jønningheia barnehage",
                 "no-barnehage:nsrid": "1012890",
                 "operator": "Sandnes kommune",
                 "operator:type": "public",
-                "id": "node/-3976"
+                "id": "node/-3823"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +232,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3974",
+            "id": "node/-3821",
             "properties": {
                 "ADDRESS": "Kobberveien 113, 4313 SANDNES",
                 "amenity": "kindergarten",
@@ -224,7 +244,7 @@
                 "no-barnehage:nsrid": "1019813",
                 "operator": "Håholen barnehage",
                 "operator:type": "private",
-                "id": "node/-3974"
+                "id": "node/-3821"
             },
             "geometry": {
                 "type": "Point",
@@ -236,11 +256,11 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3951",
+            "id": "node/-3797",
             "properties": {
                 "ADDRESS": "Gamle Somavei 26, 4313 SANDNES",
                 "amenity": "kindergarten",
-                "capacity": "92",
+                "capacity": "97",
                 "contact:website": "http://www.aktiv-barnehage.no",
                 "max_age": "5",
                 "min_age": "1",
@@ -248,7 +268,7 @@
                 "no-barnehage:nsrid": "1019779",
                 "operator": "Aktive Foreldre Sa",
                 "operator:type": "private",
-                "id": "node/-3951"
+                "id": "node/-3797"
             },
             "geometry": {
                 "type": "Point",

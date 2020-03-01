@@ -3,42 +3,18 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5115",
-            "properties": {
-                "ADDRESS": "Bankgata 7, 6770 NORDFJORDEID",
-                "amenity": "kindergarten",
-                "capacity": "78",
-                "contact:website": "http://www.laringsverkstedet.no/barnehage/eid",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Eid",
-                "no-barnehage:nsrid": "1021419",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-5115"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.99349,
-                    61.90786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5112",
+            "id": "node/-1875",
             "properties": {
                 "ADDRESS": "Golvsengane 1, 6770 NORDFJORDEID",
                 "amenity": "kindergarten",
-                "capacity": "134",
+                "capacity": "146",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Golvsengane barnehage",
+                "name": "Stad kommune Golvsengane barnehage",
                 "no-barnehage:nsrid": "1014789",
-                "operator": "Eid kommune",
+                "operator": "Stad kommune",
                 "operator:type": "public",
-                "id": "node/-5112"
+                "id": "node/-1875"
             },
             "geometry": {
                 "type": "Point",
@@ -50,25 +26,49 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5111",
+            "id": "node/-1874",
             "properties": {
                 "ADDRESS": "Fossevegen 2, 6770 NORDFJORDEID",
                 "amenity": "kindergarten",
-                "capacity": "44",
+                "capacity": "45",
                 "contact:website": "http://www.gjerdane.barehageside.no",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Gjerdane barnehage",
+                "name": "Stad kommune Gjerdane barnehage",
                 "no-barnehage:nsrid": "1025314",
-                "operator": "Eid kommune",
+                "operator": "Stad kommune",
                 "operator:type": "public",
-                "id": "node/-5111"
+                "id": "node/-1874"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.99695,
                     61.91368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1871",
+            "properties": {
+                "ADDRESS": "Bankgata 7, 6770 NORDFJORDEID",
+                "amenity": "kindergarten",
+                "capacity": "78",
+                "contact:website": "http://www.laringsverkstedet.no/barnehage/eid",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Eid",
+                "no-barnehage:nsrid": "1021419",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-1871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.99349,
+                    61.90786
                 ]
             }
         }

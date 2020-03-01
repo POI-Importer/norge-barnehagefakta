@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-4146",
+            "id": "node/-3754",
             "properties": {
                 "ADDRESS": "Jørgen Moes Gate 9, 4011 STAVANGER",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1015515",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4146"
+                "id": "node/-3754"
             },
             "geometry": {
                 "type": "Point",
@@ -27,317 +27,19 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4141",
-            "properties": {
-                "ADDRESS": "Egersundsgata 13, 4015 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "53",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Varden barnehage",
-                "no-barnehage:nsrid": "1015513",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4141"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75185,
-                    58.95948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4129",
-            "properties": {
-                "ADDRESS": "Nedre Dalgate 68, 4013 STAVANGER",
-                "amenity": "kindergarten",
-                "contact:website": "http://www.openbarnehage.dinstudio.se/",
-                "name": "Storhaug åpen barnehage",
-                "no-barnehage:nsrid": "1016558",
-                "operator": "St. Johannes Sokn",
-                "operator:type": "private",
-                "id": "node/-4129"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74558,
-                    58.96936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4128",
-            "properties": {
-                "ADDRESS": "Seehusens Gate 4, 4024 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Stokkatunet barnehage avd. Hertervigtunet",
-                "no-barnehage:nsrid": "1026492",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4128"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.71993,
-                    58.97181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4122",
-            "properties": {
-                "ADDRESS": "Johannes' Gate 34, 4014 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "63",
-                "contact:website": "http://www.minbarnehage.no/steinhagen",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Steinhagen barnehage",
-                "no-barnehage:nsrid": "1012899",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4122"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75502,
-                    58.96651
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4120",
-            "properties": {
-                "ADDRESS": "Møllegata 66, 4008 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "85",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Solvang barnehage",
-                "no-barnehage:nsrid": "1018538",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4120"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72404,
-                    58.96872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4103",
-            "properties": {
-                "ADDRESS": "Nymansveien 67, 4014 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "47",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nymansveien barnehage",
-                "no-barnehage:nsrid": "1016072",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4103"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74859,
-                    58.96751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4096",
-            "properties": {
-                "ADDRESS": "Hjalmar Johansens Gate 8, 4019 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "51",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Maurtua barnehage",
-                "no-barnehage:nsrid": "1013770",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4096"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72564,
-                    58.95041
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4081",
-            "properties": {
-                "ADDRESS": "Sandsgata 1, 4012 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "43",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Kløvereng barnehage avd. Storhaug",
-                "no-barnehage:nsrid": "1018541",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4081"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74044,
-                    58.96398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4078",
-            "properties": {
-                "ADDRESS": "Haugesundsgata 27, 4014 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "20",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Innføringsbarnehagen Johannes Læringssenter",
-                "no-barnehage:nsrid": "1012611",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4078"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75493,
-                    58.96731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4073",
-            "properties": {
-                "ADDRESS": "Gerd-Ragna Bloch Thorsens Gate 17, 4016 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "121",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Hillevåg barnehage",
-                "no-barnehage:nsrid": "1013769",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4073"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.73442,
-                    58.95116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4045",
-            "properties": {
-                "ADDRESS": "Rasmus Lølands Vei 1, 4009 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "75",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bokkaskogen-kampen barnehage avd. Bokkaskogen",
-                "no-barnehage:nsrid": "1016173",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4045"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72109,
-                    58.95931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4041",
-            "properties": {
-                "ADDRESS": "Figgjogata 11, 4015 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "19",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Biå Steinerbarnehage avd. Storhaug",
-                "no-barnehage:nsrid": "1020921",
-                "operator": "Biå Steinerbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-4041"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75068,
-                    58.96306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4040",
-            "properties": {
-                "ADDRESS": "Svend Foyns Gate 3, 4019 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "200",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Bekketunet barnehage",
-                "no-barnehage:nsrid": "1014723",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4040"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72797,
-                    58.95059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4039",
+            "id": "node/-3753",
             "properties": {
                 "ADDRESS": "Rogalandsgata 15, 4011 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "31",
+                "capacity": "27",
                 "contact:website": "http://minbarnehage.no/hkogv",
                 "max_age": "5",
                 "min_age": "1",
-                "name": "Barnehagene Haugtussa Krabat og Våland avd. Våland",
+                "name": "Våland barnehage",
                 "no-barnehage:nsrid": "1017041",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4039"
+                "id": "node/-3753"
             },
             "geometry": {
                 "type": "Point",
@@ -349,65 +51,322 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4032",
+            "id": "node/-3744",
+            "properties": {
+                "ADDRESS": "Egersundsgata 13, 4015 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "55",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Varden barnehage",
+                "no-barnehage:nsrid": "1015513",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75185,
+                    58.95948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3731",
+            "properties": {
+                "ADDRESS": "Nedre Dalgate 68, 4013 STAVANGER",
+                "amenity": "kindergarten",
+                "contact:website": "http://www.openbarnehage.dinstudio.se/",
+                "name": "Storhaug åpen barnehage",
+                "no-barnehage:nsrid": "1016558",
+                "operator": "St. Johannes Sokn",
+                "operator:type": "private",
+                "id": "node/-3731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74558,
+                    58.96936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3725",
+            "properties": {
+                "ADDRESS": "Johannes' Gate 34, 4014 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "63",
+                "contact:website": "http://www.minbarnehage.no/steinhagen",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Steinhagen barnehage",
+                "no-barnehage:nsrid": "1012899",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75502,
+                    58.96651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3723",
+            "properties": {
+                "ADDRESS": "Sandsgata 1, 4012 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "40",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "St. Svithun barnehage",
+                "no-barnehage:nsrid": "1018541",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74044,
+                    58.96398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3722",
+            "properties": {
+                "ADDRESS": "Møllegata 66, 4008 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "83",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Solvang barnehage",
+                "no-barnehage:nsrid": "1018538",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72404,
+                    58.96872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3700",
+            "properties": {
+                "ADDRESS": "Nymansveien 67, 4014 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "44",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nymansveien barnehage",
+                "no-barnehage:nsrid": "1016072",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74859,
+                    58.96751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3692",
+            "properties": {
+                "ADDRESS": "Hjalmar Johansens Gate 8, 4019 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "52",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Maurtua barnehage",
+                "no-barnehage:nsrid": "1013770",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72564,
+                    58.95041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3673",
+            "properties": {
+                "ADDRESS": "Haugesundsgata 27, 4014 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Innføringsbarnehagen Johannes Læringssenter",
+                "no-barnehage:nsrid": "1012611",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75493,
+                    58.96731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3668",
+            "properties": {
+                "ADDRESS": "Gerd-Ragna Bloch Thorsens Gate 17, 4016 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "120",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hillevåg barnehage",
+                "no-barnehage:nsrid": "1013769",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73442,
+                    58.95116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3667",
+            "properties": {
+                "ADDRESS": "Seehusens Gate 4, 4024 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hertervigtunet barnehage",
+                "no-barnehage:nsrid": "1026492",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71993,
+                    58.97181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3631",
+            "properties": {
+                "ADDRESS": "Rasmus Lølands Vei 1, 4009 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "77",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bokkaskogen barnehage",
+                "no-barnehage:nsrid": "1016173",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72109,
+                    58.95931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3627",
+            "properties": {
+                "ADDRESS": "Figgjogata 11, 4015 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "20",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Biå Steinerbarnehage avd. Storhaug",
+                "no-barnehage:nsrid": "1020921",
+                "operator": "Biå Steinerbarnehage AS",
+                "operator:type": "private",
+                "id": "node/-3627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75068,
+                    58.96306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3626",
+            "properties": {
+                "ADDRESS": "Svend Foyns Gate 3, 4019 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "199",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Bekketunet barnehage",
+                "no-barnehage:nsrid": "1014723",
+                "operator": "Stavanger kommune",
+                "operator:type": "public",
+                "id": "node/-3626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72797,
+                    58.95059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3623",
             "properties": {
                 "ADDRESS": "Hjalmar Johansens Gate 5, 4019 STAVANGER",
                 "amenity": "kindergarten",
-                "capacity": "73",
+                "capacity": "69",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Barnas Hus barnehage",
                 "no-barnehage:nsrid": "1016757",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-4032"
+                "id": "node/-3623"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.72245,
                     58.95064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4031",
-            "properties": {
-                "ADDRESS": "Svend Foyns Gate 1, 4019 STAVANGER",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Barnas Hus barnehage avd. Bekkefaret kirke",
-                "no-barnehage:nsrid": "1016755",
-                "operator": "Stavanger kommune",
-                "operator:type": "public",
-                "id": "node/-4031"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.72835,
-                    58.95098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3964",
-            "properties": {
-                "amenity": "kindergarten",
-                "name": "Esso-ansattes barnehage",
-                "no-barnehage:nsrid": "1020466",
-                "operator": "Esso-Ansattes barnehage",
-                "operator:type": "private",
-                "id": "node/-3964"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.736084,
-                    58.97088
                 ]
             }
         }
