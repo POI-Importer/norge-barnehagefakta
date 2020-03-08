@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1177",
+            "id": "node/-1179",
             "properties": {
                 "ADDRESS": "Vøyensvingen 20 - 22, 0458 OSLO",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1015618",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1177"
+                "id": "node/-1179"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1115",
+            "id": "node/-1118",
             "properties": {
                 "ADDRESS": "Josefines Gate 17, 0351 OSLO",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1021253",
                 "operator": "Stiftelsen Treklang Montessori",
                 "operator:type": "private",
-                "id": "node/-1115"
+                "id": "node/-1118"
             },
             "geometry": {
                 "type": "Point",
@@ -50,30 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1077",
-            "properties": {
-                "ADDRESS": "Pilestredet 42, 0167 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "26",
-                "max_age": "2",
-                "min_age": "1",
-                "name": "Studentsamskipnaden Sio Bisletbekken studentbarnehage",
-                "no-barnehage:nsrid": "1015654",
-                "operator": "Studentsamskipnaden i Oslo og Akershus",
-                "operator:type": "private",
-                "id": "node/-1077"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.73404,
-                    59.9216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1075",
+            "id": "node/-1079",
             "properties": {
                 "ADDRESS": "Dalsbergstien 22f, 0170 OSLO",
                 "amenity": "kindergarten",
@@ -82,9 +59,9 @@
                 "min_age": "1",
                 "name": "Studentsamskipnaden Sio Lille Bislet studentbarnehage",
                 "no-barnehage:nsrid": "1016263",
-                "operator": "Studentsamskipnaden i Oslo og Akershus",
+                "operator": "Studentsamskipnaden Sio",
                 "operator:type": "private",
-                "id": "node/-1075"
+                "id": "node/-1079"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +73,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1056",
+            "id": "node/-1078",
+            "properties": {
+                "ADDRESS": "Pilestredet 42, 0167 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "26",
+                "max_age": "2",
+                "min_age": "1",
+                "name": "Studentsamskipnaden Sio Bisletbekken studentbarnehage",
+                "no-barnehage:nsrid": "1015654",
+                "operator": "Studentsamskipnaden Sio",
+                "operator:type": "private",
+                "id": "node/-1078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73404,
+                    59.9216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1059",
             "properties": {
                 "ADDRESS": "Victoria Terrasse 7, 0251 OSLO",
                 "amenity": "kindergarten",
@@ -108,7 +108,7 @@
                 "no-barnehage:nsrid": "1020062",
                 "operator": "Stiftelsen Victoria barnehage",
                 "operator:type": "private",
-                "id": "node/-1056"
+                "id": "node/-1059"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1044",
+            "id": "node/-1047",
             "properties": {
                 "ADDRESS": "Geitmyrsveien 20, 0171 OSLO",
                 "amenity": "kindergarten",
@@ -131,7 +131,7 @@
                 "no-barnehage:nsrid": "1016798",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-1044"
+                "id": "node/-1047"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +143,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1005",
+            "id": "node/-1008",
             "properties": {
                 "ADDRESS": "Grønland 12, 0188 OSLO",
                 "amenity": "kindergarten",
@@ -154,7 +154,7 @@
                 "no-barnehage:nsrid": "1021348",
                 "operator": "Urtehagen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-1005"
+                "id": "node/-1008"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +166,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-990",
+            "id": "node/-993",
             "properties": {
                 "ADDRESS": "Seilduksgata 32, 0553 OSLO",
                 "amenity": "kindergarten",
@@ -178,7 +178,7 @@
                 "no-barnehage:nsrid": "1019782",
                 "operator": "Seilduken barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-990"
+                "id": "node/-993"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +190,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-989",
+            "id": "node/-992",
             "properties": {
                 "ADDRESS": "Schwensens Gate 7, 0170 OSLO",
                 "amenity": "kindergarten",
@@ -200,7 +200,7 @@
                 "no-barnehage:nsrid": "1017003",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-989"
+                "id": "node/-992"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +212,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-978",
+            "id": "node/-981",
             "properties": {
                 "ADDRESS": "Oskar Braatens Gate 6, 0474 OSLO",
                 "amenity": "kindergarten",
@@ -223,7 +223,7 @@
                 "no-barnehage:nsrid": "1017310",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-978"
+                "id": "node/-981"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +235,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-962",
+            "id": "node/-965",
             "properties": {
                 "ADDRESS": "Sporveisgata 17, 0354 OSLO",
                 "amenity": "kindergarten",
@@ -246,7 +246,7 @@
                 "no-barnehage:nsrid": "1015615",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-962"
+                "id": "node/-965"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +258,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-955",
+            "id": "node/-958",
             "properties": {
                 "ADDRESS": "Toftes Gate 15c, 0556 OSLO",
                 "amenity": "kindergarten",
@@ -270,7 +270,7 @@
                 "no-barnehage:nsrid": "1021725",
                 "operator": "Ringnes Park Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-955"
+                "id": "node/-958"
             },
             "geometry": {
                 "type": "Point",
@@ -282,7 +282,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-937",
+            "id": "node/-940",
             "properties": {
                 "ADDRESS": "Rubina Ranas Gate 10, 0190 OSLO",
                 "amenity": "kindergarten",
@@ -294,7 +294,7 @@
                 "no-barnehage:nsrid": "1017682",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-937"
+                "id": "node/-940"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +306,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-884",
+            "id": "node/-886",
             "properties": {
                 "ADDRESS": "Nedre Gate 3, 0551 OSLO",
                 "amenity": "kindergarten",
@@ -317,7 +317,7 @@
                 "no-barnehage:nsrid": "2000212",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-884"
+                "id": "node/-886"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +329,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-844",
+            "id": "node/-846",
             "properties": {
                 "ADDRESS": "Schwensens Gate 9b, 0170 OSLO",
                 "amenity": "kindergarten",
@@ -340,7 +340,7 @@
                 "no-barnehage:nsrid": "1017205",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-844"
+                "id": "node/-846"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +352,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-839",
+            "id": "node/-841",
             "properties": {
                 "ADDRESS": "Norbygata 9, 0187 OSLO",
                 "amenity": "kindergarten",
@@ -363,7 +363,7 @@
                 "no-barnehage:nsrid": "1015060",
                 "operator": "Urtehagen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-839"
+                "id": "node/-841"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +375,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-825",
+            "id": "node/-827",
             "properties": {
                 "ADDRESS": "Haakon Viis Gate 1, 0161 OSLO",
                 "amenity": "kindergarten",
@@ -383,7 +383,7 @@
                 "no-barnehage:nsrid": "2000588",
                 "operator": "M28 barnehage AS",
                 "operator:type": "private",
-                "id": "node/-825"
+                "id": "node/-827"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +395,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-817",
+            "id": "node/-819",
             "properties": {
                 "ADDRESS": "Lille Bislett 28, 0170 OSLO",
                 "amenity": "kindergarten",
@@ -406,7 +406,7 @@
                 "no-barnehage:nsrid": "1021731",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-817"
+                "id": "node/-819"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +418,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-808",
+            "id": "node/-810",
             "properties": {
                 "ADDRESS": "Darres Gate 26, 0175 OSLO",
                 "amenity": "kindergarten",
@@ -430,7 +430,7 @@
                 "no-barnehage:nsrid": "1021818",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-808"
+                "id": "node/-810"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +442,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-785",
+            "id": "node/-787",
             "properties": {
                 "ADDRESS": "Lovisenberggata 7a, 0456 OSLO",
                 "amenity": "kindergarten",
@@ -453,7 +453,7 @@
                 "no-barnehage:nsrid": "1018582",
                 "operator": "Stiftelsen Diakonissehuset Lovisenberg",
                 "operator:type": "private",
-                "id": "node/-785"
+                "id": "node/-787"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +465,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-763",
+            "id": "node/-764",
             "properties": {
                 "ADDRESS": "Lakkegata 19, 0187 OSLO",
                 "amenity": "kindergarten",
@@ -476,7 +476,7 @@
                 "no-barnehage:nsrid": "1021134",
                 "operator": "Urtehagen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-763"
+                "id": "node/-764"
             },
             "geometry": {
                 "type": "Point",
@@ -488,7 +488,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-751",
+            "id": "node/-752",
             "properties": {
                 "ADDRESS": "Heimdalsgata 19-21, 0561 OSLO",
                 "amenity": "kindergarten",
@@ -499,7 +499,7 @@
                 "no-barnehage:nsrid": "1017289",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-751"
+                "id": "node/-752"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +511,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-745",
+            "id": "node/-746",
             "properties": {
                 "ADDRESS": "Schwensens Gate 9c, 0170 OSLO",
                 "amenity": "kindergarten",
@@ -519,7 +519,7 @@
                 "no-barnehage:nsrid": "2000007",
                 "operator": "Kulturbarnehagen AS",
                 "operator:type": "private",
-                "id": "node/-745"
+                "id": "node/-746"
             },
             "geometry": {
                 "type": "Point",
@@ -531,7 +531,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-723",
+            "id": "node/-724",
             "properties": {
                 "ADDRESS": "C/o Norlandia Øvre Vollgate 13, 0158 OSLO",
                 "amenity": "kindergarten",
@@ -539,7 +539,7 @@
                 "no-barnehage:nsrid": "1025897",
                 "operator": "Kidsa Drift AS",
                 "operator:type": "private",
-                "id": "node/-723"
+                "id": "node/-724"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +551,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-722",
+            "id": "node/-723",
             "properties": {
                 "ADDRESS": "Ebbells Gate 1, 0183 OSLO",
                 "amenity": "kindergarten",
@@ -562,7 +562,7 @@
                 "no-barnehage:nsrid": "1018409",
                 "operator": "Kristent Interkulturelt Arbeid (kia)",
                 "operator:type": "private",
-                "id": "node/-722"
+                "id": "node/-723"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +574,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-719",
+            "id": "node/-720",
             "properties": {
                 "ADDRESS": "Pilestredet Park 13, 0176 OSLO",
                 "amenity": "kindergarten",
@@ -585,7 +585,7 @@
                 "no-barnehage:nsrid": "1021582",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-719"
+                "id": "node/-720"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +597,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-700",
+            "id": "node/-701",
             "properties": {
                 "ADDRESS": "Vika Haakon Viis Gate 2, 0161 OSLO",
                 "amenity": "kindergarten",
@@ -605,7 +605,7 @@
                 "no-barnehage:nsrid": "2000597",
                 "operator": "Its Solbarnehager AS",
                 "operator:type": "private",
-                "id": "node/-700"
+                "id": "node/-701"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +617,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-659",
+            "id": "node/-660",
             "properties": {
                 "ADDRESS": "Mariboes Gate 20, 0182 OSLO",
                 "amenity": "kindergarten",
@@ -629,7 +629,7 @@
                 "no-barnehage:nsrid": "1025753",
                 "operator": "Espira Oslo Barnehagedrift AS",
                 "operator:type": "private",
-                "id": "node/-659"
+                "id": "node/-660"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +641,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-644",
+            "id": "node/-645",
             "properties": {
                 "ADDRESS": "Damstredet 1, 0177 OSLO",
                 "amenity": "kindergarten",
@@ -652,7 +652,7 @@
                 "no-barnehage:nsrid": "1017290",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-644"
+                "id": "node/-645"
             },
             "geometry": {
                 "type": "Point",
@@ -664,7 +664,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-640",
+            "id": "node/-641",
             "properties": {
                 "ADDRESS": "Christies Gate 40 - 42, 0568 OSLO",
                 "amenity": "kindergarten",
@@ -675,7 +675,7 @@
                 "no-barnehage:nsrid": "1017422",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-640"
+                "id": "node/-641"
             },
             "geometry": {
                 "type": "Point",
@@ -687,7 +687,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-613",
+            "id": "node/-614",
             "properties": {
                 "ADDRESS": "Hegdehaugsveien 19, 0352 OSLO",
                 "amenity": "kindergarten",
@@ -698,7 +698,7 @@
                 "no-barnehage:nsrid": "1017483",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-613"
+                "id": "node/-614"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +710,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-612",
+            "id": "node/-613",
             "properties": {
                 "ADDRESS": "Grønland 30, 0188 OSLO",
                 "amenity": "kindergarten",
@@ -719,7 +719,7 @@
                 "no-barnehage:nsrid": "1018534",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-612"
+                "id": "node/-613"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +731,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-611",
+            "id": "node/-612",
             "properties": {
                 "ADDRESS": "Smalgangen 22, 0188 OSLO",
                 "amenity": "kindergarten",
@@ -742,7 +742,7 @@
                 "no-barnehage:nsrid": "1014773",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-611"
+                "id": "node/-612"
             },
             "geometry": {
                 "type": "Point",
@@ -754,7 +754,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-609",
+            "id": "node/-610",
             "properties": {
                 "ADDRESS": "Norbygata 1, 0187 OSLO",
                 "amenity": "kindergarten",
@@ -765,7 +765,7 @@
                 "no-barnehage:nsrid": "1016050",
                 "operator": "Urtehagen Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-609"
+                "id": "node/-610"
             },
             "geometry": {
                 "type": "Point",
@@ -777,7 +777,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-608",
+            "id": "node/-609",
             "properties": {
                 "ADDRESS": "Sofienberggata 3b, 0551 OSLO",
                 "amenity": "kindergarten",
@@ -788,7 +788,7 @@
                 "no-barnehage:nsrid": "1013811",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-608"
+                "id": "node/-609"
             },
             "geometry": {
                 "type": "Point",
@@ -800,7 +800,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-596",
+            "id": "node/-597",
             "properties": {
                 "ADDRESS": "C/o Bjørnegårdssvingen 11 - 13 Ans Hammersborg Torg 1, 0179 OSLO",
                 "amenity": "kindergarten",
@@ -808,7 +808,7 @@
                 "no-barnehage:nsrid": "2000512",
                 "operator": "Gnist Bjørnegårdsvingen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-596"
+                "id": "node/-597"
             },
             "geometry": {
                 "type": "Point",
@@ -820,7 +820,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-590",
+            "id": "node/-591",
             "properties": {
                 "ADDRESS": "Thorvald Meyers Gate 46, 0552 OSLO",
                 "amenity": "kindergarten",
@@ -831,7 +831,7 @@
                 "no-barnehage:nsrid": "1012981",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-590"
+                "id": "node/-591"
             },
             "geometry": {
                 "type": "Point",
@@ -843,7 +843,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-581",
+            "id": "node/-582",
             "properties": {
                 "ADDRESS": "Westye Egebergs Gate 5, 0177 OSLO",
                 "amenity": "kindergarten",
@@ -854,7 +854,7 @@
                 "no-barnehage:nsrid": "1017002",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-581"
+                "id": "node/-582"
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +866,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-551",
+            "id": "node/-552",
             "properties": {
                 "ADDRESS": "Fagerborggata 14, 0360 OSLO",
                 "amenity": "kindergarten",
@@ -877,7 +877,7 @@
                 "no-barnehage:nsrid": "1016790",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-551"
+                "id": "node/-552"
             },
             "geometry": {
                 "type": "Point",
@@ -889,7 +889,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-550",
+            "id": "node/-551",
             "properties": {
                 "ADDRESS": "Fagerborggata 31, 0360 OSLO",
                 "amenity": "kindergarten",
@@ -900,7 +900,7 @@
                 "no-barnehage:nsrid": "1016663",
                 "operator": "Fagerborg Sokn",
                 "operator:type": "private",
-                "id": "node/-550"
+                "id": "node/-551"
             },
             "geometry": {
                 "type": "Point",
@@ -912,7 +912,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-547",
+            "id": "node/-548",
             "properties": {
                 "ADDRESS": "Hus 8/9 Storgata 55, 0182 OSLO",
                 "amenity": "kindergarten",
@@ -924,7 +924,7 @@
                 "no-barnehage:nsrid": "1020767",
                 "operator": "Stiftelsen Eventyrbrua Steinerbarnehage",
                 "operator:type": "private",
-                "id": "node/-547"
+                "id": "node/-548"
             },
             "geometry": {
                 "type": "Point",
