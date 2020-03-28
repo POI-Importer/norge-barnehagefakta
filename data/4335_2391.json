@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3093",
+            "id": "node/-2840",
             "properties": {
                 "ADDRESS": "Høvikskogen 2, 3477 BÅTSTØ",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1021464",
                 "operator": "Nedre Høvik Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-3093"
+                "id": "node/-2840"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3049",
+            "id": "node/-2801",
             "properties": {
                 "ADDRESS": "Astrid Skares Vei 70, 3474 ÅROS",
                 "amenity": "kindergarten",
@@ -37,33 +37,13 @@
                 "no-barnehage:nsrid": "1013097",
                 "operator": "Stiftelsen Kanvas",
                 "operator:type": "private",
-                "id": "node/-3049"
+                "id": "node/-2801"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.50979,
                     59.71381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3045",
-            "properties": {
-                "ADDRESS": "Kjøyafaret 54, 3474 ÅROS",
-                "amenity": "kindergarten",
-                "name": "Espira Årosfjellet barnehage",
-                "no-barnehage:nsrid": "2000605",
-                "operator": "Espira Barnehager AS",
-                "operator:type": "private",
-                "id": "node/-3045"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.51168,
-                    59.71294
                 ]
             }
         }

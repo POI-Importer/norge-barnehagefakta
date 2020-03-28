@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5458",
+            "id": "node/-5036",
             "properties": {
                 "ADDRESS": "Sollistrandsveien 12, 3187 HORTEN",
                 "amenity": "kindergarten",
@@ -11,7 +11,7 @@
                 "no-barnehage:nsrid": "1022450",
                 "operator": "Silvia Kristoffersen Kosmo",
                 "operator:type": "private",
-                "id": "node/-5458"
+                "id": "node/-5036"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +23,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5456",
+            "id": "node/-5034",
             "properties": {
                 "ADDRESS": "Idrettshuset på Borre Trimveien 9, 3188 HORTEN",
                 "amenity": "kindergarten",
@@ -34,19 +34,19 @@
                 "no-barnehage:nsrid": "1020695",
                 "operator": "Trimveien barnehage Da",
                 "operator:type": "private",
-                "id": "node/-5456"
+                "id": "node/-5034"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.46232,
-                    59.40516
+                    10.46454,
+                    59.40358
                 ]
             }
         },
         {
             "type": "Feature",
-            "id": "node/-5455",
+            "id": "node/-5033",
             "properties": {
                 "ADDRESS": "Strandparken 75, 3187 HORTEN",
                 "amenity": "kindergarten",
@@ -57,7 +57,7 @@
                 "no-barnehage:nsrid": "1016998",
                 "operator": "Horten kommune",
                 "operator:type": "public",
-                "id": "node/-5455"
+                "id": "node/-5033"
             },
             "geometry": {
                 "type": "Point",
@@ -69,7 +69,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5448",
+            "id": "node/-5026",
             "properties": {
                 "ADDRESS": "Lilaasveien 11, 3189 HORTEN",
                 "amenity": "kindergarten",
@@ -80,7 +80,7 @@
                 "no-barnehage:nsrid": "1022067",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-5448"
+                "id": "node/-5026"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +92,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5447",
+            "id": "node/-5025",
             "properties": {
                 "ADDRESS": "Lilaasveien 16, 3188 HORTEN",
                 "amenity": "kindergarten",
@@ -103,7 +103,7 @@
                 "no-barnehage:nsrid": "1020694",
                 "operator": "Lilaas Gård Barnehage, Inger Marie Semb Avdal",
                 "operator:type": "private",
-                "id": "node/-5447"
+                "id": "node/-5025"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +115,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5443",
+            "id": "node/-5022",
             "properties": {
                 "ADDRESS": "Haakons Gate 21, 3188 HORTEN",
                 "amenity": "kindergarten",
@@ -126,7 +126,7 @@
                 "no-barnehage:nsrid": "1012882",
                 "operator": "Horten kommune",
                 "operator:type": "public",
-                "id": "node/-5443"
+                "id": "node/-5022"
             },
             "geometry": {
                 "type": "Point",
@@ -138,29 +138,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5442",
-            "properties": {
-                "ADDRESS": "Strandparken 75, 3187 HORTEN",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Familiebarnehage Strandparken",
-                "no-barnehage:nsrid": "1019645",
-                "operator": "Horten kommune",
-                "operator:type": "public",
-                "id": "node/-5442"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.48361,
-                    59.40601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5440",
+            "id": "node/-5020",
             "properties": {
                 "ADDRESS": "Framveien 6a, 3188 HORTEN",
                 "amenity": "kindergarten",
@@ -171,35 +149,13 @@
                 "no-barnehage:nsrid": "1025673",
                 "operator": "Espira Barnehager AS",
                 "operator:type": "private",
-                "id": "node/-5440"
+                "id": "node/-5020"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.46678,
                     59.40421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-5436",
-            "properties": {
-                "ADDRESS": "Idrettsveien 9, 3188 HORTEN",
-                "amenity": "kindergarten",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Baggerød barnehage",
-                "no-barnehage:nsrid": "1015829",
-                "operator": "Borre Student- og Idrettsbarnehage AS",
-                "operator:type": "private",
-                "id": "node/-5436"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.46454,
-                    59.40358
                 ]
             }
         }

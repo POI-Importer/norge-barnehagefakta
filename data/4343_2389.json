@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2761",
+            "id": "node/-2534",
             "properties": {
                 "ADDRESS": "Kantarellen 23, 1405 LANGHUS",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1013037",
                 "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-2761"
+                "id": "node/-2534"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2751",
+            "id": "node/-2524",
             "properties": {
                 "ADDRESS": "Tyttebærlia 2, 1405 LANGHUS",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1015987",
                 "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-2751"
+                "id": "node/-2524"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2716",
+            "id": "node/-2514",
+            "properties": {
+                "ADDRESS": "Tømmerfaret 2, 1414 TROLLÅSEN",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mellomåsen barnehage",
+                "no-barnehage:nsrid": "1012775",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86649,
+                    59.7672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2490",
             "properties": {
                 "ADDRESS": "Bjørkekroken 39, 1405 LANGHUS",
                 "amenity": "kindergarten",
@@ -60,7 +83,7 @@
                 "no-barnehage:nsrid": "1015988",
                 "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-2716"
+                "id": "node/-2490"
             },
             "geometry": {
                 "type": "Point",
