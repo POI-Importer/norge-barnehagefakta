@@ -76,29 +76,6 @@
             "type": "Feature",
             "id": "node/-4133",
             "properties": {
-                "ADDRESS": "Sigrid Undsets Veg 66, 2624 LILLEHAMMER",
-                "amenity": "kindergarten",
-                "capacity": "36",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Fagstadlia FUS barnehage avd. Sigrid Undsets Veg",
-                "no-barnehage:nsrid": "1019750",
-                "operator": "Fagstadlia Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-4133"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.45187,
-                    61.13398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4132",
-            "properties": {
                 "ADDRESS": "Kringsjåvegen, 2618 LILLEHAMMER",
                 "amenity": "kindergarten",
                 "capacity": "74",
@@ -108,13 +85,36 @@
                 "no-barnehage:nsrid": "1021239",
                 "operator": "Fagstadlia Fus barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4132"
+                "id": "node/-4133"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.45893,
                     61.13935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4132",
+            "properties": {
+                "ADDRESS": "Sigrid Undsets Veg 66, 2624 LILLEHAMMER",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Fagstadlia FUS barnehage avd. Sigrid Undsets Veg",
+                "no-barnehage:nsrid": "1019750",
+                "operator": "Fagstadlia Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-4132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45187,
+                    61.13398
                 ]
             }
         }

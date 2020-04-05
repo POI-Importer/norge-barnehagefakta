@@ -3,31 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3063",
-            "properties": {
-                "ADDRESS": "Skoleveien 14, 1480 SLATTUM",
-                "amenity": "kindergarten",
-                "capacity": "69",
-                "contact:website": "http://laringsverkstedet.no/barnehage/slattum",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Slattum",
-                "no-barnehage:nsrid": "1018430",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-3063"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.91419,
-                    60.00929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3061",
+            "id": "node/-3062",
             "properties": {
                 "ADDRESS": "Haugeråsen 16, 1480 SLATTUM",
                 "amenity": "kindergarten",
@@ -39,13 +15,37 @@
                 "no-barnehage:nsrid": "1014173",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-3061"
+                "id": "node/-3062"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.91299,
                     60.01395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3061",
+            "properties": {
+                "ADDRESS": "Skoleveien 14, 1480 SLATTUM",
+                "amenity": "kindergarten",
+                "capacity": "69",
+                "contact:website": "http://laringsverkstedet.no/barnehage/slattum",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Slattum",
+                "no-barnehage:nsrid": "1018430",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91419,
+                    60.00929
                 ]
             }
         },

@@ -3,6 +3,30 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-4951",
+            "properties": {
+                "ADDRESS": "Åkerveien 2, 3024 DRAMMEN",
+                "amenity": "kindergarten",
+                "capacity": "18",
+                "contact:website": "http://aassidenmenighetsbhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Åssiden menighets barnehage",
+                "no-barnehage:nsrid": "1015537",
+                "operator": "Drammen Kirkelig Fellesråd",
+                "operator:type": "private",
+                "id": "node/-4951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14314,
+                    59.75423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-4950",
             "properties": {
                 "ADDRESS": "Vårveien 5, 3024 DRAMMEN",
@@ -73,31 +97,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4881",
-            "properties": {
-                "ADDRESS": "Åkerveien 2, 3024 DRAMMEN",
-                "amenity": "kindergarten",
-                "capacity": "18",
-                "contact:website": "http://aassidenmenighetsbhg.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Åssiden menighets barnehage",
-                "no-barnehage:nsrid": "1015537",
-                "operator": "Drammen Kirkelig Fellesråd",
-                "operator:type": "private",
-                "id": "node/-4881"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.14314,
-                    59.75423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-4870",
+            "id": "node/-4873",
             "properties": {
                 "ADDRESS": "Buskerudveien 142, 3027 DRAMMEN",
                 "amenity": "kindergarten",
@@ -108,7 +108,7 @@
                 "no-barnehage:nsrid": "1021685",
                 "operator": "Bessungen AS",
                 "operator:type": "private",
-                "id": "node/-4870"
+                "id": "node/-4873"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +120,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-4868",
+            "id": "node/-4871",
             "properties": {
                 "ADDRESS": "Buskerudveien 172, 3027 DRAMMEN",
                 "amenity": "kindergarten",
@@ -132,7 +132,7 @@
                 "no-barnehage:nsrid": "1021814",
                 "operator": "Bekkevollen barnehage AS",
                 "operator:type": "private",
-                "id": "node/-4868"
+                "id": "node/-4871"
             },
             "geometry": {
                 "type": "Point",

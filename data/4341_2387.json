@@ -164,29 +164,6 @@
             "type": "Feature",
             "id": "node/-2507",
             "properties": {
-                "ADDRESS": "Fartein Valens Vei 39, 1410 KOLBOTN",
-                "amenity": "kindergarten",
-                "capacity": "31",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Ingierkollen barnehage Ingieråsen",
-                "no-barnehage:nsrid": "1025360",
-                "operator": "Nordre Follo kommune",
-                "operator:type": "public",
-                "id": "node/-2507"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.78529,
-                    59.80527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2506",
-            "properties": {
                 "ADDRESS": "Jordbærsletta 1, 1410 KOLBOTN",
                 "amenity": "kindergarten",
                 "capacity": "40",
@@ -196,13 +173,36 @@
                 "no-barnehage:nsrid": "1016196",
                 "operator": "Nordre Follo kommune",
                 "operator:type": "public",
-                "id": "node/-2506"
+                "id": "node/-2507"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.79579,
                     59.80626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2506",
+            "properties": {
+                "ADDRESS": "Fartein Valens Vei 39, 1410 KOLBOTN",
+                "amenity": "kindergarten",
+                "capacity": "31",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Ingierkollen barnehage Ingieråsen",
+                "no-barnehage:nsrid": "1025360",
+                "operator": "Nordre Follo kommune",
+                "operator:type": "public",
+                "id": "node/-2506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78529,
+                    59.80527
                 ]
             }
         }

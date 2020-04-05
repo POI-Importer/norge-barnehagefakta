@@ -28,29 +28,6 @@
             "type": "Feature",
             "id": "node/-333",
             "properties": {
-                "ADDRESS": "Venneslavegen 294, 4700 VENNESLA",
-                "amenity": "kindergarten",
-                "capacity": "21",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Søndagsbakken barnehage",
-                "no-barnehage:nsrid": "1015578",
-                "operator": "Læringsverkstedet AS",
-                "operator:type": "private",
-                "id": "node/-333"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.9704,
-                    58.27863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-331",
-            "properties": {
                 "ADDRESS": "Erkleivvegen 39, 4700 VENNESLA",
                 "amenity": "kindergarten",
                 "capacity": "30",
@@ -60,13 +37,36 @@
                 "no-barnehage:nsrid": "1016776",
                 "operator": "Læringsverkstedet AS",
                 "operator:type": "private",
-                "id": "node/-331"
+                "id": "node/-333"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.97684,
                     58.27056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-332",
+            "properties": {
+                "ADDRESS": "Venneslavegen 294, 4700 VENNESLA",
+                "amenity": "kindergarten",
+                "capacity": "21",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Søndagsbakken barnehage",
+                "no-barnehage:nsrid": "1015578",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9704,
+                    58.27863
                 ]
             }
         },

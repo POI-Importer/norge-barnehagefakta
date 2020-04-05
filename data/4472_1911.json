@@ -5,29 +5,6 @@
             "type": "Feature",
             "id": "node/-3873",
             "properties": {
-                "ADDRESS": "Gullhaugen Alle 14, 9406 HARSTAD",
-                "amenity": "kindergarten",
-                "capacity": "61",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Heggen barnehager avd. Gullhaugen",
-                "no-barnehage:nsrid": "1025489",
-                "operator": "Harstad kommune / Hársttáid Suohkan",
-                "operator:type": "public",
-                "id": "node/-3873"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.52654,
-                    68.79506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3871",
-            "properties": {
                 "ADDRESS": "Marcus Pedersens Vei 23, 9406 HARSTAD",
                 "amenity": "kindergarten",
                 "capacity": "27",
@@ -37,13 +14,36 @@
                 "no-barnehage:nsrid": "1016625",
                 "operator": "Harstad kommune / Hársttáid Suohkan",
                 "operator:type": "public",
-                "id": "node/-3871"
+                "id": "node/-3873"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     16.52633,
                     68.78918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3871",
+            "properties": {
+                "ADDRESS": "Gullhaugen Alle 14, 9406 HARSTAD",
+                "amenity": "kindergarten",
+                "capacity": "61",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Heggen barnehager avd. Gullhaugen",
+                "no-barnehage:nsrid": "1025489",
+                "operator": "Harstad kommune / Hársttáid Suohkan",
+                "operator:type": "public",
+                "id": "node/-3871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52654,
+                    68.79506
                 ]
             }
         },

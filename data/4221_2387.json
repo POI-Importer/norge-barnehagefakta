@@ -49,6 +49,30 @@
         },
         {
             "type": "Feature",
+            "id": "node/-1388",
+            "properties": {
+                "ADDRESS": "Vestlivegen 40, 5414 STORD",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:website": "http://www.prestagardskogen.bhg.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Nordbygdo FUS barnehage avd. Prestagardskogen",
+                "no-barnehage:nsrid": "1020544",
+                "operator": "Nordbygdo Fus barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51315,
+                    59.80128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-1387",
             "properties": {
                 "ADDRESS": "Tysemarkjo 47, 5414 STORD",
@@ -67,30 +91,6 @@
                 "coordinates": [
                     5.50711,
                     59.80415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1386",
-            "properties": {
-                "ADDRESS": "Vestlivegen 40, 5414 STORD",
-                "amenity": "kindergarten",
-                "capacity": "56",
-                "contact:website": "http://www.prestagardskogen.bhg.no",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Nordbygdo FUS barnehage avd. Prestagardskogen",
-                "no-barnehage:nsrid": "1020544",
-                "operator": "Nordbygdo Fus barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1386"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.51315,
-                    59.80128
                 ]
             }
         }
