@@ -27,30 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3448",
-            "properties": {
-                "ADDRESS": "Eldfiskbakken 9, 4028 STAVANGER",
-                "amenity": "kindergarten",
-                "capacity": "72",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Læringsverkstedet barnehage avd. Trollberget barnehage",
-                "no-barnehage:nsrid": "1021735",
-                "operator": "Trollberget AS",
-                "operator:type": "private",
-                "id": "node/-3448"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.68334,
-                    58.99016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-3427",
+            "id": "node/-3428",
             "properties": {
                 "ADDRESS": "Smietunet 80, 4027 STAVANGER",
                 "amenity": "kindergarten",
@@ -62,7 +39,7 @@
                 "no-barnehage:nsrid": "1016073",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3427"
+                "id": "node/-3428"
             },
             "geometry": {
                 "type": "Point",
@@ -74,7 +51,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-3426",
+            "id": "node/-3427",
             "properties": {
                 "ADDRESS": "Stølsbrautene 3, 4027 STAVANGER",
                 "amenity": "kindergarten",
@@ -85,13 +62,36 @@
                 "no-barnehage:nsrid": "1012914",
                 "operator": "Stavanger kommune",
                 "operator:type": "public",
-                "id": "node/-3426"
+                "id": "node/-3427"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.69436,
                     58.98161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3395",
+            "properties": {
+                "ADDRESS": "Eldfiskbakken 9, 4028 STAVANGER",
+                "amenity": "kindergarten",
+                "capacity": "72",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet barnehage avd. Trollberget barnehage",
+                "no-barnehage:nsrid": "1021735",
+                "operator": "Læringsverkstedet AS",
+                "operator:type": "private",
+                "id": "node/-3395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68334,
+                    58.99016
                 ]
             }
         },
