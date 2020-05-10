@@ -50,30 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-972",
-            "properties": {
-                "ADDRESS": "Dalsbergstien 22f, 0170 OSLO",
-                "amenity": "kindergarten",
-                "capacity": "57",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Studentsamskipnaden Sio Lille Bislet studentbarnehage",
-                "no-barnehage:nsrid": "1016263",
-                "operator": "Studentsamskipnaden Sio",
-                "operator:type": "private",
-                "id": "node/-972"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.73431,
-                    59.92297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-971",
+            "id": "node/-973",
             "properties": {
                 "ADDRESS": "Pilestredet 42, 0167 OSLO",
                 "amenity": "kindergarten",
@@ -84,13 +61,36 @@
                 "no-barnehage:nsrid": "1015654",
                 "operator": "Studentsamskipnaden Sio",
                 "operator:type": "private",
-                "id": "node/-971"
+                "id": "node/-973"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     10.73404,
                     59.9216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-971",
+            "properties": {
+                "ADDRESS": "Dalsbergstien 22f, 0170 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "57",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Studentsamskipnaden Sio Lille Bislet studentbarnehage",
+                "no-barnehage:nsrid": "1016263",
+                "operator": "Studentsamskipnaden Sio",
+                "operator:type": "private",
+                "id": "node/-971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73431,
+                    59.92297
                 ]
             }
         },
