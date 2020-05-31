@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-830",
+            "id": "node/-831",
             "properties": {
                 "ADDRESS": "Landgangen 6, 0252 OSLO",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1021551",
                 "operator": "Norlandia Barnehagene Ii AS",
                 "operator:type": "private",
-                "id": "node/-830"
+                "id": "node/-831"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-573",
+            "id": "node/-819",
+            "properties": {
+                "ADDRESS": "Opplandsgate 5, 0657 OSLO",
+                "amenity": "kindergarten",
+                "capacity": "34",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Norlandia Enga barnehage",
+                "no-barnehage:nsrid": "1015041",
+                "operator": "Norlandia Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72032,
+                    59.90792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-574",
             "properties": {
                 "ADDRESS": "Huk Aveny 55, 0287 OSLO",
                 "amenity": "kindergarten",
@@ -39,7 +62,7 @@
                 "no-barnehage:nsrid": "1021102",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-573"
+                "id": "node/-574"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +74,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-509",
+            "id": "node/-510",
             "properties": {
                 "ADDRESS": "Munkedamsveien 62a, 0270 OSLO",
                 "amenity": "kindergarten",
@@ -63,7 +86,7 @@
                 "no-barnehage:nsrid": "1025515",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-509"
+                "id": "node/-510"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +98,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-441",
+            "id": "node/-442",
             "properties": {
                 "ADDRESS": "Huk Aveny 55, 0287 OSLO",
                 "amenity": "kindergarten",
@@ -87,7 +110,7 @@
                 "no-barnehage:nsrid": "1019775",
                 "operator": "Ulna AS",
                 "operator:type": "private",
-                "id": "node/-441"
+                "id": "node/-442"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +122,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-409",
+            "id": "node/-410",
             "properties": {
                 "ADDRESS": "Huk Aveny 57, 0287 OSLO",
                 "amenity": "kindergarten",
@@ -110,7 +133,7 @@
                 "no-barnehage:nsrid": "1017413",
                 "operator": "Oslo kommune",
                 "operator:type": "public",
-                "id": "node/-409"
+                "id": "node/-410"
             },
             "geometry": {
                 "type": "Point",

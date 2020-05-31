@@ -8,6 +8,7 @@
                 "ADDRESS": "Gråurvegen 2, 6230 SYKKYLVEN",
                 "amenity": "kindergarten",
                 "capacity": "64",
+                "contact:website": "http://www.vikedalenbarnehage.no",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vikedalen barnehage",
@@ -31,6 +32,7 @@
                 "ADDRESS": "Helledalen 2, 6230 SYKKYLVEN",
                 "amenity": "kindergarten",
                 "capacity": "27",
+                "contact:website": "http://ullavikbarnehage.no/",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Vik barnehage",
@@ -44,6 +46,29 @@
                 "coordinates": [
                     6.57727,
                     62.37848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-4634",
+            "properties": {
+                "ADDRESS": "Haugneset 12, 6230 SYKKYLVEN",
+                "amenity": "kindergarten",
+                "capacity": "32",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "NLM barnehagene avd. Tryggheim barnehage Sykkylven",
+                "no-barnehage:nsrid": "1016179",
+                "operator": "Nlm-Barnehagene AS",
+                "operator:type": "private",
+                "id": "node/-4634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5758,
+                    62.38994
                 ]
             }
         },

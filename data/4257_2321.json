@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1645",
+            "id": "node/-1647",
             "properties": {
                 "ADDRESS": "Dalavegen 10, 6856 SOGNDAL",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1015612",
                 "operator": "Studentsamskipnaden på Vestlandet",
                 "operator:type": "private",
-                "id": "node/-1645"
+                "id": "node/-1647"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1643",
+            "id": "node/-1645",
             "properties": {
                 "ADDRESS": "Helgheimsvegen 7, 6856 SOGNDAL",
                 "amenity": "kindergarten",
@@ -37,13 +37,33 @@
                 "no-barnehage:nsrid": "1019662",
                 "operator": "Rones barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1643"
+                "id": "node/-1645"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.11544,
                     61.23256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1638",
+            "properties": {
+                "ADDRESS": "Dalavegen 2s, 6856 SOGNDAL",
+                "amenity": "kindergarten",
+                "name": "Fosshagen barnehage",
+                "no-barnehage:nsrid": "2000662",
+                "operator": "Sogndal kommune",
+                "operator:type": "public",
+                "id": "node/-1638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09268,
+                    61.23166
                 ]
             }
         }
