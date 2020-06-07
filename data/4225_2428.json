@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3675",
+            "id": "node/-3677",
             "properties": {
                 "ADDRESS": "Åsenvegen 100, 4055 SOLA",
                 "amenity": "kindergarten",
@@ -15,13 +15,37 @@
                 "no-barnehage:nsrid": "1019733",
                 "operator": "The Childrens House",
                 "operator:type": "private",
-                "id": "node/-3675"
+                "id": "node/-3677"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.66976,
                     58.8923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3653",
+            "properties": {
+                "ADDRESS": "Varabergtunet 2, 4051 SOLA",
+                "amenity": "kindergarten",
+                "capacity": "56",
+                "contact:website": "http://www.eventyrberget.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Eventyrberget foreldrelagsbarnehage",
+                "no-barnehage:nsrid": "1020699",
+                "operator": "Eventyrberget Foreldrelagsbarnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67017,
+                    58.88244
                 ]
             }
         },
