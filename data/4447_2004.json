@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5627",
+            "id": "node/-5626",
             "properties": {
                 "ADDRESS": "Lyngveien 4, 8209 FAUSKE",
                 "amenity": "kindergarten",
@@ -15,13 +15,33 @@
                 "no-barnehage:nsrid": "1019998",
                 "operator": "Lyngheia barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5627"
+                "id": "node/-5626"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     15.42642,
                     67.26788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5625",
+            "properties": {
+                "ADDRESS": "Tinkeliheia 1, 8210 FAUSKE",
+                "amenity": "kindergarten",
+                "name": "Lyngheia barnehage avd. Tinkeliheia barnehage",
+                "no-barnehage:nsrid": "2000663",
+                "operator": "Lyngheia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-5625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44394,
+                    67.26079
                 ]
             }
         }

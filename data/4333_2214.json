@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1967",
+            "id": "node/-1968",
             "properties": {
                 "ADDRESS": "Olav Magnussons Veg 7, 7046 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1016933",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1967"
+                "id": "node/-1968"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1964",
+            "id": "node/-1965",
             "properties": {
                 "ADDRESS": "Professor J.H.L. Vogts Veg 3, 7052 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -38,7 +38,7 @@
                 "no-barnehage:nsrid": "1015982",
                 "operator": "Barnehagene Prestegårdsjordet og Tyholttunet Sa",
                 "operator:type": "private",
-                "id": "node/-1964"
+                "id": "node/-1965"
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1957",
+            "id": "node/-1958",
             "properties": {
                 "ADDRESS": "Kommandovegen 15, 7045 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -61,7 +61,7 @@
                 "no-barnehage:nsrid": "1017813",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1957"
+                "id": "node/-1958"
             },
             "geometry": {
                 "type": "Point",
@@ -73,7 +73,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1949",
+            "id": "node/-1950",
             "properties": {
                 "ADDRESS": "Teglverket 98, 7069 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -84,7 +84,7 @@
                 "no-barnehage:nsrid": "1018225",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1949"
+                "id": "node/-1950"
             },
             "geometry": {
                 "type": "Point",
@@ -96,30 +96,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1946",
-            "properties": {
-                "ADDRESS": "Brøsetvegen 147b, 7069 TRONDHEIM",
-                "amenity": "kindergarten",
-                "capacity": "43",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Sætra barnehage",
-                "no-barnehage:nsrid": "1022201",
-                "operator": "Sætra-Barnehage AS",
-                "operator:type": "private",
-                "id": "node/-1946"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.44294,
-                    63.4121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-1936",
+            "id": "node/-1938",
             "properties": {
                 "ADDRESS": "Otto Nielsens Veg 6, 7052 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -130,7 +107,7 @@
                 "no-barnehage:nsrid": "1020092",
                 "operator": "Stiftelsen Nrk - Marintek barnehage",
                 "operator:type": "private",
-                "id": "node/-1936"
+                "id": "node/-1938"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +119,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1898",
+            "id": "node/-1900",
             "properties": {
                 "ADDRESS": "Stadsing Dahls Gate 3, 7015 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -153,7 +130,7 @@
                 "no-barnehage:nsrid": "1017799",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1898"
+                "id": "node/-1900"
             },
             "geometry": {
                 "type": "Point",
@@ -165,7 +142,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1883",
+            "id": "node/-1885",
             "properties": {
                 "ADDRESS": "Ubåtsvingen 9, 7045 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -176,7 +153,7 @@
                 "no-barnehage:nsrid": "1018219",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1883"
+                "id": "node/-1885"
             },
             "geometry": {
                 "type": "Point",
@@ -188,7 +165,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1844",
+            "id": "node/-1855",
+            "properties": {
+                "ADDRESS": "Østre Berg 15, 7050 TRONDHEIM",
+                "amenity": "kindergarten",
+                "capacity": "43",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Læringsverkstedet Sætra idrettsbarnehage",
+                "no-barnehage:nsrid": "1022201",
+                "operator": "Sætra-Barnehage AS",
+                "operator:type": "private",
+                "id": "node/-1855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4354,
+                    63.4177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-1845",
             "properties": {
                 "ADDRESS": "Østre Berg 17, 7050 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -199,7 +199,7 @@
                 "no-barnehage:nsrid": "1017806",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1844"
+                "id": "node/-1845"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +211,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1806",
+            "id": "node/-1808",
             "properties": {
                 "ADDRESS": "Dr. Sands Veg 30, 7052 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -223,7 +223,7 @@
                 "no-barnehage:nsrid": "1020094",
                 "operator": "Hundremeterskogen Bhg Sa",
                 "operator:type": "private",
-                "id": "node/-1806"
+                "id": "node/-1808"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +235,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1796",
+            "id": "node/-1798",
             "properties": {
                 "ADDRESS": "Gina Krogs Veg 20, 7046 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -247,7 +247,7 @@
                 "no-barnehage:nsrid": "1020147",
                 "operator": "Hagebyen Private barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-1796"
+                "id": "node/-1798"
             },
             "geometry": {
                 "type": "Point",
@@ -259,7 +259,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1781",
+            "id": "node/-1783",
             "properties": {
                 "ADDRESS": "Frydenbergvegen 23, 7050 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -271,7 +271,7 @@
                 "no-barnehage:nsrid": "1016858",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-1781"
+                "id": "node/-1783"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +283,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1767",
+            "id": "node/-1769",
             "properties": {
                 "ADDRESS": "Granåsvegen 8, 7069 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -294,7 +294,7 @@
                 "no-barnehage:nsrid": "1017211",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1767"
+                "id": "node/-1769"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +306,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1764",
+            "id": "node/-1766",
             "properties": {
                 "ADDRESS": "Stallmestervegen 24, 7046 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -317,7 +317,7 @@
                 "no-barnehage:nsrid": "1016671",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1764"
+                "id": "node/-1766"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +329,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1752",
+            "id": "node/-1753",
             "properties": {
                 "ADDRESS": "Øvre Bergsvingen 19, 7052 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -341,7 +341,7 @@
                 "no-barnehage:nsrid": "1025646",
                 "operator": "Trondhjems Asylselskap",
                 "operator:type": "private",
-                "id": "node/-1752"
+                "id": "node/-1753"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +353,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-1742",
+            "id": "node/-1743",
             "properties": {
                 "ADDRESS": "Kommandovegen 5, 7045 TRONDHEIM",
                 "amenity": "kindergarten",
@@ -364,7 +364,7 @@
                 "no-barnehage:nsrid": "1017815",
                 "operator": "Trondheim kommune",
                 "operator:type": "public",
-                "id": "node/-1742"
+                "id": "node/-1743"
             },
             "geometry": {
                 "type": "Point",

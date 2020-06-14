@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-2682",
+            "id": "node/-2683",
             "properties": {
                 "ADDRESS": "Kolsås Leir Rødskiferveien 20, 1352 KOLSÅS",
                 "amenity": "kindergarten",
@@ -15,7 +15,7 @@
                 "no-barnehage:nsrid": "1020661",
                 "operator": "Kolsåstrollet barnehage",
                 "operator:type": "private",
-                "id": "node/-2682"
+                "id": "node/-2683"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +27,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-2681",
+            "id": "node/-2682",
             "properties": {
                 "ADDRESS": "Gabbroveien 15, 1352 KOLSÅS",
                 "amenity": "kindergarten",
@@ -36,6 +36,29 @@
                 "min_age": "1",
                 "name": "Kolsås barnehage avd. Småbarnshuset",
                 "no-barnehage:nsrid": "1017643",
+                "operator": "Bærum kommune",
+                "operator:type": "public",
+                "id": "node/-2682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50875,
+                    59.91439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-2681",
+            "properties": {
+                "ADDRESS": "Gabbroveien 15, 1352 KOLSÅS",
+                "amenity": "kindergarten",
+                "capacity": "12",
+                "max_age": "5",
+                "min_age": "3",
+                "name": "Kolsås barnehage avd. Knerten",
+                "no-barnehage:nsrid": "1017642",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
                 "id": "node/-2681"
@@ -54,29 +77,6 @@
             "properties": {
                 "ADDRESS": "Gabbroveien 15, 1352 KOLSÅS",
                 "amenity": "kindergarten",
-                "capacity": "12",
-                "max_age": "5",
-                "min_age": "3",
-                "name": "Kolsås barnehage avd. Knerten",
-                "no-barnehage:nsrid": "1017642",
-                "operator": "Bærum kommune",
-                "operator:type": "public",
-                "id": "node/-2680"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.50875,
-                    59.91439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/-2679",
-            "properties": {
-                "ADDRESS": "Gabbroveien 15, 1352 KOLSÅS",
-                "amenity": "kindergarten",
                 "capacity": "59",
                 "max_age": "5",
                 "min_age": "1",
@@ -84,7 +84,7 @@
                 "no-barnehage:nsrid": "1012657",
                 "operator": "Bærum kommune",
                 "operator:type": "public",
-                "id": "node/-2679"
+                "id": "node/-2680"
             },
             "geometry": {
                 "type": "Point",
