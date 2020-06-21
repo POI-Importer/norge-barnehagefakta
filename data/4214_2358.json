@@ -3,29 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-1551",
-            "properties": {
-                "ADDRESS": "Strømsnes, 5306 ERDAL",
-                "amenity": "kindergarten",
-                "capacity": "73",
-                "max_age": "5",
-                "min_age": "1",
-                "name": "Furuly barnehage",
-                "no-barnehage:nsrid": "1015506",
-                "operator": "Askøy kommune",
-                "operator:type": "public",
-                "id": "node/-1551"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22493,
-                    60.44708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "node/-1549",
             "properties": {
                 "ADDRESS": "Grensedalen, 5306 ERDAL",
@@ -55,6 +32,7 @@
                 "ADDRESS": "Steinråsa 5, 5306 ERDAL",
                 "amenity": "kindergarten",
                 "capacity": "61",
+                "contact:website": "http://askoy.kommune.no/barnehage/kommunale-barnehager/erdal-barnehage",
                 "max_age": "5",
                 "min_age": "1",
                 "name": "Erdal barnehage",

@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-3128",
+            "id": "node/-3133",
             "properties": {
                 "ADDRESS": "Kongsvingervegen 10, 2040 KLØFTA",
                 "amenity": "kindergarten",
@@ -14,13 +14,60 @@
                 "no-barnehage:nsrid": "1020353",
                 "operator": "Stiftelsen Soria Moria barnehage",
                 "operator:type": "private",
-                "id": "node/-3128"
+                "id": "node/-3133"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.14368,
                     60.07738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3127",
+            "properties": {
+                "ADDRESS": "Handelsvegen 4, 2040 KLØFTA",
+                "amenity": "kindergarten",
+                "capacity": "62",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Olstadmoen barnehage",
+                "no-barnehage:nsrid": "1020995",
+                "operator": "Olstadmoen barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-3127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13766,
+                    60.08246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-3122",
+            "properties": {
+                "ADDRESS": "Reisoppvegen 9, 2040 KLØFTA",
+                "amenity": "kindergarten",
+                "capacity": "120",
+                "contact:website": "http://www.mamia.no",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Mamma Mia barnehage",
+                "no-barnehage:nsrid": "1021782",
+                "operator": "Mamma Mia barnehage AS",
+                "operator:type": "private",
+                "id": "node/-3122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13096,
+                    60.07126
                 ]
             }
         },

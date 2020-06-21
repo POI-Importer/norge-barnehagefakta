@@ -3,6 +3,29 @@
     "features": [
         {
             "type": "Feature",
+            "id": "node/-2115",
+            "properties": {
+                "ADDRESS": "Stasjonsvegen 14, 7560 VIKHAMMER",
+                "amenity": "kindergarten",
+                "capacity": "27",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Vikhammer Vestre barnehage",
+                "no-barnehage:nsrid": "1012610",
+                "operator": "Malvik kommune",
+                "operator:type": "public",
+                "id": "node/-2115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62395,
+                    63.4379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "node/-2108",
             "properties": {
                 "ADDRESS": "Sjølystvegen 43, 7562 SAKSVIK",

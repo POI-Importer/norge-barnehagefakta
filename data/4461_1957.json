@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5724",
+            "id": "node/-5730",
+            "properties": {
+                "ADDRESS": "Skoleveien 18, 8270 DRAG",
+                "amenity": "kindergarten",
+                "capacity": "19",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Drag barnehage",
+                "no-barnehage:nsrid": "1013682",
+                "operator": "Hamarøy kommune",
+                "operator:type": "public",
+                "id": "node/-5730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08125,
+                    68.04227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5729",
             "properties": {
                 "ADDRESS": "Njárgga 31, 8270 DRAG",
                 "amenity": "kindergarten",
@@ -15,7 +38,7 @@
                 "no-barnehage:nsrid": "1016045",
                 "operator": "Árran Mánájgárdde AS",
                 "operator:type": "private",
-                "id": "node/-5724"
+                "id": "node/-5729"
             },
             "geometry": {
                 "type": "Point",

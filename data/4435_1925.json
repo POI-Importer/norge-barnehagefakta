@@ -3,7 +3,30 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5688",
+            "id": "node/-5697",
+            "properties": {
+                "ADDRESS": "Sommarfjøsbakken 19, 8450 STOKMARKNES",
+                "amenity": "kindergarten",
+                "capacity": "36",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Tumlebo barnehage",
+                "no-barnehage:nsrid": "1019809",
+                "operator": "Tumlebo barnehage Sa",
+                "operator:type": "private",
+                "id": "node/-5697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91159,
+                    68.56551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5693",
             "properties": {
                 "ADDRESS": "Børøyveien 10, 8450 STOKMARKNES",
                 "amenity": "kindergarten",
@@ -14,7 +37,7 @@
                 "no-barnehage:nsrid": "1022293",
                 "operator": "Lille-Børøya barnehage AS",
                 "operator:type": "private",
-                "id": "node/-5688"
+                "id": "node/-5693"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +49,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5683",
+            "id": "node/-5688",
             "properties": {
                 "ADDRESS": "Hegreveien 21, 8450 STOKMARKNES",
                 "amenity": "kindergarten",
@@ -37,7 +60,7 @@
                 "no-barnehage:nsrid": "1019755",
                 "operator": "Børøya barnehage Sa",
                 "operator:type": "private",
-                "id": "node/-5683"
+                "id": "node/-5688"
             },
             "geometry": {
                 "type": "Point",

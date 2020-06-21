@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": "node/-5690",
+            "id": "node/-5695",
             "properties": {
                 "ADDRESS": "Sjøgata 20, 8445 MELBU",
                 "amenity": "kindergarten",
@@ -14,7 +14,7 @@
                 "no-barnehage:nsrid": "1020524",
                 "operator": "Norlandia Barnehagene AS",
                 "operator:type": "private",
-                "id": "node/-5690"
+                "id": "node/-5695"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +26,7 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5689",
+            "id": "node/-5694",
             "properties": {
                 "ADDRESS": "M. Frederiksens Alle 2, 8445 MELBU",
                 "amenity": "kindergarten",
@@ -37,7 +37,7 @@
                 "no-barnehage:nsrid": "1016146",
                 "operator": "Hadsel kommune",
                 "operator:type": "public",
-                "id": "node/-5689"
+                "id": "node/-5694"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +49,30 @@
         },
         {
             "type": "Feature",
-            "id": "node/-5685",
+            "id": "node/-5691",
+            "properties": {
+                "ADDRESS": "Kirsten Thodes Gate 5, 8450 STOKMARKNES",
+                "amenity": "kindergarten",
+                "capacity": "54",
+                "max_age": "5",
+                "min_age": "1",
+                "name": "Hoppensprett Stokmarknes",
+                "no-barnehage:nsrid": "1022404",
+                "operator": "Hoppensprett Stokmarknes AS",
+                "operator:type": "private",
+                "id": "node/-5691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79389,
+                    68.50254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/-5690",
             "properties": {
                 "ADDRESS": "Idrettsveien 17, 8445 MELBU",
                 "amenity": "kindergarten",
@@ -61,7 +84,7 @@
                 "no-barnehage:nsrid": "1022341",
                 "operator": "Hoppensprett Melbu AS",
                 "operator:type": "private",
-                "id": "node/-5685"
+                "id": "node/-5690"
             },
             "geometry": {
                 "type": "Point",
